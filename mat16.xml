@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36530"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Nunca meu pai me fizera</l>
+          <l n="2">branco de cagucho, e cara,</l>
+          <l n="3">mas não deixes de querer-me,</l>
+          <l n="4">porque sou branco de casta,</l>
+          <l n="5">que se me tens cativado,</l>
+          <l n="6">sou teu negro, e teu canalha</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>PEDE O POETA NESTA OBRA CONTA DO SEU PROCEDER À SUAS IRMÃAS EUGENIA E MACOTTA.</head>
+        <lg n="1">
+          <l n="1">Eugênia, convosco falo,</l>
+          <l n="2">e com Macota também,</l>
+          <l n="3">dai-me novas de Babu,</l>
+          <l n="4">se acaso dela sabeis.</l>
+          <l n="5">Que me dizem, que esta noise</l>
+          <l n="6">a bruxa se foi meter</l>
+          <l n="7">e ninguém a viu em casa</l>
+          <l n="8">até que amanheceu.</l>
+          <l n="9">Dizei-me, se está arranhada,</l>
+          <l n="10">porque se está, sinal é,</l>
+          <l n="11">que andou por barro de folha</l>
+          <l n="12">Carmo aquém, e Carmo além.</l>
+          <l n="13">Eu não sinto estas mudanças,</l>
+          <l n="14">e só me queixo, de que</l>
+          <l n="15">correndo a cidade toda</l>
+          <l n="16">não chegasse a esse vergel.</l>
+          <l n="17">Porque pudera eu sair,</l>
+          <l n="18">e acompanhá-la também</l>
+          <l n="19">por todo esse lararipe</l>
+          <l n="20">e embruxar toda a mulher.</l>
+          <l n="21">A minha fora a primeira,</l>
+          <l n="22">e morrendo de uma vez</l>
+          <l n="23">casar-me-ia com Babu,</l>
+          <l n="24">para ter cunhadas três.</l>
+          <l n="25">Qualquer delas me fizera</l>
+          <l n="26">mil regalos, mil mercês,</l>
+          <l n="27">e engordando como um Conde</l>
+          <l n="28">levará vida de rei.</l>
+          <l n="29">Mas ela me tem tal ódio,</l>
+          <l n="30">que fugirá té de ser</l>
+          <l n="31">madrasta do Gonçalinho,</l>
+          <l n="32">que é lindo enteado à fé.</l>
+          <l n="33">Vós Eugênia, e vós Macota,</l>
+          <l n="34">vigiai-me essa Mulher,</l>
+          <l n="35">que é bruxa, e tem-se embruxado</l>
+          <l n="36">desde a cabeça até os pés.</l>
+          <l n="37">Porque ou há de resolver-se</l>
+          <l n="38">a querer, que a queira eu,</l>
+          <l n="39">ou lhe hei de tirar o sangue,</l>
+          <l n="40">e o fadário há de perder.</l>
+          <l n="41">Não quero, que seja a bruxa,</l>
+          <l n="42">ou hei de sê-lo também</l>
+          <l n="43">para acompanhar de noite,</l>
+          <l n="44">e de dia a recolher.</l>
+          <l n="45">Aliás hei de acusá-la</l>
+          <l n="46">a seu Pai, quando vier,</l>
+          <l n="47">porque se em prisões me mata,</l>
+          <l n="48">em prisões morra também.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>PONDERA QUE OS DESDENS SEGUEM SEMPRE COMO SOMBRAS O SOL DA FORMOSURA.</head>
+        <lg n="1">
+          <l n="1">Cada dia vos cresce a formosura,</l>
+          <l n="2">Babu, e tanto cresce, que me embaça,</l>
+          <l n="3">Se cresce contra mim, alta desgraça,</l>
+          <l n="4">Se cresce para mim, alta ventura.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se cresce por chegar-me à mor loucura,</l>
+          <l n="2">Para seres mais dura, e mais escassa,</l>
+          <l n="3">Tal rosto se não mude, antes se faça</l>
+          <l n="4">Mais firme do que a minha desventura.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">De que pode servir, seres mais bela,</l>
+          <l n="2">Ver-vos mais soberana, e desdenhosa?</l>
+          <l n="3">Dai ao demo a beleza, que atropela,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Bendita seja a feia, e a ranhosa,</l>
+          <l n="2">Que roga, que suspira, e se desvela</l>
+          <l n="3">Por dar-se toda a troco de uma prosa.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>HUMA TARDE ENTROU O POETA EM CASA DESTA DAMA, QUE ESTAVA NO INTERIOR ENOJOADA PELA MORTE DE SUA MÃE, E COMO ERA HOMEM DIVERTIDO, TANGEU NUMA VIOLLA, QUE ACASO VIO, PONDO A VIOLLA OS SENTIMENTOS DE BARBORA: E ELLA ENFURECIDA LHE DISSE ALGUMAS INJURIAS.</head>
+        <lg n="1">
+          <l n="1">Babu: dai graças a Deus,</l>
+          <l n="2">que um dia vos vi bonita,</l>
+          <l n="3">não tendes mais que andar sempre</l>
+          <l n="4">raivosa para ser linda.</l>
+          <l n="5">Apareceste na sala</l>
+          <l n="6">tão fera, e tão raivosinha,</l>
+          <l n="7">que à fé, que vos tive medo,</l>
+          <l n="8">sendo homem, e vós menina.</l>
+          <l n="9">Vi a escarlata co'a neve</l>
+          <l n="10">tão casada, e tão unida</l>
+          <l n="11">na face do vosso rosto,</l>
+          <l n="12">que sangrado o presumia.</l>
+          <l n="13">Devia de ser vergonha,</l>
+          <l n="14">que o vosso rosto então tinha</l>
+          <l n="15">de ver-se ante quem o adora,</l>
+          <l n="16">sendo vós de ingrata indigna.</l>
+          <l n="17">Os olhos vibrando raios,</l>
+          <l n="18">porque sempre raios vibra</l>
+          <l n="19">o céu incendido em fogo,</l>
+          <l n="20">ou encapotado em ira.</l>
+          <l n="21">Agastastes-vos deveras,</l>
+          <l n="22">vendo, que ali se tangia</l>
+          <l n="23">em uma casa enojada</l>
+          <l n="24">tão enlutada, e sentida.</l>
+          <l n="25">Deus me não salve a minha alma,</l>
+          <l n="26">se eu então vos conhecia,</l>
+          <l n="27">porque vós não sois magreira,</l>
+          <l n="28">e por ética vos tinha.</l>
+          <l n="29">Levantei-me da cadeira</l>
+          <l n="30">sem saber, o que fazia,</l>
+          <l n="31">que me tinha perturbado</l>
+          <l n="32">tão supitânea visita.</l>
+          <l n="33">Destes-me quatro razões,</l>
+          <l n="34">que eram quatro mil faíscas</l>
+          <l n="35">do fogo da vossa raiva</l>
+          <l n="36">em o meu erro incendidas</l>
+          <l n="37">Inda assim vos respondi</l>
+          <l n="38">dois verbos em cortesia,</l>
+          <l n="39">que a beleza foi respeito,</l>
+          <l n="40">e a fraqueza é comedida.</l>
+          <l n="41">Fostes-vos lá para fora</l>
+          <l n="42">vagarosamente altiva,</l>
+          <l n="43">paráveis de quando em quando,</l>
+          <l n="44">e olháveis de travessia.</l>
+          <l n="45">Eu logo me pus na rua,</l>
+          <l n="46">e perguntando a Matias</l>
+          <l n="47">quem era aquela Senhora,</l>
+          <l n="48">disse, que era minha Tia.</l>
+          <l n="49">Fiquei entendendo então,</l>
+          <l n="50">que vós só por seres vista</l>
+          <l n="51">tomastes do meu cantar</l>
+          <l n="52">aquele pé de cantiga.</l>
+          <l n="53">Já não hei de cantar mais,</l>
+          <l n="54">nem que o mande a minha amiga,</l>
+          <l n="55">chorareis vossa dureza,</l>
+          <l n="56">chorarei minha mofina.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>COLHE-SE DO ESTILO DESTAS OBRAS QUE O AMOR DESTA DAMA NÃO INQUIETAVA AO POETA.</head>
+        <lg n="1">
+          <l n="1">Babu: como há de ser isto?</l>
+          <l n="2">eu já me sinto acabar,</l>
+          <l n="3">e estou tão intercadente,</l>
+          <l n="4">que não chegue até amanhã.</l>
+          <l n="5">Morro de vossa beleza,</l>
+          <l n="6">se ela me há de matar,</l>
+          <l n="7">como creio, que me mata,</l>
+          <l n="8">formosa morte será.</l>
+          <l n="9">Mas seja formosa, ou feia,</l>
+          <l n="10">se o Deão me há de enterrar,</l>
+          <l n="11">por mais formosa que seja,</l>
+          <l n="12">sempre caveira será.</l>
+          <l n="13">Todos aqui desconfiam</l>
+          <l n="14">tudo é já desconfiar</l>
+          <l n="15">da minha vida os doutores</l>
+          <l n="16">e eu do vosso natural.</l>
+          <l n="17">Desconfio, de que abrande</l>
+          <l n="18">vosso rigor pertinaz,</l>
+          <l n="19">e a minha vida sem cura</l>
+          <l n="20">sem dúvida acabará.</l>
+          <l n="21">Porque se estais incurável,</l>
+          <l n="22">e tão sem remédio vai</l>
+          <l n="23">o achaque de não querer-me,</l>
+          <l n="24">e o mal de querer-me mal:</l>
+          <l n="25">Que esperança posso ter,</l>
+          <l n="26">ou que remédio há capaz,</l>
+          <l n="27">se vós sois a minha vida,</l>
+          <l n="28">e morreis por me matar?</l>
+          <l n="29">Amor é união das almas</l>
+          <l n="30">em conformidade tal,</l>
+          <l n="31">que, porque estais sem remédio,</l>
+          <l n="32">por contágio me matais.</l>
+          <l n="33">Curai-me do mal querer-me,</l>
+          <l n="34">e do fastio, em que estais</l>
+          <l n="35">à minha triste figura,</l>
+          <l n="36">que ao demo enfastiará.</l>
+          <l n="37">Comei, e seja o bocado,</l>
+          <l n="38">que com gosto se vos dá,</l>
+          <l n="39">porque em vós convalescendo,</l>
+          <l n="40">então me hei de eu levantar.</l>
+          <l n="41">Assim sararemos ambos,</l>
+          <l n="42">porque se vós enfermais</l>
+          <l n="43">pelo contágio, o remédio</l>
+          <l n="44">por simpatia será.</l>
+          <l n="45">Vós, Babu, virais-me as costas?</l>
+          <l n="46">pois eu feito outro que tal,</l>
+          <l n="47">estou às portas da morte,</l>
+          <l n="48">e a fala me falta já.</l>
+          <l n="49">Quero fazer testamento;</l>
+          <l n="50">mas já não posso falar,</l>
+          <l n="51">que vós por costume antigo</l>
+          <l n="52">sempre a fala me quitais.</l>
+          <l n="53">Mas testarei por acenos,</l>
+          <l n="54">que tudo em direito há</l>
+          <l n="55">e se por louco não posso,</l>
+          <l n="56">posso por louco em amar.</l>
+          <l n="57">Todos meus bens, se os tivera.</l>
+          <l n="58">os deixara a vós não mais,</l>
+          <l n="59">mas deixo-vos para os outros,</l>
+          <l n="60">que é, o que posso deixar.</l>
+          <l n="61">Se hei de deixar-me a vós</l>
+          <l n="62">quantos bens no mundo há,</l>
+          <l n="63">em vos deixar a vós mesma,</l>
+          <l n="64">arto deixada ficais.</l>
+          <l n="65">Em sufrágios da minha alma</l>
+          <l n="66">não gasteis o cabedal,</l>
+          <l n="67">que aos vossos rigores feito,</l>
+          <l n="68">penas não hei de estranhar.</l>
+          <l n="69">Mas se por minhas virtudes,</l>
+          <l n="70">ou se por vos jejuar,</l>
+          <l n="71">ou se por tantas novenas,</l>
+          <l n="72">que à vossa imagem fiz já:</l>
+          <l n="73">Vos mereço algum perdão</l>
+          <l n="74">dos pecados, que fiz cá,</l>
+          <l n="75">assim em vos perseguir,</l>
+          <l n="76">como em vos desagradar:</l>
+          <l n="77">Com as mãos postas vos peço,</l>
+          <l n="78">que no vosso universal</l>
+          <l n="79">juízo mandeis minha alma</l>
+          <l n="80">ao vosso céu descansar.</l>
+          <l n="81">Não a mandeis ao inferno</l>
+          <l n="82">que arto inferno passou cá,</l>
+          <l n="83">Adeus, apertai-me a mão,</l>
+          <l n="84">que eu já vou a enterrar.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>ENFERMOU E O POETA DA VISTA DE BARBORA, FEZ O SEU TESTAMENTO, E ACABOU OS DIAS: MAS APENAS FOY VISTO PELA MESMA DAMA LOGO RESURGIO PARA NOVAS FINEZAS: E ISTO HE SER LAZARO DE AMOR. DIZ, QUE SE HA DE CASAR COM BARBORA, E EM CONSCIENCIA O PODIA FAZER: PORQUE QUEM RESURGE, NÃO ESTÁ OBRIGADO AO PRIMEYRO MATRIMONIO.</head>
+        <lg n="1">
+          <l n="1">Ontem para ressurgir</l>
+          <l n="2">vos tornei, Babu, a ver,</l>
+          <l n="3">e tornou-se-me a acender</l>
+          <l n="4">o gosto de vos servir:</l>
+          <l n="5">não vos quereis persuadir,</l>
+          <l n="6">a que eu com todo o primor</l>
+          <l n="7">mereça o vosso favor,</l>
+          <l n="8">porque em casando-me absorto</l>
+          <l n="9">cuida o Brasil, que sou morto</l>
+          <l n="10">para negócios de amor.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O Brasil é um velhaco,</l>
+          <l n="2">um falso, e um embusteiro,</l>
+          <l n="3">porque ou casado, ou solteiro</l>
+          <l n="4">quanto ensaco, desensaco:</l>
+          <l n="5">e a vez que me desataco,</l>
+          <l n="6">a pecúnia tanta, ou quanta</l>
+          <l n="7">deu por pagar mercê tanta;</l>
+          <l n="8">porque sei, que na Bahia</l>
+          <l n="9">a coisa por qualquer via</l>
+          <l n="10">val, conforme se levanta.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se por casado não sigo</l>
+          <l n="2">a dita de vos servir,</l>
+          <l n="3">daqui venho a inferir,</l>
+          <l n="4">que quereis casar comigo:</l>
+          <l n="5">casemo-nos, que o perigo,</l>
+          <l n="6">que eu corro, é ser açoutado</l>
+          <l n="7">por duas vezes casado;</l>
+          <l n="8">e quando nisto me encoutem,</l>
+          <l n="9">que me dá a mim, que me açoutem</l>
+          <l n="10">depois de vos ter logrado?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">A Cota, que é toda treta,</l>
+          <l n="2">vendo, que o algoz madraço</l>
+          <l n="3">me vai limpando o espinhaço</l>
+          <l n="4">com toalha de vaqueta,</l>
+          <l n="5">rirá como uma doideta,</l>
+          <l n="6">e dando um, e outro amém,</l>
+          <l n="7">alegre dirá, inda bem,</l>
+          <l n="8">que me deu Deus um cunhado</l>
+          <l n="9">homem de bem no costado,</l>
+          <l n="10">e nas costas de rebém.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Ora sus, minha Senhora</l>
+          <l n="2">já me canso de esperar,</l>
+          <l n="3">dai-vos pressa a me chamar,</l>
+          <l n="4">e não seja ali a desoras:</l>
+          <l n="5">que para quem se namora</l>
+          <l n="6">de vários aventureiros,</l>
+          <l n="7">se os quer trazer prazenteiros,</l>
+          <l n="8">há de ter sempre chamados</l>
+          <l n="9">ao meio-dia os casados,</l>
+          <l n="10">e à meia-noite os solteiros.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>ESTA CANTIGA ACCOMODA O POETA COM PROPORÇÃO À BARBORA PELO NOME E TRATO, NÃO DEYXANDO DE FORA OS SEUS AMANTES DEZEJOS.</head>
+        <lg type="mote">
+          <l n="1">Pobre de ti, Barboleta,</l>
+          <l n="2">imitação do meu mal,</l>
+          <l n="3">que em chegando ao fogo morres,</l>
+          <l n="4">porque morres, por chegar.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Passeias em giro a chama,</l>
+          <l n="2">simples Barboleta, em hora,</l>
+          <l n="3">que se a chama te enamora,</l>
+          <l n="4">teu mesmo estrago te chama:</l>
+          <l n="5">se o seu precipício ama,</l>
+          <l n="6">quem o seu mal inquieta,</l>
+          <l n="7">e tu simples, e indiscreta</l>
+          <l n="8">tens por formosura grata</l>
+          <l n="9">luz, que traidora te mata,</l>
+          <l n="10">Pobre de ti, Barboleta.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ou tu imitas meu ser,</l>
+          <l n="2">ou eu tua natureza,</l>
+          <l n="3">pois na luz de uma beleza,</l>
+          <l n="4">ando ardendo por arder:</l>
+          <l n="5">se à luz, que vejo acender,</l>
+          <l n="6">te arrojas tão cega, e tal</l>
+          <l n="7">que imitas ao natural,</l>
+          <l n="8">com que arder por ti me vês,</l>
+          <l n="9">me obrigas a dizer, que és</l>
+          <l n="10">Imitação do meu mal.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">És, Barboleta, comua,</l>
+          <l n="2">pois a toda luz te botas,</l>
+          <l n="3">e eu cego, se bem o notas,</l>
+          <l n="4">sou só, Barboleta, tua:</l>
+          <l n="5">qualquer segue a estrela sua,</l>
+          <l n="6">mas tu melhor te socorres,</l>
+          <l n="7">quando em fogo algum te torres,</l>
+          <l n="8">porque eu nunca ao fogo chego,</l>
+          <l n="9">e tu logras tal sossego,</l>
+          <l n="10">Que em chegando ao fogo morres.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Tu mais feliz, ao que entendo,</l>
+          <l n="2">inda que percas a vida,</l>
+          <l n="3">porque a dá por bem perdida,</l>
+          <l n="4">quem vive de andar morrendo:</l>
+          <l n="5">eu não morro, e o pertendo,</l>
+          <l n="6">porque falta a meu pesar</l>
+          <l n="7">a fortuna de acabar:</l>
+          <l n="8">tu morres, e tu sossegas,</l>
+          <l n="9">e vais morta, quando cegas,</l>
+          <l n="10">Porque morres por chegar.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>AMOROSA HYPOCREZIA DE CONFORMIDADE EM PENAS.</head>
+        <lg n="1">
+          <l n="1">Deus vos dê vida, Babu,</l>
+          <l n="2">para tirar-me, a que tenho,</l>
+          <l n="3">que segundo usais comigo,</l>
+          <l n="4">eu vos não sinto outro jeito.</l>
+          <l n="5">Todo o bairro sente o dano,</l>
+          <l n="6">que ides ao bairro fazendo,</l>
+          <l n="7">só eu não sinto o meu mal,</l>
+          <l n="8">mas antes vo-lo agradeço.</l>
+          <l n="9">Porque se a vossa beleza</l>
+          <l n="10">é causa do meu tormento,</l>
+          <l n="11">como hei de sentir meu mal,</l>
+          <l n="12">se é tão forçoso, e tão belo.</l>
+          <l n="13">Matai-me, embora, contanto</l>
+          <l n="14">que saibam, que estou morrendo,</l>
+          <l n="15">Babu, de vossa beleza,</l>
+          <l n="16">porque entendam, que o mereço.</l>
+          <l n="17">Quem perder por vós a vida,</l>
+          <l n="18">e com tal merecimento,</l>
+          <l n="19">que chegue a morrer por vós,</l>
+          <l n="20">que mais quer, que merecê-lo?</l>
+          <l n="21">É verdade, que lastimo,</l>
+          <l n="22">aos que assim me vêem morrendo,</l>
+          <l n="23">que a glória do padecer</l>
+          <l n="24">não pode entendê-la um néscio.</l>
+          <l n="25">Lástima os néscios me têm,</l>
+          <l n="26">e poderão ter-me os néscios</l>
+          <l n="27">de ver-me morrer inveja,</l>
+          <l n="28">mais de que ver-me vivendo.</l>
+          <l n="29">Viver, não pode, quem ama,</l>
+          <l n="30">e eu olvidar-vos não quero,</l>
+          <l n="31">se hei de morrer, quando amo,</l>
+          <l n="32">e viver, quando aborreço.</l>
+          <l n="33">Morra embora de adorar-vos,</l>
+          <l n="34">que este é formoso tormento,</l>
+          <l n="35">esta a suave agonia,</l>
+          <l n="36">este o pesar lisonjeiro.</l>
+          <l n="37">Dai-me licença, que escolha,</l>
+          <l n="38">nestes dois contrários meios</l>
+          <l n="39">antes morrer por amar-vos,</l>
+          <l n="40">que viver de aborrecer-vos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>DE HUMA QUEDA QUE DEO O POETA EM CASA DESTA BARBORA, ERGUE NOVOS CONCEYTOS À SUA ROGATIVA.</head>
+        <lg n="1">
+          <l n="1">Fui, Babu, à vossa casa</l>
+          <l n="2">e indo com sentido em mim,</l>
+          <l n="3">do sentido combatido</l>
+          <l n="4">vim finalmente a cair.</l>
+          <l n="5">Com cair a vossos pés</l>
+          <l n="6">nenhum resguardo senti,</l>
+          <l n="7">porque eram vossos sapatos</l>
+          <l n="8">poucos para me cobrir.</l>
+          <l n="9">Fui reverente a beijá-los,</l>
+          <l n="10">e querendo-o conseguir</l>
+          <l n="11">sobrou boca, e faltou pé,</l>
+          <l n="12">e assim os beijos perdi.</l>
+          <l n="13">Que com pé tão pequenino</l>
+          <l n="14">tão abreviado, e sutil</l>
+          <l n="15">uma boca desmedida</l>
+          <l n="16">faz maridagem ruim.</l>
+          <l n="17">Ergui-me por melhorar,</l>
+          <l n="18">e então menos consegui,</l>
+          <l n="19">que se os pés por si me fogem,</l>
+          <l n="20">vós cos braços me fugis.</l>
+          <l n="21">Fiquei muito envergonhado,</l>
+          <l n="22">e em caso tão infeliz</l>
+          <l n="23">envergonhei-me de ver-vos,</l>
+          <l n="24">porém não me arrependi.</l>
+          <l n="25">Mas se o meu sangue, e meus rogos,</l>
+          <l n="26">vos não podem persuadir,</l>
+          <l n="27">verta-se o sangue em dilúvios,</l>
+          <l n="28">e os rogos em frenesi.</l>
+          <l n="29">Não se quis o meu rogado,</l>
+          <l n="30">pois no instante, em que vos vi,</l>
+          <l n="31">se inclinou meu sangue ao vosso,</l>
+          <l n="32">e rebentou por se unir.</l>
+          <l n="33">Para queimardes-me o sangue,</l>
+          <l n="34">me matar, e me afligir</l>
+          <l n="35">rogos não são necessários,</l>
+          <l n="36">para admitir-me isso sim.</l>
+          <l n="37">E tão bom dia, que bastem</l>
+          <l n="38">para um amor se admitir,</l>
+          <l n="39">pois rogar, a quem não ama,</l>
+          <l n="40">é tão mau, como pedir.</l>
+          <l n="41">Por isso nunca vos peço,</l>
+          <l n="42">que não sois vós a Beatriz,</l>
+          <l n="43">que me hei de fazer ditoso</l>
+          <l n="44">com vossa graga a ceitis.</l>
+          <l n="45">Pois por dar-vos desenganos</l>
+          <l n="46">vós, como os dou a mim,</l>
+          <l n="47">sabei, que hei de sempre amar-vos</l>
+          <l n="48">uma vez, que bem vos vi.</l>
+          <l n="49">Pois esse rosto de neve,</l>
+          <l n="50">esses dedos de jesmim,</l>
+          <l n="51">esse Maio florescente</l>
+          <l n="52">de boca, que bota Abris,</l>
+          <l n="53">Me estão sempre aconselhando,</l>
+          <l n="54">que vos queira, pois vos quis,</l>
+          <l n="55">que vos sofra, pois vos amo,</l>
+          <l n="56">vos busque, pois vos perdi.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg n="1">
+          <l n="1">Babu: o ter eu caído,</l>
+          <l n="2">nenhum susto me tem dado,</l>
+          <l n="3">porque a vossos pés prostrado</l>
+          <l n="4">me julgo então mais subido:</l>
+          <l n="5">direis, que fiquei sentido:</l>
+          <l n="6">mas sabei, que não sentira,</l>
+          <l n="7">inda que me não subira</l>
+          <l n="8">o cair, onde caí,</l>
+          <l n="9">se como no chão me vi,</l>
+          <l n="10">convosco em terra me vira.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Porém que isso me suceda,</l>
+          <l n="2">por mais quedas, que inda dê,</l>
+          <l n="3">não creio, pois vejo, que</l>
+          <l n="4">não tenho convosco queda,</l>
+          <l n="5">vossa crueza me veda</l>
+          <l n="6">este bem, que entanto abraço:</l>
+          <l n="7">quem viu semelhante passo,</l>
+          <l n="8">que encontre meu desvario,</l>
+          <l n="9">Babu, em vosso desvio</l>
+          <l n="10">a minha queda embaraço?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Confesso, que então caído</l>
+          <l n="2">fiz tenção de me sangrar,</l>
+          <l n="3">mas não me quis mais picar,</l>
+          <l n="4">porque assaz fiquei corrido:</l>
+          <l n="5">não andei pouco advertido</l>
+          <l n="6">(falo, como quem vos ama)</l>
+          <l n="7">porque eu sei, formosa Darna,</l>
+          <l n="8">que por mais que me sangrasse</l>
+          <l n="9">livre estou, de que chegasse</l>
+          <l n="10">a ver-me por vós na cama.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E com toda essa desgraça</l>
+          <l n="2">por satisfeito me dera,</l>
+          <l n="3">se com cair merecera</l>
+          <l n="4">sequer cair-vos em graça:</l>
+          <l n="5">mas porque, Babu, eu faça</l>
+          <l n="6">desta queda estimação</l>
+          <l n="7">inda sobeja razão,</l>
+          <l n="8">se a queda motivo é</l>
+          <l n="9">de prostar-me a vosso pé,</l>
+          <l n="10">para beijar-vos a mão.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>VENDO-SE FINALMENTE EM HUMA OCCASIÃO TAM PERSEGUIDA ESTA AO QUE ELLE RESPONDEO COM A SUA COSTUMADA JOCOSERIA.</head>
+        <lg n="1">
+          <l n="1">O lavar depois importa,</l>
+          <l n="2">porque antes em água fria</l>
+          <l n="3">estarei eu noite, e dia</l>
+          <l n="4">batendo-vos sempre à porta:</l>
+          <l n="5">depois que um homem aporta,</l>
+          <l n="6">faz bem força por entrar,</l>
+          <l n="7">e se hei de o postigo achar</l>
+          <l n="8">fechado com frialdade,</l>
+          <l n="9">antes quero a sujidade,</l>
+          <l n="10">porque enfim me hei de atochar.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não serve o falar de fora,</l>
+          <l n="2">Babu, vós bem o sabeis,</l>
+          <l n="3">dai-me em modo, que atocheis,</l>
+          <l n="4">e esteja ele sujo embora:</l>
+          <l n="5">e se achais, minha Senhora,</l>
+          <l n="6">que estes são os meus senãos,</l>
+          <l n="7">não fiquem meus gostos vãos,</l>
+          <l n="8">nem vós por isso amuada,</l>
+          <l n="9">que ou lavada, ou não lavada</l>
+          <l n="10">cousa é, de que levo as mãos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Lavai-vos, minha Babu,</l>
+          <l n="2">cada vez que vós quiseres,</l>
+          <l n="3">já que aqui são as mulheres</l>
+          <l n="4">lavandeiras do seu cu:</l>
+          <l n="5">juro-vos por Berzabu,</l>
+          <l n="6">que me dava algum pesar</l>
+          <l n="7">vosso contínuo lavar,</l>
+          <l n="8">e agora estou nisso lhano,</l>
+          <l n="9">pois nunca se lava o pano,</l>
+          <l n="10">senão para se esfregar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">A que se esfrega amiúdo</l>
+          <l n="2">se há de amiúdo lavar,</l>
+          <l n="3">porque lavar, e esfregar</l>
+          <l n="4">quase a um tempo se faz tudo:</l>
+          <l n="5">se vós por modo sisudo</l>
+          <l n="6">o quereis sempre lavado,</l>
+          <l n="7">passe: e se tendes cuidado</l>
+          <l n="8">de lavar o vosso cujo</l>
+          <l n="9">por meu esfregão ser sujo,</l>
+          <l n="10">já me dou por agravado.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Lavar a carne é desgraça</l>
+          <l n="2">em toda a parte do Norte,</l>
+          <l n="3">porque diz, que dessa sorte</l>
+          <l n="4">perde a carne o sal, e graça:</l>
+          <l n="5">e se vós por esta traça</l>
+          <l n="6">lhe tirais ao passarete</l>
+          <l n="7">o sal, a graça, e o cheirete,</l>
+          <l n="8">em pouco a dúvida topa,</l>
+          <l n="9">se me quereis dar a sopa,</l>
+          <l n="10">dai-ma com todo o sainete.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se reparais na limpeza,</l>
+          <l n="2">ides enganada em suma,</l>
+          <l n="3">porque em tirando-se a escuma,</l>
+          <l n="4">fica a carne uma pureza:</l>
+          <l n="5">fiai da minha destreza,</l>
+          <l n="6">que nesse apertado caso</l>
+          <l n="7">vos hei de escumar o vaso</l>
+          <l n="8">com tal acerto, e escolha,</l>
+          <l n="9">que há de recender a olha</l>
+          <l n="10">desde o Nascente ao Ocaso.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">As Damas, que mais lavadas</l>
+          <l n="2">costumam trazer as peças,</l>
+          <l n="3">e disso se prezam, essas</l>
+          <l n="4">são Damas mais deslavadas:</l>
+          <l n="5">porque vivendo aplicadas</l>
+          <l n="6">a lavar-se, e mais lavar-se</l>
+          <l n="7">deviam desenganar-se,</l>
+          <l n="8">de que se não lavam bem,</l>
+          <l n="9">porque mal se lava, quem</l>
+          <l n="10">se lava para sujar-se.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Lavar para me sujar</l>
+          <l n="2">isso é sujar-me em verdade,</l>
+          <l n="3">lavar para a sujidade</l>
+          <l n="4">fora melhor não lavar:</l>
+          <l n="5">do que serve pois andar</l>
+          <l n="6">lavando antes que mo deis?</l>
+          <l n="7">Lavai-vos, quando o sujeis,</l>
+          <l n="8">e porque vos fique o ensaio,</l>
+          <l n="9">depois de foder lavai-o,</l>
+          <l n="10">mas antes não o laveis.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>A BARBORA HUMA MULATA MERETRIZ A QUEM CERTOS FRADES LHE PASSARAM HUM GERAL, DO QUAL FICOU TAM PERIGOSA QUE VEIO A SACRAMENTAR-SE.</head>
+        <lg n="1">
+          <l n="1">Não era muito, Babu,</l>
+          <l n="2">o sentires dor de madre,</l>
+          <l n="3">se vos pespegou um Padre,</l>
+          <l n="4">ou Padres o sururu:</l>
+          <l n="5">grandes poderes tens tu,</l>
+          <l n="6">e vigor mais que papal,</l>
+          <l n="7">que no clima Americal,</l>
+          <l n="8">onde um Rodela te topa,</l>
+          <l n="9">estando fora de Europa,</l>
+          <l n="10">escamastes um geral.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A Macotinha, e Jelu,</l>
+          <l n="2">Luísa, e Inácia levaram</l>
+          <l n="3">o geral, porém ficaram,</l>
+          <l n="4">não como ficaste tu:</l>
+          <l n="5">ou foi o caralho açu,</l>
+          <l n="6">que o interno te burniu,</l>
+          <l n="7">porque jamais ninguém viu,</l>
+          <l n="8">que molestasse um caralho,</l>
+          <l n="9">havendo tanto escorralho,</l>
+          <l n="10">como o teu vaso cumpriu.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se fora a primeira vez,</l>
+          <l n="2">seria por fraca via,</l>
+          <l n="3">mas a tua serventia</l>
+          <l n="4">mil velhacarias fez:</l>
+          <l n="5">e se tu tão puta és,</l>
+          <l n="6">e sentisse o tal baldão,</l>
+          <l n="7">qualquer era fradigão,</l>
+          <l n="8">dos que dão treze por dúzia,</l>
+          <l n="9">e já que foste brandúzia,</l>
+          <l n="10">sente a dor do madrigão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Chegaste do caso tal,</l>
+          <l n="2">a tomares o Senhor,</l>
+          <l n="3">e fora muito melhor</l>
+          <l n="4">dar-te Berzabu bestial:</l>
+          <l n="5">que quem pecado mortal</l>
+          <l n="6">comete, e dele enfermou</l>
+          <l n="7">logo o diabo o levou,</l>
+          <l n="8">e quem se serve do demo,</l>
+          <l n="9">navegando a vela, e remo</l>
+          <l n="10">nos infernos ancorou.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

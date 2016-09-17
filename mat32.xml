@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36506"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Achei Anica na fonte</l>
+        </lg>
+        <lg n="2">
+          <l n="1">e me quebrastes os olhos</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>INDO O POETA PASSEAR PELA ILHA DA CAJAIBA, ENCONTROU LAVANDO ROUPA A MULATA ANNICA E LHE FEZ ESTE ROMANCE.</head>
+        <lg n="1">
+          <l n="1">Achei Anica na fonte</l>
+          <l n="2">lavando sobre uma pedra</l>
+          <l n="3">mais corrente, que a mesma água,</l>
+          <l n="4">mais limpa, que a fonte mesma.</l>
+          <l n="5">Salvei-a, achei-a cortês,</l>
+          <l n="6">falei-a, achei-a discreta</l>
+          <l n="7">namorei-a, achei-a dura,</l>
+          <l n="8">queixei-me, voltou-se em penha.</l>
+          <l n="9">Fui dar à Ilha uma volta,</l>
+          <l n="10">tornei à fonte, e achei-a:</l>
+          <l n="11">riu-se, não sei se de mim,</l>
+          <l n="12">e eu ri-me todo p'ra ela.</l>
+          <l n="13">Dei-lhe segunda investida,</l>
+          <l n="14">e achei-a com mais clemência,</l>
+          <l n="15">desculpou-se com o amigo,</l>
+          <l n="16">que estava entonces na terra.</l>
+          <l n="17">Conchavamos, que eu voltasse</l>
+          <l n="18">na segunda quarta-feira,</l>
+          <l n="19">que fosse à costa da Ilha,</l>
+          <l n="20">e não pusesse o pé em terra,</l>
+          <l n="21">Que ela viria buscar-me</l>
+          <l n="22">com segredo, e diligência,</l>
+          <l n="23">para na primeira noite</l>
+          <l n="24">lhe dar a sacudidela.</l>
+          <l n="25">Depois de feito o conchavo</l>
+          <l n="26">passei o dia com ela,</l>
+          <l n="27">eu deitado a uma sombra,</l>
+          <l n="28">ela batendo na pedra.</l>
+          <l n="29">Tanto deu, tanto bateu</l>
+          <l n="30">co'a barriga, e co'as cadeiras,</l>
+          <l n="31">que me deu a anca fendida</l>
+          <l n="32">mil tentações de fodê-la.</l>
+          <l n="33">Quando lhe vi a culatra</l>
+          <l n="34">tão tremente, e tão tremenda,</l>
+          <l n="35">punha eu os olhos em alvo,</l>
+          <l n="36">e dizia, Amor, paciência.</l>
+          <l n="37">O sabão, que pelas coxas</l>
+          <l n="38">corria escuma desfeita,</l>
+          <l n="39">dizia-lhe eu, que seriam</l>
+          <l n="40">gotas, que Anica já dera.</l>
+          <l n="41">Porque segundo jogava</l>
+          <l n="42">desde a popa à proa, a perna,</l>
+          <l n="43">antes de eu lhe ter chegado,</l>
+          <l n="44">entendi, que se viera.</l>
+          <l n="45">De quando em quando esfregava.”</l>
+          <l n="46">a roupa ao carão da pedra,</l>
+          <l n="47">e eu disse "mate-me Deus</l>
+          <l n="48">com puta, que assim se esfrega."</l>
+          <l n="49">Anica a roupa torcia,</l>
+          <l n="50">e torcendo-a ela mesma,</l>
+          <l n="51">eu era, quem mais torcia,</l>
+          <l n="52">que assim faz, quem não pespega.</l>
+          <l n="53">Estendeu a roupa ao sol,</l>
+          <l n="54">o qual, levado da inveja</l>
+          <l n="55">por quitar-me aquela glória,</l>
+          <l n="56">lha enxugou a toda a pressa.</l>
+          <l n="57">Recolheu Anica a roupa,</l>
+          <l n="58">dobrou-a, e pô-la na cesta,</l>
+          <l n="59">foi para casa, e deixou-me</l>
+          <l n="60"><choice><orig>a la Luna de Valencia</orig><seg type="apo">a la Luna de Valência</seg></choice>.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>GALANTEIA O POETA SEGUNDA VEZ A ESTA MESMA ANNICA COM ESTE ROMANCE.</head>
+        <lg n="1">
+          <l n="1">Querem matar-me os teus olhos,</l>
+          <l n="2">Anica, e sinto somente,</l>
+          <l n="3">que se hão de ver-me, e matar-me,</l>
+          <l n="4">que me matem com não ver-me.</l>
+          <l n="5">Já que o não ver-te me mata,</l>
+          <l n="6">deixa morrer-me de ver-te,</l>
+          <l n="7">porque o morrer a teus olhos</l>
+          <l n="8">dá gosto, ao que se padece.</l>
+          <l n="9">Se a morte minha há de ser,</l>
+          <l n="10">tu por que o achaque eleges?</l>
+          <l n="11">de não ver-te qués, que eu morra,</l>
+          <l n="12">de ver-te por que não queres?</l>
+          <l n="13">Se virás como me morro,</l>
+          <l n="14">morrera eu assim contente,</l>
+          <l n="15">vendo-me morto por ti,</l>
+          <l n="16">e a ti sem asco de ver-me.</l>
+          <l n="17">Dos mais te guarda, e não vivam,</l>
+          <l n="18">eu morra de ver-te sempre,</l>
+          <l n="19">porque tão gloriosa morte</l>
+          <l n="20">quero para mim somente.</l>
+          <l n="21">Já que Deus te deu bom rosto,</l>
+          <l n="22">Anica ingrata, aparece,</l>
+          <l n="23">muda antes de parecer,</l>
+          <l n="24">do que não de aparecer-me.</l>
+          <l n="25">Pelos teus olhos te peço,</l>
+          <l n="26">que este romance contemples,</l>
+          <l n="27">que inda farás nisso menos,</l>
+          <l n="28">do que eu fizera por eles.</l>
+        </lg>
+        <lg type="estribilho" n="2">
+          <l n="1">Não Anica, te escondas,</l>
+          <l n="2">aparece sempre,</l>
+          <l n="3">que o ser bem parecida</l>
+          <l n="4">disso depende.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>REPETE O POETA ESTA ROGATIVA OUVINDO-A EM HUA OCCASIÃO CONTAR COM A SUA SINGULAR GRAÇA QUE TINHA</head>
+        <lg n="1">
+          <l n="1">Anica, o que me quereis,</l>
+          <l n="2">que tanto me enfeitiçais,</l>
+          <l n="3">uma vez quando cantais,</l>
+          <l n="4">e outra quando apareceis:</l>
+          <l n="5">se por matar-me o fazeis,</l>
+          <l n="6">fazei esse crime atroz</l>
+          <l n="7">de matar-me sós por sós,</l>
+          <l n="8">para que eu tenha o socorro,</l>
+          <l n="9">que vendo, que por vós morro,</l>
+          <l n="10">viva de morrer por vós.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Matar-me eu o sofrerei,</l>
+          <l n="2">mas sofrei também chegar-me,</l>
+          <l n="3">que ter asco de matar-me</l>
+          <l n="4">jamais o consentirei:</l>
+          <l n="5">fugir, e matar não sei,</l>
+          <l n="6">Ana, como o conseguis?</l>
+          <l n="7">mas se a minha sorte o quis,</l>
+          <l n="8">e vós Ana, o intentais,</l>
+          <l n="9">não podeis matar-me mais,</l>
+          <l n="10">do que quando me fugis.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Chegai, e matai-me já;</l>
+          <l n="2">mas chegando estou já morto,</l>
+          <l n="3">causa, que me tem absorto</l>
+          <l n="4">matar-me, quem não me dá:</l>
+          <l n="5">chegai, Ana, para cá</l>
+          <l n="6">para dar-me essa ferida,</l>
+          <l n="7">porque fugir de corrida,</l>
+          <l n="8">e matar-me dessa sorte,</l>
+          <l n="9">se o vejo na minha morte,</l>
+          <l n="10">o não vi na minha vida.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não sei, que pós foram estes,</l>
+          <l n="2">que n'alma me derramastes,</l>
+          <l n="3">não sei, com que me matastes,</l>
+          <l n="4">não sei, o que me fizestes:</l>
+          <l n="5">sei, que aqui aparecestes,</l>
+          <l n="6">e vendo-vos com antolhos,</l>
+          <l n="7">topei com tantos abrolhos</l>
+          <l n="8">na vossa dura conquista,</l>
+          <l n="9">que me tirastes a vista,</l>
+          <l n="10">e me quebrastes os olhos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>RECATAVA-SE ANICA DEYXANDO-SE VER POR INDULGENCIA.</head>
+        <lg n="1">
+          <l n="1">Não te posso ver, Anica,</l>
+          <l n="2">por mais que Amor me desperte,</l>
+          <l n="3">que tu és muito tirana,</l>
+          <l n="4">e serás ingrata sempre.</l>
+          <l n="5">Se foras compadecida,</l>
+          <l n="6">não cessara de querer-te,</l>
+          <l n="7">pois a beleza humanada</l>
+          <l n="8">adquire mil interesses.</l>
+          <l n="9">Inda assim eu quero, Anica,</l>
+          <l n="10">que tu me mates mil vezes</l>
+          <l n="11">com os raios da tua ira</l>
+          <l n="12">mais do que com te esconderes.</l>
+          <l n="13">Porque és, Anica, tão bela</l>
+          <l n="14">que a alma, que por ti se perde,</l>
+          <l n="15">não pode deixar de ter</l>
+          <l n="16">muitas glórias aparentes.</l>
+          <l n="17">Permite por esta vez,</l>
+          <l n="18">que o teu resplendor contemple,</l>
+          <l n="19">para ofertar-lhe mil vidas</l>
+          <l n="20">hoje em holocausto breve.</l>
+          <l n="21">E se acaso é divindade</l>
+          <l n="22">a beleza, quem se atreve,</l>
+          <l n="23">sendo bela, a ser ingrata,</l>
+          <l n="24">se os atributos desmente?</l>
+          <l n="25">Havemos de acomodar-nos</l>
+          <l n="26">na porfia de querer-te,</l>
+          <l n="27">matem-me embora os teus raios,</l>
+          <l n="28">porém aparece sempre.</l>
+          <l n="29">Mate-me a tua isenção,</l>
+          <l n="30">que eu não cesso de querer-te,</l>
+          <l n="31">consumam-se os teus rigores</l>
+          <l n="32">com condição de me veres.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>DESEMPULHA-SE O POETA DEPOIS DE GOZAR ESTA DAMA DE HUNS ÇAPATOS QUE LHE PEDIO.</head>
+        <lg n="1">
+          <l n="1">Um cruzado pede o homem,</l>
+          <l n="2">Anica, pelos sapatos,</l>
+          <l n="3">mas eu ponho isso à viola</l>
+          <l n="4">na postura do cruzado:</l>
+          <l n="5">Diz, que são de sete pontos,</l>
+          <l n="6">mas como eu tanjo rasgado,</l>
+          <l n="7">nem nesses pontos me meto,</l>
+          <l n="8">nem me tiro desses trastos.</l>
+          <l n="9">Inda assim se eu não soubera</l>
+          <l n="10">o como tens trastejado</l>
+          <l n="11">na banza dos meus sentidos</l>
+          <l n="12">pondo-me a viola em cacos:</l>
+          <l n="13">Ó cruzado pagaria,</l>
+          <l n="14">já que fui tão desgraçado,</l>
+          <l n="15">que buli co'a escaravelha,</l>
+          <l n="16">e toquei sobre o buraco.</l>
+          <l n="17">Porém como já conheço,</l>
+          <l n="18">que o teu instrumento é baixo,</l>
+          <l n="19">e são tão falsas as cordas,</l>
+          <l n="20">que quebram a cada passo:</l>
+          <l n="21">Não te rasgo, nem ponteio,</l>
+          <l n="22">não te ato, nem desato,</l>
+          <l n="23">que pelo tom, que me tanges,</l>
+          <l n="24">pelo mesmo tom te danço.</l>
+          <l n="25">Busca a outros temperilhos,</l>
+          <l n="26">que eu já estou destemperado,</l>
+          <l n="27">estou para me rasgar</l>
+          <l n="28">minhas cousas cachimbando.</l>
+          <l n="29">Se tens o cruzado, Anica,</l>
+          <l n="30">manda tirar os sapatos,</l>
+          <l n="31">e se não, lembre-te o tempo,</l>
+          <l n="32">que andaste de pé rapado.</l>
+          <l n="33">E andarás mais bem segura,</l>
+          <l n="34">que isto de pisar em saltos</l>
+          <l n="35">é susto para quem pisa,</l>
+          <l n="36">e ao que paga, é sobressalto.</l>
+          <l n="37">Quem te curte o cordovão,</l>
+          <l n="38">por que te não dá sapatos?</l>
+          <l n="39">mas eu, que te rôo o osso,</l>
+          <l n="40">é que hei de pagar o pato?</l>
+          <l n="41">Que diria, quem te visse</l>
+          <l n="42">no meu dinheiro pisando?</l>
+          <l n="43">diria, que quem to deu.</l>
+          <l n="44">ou era bosta, ou cavalo.</l>
+          <l n="45">Pois porque não digam isso,</l>
+          <l n="46">leve-me a mim São Fernando,</l>
+          <l n="47">se os der, e se tu os calçares</l>
+          <l n="48">leve-te logo o diabo.</l>
+          <l n="49">Demais, que estou de caminho,</l>
+          <l n="50">e seria mui grande asno,</l>
+          <l n="51">estar para dar à sola,</l>
+          <l n="52">e a ti deixar-te os sapatos.</l>
+          <l n="53">Agora se eu cá tornar,</l>
+          <l n="54">trarei peles de veado,</l>
+          <l n="55">para dar-te umas chinelas</l>
+          <l n="56">duráveis, que é mais barato.</l>
+          <l n="57">Fica-te na paz de Deus,</l>
+          <l n="58">saüdades até quando;</l>
+          <l n="59">vem-te despedir de mim,</l>
+          <l n="60">porque de hoje a oito parto.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg n="1">
+          <l n="1">Na flor da idade à morte te rendeste,</l>
+          <l n="2">No melhor dos teus anos acabaste,</l>
+          <l n="3">Porém se por caduca esta deixaste,</l>
+          <l n="4">Eterna vida com razão quiseste.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Logra ditoso pois nessa celeste</l>
+          <l n="2">Galharda habitação, que desejaste,</l>
+          <l n="3">A glória, a que feliz te destinaste.</l>
+          <l n="4">O bem, que justamente apeteceste.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ventura nunca igual! Propícia Sorte!</l>
+          <l n="2">Que na contenda dentre a morte, e a vida</l>
+          <l n="3">Arbitro teu desejo foi mais forte.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pois aspirando à glória mais crescida,</l>
+          <l n="2">Render tão presto te quiseste à morte,</l>
+          <l n="3">Deixando a morte com morrer vencida.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

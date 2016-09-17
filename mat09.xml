@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36502"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">E bem que os descantei bastantemente</l>
+          <l n="2">canto segunda vez na mesma lira</l>
+          <l n="3">o mesmo assunto, em plectro diferente.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que a mudez canoniza bestas feras.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Oh que cansado trago o sofrimento.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>QUEIXA-SE O POETA EM QUE O MUNDO VAY ERRADO, E QUERENDO EMENDÂLO O TEM POR EMPREZA DIFFICULTOSA.</head>
+        <lg n="1">
+          <l n="1">Carregado de mim ando no mundo,</l>
+          <l n="2">E o grande peso embarga-me as passadas,</l>
+          <l n="3">Que como ando por vias desusadas,</l>
+          <l n="4">Faço o peso crescer, e vou-me ao fundo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O remédio será seguir o imundo</l>
+          <l n="2">Caminho, onde dos mais vejo as pisadas,</l>
+          <l n="3">Que as bestas andam juntas mais ornadas,</l>
+          <l n="4">Do que anda só o engenho mais profundo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Não é fácil viver entre os insanos,</l>
+          <l n="2">Erra, quem presumir, que sabe tudo,</l>
+          <l n="3">Se o atalho não soube dos seus danos.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">O prudente varão há de ser mudo,</l>
+          <l n="2">Que é melhor neste mundo o mar de enganos</l>
+          <l n="3">Ser louco cos demais, que ser sisudo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>SANTIGUA-SE O POETA CONTRA OUTROS PATARATAS AVARENTOS, INJUSTOS, HYPOCRITAS, MURMURADORES, E POR VARIAS MANEIRAS VICIOSOS, O QUE TUDO JULGA EM SUA PÁTRIA.</head>
+        <lg n="1">
+          <l n="1">Destes, que campam no mundo</l>
+          <l n="2">sem ter engenho profundo,</l>
+          <l n="3">e entre gabos dos amigos</l>
+          <l n="4">os  vemos em papa-figos</l>
+          <l n="5">sem tempestade, nem vento:</l>
+          <l n="6">Anjo Bento.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De quem com Letras secretas</l>
+          <l n="2">tudo, o que alcança é por tretas,</l>
+          <l n="3">baculejando sem pejo</l>
+          <l n="4">por matar o seu desejo</l>
+          <l n="5">dês de manhã até a tarde:</l>
+          <l n="6">Deus me guarde.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Do que passeia farfante</l>
+          <l n="2">muito prezado de amante,</l>
+          <l n="3">por fora luvas, galões,</l>
+          <l n="4">insígnias, armas, bastões,</l>
+          <l n="5">por dentro pão bolorento:</l>
+          <l n="6">Anjo Bento.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Destes beatos fingidos</l>
+          <l n="2">cabisbaixos, encolhidos,</l>
+          <l n="3">por dentro fatais maganos,</l>
+          <l n="4">sendo nas caras uns Janos,</l>
+          <l n="5">que fazem do vício alarde:</l>
+          <l n="6">Deus me guarde.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Que vejamos teso andar,</l>
+          <l n="2">quem mal sabe engatinhar,</l>
+          <l n="3">mui inteiro, e presumido,</l>
+          <l n="4">ficando o outro abatido</l>
+          <l n="5">com maior merecimento:</l>
+          <l n="6">Anjo Bento.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Destes avaros mofinos,</l>
+          <l n="2">que põem na mesa pepinos</l>
+          <l n="3">de toda a iguaria isenta,</l>
+          <l n="4">com seu limão, e pimenta,</l>
+          <l n="5">porque diz que queima, e arde:</l>
+          <l n="6">Deus me guarde.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Que pregue um douto sermão</l>
+          <l n="2">um alarve, um asneirão,</l>
+          <l n="3">e que esgrima em demasia,</l>
+          <l n="4">quem nunca já na Sofia</l>
+          <l n="5">soube pôr um argumento:</l>
+          <l n="6">Anjo Bento.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Deste Santo emascarado,</l>
+          <l n="2">que fala do meu pecado,</l>
+          <l n="3">e se tem por Santo Antônio,</l>
+          <l n="4">mas em lutas co demônio</l>
+          <l n="5">se mostra sempre cobarde:</l>
+          <l n="6">Deus me guarde.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Que atropelando a justiça</l>
+          <l n="2">só com virtude postiça</l>
+          <l n="3">se premie o delinqüente,</l>
+          <l n="4">castigando o inocente</l>
+          <l n="5">por um leve pensamento:</l>
+          <l n="6">Anjo Bento.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>EXPOEM ESTA DOUTRINA COM MIUDEZA, E ENTENDIMENTO CLARO, E SE RESOLVE A SEGUIR SEU ANTIGO DICTAME.</head>
+        <lg n="1">
+          <l n="1">Que néscio, que era eu então,</l>
+          <l n="2">quando o cuidava, o não era,</l>
+          <l n="3">mas o tempo, a idade, a era</l>
+          <l n="4">puderam mais que a razão:</l>
+          <l n="5">fiei-me na discrição,</l>
+          <l n="6">e perdi-me, em que me <choice><orig>pes</orig><seg type="reg">pés</seg></choice>,</l>
+          <l n="7">e agora dando ao través,</l>
+          <l n="8">vim no cabo a entender,</l>
+          <l n="9">que o tempo veio a fazer,</l>
+          <l n="10">o que a razão nunca fez. .</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O tempo me tem mostrado,</l>
+          <l n="2">que por me não conformar</l>
+          <l n="3">com o tempo, e co lugar</l>
+          <l n="4">estou de todo arruinado:</l>
+          <l n="5">na política de estado</l>
+          <l n="6">nunca houve princípios certos,</l>
+          <l n="7">e posto que homens espertos</l>
+          <l n="8">alguns documentos deram,</l>
+          <l n="9">tudo, o que nisto escreveram,</l>
+          <l n="10">são contingentes acertos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Muitos por vias erradas</l>
+          <l n="2">têm acertos mui perfeitos</l>
+          <l n="3">muitos por meios direitos,</l>
+          <l n="4">não dão sem erro as passadas:</l>
+          <l n="5">cousas tão disparatadas</l>
+          <l n="6">obra-as a sorte importuna,</l>
+          <l n="7">que de indignos é coluna,</l>
+          <l n="8">e se me há de ser preciso</l>
+          <l n="9">lograr fortuna sem siso,</l>
+          <l n="10">eu renuncio à fortuna.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Para ter por mim bons fados</l>
+          <l n="2">escuso discretos meios,</l>
+          <l n="3">que há muitos burros sem freios,</l>
+          <l n="4">e mui bem afortunados:</l>
+          <l n="5">logo os que andam bem livrados,</l>
+          <l n="6">não é própria diligência,</l>
+          <l n="7">é o céu, e sua influência,</l>
+          <l n="8">são forças do fado puras,</l>
+          <l n="9">que põem mantidas figuras</l>
+          <l n="10">do teatro da prudência.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">De diques de água cercaram</l>
+          <l n="2">esta nossa cidadela</l>
+          <l n="3">todos se molharam nela,</l>
+          <l n="4">e todos tontos ficaram:</l>
+          <l n="5">eu, a quem os céus livraram</l>
+          <l n="6">desta água fonte de asnia,</l>
+          <l n="7">fiquei são da fantesia</l>
+          <l n="8">por meu mal, pois nestes tratos</l>
+          <l n="9">entre tantos insensatos</l>
+          <l n="10">por sisudo eu só perdia.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Vinham todos em manada</l>
+          <l n="2">um simples, outro doudete,</l>
+          <l n="3">este me dava um moquete,</l>
+          <l n="4">aqueloutro uma punhada:</l>
+          <l n="5">tá, que sou pessoa honrada,</l>
+          <l n="6">e um homem de entendimento;</l>
+          <l n="7">qual honrado, ou qual talento?</l>
+          <l n="8">foram-me pondo num trapo,</l>
+          <l n="9">vi-me tornado um farrapo,</l>
+          <l n="10">porque um tolo fará cento.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Considerei logo então</l>
+          <l n="2">os baldões, que padecia,</l>
+          <l n="3">vagarosamente um dia</l>
+          <l n="4">com toda a circunspeção:</l>
+          <l n="5">assentei por conclusão</l>
+          <l n="6">ser duro de os corrigir,</l>
+          <l n="7">e livrar do seu poder,</l>
+          <l n="8">dizendo com grande mágoa:</l>
+          <l n="9">se me não molho nesta água,</l>
+          <l n="10">mal posso entre estes viver.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Eia, estamos na Bahia,</l>
+          <l n="2">onde agrada a adulação,</l>
+          <l n="3">onde a verdade é baldão,</l>
+          <l n="4">e a virtude hipocrisia:</l>
+          <l n="5">sigamos esta harmonia</l>
+          <l n="6">de tão fátua consonância,</l>
+          <l n="7">e inda que seja ingnorância</l>
+          <l n="8">seguir erros conhecidos,</l>
+          <l n="9">sejam-me a mim permitidos,</l>
+          <l n="10">se em ser besta está a ganância</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Alto pois com planta presta</l>
+          <l n="2">me vou ao Dique botar,</l>
+          <l n="3">e ou me hei de nele afogar,</l>
+          <l n="4">ou também hei de ser besta:</l>
+          <l n="5">do bico do pé à testa</l>
+          <l n="6">lavei as carnes, e os ossos:</l>
+          <l n="7">ei-los vêm com alvoroços</l>
+          <l n="8">todos para mim correndo.</l>
+          <l n="9">ei-los me abraçam, dizendo.</l>
+          <l n="10">agora sim, que é dos nossos.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Dei por besta em mais valer,</l>
+          <l n="2">um me serve, outro .me presta;</l>
+          <l n="3">não sou eu de todo besta,</l>
+          <l n="4">pois tratei de o parecer:</l>
+          <l n="5">assim vim a merecer</l>
+          <l n="6">favores, e aplausos tantos</l>
+          <l n="7">pelos meus néscios encantos,</l>
+          <l n="8">que enfim, e por derradeiro</l>
+          <l n="9">fui galo de seu poleiro,</l>
+          <l n="10">e lhes dava os dias santos.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Já sou na terra bem visto,</l>
+          <l n="2">louvado, e engrandecido,</l>
+          <l n="3">já passei de aborrecido</l>
+          <l n="4">ao auge de ser benquisto:</l>
+          <l n="5">já entre os grandes me alisto,</l>
+          <l n="6">e amigos são, quando topo,</l>
+          <l n="7">estou fábula de Esopo</l>
+          <l n="8">vendo falar animais,</l>
+          <l n="9">e falando eu que eles mais,</l>
+          <l n="10">bebemos todos num copo.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Seja pois a conclusão,</l>
+          <l n="2">que eu me pus aqui a escrever,</l>
+          <l n="3">o que devia fazer,</l>
+          <l n="4">mas que tal faça, isso não:</l>
+          <l n="5">decrete a divina mão,</l>
+          <l n="6">influam malignos fados,</l>
+          <l n="7">seja eu entre os desgraçados</l>
+          <l n="8">exemplo de desventura:</l>
+          <l n="9">não culpem minha cordura,</l>
+          <l n="10">que eu sei, que são meus pecados.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>SACODE A OUTROS, QUE PECCAVÃO NA PRESUNÇÃO, E ATREVIMENTO INDIGNO.</head>
+        <lg n="1">
+          <l n="1">Um vendelhão baixo, e vil</l>
+          <l n="2">de cornos pôs uma tenda,</l>
+          <l n="3">e confiado, em que os venda,</l>
+          <l n="4">corre por todo o Brasil:</l>
+          <l n="5">para mim de tantos mil</l>
+          <l n="6">lhe mandei, que me guardasse,</l>
+          <l n="7">se verdade não falasse</l>
+          <l n="8">em sobrosso, e com sojorno:</l>
+          <l n="9">Um corno.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Para o Alcaide ladrão</l>
+          <l n="2">com despejo, e com temor,</l>
+          <l n="3">que na mão leva o Doutor,</l>
+          <l n="4">na barriga a Relação:</l>
+          <l n="5">indo à casa de um Sansão</l>
+          <l n="6">entra audaz, e confiado,</l>
+          <l n="7">e faz penhora no estado</l>
+          <l n="8">da mulher, e seu adornos:</l>
+          <l n="9">dois cornos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Para o escrivão falsário,</l>
+          <l n="2">que sem chegar-lhe à pousada,</l>
+          <l n="3">dando a parte por citada,</l>
+          <l n="4">dá fé, e cobra o salário:</l>
+          <l n="5">e sendo o feito ordinário,</l>
+          <l n="6">como corre à revelia,</l>
+          <l n="7">sai a sentença num dia</l>
+          <l n="8">mais amarga que piornos:</l>
+          <l n="9">três cornos.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Para o Julgador Orate</l>
+          <l n="2">ignorante, e fanfarrão,</l>
+          <l n="3">que sendo Conde de Unhão,</l>
+          <l n="4">já quer ser Marquês de Unhate:</l>
+          <l n="5">e por qualquer dou-te, ou dá-te</l>
+          <l n="6">resolve do invés um feito</l>
+          <l n="7">e assola a torto, e direito</l>
+          <l n="8">a cidade, e seus contornos:</l>
+          <l n="9">quatro cornos.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Para o Judas Macabeu,</l>
+          <l n="2">que porque na tribo estriba,</l>
+          <l n="3">foi de Capitão a Escriba,</l>
+          <l n="4">e de Escriba a Fariseu:</l>
+          <l n="5">pois no ofício se meteu</l>
+          <l n="6">a efeito só de comer,</l>
+          <l n="7">sufrágios, que em vez de os ter,</l>
+          <l n="8">quer antes arder em fornos:</l>
+          <l n="9">cinco cornos.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Para o bêbado mestiço,</l>
+          <l n="2">e fidalgo atravessado,</l>
+          <l n="3">que tendo o pernil tostado,</l>
+          <l n="4">cuida, que é branco castiço:</l>
+          <l n="5">e de flatos enfermiço</l>
+          <l n="6">se ataca de jeribita,</l>
+          <l n="7">crendo, que os flatos lhe quita,</l>
+          <l n="8">quando os vomita em retornos:</l>
+          <l n="9">seis cornos.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Para o Cônego observante</l>
+          <l n="2">todo o dia. e toda a hora,</l>
+          <l n="3">cuja carne é pecadora</l>
+          <l n="4">das completas por diante:</l>
+          <l n="5">cara de disciplinante,</l>
+          <l n="6">queixadas de penitente,</l>
+          <l n="7">e qualquer jimbo corrente</l>
+          <l n="8">serve para seus subornos:</l>
+          <l n="9">sete cornos.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Para as Damas da Cidade</l>
+          <l n="2">Brancas, Mulatas, e Pretas,</l>
+          <l n="3">que com sortílegas tretas</l>
+          <l n="4">roubam toda a liberdade:</l>
+          <l n="5">e equivocando a verdade</l>
+          <l n="6">dizem, que são um feitiço,</l>
+          <l n="7">não o tendo em o cortiço</l>
+          <l n="8">tanto como caldos mornos:</l>
+          <l n="9">oito cornos.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Para o Frade confessor,</l>
+          <l n="2">que ouvindo um pecado horrendo</l>
+          <l n="3">se vai pasmado benzendo,</l>
+          <l n="4">fugindo do pecador:</l>
+          <l n="5">e sendo talvez pior</l>
+          <l n="6">do que eu, não quer absolver-me,</l>
+          <l n="7">talvez porque inveja ver-me</l>
+          <l n="8">com tão torpes desadornos:</l>
+          <l n="9">nove cornos.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Para o Pregador horrendo,</l>
+          <l n="2">que a Igreja esturgindo a gritos,</l>
+          <l n="3">nem ele entende os seus ditos,</l>
+          <l n="4">nem eu também os entendo:</l>
+          <l n="5">e a vida, que está vivendo,</l>
+          <l n="6">é lá por outra medida,</l>
+          <l n="7">e a mim me giza uma vida</l>
+          <l n="8">mais amarga, que piornos:</l>
+          <l n="9">dez cornos.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Para o Santo da Bahia,</l>
+          <l n="2">que murmura do meu verso,</l>
+          <l n="3">sendo ele tão perverso,</l>
+          <l n="4">que a saber fazer faria:</l>
+          <l n="5">e quando a minha Talia</l>
+          <l n="6">lhe chega às mãos, e ouvidos</l>
+          <l n="7">faz na cidade alaridos,</l>
+          <l n="8">e vai gostá-la aos contornos:</l>
+          <l n="9">mil cornos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>SATYRIZA O POETA ALLEGORICAMENTE ALGUNS LADRÕES, QUE MAIS SE ASSIGNALAVÃO NA REPUBLICA. ABOMINANDO A VARIEDADE, E O MODO DE PURTAR.</head>
+        <lg n="1">
+          <l n="1">Ontem, Nise, a prima noite</l>
+          <l n="2">vi sobre o vosso telhado</l>
+          <l n="3">assentados em cabido</l>
+          <l n="4">cinco, ou seis formosos gatos.</l>
+          <l n="5">Estava a noite mui clara</l>
+          <l n="6">fazia um luar galhardo,</l>
+          <l n="7">e porque tudo vos diga,</l>
+          <l n="8">estava eu em vós cuidando</l>
+          <l n="9">O Presidente, ou Deão</l>
+          <l n="10">na Cumeeira sentado</l>
+          <l n="11">era um gato macilento</l>
+          <l n="12">barbirruço, e carichato.</l>
+          <l n="13">Os demais em boa ordem</l>
+          <l n="14">pela cumeeira abaixo</l>
+          <l n="15">lavandeiros de si mesmos</l>
+          <l n="16">lavavam punhos, e rabos.</l>
+          <l n="17">Tão profundo era o silêncio,</l>
+          <l n="18">que não se ouvia um miau,</l>
+          <l n="19">e o Deão o interrompeu</l>
+          <l n="20">dando um mio acatarrado.</l>
+          <l n="21">Tossiu, tossiu, e não pôde</l>
+          <l n="22">articular um miau,</l>
+          <l n="23">que de puro penitente</l>
+          <l n="24">traz sempre o peito cerrado.</l>
+          <l n="25">Eis que um gatinho reinol</l>
+          <l n="26">mui estítico, e mui magro</l>
+          <l n="27">relambido de feições,</l>
+          <l n="28">e de tono afalsetado:</l>
+          <l n="29">quis por primeiro falar,</l>
+          <l n="30">e falara em todo o caso,</l>
+          <l n="31">se outro gato casquiduro</l>
+          <l n="32">lhe não saíra aos embargos.</l>
+          <l n="33">Eu sou gato de um meirinho</l>
+          <l n="34">(disse) que pelos telhados</l>
+          <l n="35">vim fugindo a todo o trote</l>
+          <l n="36">do poder de um saibam-quantos.</l>
+          <l n="37">Com que venho a concluir,</l>
+          <l n="38">que servindo a tais dois amos,</l>
+          <l n="39">hei de falar por primeiro,</l>
+          <l n="40">porque sou gato dos gatos.</l>
+          <l n="41">Fale, disse o Presidente,</l>
+          <l n="42">pois lhe toca pro anciano;</l>
+          <l n="43">e ele tomando-lhe a vênia,</l>
+          <l n="44">foi o seu conto contando.</l>
+          <l n="45">Em casa deste Escrivão</l>
+          <l n="46">me criei com tal regalo,</l>
+          <l n="47">que os demais gatos da casa</l>
+          <l n="48">eram comigo uns bichanos.</l>
+          <l n="49">Mas cresci, e aborreci,</l>
+          <l n="50">porque se cumpra o adágio,</l>
+          <l n="51">que o oficial do mesmo ofício</l>
+          <l n="52">é inimigo declaraclo.</l>
+          <l n="53">Foi me tomando tal ódio,</l>
+          <l n="54">porque foi vendo, e notando,</l>
+          <l n="55">que era capaz eu de dar-lhe</l>
+          <l n="56">até no ofício um gataço</l>
+          <l n="57">Topou me em uns entreforros,</l>
+          <l n="58">e tirando-me porraços,</l>
+          <l n="59">eu lhe miava os narizes,</l>
+          <l n="60">quando ele me enchia os quartos</l>
+          <l n="61">Fugi, como tenho dito,</l>
+          <l n="62">e me acolhi ao sagrado</l>
+          <l n="63">de uma vara de justiça,</l>
+          <l n="64">que é valhacouto de gatos.</l>
+          <l n="65">Sai meu amo aos prendimentos,</l>
+          <l n="66">e eu fico em casa encerrado</l>
+          <l n="67">por caçador de balcões,</l>
+          <l n="68">onde jejuo o trespasso.</l>
+          <l n="69">Porque em casa de um meirinho</l>
+          <l n="70">nas suas arcas, e armários</l>
+          <l n="71">é quaresma toda a vida,</l>
+          <l n="72">e têmporas todo o ano.</l>
+          <l n="73">Não posso comer ratinhos,</l>
+          <l n="74">porque cuido, e não me engano</l>
+          <l n="75">que de meu amo são todos</l>
+          <l n="76">ou parentes, ou paisanos.</l>
+          <l n="77">Porque os ratinhos do Douro</l>
+          <l n="78">são grandíssimos velhacos:</l>
+          <l n="79">em Portugal são ratinhos,</l>
+          <l n="80">e cá no Brasil são gatos.</l>
+          <l n="81">Eu sou gato virtuoso.</l>
+          <l n="82">que a puro jejum sou magro,</l>
+          <l n="83">não como, por não ter quê,</l>
+          <l n="84">não furto, por não ter quando</l>
+          <l n="85">E como sobra isto hoje,</l>
+          <l n="86">para me terem por Santo,</l>
+          <l n="87">venho pedir que me ponham</l>
+          <l n="88">no Calendário dos gatos.</l>
+          <l n="89">Acabada esta parlenda</l>
+          <l n="90">mui ético do espinhaço</l>
+          <l n="91">sobre a muleta das pernas</l>
+          <l n="92">se levantou outro gato:</l>
+          <l n="93">Dizendo: há anos, que sirvo</l>
+          <l n="94">na casa de um Boticário,</l>
+          <l n="95">que a récipe de pancadas</l>
+          <l n="96">me tem os bofes purgado.</l>
+          <l n="97">Queixa-se, que lhe comi</l>
+          <l n="98">um boião de ungüento branco,</l>
+          <l n="99">e bebi-lhe a mesma noite</l>
+          <l n="100">um canjirão de ruibarbo.</l>
+          <l n="101">Diz bem, porque assim passou;</l>
+          <l n="102">mas eu fiquei tão passado</l>
+          <l n="103">como de tal solutivo</l>
+          <l n="104">dirá qualquer mata-sanos.</l>
+          <l n="105">Fiquei de humores exangue,</l>
+          <l n="106">tão escorrido, e exausto,</l>
+          <l n="107">que não sou gato de humor,</l>
+          <l n="108">porque nem bom, nem mau gasto.</l>
+          <l n="109">Suplico ao senhor Cabido,</l>
+          <l n="110">que de um homem tão malvado</l>
+          <l n="111">me vingue com ter saúde,</l>
+          <l n="112">por não gastar os emplastos.</l>
+          <l n="113">Apenas este acabou,</l>
+          <l n="114">quando se ergueu outro gato,</l>
+          <l n="115">e entoando o jube domine</l>
+          <l n="116">disse humilde, e mesurado:</l>
+          <l n="117">Meu amo é um bom Alfaiate</l>
+          <l n="118">gerado sobre um telhado</l>
+          <l n="119">na maior força do inverno,</l>
+          <l n="120">alcoviteiro dos gatos.</l>
+          <l n="121">É pardo rajado em preto,</l>
+          <l n="122">ou preto embutido em pardo,</l>
+          <l n="123">malhado, ou já malhadiço</l>
+          <l n="124">do tempo, em que fora escravo.</l>
+          <l n="125">Tão caçador das ourelas,</l>
+          <l n="126">tão meador de retalhos,</l>
+          <l n="127">que com onças de retrós</l>
+          <l n="128">brinca qual gato com ratos.</l>
+          <l n="129">E porque eu com dois fios</l>
+          <l n="130">joguei o sapateado,</l>
+          <l n="131">houve de haver por tão pouco</l>
+          <l n="132">uma de todos os diabos.</l>
+          <l n="133">Estrugiu-me a puros gritos,</l>
+          <l n="134">e plantou-me no pedrado;</l>
+          <l n="135">ele pelo cabo é cão,</l>
+          <l n="136">e eu fiquei gato por cabo.</l>
+          <l n="137">Que de verdades dissera,</l>
+          <l n="138">a estar menos indignado!</l>
+          <l n="139">mas para falar de um cão</l>
+          <l n="140">é mui suspeitoso um gato.</l>
+          <l n="141">Pelo menos quando eu corto,</l>
+          <l n="142">nunca dobro a tela em quatro,</l>
+          <l n="143">por dar um colete ao demo,</l>
+          <l n="144">e outro a mim pelo trabalho.</l>
+          <l n="145">Nem menos peço dinheiro</l>
+          <l n="146">para retrós e o não gasto,</l>
+          <l n="147">porque o gavetão do cisco</l>
+          <l n="148">me dá o retrós necessário.</l>
+          <l n="149">Não cirzo côvado, e meio</l>
+          <l n="150">por dar um colete ao diabo,</l>
+          <l n="151">nem vendo de tela fina</l>
+          <l n="152">retalhinhos de três palmos.</l>
+          <l n="153">Tudo enfim se há de saber</l>
+          <l n="154">no universal cadafalso,</l>
+          <l n="155">que no tribunal de Deus</l>
+          <l n="156">não se estilam secretários</l>
+          <l n="157">Requeiro a vossas mercês;</l>
+          <l n="158">que me ponham com outro amo,</l>
+          <l n="159">porque com este hei de estar</l>
+          <l n="160">sempre como cão com gato.</l>
+          <l n="161">À vista deste Alfaiate</l>
+          <l n="162">disse o Cabido espantado.</l>
+          <l n="163">somos nós gatos mirins,</l>
+          <l n="164">que inda agora engatinhamos.</l>
+          <l n="165">O gato tome outro amo</l>
+          <l n="166">em qualquer convento honrado.</l>
+          <l n="167">seja Fundador Barbônio,</l>
+          <l n="168">ou Sacristão-mor do Carmo.</l>
+          <l n="169">A propósito do que</l>
+          <l n="170">se foi erguendo outro gato.</l>
+          <l n="171">e amortalhado de mãos</l>
+          <l n="172">armou os lombos em arco:</l>
+          <l n="173">E dizendo o <choice><orig>jube domine</orig><seg type="apo">jube dómine</seg></choice></l>
+          <l n="174">se pôs em terra prostrado:</l>
+          <l n="175">e eu disse logo: me matem,</l>
+          <l n="176">se não é dos Franciscanos.</l>
+          <l n="177">Sou gato de refeitório,</l>
+          <l n="178">disse, há três ou quatro anos,</l>
+          <l n="179">pajem do refeitoreiro,</l>
+          <l n="180">do despenseiro criado.</l>
+          <l n="181">Fui Custódio da cozinha,</l>
+          <l n="182">e dei mal conta do cargo,</l>
+          <l n="183">porque sisando rações,</l>
+          <l n="184">fui guardião dos traçalhos.</l>
+          <l n="185">Eu era por outro tempo</l>
+          <l n="186">mui gordo, e mui anafado,</l>
+          <l n="187">porque os da esmola então vinham</l>
+          <l n="188">despejar-me em casa os sacos.</l>
+          <l n="189">Mas hoje, que já da rua</l>
+          <l n="190">vêm cos bolsos despejados,</l>
+          <l n="191">veio a ser o refeitório</l>
+          <l n="192">uma Tebaida de gatos.</l>
+          <l n="193">Não pode o pão das esmolas</l>
+          <l n="194">manter tantos Remendados,</l>
+          <l n="195">que em lhe manter as amigas</l>
+          <l n="196">(sendo infinitas) faz arto.</l>
+          <l n="197">Dei com isto entisicar-me,</l>
+          <l n="198">e esburgar-me do espinhaço,</l>
+          <l n="199">não tanto já de faminto,</l>
+          <l n="200">quanto de escandalizado.</l>
+          <l n="201">Não posso viver entre homens,</l>
+          <l n="202">que se remendam seus panos,</l>
+          <l n="203">é mais por nos enganar,</l>
+          <l n="204">que porque lhes dure o ano.</l>
+          <l n="205">E hoje, que na casa nova</l>
+          <l n="206">gastam tantos mil cruzados,</l>
+          <l n="207">são gatos de maior dura,</l>
+          <l n="208">pois de pedra, e cal são gatos.</l>
+          <l n="209">Palavras não eram ditas,</l>
+          <l n="210">quando zunindo, e silvando</l>
+          <l n="211">sentiram pelas orelhas</l>
+          <l n="212">um chuveiro de bastardos.</l>
+          <l n="213">E logo atrás disso um tiro</l>
+          <l n="214">de um bacamarte atacado,</l>
+          <l n="215">que disparou de um quintal</l>
+          <l n="216">um malfazejo soldado</l>
+          <l n="217">Descompôs-se a audiência,</l>
+          <l n="218">e cada qual por seu cabo</l>
+          <l n="219">pela campanha dos ares</l>
+          <l n="220">foram de telha em telhado.</l>
+          <l n="221">E depois que légua e meia</l>
+          <l n="222">tinha cada qual andado,</l>
+          <l n="223">parando, olharam atrás</l>
+          <l n="224">atônitos e assustados.</l>
+          <l n="225">E vendo-se desunidos,</l>
+          <l n="226">confusos, desarranchados,</l>
+          <l n="227">usaram de contra-senha</l>
+          <l n="228">miau aqui, ali, miau.</l>
+          <l n="229">Mas depois, que se juntaram,</l>
+          <l n="230">disse um gato castelhano,</l>
+          <l n="231">cada qual a su cabana,</l>
+          <l n="232">que hoje de boa escapamos,</l>
+          <l n="233">Chuviscou naquele instante,</l>
+          <l n="234">e safaram-se de um salto,</l>
+          <l n="235">porque sempre da água fria</l>
+          <l n="236">tem medo o gato escaldado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>COM VISTA CLARA SACODE OS ENTREMETTIDOS, MENCIONANDO ALGUNS DE SEOS PATRICIOS, QUE MAIS O ENFADAVAM.</head>
+        <lg n="1">
+          <l n="1">Como nada vêem</l>
+          <l n="2">e andam sempre aos tombos</l>
+          <l n="3">querem os mazombos</l>
+          <l n="4">que eu cegue também:</l>
+          <l n="5">não temo ninguém,</l>
+          <l n="6">e se os matulões</l>
+          <l n="7">hão medo a prisões,</l>
+          <l n="8">eu sou de carona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Olhem para a terra</l>
+          <l n="2">que está nestes anos</l>
+          <l n="3">gafa de maganos</l>
+          <l n="4">que El-Rei o desterra:</l>
+          <l n="5">O pano da Serra</l>
+          <l n="6">em sedas trocou</l>
+          <l n="7">quem lá sempre andou</l>
+          <l n="8">em uma atafona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Verão um sandeu</l>
+          <l n="2">que quer sem disputa</l>
+          <l n="3">ser filho da puta,</l>
+          <l n="4">por não ser judeu:</l>
+          <l n="5">se hábitos perdeu</l>
+          <l n="6">por ser cristão-novo,</l>
+          <l n="7">a mim todo o povo</l>
+          <l n="8">de velho me abona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Aquele é de ver,</l>
+          <l n="2">que apuros aqueles</l>
+          <l n="3">explica por eles,</l>
+          <l n="4">quanto quer dizer:</l>
+          <l n="5">Não posso sofrer</l>
+          <l n="6">que um tangarumanga</l>
+          <l n="7">use de pendanga</l>
+          <l n="8">com língua asneirona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Verão um jumento</l>
+          <l n="2">de figura rara,</l>
+          <l n="3">que anda sempre a vara,</l>
+          <l n="4">por lhe darem vento:</l>
+          <l n="5">Notável portento</l>
+          <l n="6">neste tal se enxerga,</l>
+          <l n="7">pois trás a chomberga</l>
+          <l n="8">a barba capona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Verão um vilão</l>
+          <l n="2">na dona montanha</l>
+          <l n="3">farto de castanha</l>
+          <l n="4">faminto de pão:</l>
+          <l n="5">e se bem à mão</l>
+          <l n="6">com bois e arado</l>
+          <l n="7">cultivou o prado</l>
+          <l n="8">de Flora, e Pamona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Clérigo verão</l>
+          <l n="2">que porque em Cantabra</l>
+          <l n="3">nasceu de uma cabra</l>
+          <l n="4">cresceu a cabrão:</l>
+          <l n="5">Tão fino ladrão</l>
+          <l n="6">que até a filha alheia</l>
+          <l n="7">com ser cananéia</l>
+          <l n="8">furta à mãe putona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Verão um Doutor</l>
+          <l n="2">em Judá nascido</l>
+          <l n="3">mais entremetido</l>
+          <l n="4">que um grande fedor:</l>
+          <l n="5">Grande assistidor</l>
+          <l n="6">de Igreja festeira,</l>
+          <l n="7">que ao longe lhe cheira</l>
+          <l n="8">como mangerona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Verão um Galego</l>
+          <l n="2">grande salvajola,</l>
+          <l n="3">veste à mariola,</l>
+          <l n="4">anda ao palacego:</l>
+          <l n="5">Fidalgo Noroego</l>
+          <l n="6">em cruz de Calvário,</l>
+          <l n="7">que um certo falsário</l>
+          <l n="8">nos peitos lhe entona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Verão um inocente,</l>
+          <l n="2">que a fidalgo vai</l>
+          <l n="3">e calando o pai</l>
+          <l n="4">a mãe diz somente:</l>
+          <l n="5">A este impertinente</l>
+          <l n="6">lembro-lhe o Godim</l>
+          <l n="7">do pai matachim,</l>
+          <l n="8">e a mãe vendilhona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Verão um pasguate</l>
+          <l n="2">monstro de ouro, e prata,</l>
+          <l n="3">que sendo uma pata,</l>
+          <l n="4">é filho de um gato:</l>
+          <l n="5">A renda de um trato</l>
+          <l n="6">pôs por seu regalo</l>
+          <l n="7">um burro a cavalo</l>
+          <l n="8">de sela mamona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Entre outros ladrões</l>
+          <l n="2">verão um letrado</l>
+          <l n="3">na mente graduado</l>
+          <l n="4">de quatro asneirões:</l>
+          <l n="5">Na cara pontões</l>
+          <l n="6">na idéia nem ponto,</l>
+          <l n="7">e ou tonto, ou não tonto,</l>
+          <l n="8">de rico blasona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Verão um alvar</l>
+          <l n="2">fidalgo tendeiro,</l>
+          <l n="3">que o pai sapateiro</l>
+          <l n="4">lhe fez o solar:</l>
+          <l n="5">Cônego ultramar</l>
+          <l n="6">por duas patacas</l>
+          <l n="7">ferrou ontem atacas</l>
+          <l n="8">e hoje se entona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Verão outro Zote,</l>
+          <l n="2">a quem Satanás</l>
+          <l n="3">por culpas de atrás</l>
+          <l n="4">fará galeote:</l>
+          <l n="5">O tal sacerdote</l>
+          <l n="6">só prega a doutrina</l>
+          <l n="7">da lei culatrina,</l>
+          <l n="8">que ensina, e abona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="15">
+          <l n="1">Verão um Guinéu</l>
+          <l n="2">moço assalvajado</l>
+          <l n="3">fidalgo estirado</l>
+          <l n="4">por quedas, que deu:</l>
+          <l n="5">O Góis lhe meteu</l>
+          <l n="6">sogro do seu jeito</l>
+          <l n="7">a torto, e direito</l>
+          <l n="8">nobreza sevona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Verão um Gavacho</l>
+          <l n="2">com sede tamanha,</l>
+          <l n="3">que a palma se ganha</l>
+          <l n="4">ao maior borracho:</l>
+          <l n="5">Beca sem empacho</l>
+          <l n="6">que no mar caiu,</l>
+          <l n="7">e o mar lhe fugiu</l>
+          <l n="8">por ser borrachona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Verão outrossim</l>
+          <l n="2">entregue ao diabo</l>
+          <l n="3">um esfola-rabo</l>
+          <l n="4">pobre colomim:</l>
+          <l n="5">Mau vilão, ruim,</l>
+          <l n="6">duas caras trás</l>
+          <l n="7">ambas muito más</l>
+          <l n="8">que tudo inficiona:</l>
+          <l n="9">forro minha cona</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Verão borundangas</l>
+          <l n="2">que o mundo podia</l>
+          <l n="3">vender à Bahia</l>
+          <l n="4">três mil bugigangas:</l>
+          <l n="5">Figurões de mangas</l>
+          <l n="6">que não vi em meus dias</l>
+          <l n="7">nas tapeçarias</l>
+          <l n="8">de Rasa e Pamplona:</l>
+          <l n="9">forro minha cona.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>DEFENDE O POETA POR SEGURO, NECESSARIO, E RECTO SEU PRIMEYRO INTENTO SOBRE SATYRIZAR OS VICIOS.</head>
+        <lg n="1">
+          <l n="1">Eu sou aquele, que os passados anos</l>
+          <l n="2">cantei na minha lira maldizente</l>
+          <l n="3">torpezas do Brasil, vícios, e enganos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E bem que os decantei bastantemente,</l>
+          <l n="2">canto segunda vez na mesma lira</l>
+          <l n="3">o mesmo assunto em plectro diferente.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Já sinto, que me inflama, ou que me inspira</l>
+          <l n="2">Talia, que Anjo é da minha guarda,</l>
+          <l n="3">Dês que Apolo mandou, que me assistira.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Arda Baiona, e todo o mundo arda,</l>
+          <l n="2">Que, a quem de profissão falta à verdade,</l>
+          <l n="3">Nunca a Dominga das verdades tarda.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Nenhum tempo excetua a Cristandade</l>
+          <l n="2">Ao pobre pegureiro do Parnaso</l>
+          <l n="3">Para falar em sua liberdade.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">A narração há de igualar ao caso,</l>
+          <l n="2">E se talvez ao caso não iguala,</l>
+          <l n="3">Não tenho por Poeta, o que é Pegaso.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">De que pode servir calar, quem cala,</l>
+          <l n="2">Nunca se há de falar, o que se sente?</l>
+          <l n="3">Sempre se há de sentir, o que se fala!</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Qual homem pode haver tão paciente,</l>
+          <l n="2">Que vendo o triste estado da Bahia,</l>
+          <l n="3">Não chore, não suspire, e não lamente?</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Isto faz a discreta fantesia:</l>
+          <l n="2">Discorre em um, e outro desconcerto,</l>
+          <l n="3">Condena o roubo, e increpa a hipocrisia.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">O néscio, o ignorante, o inexperto,</l>
+          <l n="2">Que não elege o bom, meu mau reprova,</l>
+          <l n="3">Por tudo passa deslumbrado, e incerto.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">E quando vê talvez na doce trova</l>
+          <l n="2">Louvado o bem, e o mal vituperado,</l>
+          <l n="3">A tudo faz focinho, e nada aprova.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Diz logo prudentaço, e repousado,</l>
+          <l n="2">Fulano é um satírico, é um louco,</l>
+          <l n="3">De língua má, de coração danado.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Néscio: se disso entendes nada, ou pouco,</l>
+          <l n="2">Como mofas com riso, e algazarras</l>
+          <l n="3">Musas, que estimo ter, quando as invoco?</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Se souberas falar, também falaras,</l>
+          <l n="2">Também satirizaras, se souberas,</l>
+          <l n="3">E se foras Poeta, poetizaras.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">A ignorância dos homens destas eras</l>
+          <l n="2">Sisudos faz ser uns, outros prudentes,</l>
+          <l n="3">Que a mudez canoniza bestas feras.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Há bons, por não poder ser insolentes,</l>
+          <l n="2">Outros há comedidos de medrosos,</l>
+          <l n="3">Não mordem outros não, por não ter dentes.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Quantos há, que os telhados têm vidrosos,</l>
+          <l n="2">E deixam de atirar sua pedrada</l>
+          <l n="3">De sua mesma telha receosos.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Uma só natureza nos foi dada:</l>
+          <l n="2">Não criou Deus os naturais diversos,</l>
+          <l n="3">Um só Adão formou, e esse de nada.</l>
+        </lg>
+        <lg n="19">
+          <l n="1">Todos somos ruins, todos preversos,</l>
+          <l n="2">Só nos distingue o vício, e a virtude,</l>
+          <l n="3">De que uns são comensais, outros adversos.</l>
+        </lg>
+        <lg n="20">
+          <l n="1">Quem maior a tiver, do que eu ter pude,</l>
+          <l n="2">Esse só me censure, esse me note,</l>
+          <l n="3">calem-se os mais, chitom, e haja saúde.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>EM TEMPO QUE GOVERNAVA ESTA CIDADE DA BAHIA O MARQUEZ DAS MINAS AJUIZA O POETA COM SUBTILEZA DE HOMEM SAGAZ, E ENTENDIDO O FOGO SELVAGEM, QUE POR MEYO DA URBANIDADE SE INTRODUZIO EM CERTA CASA.</head>
+        <lg n="1">
+          <l n="1">Cansado de vos pregar</l>
+          <l n="2">cultíssimas profecias,</l>
+          <l n="3">quero das culteranias</l>
+          <l n="4">hoje o hábito enforcar:</l>
+          <l n="5">de que serve arrebentar,</l>
+          <l n="6">por quem de mim não tem mágoa?</l>
+          <l n="7">verdades direi como água,</l>
+          <l n="8">porque todos entendais</l>
+          <l n="9">os ladinos, e os boçais</l>
+          <l n="10">a Musa praguejadora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O falar de intercadência</l>
+          <l n="2">entre silêncio, e palavra,</l>
+          <l n="3">crer, que a testa se vos abra,</l>
+          <l n="4">e encaixar-vos, que é prudência:</l>
+          <l n="5">alerta homens de Ciência,</l>
+          <l n="6">que quer o Xisgaravis,</l>
+          <l n="7">que aquilo, que vos não diz</l>
+          <l n="8">por lho impedir a rudeza,</l>
+          <l n="9">avalieis madureza,</l>
+          <l n="10">sendo ignorância traidora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se notais ao mentecapto</l>
+          <l n="2">a compra do Conselheiro,</l>
+          <l n="3">o que nos custa dinheiro,</l>
+          <l n="4">isso nos sai mais barato:</l>
+          <l n="5">e se da mesa do trato,</l>
+          <l n="6">de bolsa, ou da companhia</l>
+          <l n="7">virdes levar Senhoria</l>
+          <l n="8">mecânicos deputados;</l>
+          <l n="9">crede, que nos seus cruzados</l>
+          <l n="10">sangue esclarecido mora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se hoje vos fala de perna,</l>
+          <l n="2">quem ontem não pôde ter</l>
+          <l n="3">ramo, de quem descender</l>
+          <l n="4">mais que o da sua taverna:</l>
+          <l n="5">tende paciência interna,</l>
+          <l n="6">que foi sempre <choice><orig>D.</orig><seg type="exp">Dom</seg></choice> Dinheiro</l>
+          <l n="7">poderoso Cavalheiro,</l>
+          <l n="8">que com poderes iguais</l>
+          <l n="9">faz iguais aos desiguais,</l>
+          <l n="10">e Conde ao vilão cad'hora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Se na comédia, ou sainete</l>
+          <l n="2">virdes, que um <choice><orig>D.</orig><seg type="exp">Dom</seg></choice> Fidalgote</l>
+          <l n="3">lhe dá no seu camarote</l>
+          <l n="4">a xícara de sorvete:</l>
+          <l n="5">havei dó do coitadete,</l>
+          <l n="6">pois numa xícara só</l>
+          <l n="7">seu dinheiro bebe em pó,</l>
+          <l n="8">que o Senhor (cousa é sabida)</l>
+          <l n="9">lhe dá a chupar a bebida,</l>
+          <l n="10">para chupá-la num'hora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Não reputeis por favor,</l>
+          <l n="2">nem tomeis por maravilha</l>
+          <l n="3">vê-lo jogar a espadilha</l>
+          <l n="4">co Marquês, co grão Senhor:</l>
+          <l n="5">porque como é perdedor,</l>
+          <l n="6">e mofino adredemente,</l>
+          <l n="7">e faz um sangue excelente</l>
+          <l n="8">a qualquer dos ganhadores,</l>
+          <l n="9">qualquer daqueles Senhores</l>
+          <l n="10">por fidalgo igual o adora.</l>
+          <l n="11">Entendeis-me agora.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>CONTEMPLANDO NAS COUSAS DO MUNDO DESDE O SEU RETIRO, LHE ATIRA COM O SEU APAGE, COMO QUEM A NADO ESCAPOU DA TROMENTA.</head>
+        <lg n="1">
+          <l n="1">Neste mundo é mais rico, o que mais rapa:</l>
+          <l n="2">Quem mais limpo se faz, tem mais carepa:</l>
+          <l n="3">Com sua língua ao nobre o vil decepa:</l>
+          <l n="4">O Velhaco maior sempre tem capa.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mostra o patife da nobreza o mapa:</l>
+          <l n="2">Quem tem mão de agarrar, ligeiro trepa;</l>
+          <l n="3">Quem menos falar pode, mais increpa:</l>
+          <l n="4">Quem dinheiro tiver, pode ser Papa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A flor baixa se inculca por Tulipa;</l>
+          <l n="2">Bengala hoje na mão, ontem garlopa:</l>
+          <l n="3">Mais isento se mostra, o que mais chupa.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Para a tropa do trapo vazo a tripa,</l>
+          <l n="2">E mais não digo, porque a Musa topa</l>
+          <l n="3">Em apa, epa, ipa, opa, upa.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>TORNA O POETA A DAR OUTRA VOLTA AO MUNDO COM ESTA SEGUNDA CRISI.</head>
+        <lg n="1">
+          <l n="1">Que ande o mundo mascarado</l>
+          <l n="2">jogando conosco o entrudo,</l>
+          <l n="3">e que cada qual sisudo</l>
+          <l n="4">ande atrás dele esgalgado!</l>
+          <l n="5">que nenhum desenganado</l>
+          <l n="6">este patifão conheça,</l>
+          <l n="7">e que lhe quebre a cabeça</l>
+          <l n="8">para ter dele vitória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas que alguns queiram viver</l>
+          <l n="2">vida tão bruta, e tão fera,</l>
+          <l n="3">como que se não houvera</l>
+          <l n="4">mais que nascer, e morrer:</l>
+          <l n="5">que estes mesmos queiram ser</l>
+          <l n="6">tão nobres, tão absolutos,</l>
+          <l n="7">como desbocados brutos</l>
+          <l n="8">correndo pela carreira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que haja turcos belicosos</l>
+          <l n="2">filhos da perversidade,</l>
+          <l n="3">havendo na cristandade</l>
+          <l n="4">Monarcas tão poderosos:</l>
+          <l n="5">que não se juntem zelosos</l>
+          <l n="6">para prostrar seus furores,</l>
+          <l n="7">mandando-se embaixadores</l>
+          <l n="8">de eloqüência persuasória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas que haja com mais extremos</l>
+          <l n="2">entre cristãos batizados</l>
+          <l n="3">sacrílegos, renegados,</l>
+          <l n="4">ímpios, judeus, e blasfemos:</l>
+          <l n="5">que algum cristão (como vemos)</l>
+          <l n="6">dos tais seja muito amigo,</l>
+          <l n="7">tendo tão grande perigo</l>
+          <l n="8">de pagar-se-lhe a manqueira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Que tantas almas pereçam</l>
+          <l n="2">hoje entre gentios vários,</l>
+          <l n="3">por não haver Missionários,</l>
+          <l n="4">que em convertê-los mereçam:</l>
+          <l n="5">que muitos não se ofereçam</l>
+          <l n="6">para esta santa conquista,</l>
+          <l n="7">bem que o inferno o resista</l>
+          <l n="8">com sugestão dissuasória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Mas que muitos professores</l>
+          <l n="2">da lei católica, e santa</l>
+          <l n="3">se metam pela garganta</l>
+          <l n="4">dos infernos tragadores:</l>
+          <l n="5">que por uns tristes amores,</l>
+          <l n="6">ou por uns negros tostões</l>
+          <l n="7">vão para eternos tições</l>
+          <l n="8">lá na hora derradeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Que muitos salvar-se esperem,</l>
+          <l n="2">os bens alheios devendo,</l>
+          <l n="3">e uma ocasião retendo,</l>
+          <l n="4">porque emendar-se não querem:</l>
+          <l n="5">e que jamais considerem,</l>
+          <l n="6">que deixar a ocasião</l>
+          <l n="7">é para uma confissão</l>
+          <l n="8">circunstância obrigatória:</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Mas que quando alguns resolvam</l>
+          <l n="2">confessar os seus delitos,</l>
+          <l n="3">que hajam tantos imperitos</l>
+          <l n="4">confessores, que o absolvam:</l>
+          <l n="5">que com eles se revolvam</l>
+          <l n="6">no estígio, que mereceram,</l>
+          <l n="7">porque estes tais absolveram</l>
+          <l n="8">sem disposição inteira:</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Que no estado secular,</l>
+          <l n="2">onde houve mais de mil Santos,</l>
+          <l n="3">haja hoje tantos, e tantos,</l>
+          <l n="4">que se não sabem salvar:</l>
+          <l n="5">que estes não queiram cuidar</l>
+          <l n="6">na celestial ventura,</l>
+          <l n="7">havendo uma pena dura,</l>
+          <l n="8">eterna, e cominatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Mas que nas Religiões</l>
+          <l n="2">alguns Frades maus Letrados</l>
+          <l n="3">sejam de Deus reprovados</l>
+          <l n="4">pelas suas eleições:</l>
+          <l n="5">que andam com perturbações</l>
+          <l n="6">por amor das prelazias,</l>
+          <l n="7">e depois de breves dias</l>
+          <l n="8">se acham na estígia caldeira</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Que algum Frade, que se cobre</l>
+          <l n="2">na santa comunidade,</l>
+          <l n="3">no tempo, que é pobre frade,</l>
+          <l n="4">não queira ser frade pobre:</l>
+          <l n="5">que ao mesmo tempo lhe sobre</l>
+          <l n="6">o dinheiro equivalente</l>
+          <l n="7">para alcançar facilmente</l>
+          <l n="8">a valia impetratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Mas que um Frade de mais fundo</l>
+          <l n="2">por causa de certos mandos</l>
+          <l n="3">se queira meter em bandos,</l>
+          <l n="4">qual se fora vagabundo:</l>
+          <l n="5">que podendo ir cá do mundo</l>
+          <l n="6">ao céu vestido, e calçado,</l>
+          <l n="7">vá descalço, e remendado</l>
+          <l n="8">para uma infernal Leoneira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Que haja pregador noviço,</l>
+          <l n="2">que estude alheios sermões,</l>
+          <l n="3">só para juntar dobrões,</l>
+          <l n="4">porque os ajunta por isso:</l>
+          <l n="5">que cuide muito remisso,</l>
+          <l n="6">que poderá bem pregar</l>
+          <l n="7">sem teologia estudar,</l>
+          <l n="8">ou sem saber a oratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Mas que haja mais pregadores,</l>
+          <l n="2">que estudando resolutos,</l>
+          <l n="3">não tratem de colher frutos,</l>
+          <l n="4">porém só de escolher flores:</l>
+          <l n="5">que sendo estes tais doutores</l>
+          <l n="6">preguem conceitos galantes,</l>
+          <l n="7">bem como os representantes</l>
+          <l n="8">na comédia prazenteira?</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">Que os rústicos montanheses</l>
+          <l n="2">não saibam nunca a doutrina,</l>
+          <l n="3">porque também nunca a ensina</l>
+          <l n="4">o Pároco a seus fregueses:</l>
+          <l n="5">que lhes diga muitas vezes</l>
+          <l n="6">patranhas, e histórias tantas,</l>
+          <l n="7">mas nunca as palavras santas,</l>
+          <l n="8">e a doutrina exortatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Mas que Amariles mui vã</l>
+          <l n="2">saiba muito bem de cor,</l>
+          <l n="3">toda a cartilha de amor,</l>
+          <l n="4">não a doutrina cristã:</l>
+          <l n="5">que se vá pela manhã</l>
+          <l n="6">na quaresma à confissão,</l>
+          <l n="7">e por não sabê-la então</l>
+          <l n="8">vá para casa à carreira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Que o Juiz pelo respeito</l>
+          <l n="2">profira a sentença absorto,</l>
+          <l n="3">fazendo o direito torto,</l>
+          <l n="4">mas isto a torto, e direito:</l>
+          <l n="5">que cuide, que pode o feito</l>
+          <l n="6">no agravo, ou na apelação</l>
+          <l n="7">melhorar na Relação</l>
+          <l n="8">só pela conservatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Mas que o Juiz da ciência</l>
+          <l n="2">por causa de alguns respeitos</l>
+          <l n="3">não faça exame nos feitos,</l>
+          <l n="4">por forrar o da consciência:</l>
+          <l n="5">que o tal com muita insolência</l>
+          <l n="6">por descuido, ou por preguiça</l>
+          <l n="7">não reforme esta injustiça</l>
+          <l n="8">da sentença lisonjeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="19">
+          <l n="1">Que Juízes mentecaptos</l>
+          <l n="2">sabendo jurisprudência</l>
+          <l n="3">castiguem uma inocência</l>
+          <l n="4">como fez Pôncio Pilatos:</l>
+          <l n="5">que para certos contratos</l>
+          <l n="6">o réu, que a si se condena</l>
+          <l n="7">absolvam de culpa, e pena</l>
+          <l n="8">com uma interlocutória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="20">
+          <l n="1">Mas que outros com vozes mudas</l>
+          <l n="2">levados da vil cobiça</l>
+          <l n="3">vendam a mesma justiça,</l>
+          <l n="4">como a vendeu o mau Judas:</l>
+          <l n="5">que com razões tartamudas</l>
+          <l n="6">indo de mal em pior</l>
+          <l n="7">não dêem conta ao confessor</l>
+          <l n="8">da sentença trapaceira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="21">
+          <l n="1">Que o Letrado lisonjeiro</l>
+          <l n="2">venda, fazendo negaças</l>
+          <l n="3">em almoeda as trapaças,</l>
+          <l n="4">e por muito bom dinheiro:</l>
+          <l n="5">que diga, que é verdadeiro</l>
+          <l n="6">porque tem famosas partes</l>
+          <l n="7">pelas suas grandes artes,</l>
+          <l n="8">pela cota dilatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="22">
+          <l n="1">Mas que o Ministro o suporte,</l>
+          <l n="2">porque isto na alçada cabe,</l>
+          <l n="3">ou pelo que ele só sabe,</l>
+          <l n="4">tantas dilações não corte:</l>
+          <l n="5">que primeiro chegue a morte,</l>
+          <l n="6">e o juízo universal,</l>
+          <l n="7">do que a sentença final</l>
+          <l n="8">de uma demanda ligeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="23">
+          <l n="1">Que haja causas inda assim</l>
+          <l n="2">na Legacia piores,</l>
+          <l n="3">porque entre réus, e entre autores</l>
+          <l n="4">são causas, que não têm fim:</l>
+          <l n="5">que se conseguis o fim</l>
+          <l n="6">de vir em breve um rescrito,</l>
+          <l n="7">o tempo seja infinito,</l>
+          <l n="8">e eterna uma compulsória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="24">
+          <l n="1">Mas que alguns com tal porfia</l>
+          <l n="2">queiram com raivas internas,</l>
+          <l n="3">sendo a parte por eternas</l>
+          <l n="4">demandas na Legacia:</l>
+          <l n="5">que hajam muitos cada dia,</l>
+          <l n="6">que gastem seus benefícios</l>
+          <l n="7">simples nestes exercícios</l>
+          <l n="8">trepando uma, e outra ladeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="25">
+          <l n="1">Que haja Escrivães que mal lêem</l>
+          <l n="2">Letra, que bem se soletra,</l>
+          <l n="3">e que fazendo má Letra,</l>
+          <l n="4">contudo escrevem mui bem:</l>
+          <l n="5">que a este dando o parabém</l>
+          <l n="6">as alvíssaras lhe peçam,</l>
+          <l n="7">e a estoutro logo despeçam</l>
+          <l n="8">com ficção consolatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="26">
+          <l n="1">Mas que haja algum, que trabalha</l>
+          <l n="2">toda a vida sem proveito,</l>
+          <l n="3">e que logo faça um pleito</l>
+          <l n="4">sobre dá cá aquela palha:</l>
+          <l n="5">que queira em civil batalha</l>
+          <l n="6">perder a fazenda, e vida</l>
+          <l n="7">nas trapaças consumida,</l>
+          <l n="8">com quem lhe faz a moedeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="27">
+          <l n="1">Que andam muitos em conjuro</l>
+          <l n="2">para cometerem vícios,</l>
+          <l n="3">roubando nos seus ofícios,</l>
+          <l n="4">e com cartas de seguro,</l>
+          <l n="5">que estes, dos quais eu murmuro,</l>
+          <l n="6">não vão todos a enforcar,</l>
+          <l n="7">só porque sabem roubar</l>
+          <l n="8">com sua astúcia notória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="28">
+          <l n="1">Mas que andem muitos espertos</l>
+          <l n="2">esganados como galgos,</l>
+          <l n="3">por parecerem fidalgos,</l>
+          <l n="4">sendo ladrões encobertos:</l>
+          <l n="5">que estando estes mesmos certos,</l>
+          <l n="6">que os conhecem muito bem,</l>
+          <l n="7">não se lhes dêem de ninguém,</l>
+          <l n="8">nem isto lhes dê canseira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="29">
+          <l n="1">Que haja médicos, que tratam</l>
+          <l n="2">só de jogos, e de amores,</l>
+          <l n="3">sendo como os caçadores,</l>
+          <l n="4">que vivem só, do que matam:</l>
+          <l n="5">que estes, que não se recatam,</l>
+          <l n="6">venham com pressa esquisita,</l>
+          <l n="7">vão-se, e está feita a visita</l>
+          <l n="8">depois da purga expulsória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="30">
+          <l n="1">Mas que outros, que põem à raça,</l>
+          <l n="2">e se prezam de estafermos,</l>
+          <l n="3">não o tomando aos enfermos,</l>
+          <l n="4">só tomem o pulso à casa:</l>
+          <l n="5">que haja enfermo, que se abrasa</l>
+          <l n="6">em febre, e dores mortais,</l>
+          <l n="7">e que se cure com tais,</l>
+          <l n="8">que só estudam na frasqueira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="31">
+          <l n="1">Que haja Poetas ocultos</l>
+          <l n="2">nas sombras da poesia,</l>
+          <l n="3">fugindo da luz do dia.</l>
+          <l n="4">e que estes se chamem cultos;</l>
+          <l n="5">que sendo loucos, e estultos,</l>
+          <l n="6">por natural tenebrosos</l>
+          <l n="7">queiram, que os chame lustrosos</l>
+          <l n="8">a fama celebratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="32">
+          <l n="1">Mas que muitos os defendam</l>
+          <l n="2">pelos seus gênios bem raros</l>
+          <l n="3">chamando-os belos, preclaros,</l>
+          <l n="4">suposto que os não entendam:</l>
+          <l n="5">que os tais imitar pertendam</l>
+          <l n="6">a poesia de Angola,</l>
+          <l n="7">cuja catinga os consola,</l>
+          <l n="8">qual mandioca negreira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="33">
+          <l n="1">Que haja muitos pertendentes,</l>
+          <l n="2">só porque têm prendas boas</l>
+          <l n="3">nas arcas, não nas pessoas,</l>
+          <l n="4">que a todos fazem presentes:</l>
+          <l n="5">que consigam diligentes,</l>
+          <l n="6">quanto quer o seu intento,</l>
+          <l n="7">por lhes dar merecimento</l>
+          <l n="8">a carta condenatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="34">
+          <l n="1">Mas que outros mil alentados,</l>
+          <l n="2">que andaram pelas campanhas</l>
+          <l n="3">fazendo muitas façanhas,</l>
+          <l n="4">andem tão esfrangalhados:</l>
+          <l n="5">que sendo uns pobres coitados</l>
+          <l n="6">queiram pertender também,</l>
+          <l n="7">não se lhes dando a ninguém,</l>
+          <l n="8">que andassem pela fronteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="35">
+          <l n="1">Que um marido perdulário</l>
+          <l n="2">perca o dote da mulher,</l>
+          <l n="3">e depois de pouco ter,</l>
+          <l n="4">gaste mais do necessário:</l>
+          <l n="5">que se ponha temerário</l>
+          <l n="6">depois a gritar com ela,</l>
+          <l n="7">fazendo-lhe a remoela</l>
+          <l n="8">com a praga imprecatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="36">
+          <l n="1">Mas que outro com tanto estudo</l>
+          <l n="2">ame a mulher, que lhe agrada,</l>
+          <l n="3">que o marido mande nada,</l>
+          <l n="4">mas que a mulher mande tudo:</l>
+          <l n="5">que se ponha mui sisudo</l>
+          <l n="6">em casa a lisonjeá-la,</l>
+          <l n="7">e que depois vá gabá-la</l>
+          <l n="8">a seus amigos na feira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="37">
+          <l n="1">Que um pai a seu filho ensine</l>
+          <l n="2">a ser vingativo, e vão,</l>
+          <l n="3">porém nunca a ser cristão,</l>
+          <l n="4">nem na cartilha o doutrine:</l>
+          <l n="5">que o tal Pai se determine</l>
+          <l n="6">a levá-lo por seu rogo</l>
+          <l n="7">rapaz à casa do jogo</l>
+          <l n="8">a pôr-se na pasmatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="38">
+          <l n="1">Mas que outro mais esquisito,</l>
+          <l n="2">se o filho só andar ousa,</l>
+          <l n="3">o permita: é bela cousa!</l>
+          <l n="4">Sendo rapaz: é bonito!</l>
+          <l n="5">que o deixe de pequenito</l>
+          <l n="6">andar em más companhias</l>
+          <l n="7">para que ele em breves dias</l>
+          <l n="8">vá cair na ratoeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="39">
+          <l n="1">Que o Pai pela descendência</l>
+          <l n="2">do filho, ou do seu aumento</l>
+          <l n="3">meta a filha num convento</l>
+          <l n="4">freira da conveniência:</l>
+          <l n="5">que não faça consciência,</l>
+          <l n="6">se a casá-la o persuade,</l>
+          <l n="7">de lhe forçar a vontade,</l>
+          <l n="8">e com ordem peremptória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="40">
+          <l n="1">Mas que o Pai, que filha tem</l>
+          <l n="2">única, a não vá casar,</l>
+          <l n="3">por se não desapossar,</l>
+          <l n="4">se dote lhe pede alguém:</l>
+          <l n="5">que faça com tal desdém,</l>
+          <l n="6">que a filha ande às furtadelas</l>
+          <l n="7">buscando pelas janelas</l>
+          <l n="8">alguém, que traz cabeleira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="41">
+          <l n="1">Que os Pais andem pelos cantos</l>
+          <l n="2">namorando de contino,</l>
+          <l n="3">e queiram com este ensino</l>
+          <l n="4">que os seus filhos sejam Santos:</l>
+          <l n="5">que eles então façam prantos,</l>
+          <l n="6">se os vêem mortos numa briga,</l>
+          <l n="7">vindo de casa da amiga,</l>
+          <l n="8">e da amante parlatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="42">
+          <l n="1">Mas que haja Pais de tal sorte,</l>
+          <l n="2">que seu filho o quer roubar,</l>
+          <l n="3">o não deixem castigar</l>
+          <l n="4">para escarmento da Corte:</l>
+          <l n="5">que se o Ministro de porte</l>
+          <l n="6">o quer desterrar, então,</l>
+          <l n="7">o Pai chorando o perdão</l>
+          <l n="8">lhe solicite, e requeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="43">
+          <l n="1">Que Mãe desde pequenina</l>
+          <l n="2">ensine a filha a ser vã,</l>
+          <l n="3">não a doutrina cristã,</l>
+          <l n="4">sendo cristã sem doutrina:</l>
+          <l n="5">que a costume de menina</l>
+          <l n="6">à moda, ao donaire, à gala,</l>
+          <l n="7">e lhe ensine por amá-la</l>
+          <l n="8">até cantiga amatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="44">
+          <l n="1">Mas que outra Mãe sem cautela</l>
+          <l n="2">a filha crie com vício</l>
+          <l n="3">sem outro algum exercício</l>
+          <l n="4">mais, do que o pôr-se à janela:</l>
+          <l n="5">que queira, que uma donzela</l>
+          <l n="6">seja honesta, e recolhida,</l>
+          <l n="7">quando não tem outra vida</l>
+          <l n="8">mais do que ser janeleira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="45">
+          <l n="1">Que alguns queiram Senhoria,</l>
+          <l n="2">quando aos tais (como se vê)</l>
+          <l n="3">o tratá-los de mercê</l>
+          <l n="4">fora muita cortesia:</l>
+          <l n="5">que ande pois a fidalguia</l>
+          <l n="6">vendida assim por dinheiro,</l>
+          <l n="7">como trigo no terreiro,</l>
+          <l n="8">só porque há nisso vanglória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="46">
+          <l n="1">Mas que outros tendo tostões</l>
+          <l n="2">pelo jogo, ou pela dama</l>
+          <l n="3">arrastados pela lama</l>
+          <l n="4">andam como uns pedinchões:</l>
+          <l n="5">que gastassem seus dobrões,</l>
+          <l n="6">porque quiseram jogar,</l>
+          <l n="7">e só para namorar</l>
+          <l n="8">com a patifa terceira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="47">
+          <l n="1">Que alguns tanto por seu mal</l>
+          <l n="2">vistam (por não ser comuns)</l>
+          <l n="3">de altos, e ricos tissuns,</l>
+          <l n="4">destruindo o cabedal:</l>
+          <l n="5">que com porfia fatal</l>
+          <l n="6">se mostram nisso empenhados,</l>
+          <l n="7">sendo a noite os seus guisados</l>
+          <l n="8">azeitonas, e chicória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="48">
+          <l n="1">Mas que outros mil à porfia</l>
+          <l n="2">por toda a vida o dinheiro</l>
+          <l n="3">ajuntem, que o seu herdeiro</l>
+          <l n="4">há de gastar num só dia:</l>
+          <l n="5">que andem com melancolia</l>
+          <l n="6">sem comer, e sem cear</l>
+          <l n="7">para poder ajuntar</l>
+          <l n="8">todos cheios de lazeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="49">
+          <l n="1">Que haja muitos ateístas,</l>
+          <l n="2">que pelos costumes seus</l>
+          <l n="3">não crêem, no que disse Deus</l>
+          <l n="4">pelos quatro Evangelistas:</l>
+          <l n="5">que só vivam Dogmatistas,</l>
+          <l n="6">cuidando por seu prazer,</l>
+          <l n="7">que há só nascer, e morrer,</l>
+          <l n="8">não crendo no inferno, e glória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="50">
+          <l n="1">Mas que outros (como se vê)</l>
+          <l n="2">sejam com hipocrisia</l>
+          <l n="3">só cristãos por cortesia,</l>
+          <l n="4">ou fiéis de meia-fé:</l>
+          <l n="5">que inda que febre lhes dê,</l>
+          <l n="6">não tratem da confissão,</l>
+          <l n="7">cuidando, que escaparão</l>
+          <l n="8">com a amiga à cabeceira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="51">
+          <l n="1">Que alguns fantásticos vãos,</l>
+          <l n="2">aos quais o vício consome,</l>
+          <l n="3">sendo só cristãos no nome,</l>
+          <l n="4">queiram nome de cristãos:</l>
+          <l n="5">que aos céus levantando as mãos</l>
+          <l n="6">esperam com muita fé,</l>
+          <l n="7">que Deus os salve, sem que</l>
+          <l n="8">obra tenham meritória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="52">
+          <l n="1">Mas que hipócritas sandeus</l>
+          <l n="2">andem rezando, e no cabo</l>
+          <l n="3">a todos leve o diabo</l>
+          <l n="4">pelo caminho de Deus:</l>
+          <l n="5">que pelos rosários seus</l>
+          <l n="6">queiram ser homens de conta,</l>
+          <l n="7">sem cuidar na estreita, e pronta,</l>
+          <l n="8">que hão de dar da vida inteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="53">
+          <l n="1">Que haja certas mercancias</l>
+          <l n="2">não de cousas temporais</l>
+          <l n="3">mas de outras espirituais,</l>
+          <l n="4">que se chamam simonias:</l>
+          <l n="5">que haja, quem todos os dias</l>
+          <l n="6">com modo tão peregrino</l>
+          <l n="7">seja Ladrão ao divino</l>
+          <l n="8">com tão falsa narratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="54">
+          <l n="1">Mas que o rico prebendado</l>
+          <l n="2">que postilou nas escolas,</l>
+          <l n="3">não pague as suas esmolas</l>
+          <l n="4">ao pobre necessitado:</l>
+          <l n="5">que por amor do Cunhado,</l>
+          <l n="6">ou por causa dos Sobrinhos</l>
+          <l n="7">venha a cair de focinhos</l>
+          <l n="8">na sempiterna esterqueira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="55">
+          <l n="1">Que o riso despreze o pobre,</l>
+          <l n="2">só porque tem mais vinténs,</l>
+          <l n="3">sendo o pobre inda sem bens</l>
+          <l n="4">talvez mais honrado, e nobre:</l>
+          <l n="5">que por ter dois réis de cobre,</l>
+          <l n="6">se finja, que vem dos Godos,</l>
+          <l n="7">quando conhecemos todos,</l>
+          <l n="8">que é de estirpe pescatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="56">
+          <l n="1">Mas que o pobre, que não tem,</l>
+          <l n="2">que comer, ou que gastar,</l>
+          <l n="3">nem tem sangue, nem solar,</l>
+          <l n="4">seja soberbo também:</l>
+          <l n="5">que não tenha um só vintém,</l>
+          <l n="6">e se inche como pirum,</l>
+          <l n="7">conhecendo cada um,</l>
+          <l n="8">que fora a Mãe taverneira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="57">
+          <l n="1">Que alguns tanto a gastar venham</l>
+          <l n="2">na vida de toda a sorte,</l>
+          <l n="3">que depois chegando a morte,</l>
+          <l n="4">com que enterrar-se não tenham:</l>
+          <l n="5">com estes tais, que assim se empenham</l>
+          <l n="6">em todo o gosto, e prazer,</l>
+          <l n="7">não cuidem, que hão de morrer,</l>
+          <l n="8">nem tenham disso memória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="58">
+          <l n="1">Mas que outros com muita lida</l>
+          <l n="2">edifiquem mausoléus,</l>
+          <l n="3">mas não morada nos céus,</l>
+          <l n="4">vãos na morte, e vãos na vida:</l>
+          <l n="5">que a soberba sem medida</l>
+          <l n="6">fique em pedras estampada,</l>
+          <l n="7">e a pobre da alma coitada</l>
+          <l n="8">que perneie na fogueira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="59">
+          <l n="1">Que aqueles, que não têm renda,</l>
+          <l n="2">e usam porém de tramóias,</l>
+          <l n="3">possuam telas, e jóias,</l>
+          <l n="4">como o que tem a comenda:</l>
+          <l n="5">que com estes não se entenda,</l>
+          <l n="6">inda que estejam culpados,</l>
+          <l n="7">mas que sejam celebrados</l>
+          <l n="8">na lisonja laudatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="60">
+          <l n="1">Mas que outros com muitos bens</l>
+          <l n="2">andem (não sei como o diga)</l>
+          <l n="3">com a sela na barriga</l>
+          <l n="4">sem ter um par de vinténs:</l>
+          <l n="5">que padecendo vaivéns</l>
+          <l n="6">gastem tudo como tolos,</l>
+          <l n="7">e em doces, e bolinholos</l>
+          <l n="8">despejem sua algibeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="61">
+          <l n="1">Que os lisonjeiros sem leis</l>
+          <l n="2">nos palácios muito prontos</l>
+          <l n="3">aos Reis se vão com mil contos,</l>
+          <l n="4">por ter mil contos de réis:</l>
+          <l n="5">que sendo pouco fiéis</l>
+          <l n="6">tenham glória, e tenham graça</l>
+          <l n="7">com tão verdadeira traça,</l>
+          <l n="8">e mentira adulatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="62">
+          <l n="1">Mas que o pobre jovial</l>
+          <l n="2">chocarreiro de vis traças</l>
+          <l n="3">queira com fingidas graças</l>
+          <l n="4">entrar na graça Real:</l>
+          <l n="5">que quando ele nada val,</l>
+          <l n="6">entre assim no valimento,</l>
+          <l n="7">para o seu requerimento</l>
+          <l n="8">com a gracinha grosseira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="63">
+          <l n="1">Que haja ingratos descuidados,</l>
+          <l n="2">os quais nunca as graças dão</l>
+          <l n="3">do benefício, ou pensão,</l>
+          <l n="4">sendo uns beneficiados:</l>
+          <l n="5">que estes andem retirados,</l>
+          <l n="6">de quem lhes faz tanto bem,</l>
+          <l n="7">porque as graças lhe não dêem,</l>
+          <l n="8">que é lei remuneratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="64">
+          <l n="1">Mas que outros muito piores</l>
+          <l n="2">(quando tal lhes não merecem)</l>
+          <l n="3">finjam, que eles não conhecem</l>
+          <l n="4">os seus mesmos benfeitores:</l>
+          <l n="5">que tendo alguns acredores</l>
+          <l n="6">queiram livrar do perigo</l>
+          <l n="7">pelo benfeitor antigo</l>
+          <l n="8">com a súplica embusteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="65">
+          <l n="1">Que haja muitos, que se pintam</l>
+          <l n="2">de verdadeira piedade,</l>
+          <l n="3">os quais falando verdade,</l>
+          <l n="4">nunca falam, que não mintam:</l>
+          <l n="5">que estes mesmos não consintam,</l>
+          <l n="6">que os enganem, mas primeiros</l>
+          <l n="7">se intitulam verdadeiros</l>
+          <l n="8">com mentira defensória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="66">
+          <l n="1">Mas que tenham fatal ira,</l>
+          <l n="2">se os apanham, tendo pronta</l>
+          <l n="3">a verdade por afronta,</l>
+          <l n="4">e por crédito a mentira:</l>
+          <l n="5">que com raiva, que delira,</l>
+          <l n="6">façam na razão teimosa</l>
+          <l n="7">a verdade mentirosa,</l>
+          <l n="8">e a mentira verdadeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="67">
+          <l n="1">Que juradores parleiros</l>
+          <l n="2">hajam, que sem medo algum</l>
+          <l n="3">pela manhã em jejum</l>
+          <l n="4">comam diabos inteiros:</l>
+          <l n="5">que eles sejam os primeiros</l>
+          <l n="6">(bem que a verdade não digam)</l>
+          <l n="7">que o bom crédito consigam</l>
+          <l n="8">para toda a rogatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="68">
+          <l n="1">Mas que haja algum, que imprudente</l>
+          <l n="2">dê credito a seus clamores,</l>
+          <l n="3">vendo, que são juradores,</l>
+          <l n="4">pois quem mais jura mais mente:</l>
+          <l n="5">que logo tão facilmente</l>
+          <l n="6">se creia com tal loucura,</l>
+          <l n="7">o que dizem, sendo a jura</l>
+          <l n="8">da mentira pregoeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="69">
+          <l n="1">Que haja muitos, que murmurem</l>
+          <l n="2">daqueles, que estão ausentes,</l>
+          <l n="3">e os que ali se acham presentes,</l>
+          <l n="4">que calados os aturem:</l>
+          <l n="5">que advertidos não procurem</l>
+          <l n="6">mudar de conversação</l>
+          <l n="7">fugindo à murmuração</l>
+          <l n="8">de uma língua infamatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="70">
+          <l n="1">Mas que outros mil sem receios</l>
+          <l n="2">não vejam por ter antolhos</l>
+          <l n="3">a grande trave em seus olhos,</l>
+          <l n="4">vendo a palha nos alheios:</l>
+          <l n="5">que estando estes próprios cheios</l>
+          <l n="6">de lepra, com que se tingem,</l>
+          <l n="7">olhem para a alheia impingem,</l>
+          <l n="8">tendo tão grande coceira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="71">
+          <l n="1">Que versistas a milhares</l>
+          <l n="2">queiram só por seu regalo</l>
+          <l n="3">andar no alado cavalo,</l>
+          <l n="4">devendo ser alveitares:</l>
+          <l n="5">que intentem por singulares</l>
+          <l n="6">todo o aplauso, que mais campa,</l>
+          <l n="7">e depois saiam na estampa</l>
+          <l n="8">com uma destampatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="72">
+          <l n="1">Mas que estes de tão má veia,</l>
+          <l n="2">quando a ignorância lhes sobra,</l>
+          <l n="3">saindo mal da sua obra,</l>
+          <l n="4">se metam em obra alheia:</l>
+          <l n="5">que quando essoutra recreia,</l>
+          <l n="6">por inveja a satirizem,</l>
+          <l n="7">e que todo o mundo avisem</l>
+          <l n="8">da sátira frioleira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="73">
+          <l n="1">Que haja mil de escornicoques,</l>
+          <l n="2">que com satíricos modos</l>
+          <l n="3">zingando estejam de todos:</l>
+          <l n="4">e que não temam mil coques:</l>
+          <l n="5">que falando com remoques,</l>
+          <l n="6">eles não queiram ser tidos</l>
+          <l n="7">por toleirões, e atrevidos,</l>
+          <l n="8">tendo uma língua irrisória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="74">
+          <l n="1">Mas que outros muitos Orates</l>
+          <l n="2">da venerável igreja</l>
+          <l n="3">façam casa de cerveja</l>
+          <l n="4">com risos, e disparates:</l>
+          <l n="5">que pareçam bonifrates,</l>
+          <l n="6">as cabeças meneando,</l>
+          <l n="7">e acenem de quando em quando</l>
+          <l n="8">à Dama, que está fronteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="75">
+          <l n="1">Que alguém junte cabedais</l>
+          <l n="2">para testar, o que em breve</l>
+          <l n="3">diga: o diabo te leve,</l>
+          <l n="4">porque não deixastes mais:</l>
+          <l n="5">e que, a quem com razões tais</l>
+          <l n="6">ao diabo os encomenda</l>
+          <l n="7">deixe este a sua fazenda</l>
+          <l n="8">a principal, e acessória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="76">
+          <l n="1">Mas que outro rico avarento</l>
+          <l n="2">(bem que ouro, e prata lhe sobre)</l>
+          <l n="3">não saiba dar nada ao pobre</l>
+          <l n="4">com moedas cento a cento:</l>
+          <l n="5">que deixe em seu testamento</l>
+          <l n="6">tudo ao mais rico vizinho,</l>
+          <l n="7">ou quando muito ao Sobrinho,</l>
+          <l n="8">para andar numa liteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="77">
+          <l n="1">Que haja muitos, que às centenas</l>
+          <l n="2">entre os amigos, e sócios</l>
+          <l n="3">façam bem os seus negócios,</l>
+          <l n="4">cometendo mil onzenas:</l>
+          <l n="5">que conhecendo-se as penas,</l>
+          <l n="6">que pelo direito têm,</l>
+          <l n="7">não os demande ninguém</l>
+          <l n="8">cuma carta citatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="78">
+          <l n="1">Mas que o outro em confiança</l>
+          <l n="2">diga, que vende o seu trigo</l>
+          <l n="3">mais barato a seu amigo,</l>
+          <l n="4">metendo-lhe então a lança:</l>
+          <l n="5">que o tal lhe faça a fiança</l>
+          <l n="6">por ser amigo leal,</l>
+          <l n="7">roubando-lhe o cabedal</l>
+          <l n="8">essa amizade onzeneira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="79">
+          <l n="1">Que haja, quem faltando às Leis</l>
+          <l n="2">seja traidor por um rogo,</l>
+          <l n="3">não se lhe dando no jogo</l>
+          <l n="4">nem de Roques, nem de Reis:</l>
+          <l n="5">que tenha ambições cruéis</l>
+          <l n="6">sabendo, que inda que cresça,</l>
+          <l n="7">não levantará cabeça</l>
+          <l n="8">pela lei impetratória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="80">
+          <l n="1">Mas que inda que se atropele,</l>
+          <l n="2">e de tal se não desvie,</l>
+          <l n="3">que haja, quem dele se fie,</l>
+          <l n="4">e quem se troça por ele:</l>
+          <l n="5">que não tema a sua pele</l>
+          <l n="6" met="inesc">vendo, que lha surraram</l>
+          <l n="7">só pela sua ambição</l>
+          <l n="8">tão fatal, e interesseira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="81">
+          <l n="1">Que haja muitos pandilheiros,</l>
+          <l n="2">os quais às mil maravilhas</l>
+          <l n="3">saibam fazer as pandilhas,</l>
+          <l n="4">que em Castela são fulheiros:</l>
+          <l n="5">que só por interesseiros</l>
+          <l n="6">sejam ladrões mui honrados,</l>
+          <l n="7">mas nunca são enforcados,</l>
+          <l n="8">porque isso é graça ilusória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="82">
+          <l n="1">Mas que outros sabendo bem</l>
+          <l n="2">que há no jogo esta destreza,</l>
+          <l n="3">só por uma sutileza</l>
+          <l n="4">entreguem tudo, o que têm:</l>
+          <l n="5">que o cabedal todo dêem</l>
+          <l n="6">ao tal, que nesta conquista</l>
+          <l n="7">os está roubando a vista</l>
+          <l n="8">despacio, mais à ligeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="83">
+          <l n="1">Que andem muitos namorados</l>
+          <l n="2">qual ave de rama em rama</l>
+          <l n="3">atrás de uma, e outra Dama</l>
+          <l n="4">morrendo por seus pecados:</l>
+          <l n="5">que por ter estes cuidados</l>
+          <l n="6">andem toda a noite escura</l>
+          <l n="7">só por dizer com ternura</l>
+          <l n="8">à Dama a jaculatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="84">
+          <l n="1">Mas que alguém pague às espias</l>
+          <l n="2">para ter Freiras devotas,</l>
+          <l n="3">e depois de mil derrotas</l>
+          <l n="4">ande pelas portarias:</l>
+          <l n="5">que ande este todos os dias</l>
+          <l n="6">com cargas, e sem carreto,</l>
+          <l n="7">e tendo-se por discreto</l>
+          <l n="8">seja o burrinho da feira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="85">
+          <l n="1">Que os adúlteros adorem</l>
+          <l n="2">a alheia mulher, que vêem,</l>
+          <l n="3">e não queiram, que também</l>
+          <l n="4">outros a sua namorem:</l>
+          <l n="5">que então neste caso implorem</l>
+          <l n="6">à Justiça, ou à vingança,</l>
+          <l n="7">e não queiram sem tardança</l>
+          <l n="8">outra ação acusatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="86">
+          <l n="1">Mas que uma mulher casada,</l>
+          <l n="2">sendo o Marido um corisco,</l>
+          <l n="3">pondo-se a tamanho risco</l>
+          <l n="4">seja louca enamorada:</l>
+          <l n="5">que se acaso alguém lhe agrada,</l>
+          <l n="6">com marido turbulento</l>
+          <l n="7">busque o seu divertimento</l>
+          <l n="8">como uma mulher solteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="87">
+          <l n="1">Que ande o moço em mau estado</l>
+          <l n="2">podendo nos anos seus</l>
+          <l n="3">ser desposado com Deus,</l>
+          <l n="4">e não co demo amigado:</l>
+          <l n="5">que não tenha outro cuidado,</l>
+          <l n="6">mais que em viver absoluto,</l>
+          <l n="7">tratando só como bruto</l>
+          <l n="8">desta vida transitória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="88">
+          <l n="1">Mas que o velho, que renova</l>
+          <l n="2">os seus vícios namorando</l>
+          <l n="3">vá falar à Dama, quando</l>
+          <l n="4">anda cos pés para a cova:</l>
+          <l n="5">que este mesmo com corcova</l>
+          <l n="6">queira ser galã narciso</l>
+          <l n="7">motivando a gente a riso,</l>
+          <l n="8">cacundo em grande maneira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="89">
+          <l n="1">Que haja muitos medianeiros</l>
+          <l n="2">do mal, que chamam francês</l>
+          <l n="3">os quais em bom português</l>
+          <l n="4">dos pecados são terceiros:</l>
+          <l n="5">que estes muito lambareiros</l>
+          <l n="6">tenham com todos caída,</l>
+          <l n="7">e levem tão boa vida,</l>
+          <l n="8">sendo tão criminatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="90">
+          <l n="1">Mas que estes pobres tolinhos,</l>
+          <l n="2">de que tratos há do mundo,</l>
+          <l n="3">caiam no inferno profundo</l>
+          <l n="4">pelas culpas dos vizinhos:</l>
+          <l n="5">que por tão feios caminhos</l>
+          <l n="6">sejam solicitadores,</l>
+          <l n="7">e se façam Lavradores</l>
+          <l n="8">de uma infernal sementeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="91">
+          <l n="1">Que os valentões arrojados</l>
+          <l n="2">andem feitos tranca-ruas</l>
+          <l n="3">com suas espadas nuas</l>
+          <l n="4">comendo a gente a bocados:</l>
+          <l n="5">que os Ministros alentados</l>
+          <l n="6">se os prendam, quais delinqüentes,</l>
+          <l n="7">digam, que estão inocentes</l>
+          <l n="8">na sentença executória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="92">
+          <l n="1">Mas que outros andem de noite,</l>
+          <l n="2">morando perto o Juiz,</l>
+          <l n="3">roubando, como se diz,</l>
+          <l n="4">dando em todos muito açoite:</l>
+          <l n="5">e não haja, quem se afoite</l>
+          <l n="6">com quadrilhas agarrá-los,</l>
+          <l n="7">para um algoz cavalgá-los</l>
+          <l n="8">com capuz, e com coleira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="93">
+          <l n="1">Que alguns, bem que os não encanta</l>
+          <l n="2">a música celestial,</l>
+          <l n="3">gastem todo o cabedal</l>
+          <l n="4">em bons passos de garganta:</l>
+          <l n="5">que os tais com gula, que espanta,</l>
+          <l n="6">se o mundo fora guisado</l>
+          <l n="7">o comeram de um bocado,</l>
+          <l n="8">qual pequena pepitória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="94">
+          <l n="1">Mas que haja, quem facilmente</l>
+          <l n="2">dinheiro fie dos tais,</l>
+          <l n="3">que vai para o vós reais</l>
+          <l n="4">logo todo incontinente:</l>
+          <l n="5">que o credor cuide contente,</l>
+          <l n="6">que bem empregado está,</l>
+          <l n="7">estando o dinheiro já</l>
+          <l n="8">em casa da confeiteira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="95">
+          <l n="1">Que andem muitos à porfia,</l>
+          <l n="2">que merecem muito açoite,</l>
+          <l n="3">fazendo do dia noite,</l>
+          <l n="4">da noite fazendo dia:</l>
+          <l n="5">que durmam com demasia</l>
+          <l n="6">té o dia anoitecer,</l>
+          <l n="7">querendo assim bem viver,</l>
+          <l n="8">mas com vida implicatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="96">
+          <l n="1">Mas que outros com muito espanto</l>
+          <l n="2">trabalhem sempre à porfia,</l>
+          <l n="3">isto todo o santo dia,</l>
+          <l n="4">inda sendo o dia Santo:</l>
+          <l n="5">que tenham trabalho tanto</l>
+          <l n="6">para poder ajuntar,</l>
+          <l n="7">não tendo para testar</l>
+          <l n="8">nem herdeiro, nem herdeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="97">
+          <l n="1">Que haja alguns, que se consomem</l>
+          <l n="2">inda com vício mais feio,</l>
+          <l n="3">que por não comer o alheio</l>
+          <l n="4">logo de inveja se comem:</l>
+          <l n="5">que sua ambição não domem,</l>
+          <l n="6">e que dos outros o aumento</l>
+          <l n="7">aos tais sirva de tormento</l>
+          <l n="8">com pena meditatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="98">
+          <l n="1">Mas que outros, que se desfazem,</l>
+          <l n="2">porque não têm sendo nobres,</l>
+          <l n="3">façam muito por ser pobres,</l>
+          <l n="4">isto porque nada fazem:</l>
+          <l n="5">que com fome estes se abrasem,</l>
+          <l n="6">que tanto mal ocasiona,</l>
+          <l n="7">sendo a preguiça potrona</l>
+          <l n="8">da pobre da companheira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="99">
+          <l n="1">Que alguém que aqui se consome</l>
+          <l n="2">com a sátira abundante,</l>
+          <l n="3">diga, que está mui picante,</l>
+          <l n="4">mas quem se queima, alhos come:</l>
+          <l n="5">que este por si mesmo a tome,</l>
+          <l n="6">quando eu falando bem claro,</l>
+          <l n="7">a ninguém hoje declaro</l>
+          <l n="8">nesta carta monitória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="100">
+          <l n="1">Mas que outros por vários modos</l>
+          <l n="2">satirizem muito bem,</l>
+          <l n="3">e sem monir a ninguém</l>
+          <l n="4">queiram declarar a todos</l>
+          <l n="5">que estes tais com mil apodos</l>
+          <l n="6">assim queiram ganhar fama,</l>
+          <l n="7">quando a dos outros se infama,</l>
+          <l n="8">levantada tal poeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="101">
+          <l n="1">Que haja sem livros Letrado,</l>
+          <l n="2">homem, que é pobre, com teima,</l>
+          <l n="3">poeta, sem muita fleima,</l>
+          <l n="4">e sem muleta aleijado:</l>
+          <l n="5">que haja sem funda quebrado,</l>
+          <l n="6">estudante sem estudo,</l>
+          <l n="7">cavalheiro sem escudo,</l>
+          <l n="8">e mestre sem palmatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="102">
+          <l n="1">Mas que haja nos fracos ira,</l>
+          <l n="2">e nos que são pobres gula,</l>
+          <l n="3">que haja médico sem mula,</l>
+          <l n="4">e fidalgo com mentira:</l>
+          <l n="5">que haja espingarda sem mira,</l>
+          <l n="6">sem tesoura cirurgião,</l>
+          <l n="7">com partidos matassão,</l>
+          <l n="8">e sem contas merceeira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="103">
+          <l n="1">E que eu também queira enfim</l>
+          <l n="2">no poético exercício,</l>
+          <l n="3">que entre outros do mesmo ofício</l>
+          <l n="4">algum diga bem a mim:</l>
+          <l n="5">que não tema algum malsim,</l>
+          <l n="6">que fiscalize os meus versos,</l>
+          <l n="7">e com apodos diversos</l>
+          <l n="8">diga, que têm muita escória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="104">
+          <l n="1">Mas que eu mesmo furibundo</l>
+          <l n="2">nisto, que hoje aqui pertendo,</l>
+          <l n="3">quando a mim me não entendo,</l>
+          <l n="4">intente emendar o mundo:</l>
+          <l n="5">que não tendo muito fundo,</l>
+          <l n="6">para que possa falar,</l>
+          <l n="7">quanto mais para emendar,</l>
+          <l n="8">fundar tais acentos queira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+        <lg n="105">
+          <l n="1">Que os consoantes se acabem,</l>
+          <l n="2">tendo eu muito, que escrever,</l>
+          <l n="3">e de outros mais que dizer,</l>
+          <l n="4">para que nenhuns se gabem:</l>
+          <l n="5">que as cousas, que aqui não cabem,</l>
+          <l n="6">eu as haja de calar,</l>
+          <l n="7">porque as não pode explicar</l>
+          <l n="8">minha Musa exortatória!</l>
+          <l n="9">Boa história.</l>
+        </lg>
+        <lg n="106">
+          <l n="1">Mas que eu fizesse hoje estudo</l>
+          <l n="2">para cousas importantes,</l>
+          <l n="3">por estéreis consoantes,</l>
+          <l n="4">que não podem dizer tudo:</l>
+          <l n="5">que algum diga carrancudo,</l>
+          <l n="6">quando escrevo para todos,</l>
+          <l n="7">que não falo em cultos modos,</l>
+          <l n="8">mas em frase corriqueira!</l>
+          <l n="9">Boa asneira.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

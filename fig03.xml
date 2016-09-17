@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poesias</title>
+        <author>Araújo Figueiredo</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=8888"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem" n="1">
+        <head>*Filhos*</head>
+        <lg n="1">
+          <l n="1">Quem há que tenha filhos e não cante</l>
+          <l n="2">E não chore também. Quando eles cantam</l>
+          <l n="3">Noss'alma canta uma canção vibrante,</l>
+          <l n="4">E os seus braços nos erguem, nos levantam.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando eles choram, num lugar distante.</l>
+          <l n="2">Ou bem juntos de nós, nos alquebrantam...</l>
+          <l n="3">E com eles choramos, todo o instante,</l>
+          <l n="4">Prantos cruéis que o peito nos suplantam.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Com braços amparando os nossos filhos</l>
+          <l n="2">Que são correntes fortes e cadilhos</l>
+          <l n="3">Dos ansiosos corações paternos,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Rindo, iremos por eles aos espaços,</l>
+          <l n="2">Sem tormentos, soluços e cansaços...</l>
+          <l n="3">Chorando, desceremos aos infernos!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>*Desdêmona*</head>
+        <lg n="1">
+          <l n="1">Por mais que nos amássemos, gozando</l>
+          <l n="2">Do eterno amor os pomos sazonados,</l>
+          <l n="3">Uma falta existia, em nossa casa. Eis quando</l>
+          <l n="4">Vieste dum mundo dentre os mais sonhados.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Bem-vinda sejas! — Digo-te cantando...</l>
+          <l n="2">E como uma ave, dos azuis banhados</l>
+          <l n="3">De tanto luar, de luz me vais banhando</l>
+          <l n="4">O peito, a alma e os braços fatigados.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E eu disse aos anjos: — Para a grande boda</l>
+          <l n="2">Descei, ó anjos, todo o vinho, e toda</l>
+          <l n="3">Essa luz que parece um trigo louro.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pão asmo e vinho... E flores, as mais belas,</l>
+          <l n="2">Na nossa mesa; e, no alto, as Sete Estrelas.</l>
+          <l n="3">Lembrando sete candelabros de ouro!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>*Smyrna*</head>
+        <lg n="1">
+          <l n="1">Tão simples e tão pobre a nossa casa,</l>
+          <l n="2">Sem riqueza, a não ser a das roseiras</l>
+          <l n="3">Que lhe dão as carícias mais fagueiras</l>
+          <l n="4">Como os canários todo o afago d'asa.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas tu chegaste, e o teu olhar transvasa</l>
+          <l n="2">Uma quentura como a das lareiras...</l>
+          <l n="3">Trazes na boca a flor das romãzeiras;</l>
+          <l n="4">E um sol nos olhos, que de amor me abrasa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Por isso desde essa manhã de maio.</l>
+          <l n="2">Eu nada vejo que não seja um raio</l>
+          <l n="3">De esp'rança verde como o campo largo...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Chegaste, filha, para me amparares;</l>
+          <l n="2">Chegaste, vinha, p'ra me transformares</l>
+          <l n="3">Em vinho e aromas o que sinto amargo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>*Elzebbad*</head>
+        <lg n="1">
+          <l n="1">Logo assim que nasceu, cobri-lhe o berço</l>
+          <l n="2">De papoulas e rosas e boninas...</l>
+          <l n="3">Pelas telhas as aves, em surdinas,</l>
+          <l n="4">Tinham no aroma o coração imerso.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sorrindo, dei-lhe a música de um verso,</l>
+          <l n="2">A mais divina dentre as mais divinas.</l>
+          <l n="3">Que brancuras as suas mãos franzinas.</l>
+          <l n="4">Como as das velas no esplendor de um terço!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vejo, porém, que os olhos do meu filho</l>
+          <l n="2">Têm dos meus olhos o velado brilho:</l>
+          <l n="3">Ambos são rios de revoltas águas...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas se o rapaz chegar ao ponto de homem,</l>
+          <l n="2">Não no consumam, como me consomem,</l>
+          <l n="3">Os vendavais tristíssimos das mágoas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>*Antônio*</head>
+        <lg n="1">
+          <l n="1">Quando eu mais do que hei sido for lançado</l>
+          <l n="2">Às calúnias horríveis, às intrigas,</l>
+          <l n="3">Abre-me, filho, as tuas mãos amigas,</l>
+          <l n="4">E eu me veja por elas amparado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">À luz do teu olhar seja eu guiado</l>
+          <l n="2">Para os trigais do amor, de áureas espigas...</l>
+          <l n="3">E que me sigas a cantar, me sigas</l>
+          <l n="4">Se o caminho estiver abandonado!...</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Como o Santo da Lenda, o meigo Santo</l>
+          <l n="2">Que o próprio pai livrou da forca, enquanto</l>
+          <l n="3">No púlpito rezava uma oração,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Livra a minh'alma aflita, por piedade,</l>
+          <l n="2">Das esponjas molhadas na crueldade...</l>
+          <l n="3">E ande eu velhinho pela tua mão!</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>*Florisbela*</head>
+        <lg n="1">
+          <l n="1">Numa choupana esburacada e triste,</l>
+          <l n="2">É que nasceste, ó minha filha, numa</l>
+          <l n="3">Choupana esburacada, que ainda existe</l>
+          <l n="4">Perto do mar de tão florida espuma.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A dor que as almas langues averruma,</l>
+          <l n="2">A dor à qual um peito não resiste,</l>
+          <l n="3">Ao recordar-me disso tudo, em suma,</l>
+          <l n="4">Sinto-a no peito, como lança em riste.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas nisso eu não devia estar pensando;</l>
+          <l n="2">E sim no nome, que de luz te cobre,</l>
+          <l n="3">Nesse nome feliz, d'astros brotando,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">De quem da terra nos sombrios trilhos,</l>
+          <l n="2">Tendo vivido sempre humilde e pobre,</l>
+          <l n="3">Era rica demais junto dos filhos!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>*Debbora*</head>
+        <lg n="1">
+          <l n="1">Da minha vida as lágrimas flagrantes,</l>
+          <l n="2">E todos os seus gritos e tristezas,</l>
+          <l n="3">Bem como os dos riachos soluçantes,</l>
+          <l n="4">Em contínuas, profunda correntezas...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Da minha vida as ânsias palpitantes,</l>
+          <l n="2">E os mais negros segredos e asperezas,</l>
+          <l n="3">Como do mar as vagas, aos possantes</l>
+          <l n="4">Encontros dos tufões das incertezas...</l>
+        </lg>
+        <lg n="3">
+          <l n="1">De tudo enfim que me atormenta a alma</l>
+          <l n="2">Verás nas linhas augurais da palma</l>
+          <l n="3">Da minha mão, a afirmação mais justa.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Verás o meu passado e o meu futuro:</l>
+          <l n="2">Um entre rosas; e outro em ais, no escuro,</l>
+          <l n="3">No tenebroso leito de Locusta!</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>*Luiz*</head>
+        <lg n="1">
+          <l n="1">Chegaste envolto no esplendor de um dia</l>
+          <l n="2">Maravilhoso! A luz cantava em tudo...</l>
+          <l n="3">Cantava num riacho que descia,</l>
+          <l n="4">E cantava no mar, que era um veludo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De tão grande emoção, tanta alegria,</l>
+          <l n="2">Que eu nessa hora senti, tornei-me mudo...</l>
+          <l n="3">Só a minh'alma, aflita, repetia:</l>
+          <l n="4">— De um pai o filho é o mais ousado escudo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu tive, meu filhinho, essa lembrança</l>
+          <l n="2">Pequena, mas excelsa na esperança,</l>
+          <l n="3">Que no pó dos caminhos jamais cai,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nem mesmo pelo espaço se consome...</l>
+          <l n="2">E dei-te, filho, ó meu querido! um nome</l>
+          <l n="3">Igual ao nome do meu pobre pai!</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>*Conceptta*</head>
+        <lg n="1">
+          <l n="1">De onde vieste, minha filha amada?</l>
+          <l n="2">De que estrela vieste, dessas tantas</l>
+          <l n="3">Que do espaço na cúpula azulada</l>
+          <l n="4">Florescem meigas, luminosas, santas?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Era um rosal florido a madrugada!</l>
+          <l n="2">No azul que rosas, e na terra quantas,</l>
+          <l n="3">Pela brancura límpida da estrada</l>
+          <l n="4">Da qual neste momento me levantas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vieste por certo da formosa Estrela</l>
+          <l n="2">D'Alva, que maio abriu; viste daquela</l>
+          <l n="3">Toda prata e cristal, que no alto brilha.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Como um relógio que me chama à vida,</l>
+          <l n="2">Principalmente agora, ó alma querida,</l>
+          <l n="3">Que tenho mais uma formosa filha!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>*Dolorata*</head>
+        <lg n="1">
+          <l n="1">Da dor tirei o seu bonito nome,</l>
+          <l n="2">Da dor que há nove meses consumia</l>
+          <l n="3">As entranhas do teu ventre, Maria,</l>
+          <l n="4">E que inda agora mesmo te consome.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ah! que por isso a nossa filha dorme</l>
+          <l n="2">A quem na dor não vê um claro dia</l>
+          <l n="3">De redenção. E, cheia de alegria,</l>
+          <l n="4">Como um anjo do bem, aos céus assome.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas a nossa filhinha, de pequena</l>
+          <l n="2">Que era, não pôde suportar a dor</l>
+          <l n="3">Que lhe vazava o coração de pena.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E na verdade é tudo assim, querida:</l>
+          <l n="2">Quem sofre, sofre, seja como for!</l>
+          <l n="3">E o que é a dor senão a própria vida?</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>*Maria Conceptta*</head>
+        <lg n="1">
+          <l n="1">Estrela de eucarística aparência,</l>
+          <l n="2">Espiritualizada Estrela Maga,</l>
+          <l n="3">Pela tua sagrada florescência,</l>
+          <l n="4">Dize por onde a nossa filha vaga.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pela bendita e misteriosa essência</l>
+          <l n="2">Que o teu urnário de cristal alaga,</l>
+          <l n="3">Abre por nós o manto de clemência,</l>
+          <l n="4">E nos retira d'alma a noite aziaga.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pelas tuas safiras e teu ouro,</l>
+          <l n="2">Por esse rico e fúlgido tesouro</l>
+          <l n="3">Que eternamente lá por cima brilha,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Dize, Estrela Ideal, se nos teus prados</l>
+          <l n="2">Existem anjos bem-aventurados,</l>
+          <l n="3">E se com eles vive a nossa filha.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>*Zarina*</head>
+        <lg n="1">
+          <l n="1">Ah! para todo o sempre minha amada,</l>
+          <l n="2">Meu sol eterno, minha Estrela d'Alva,</l>
+          <l n="3">A tua luz é a luz da madrugada,</l>
+          <l n="4">A que dos mares lúgubres me salva.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dos longes dessa abóbada azulada</l>
+          <l n="2">Que às vezes é da cor da própria malva,</l>
+          <l n="3">Desces serenamente, imaculada,</l>
+          <l n="4">A minh'alma que tanta dor escalva.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Desces e ao mesmo tempo ao céu te elevas.</l>
+          <l n="2">Porque no mundo me encontraste em trevas.</l>
+          <l n="3">Porque no mundo me encontraste triste.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E como então me queres loucamente,</l>
+          <l n="2">Entre o meu peito aflito e o céu clemente,</l>
+          <l n="3">Uma piedade imorredoura existe.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>*José*</head>
+        <lg n="1">
+          <l n="1">Que nome iluminado escolheremos</l>
+          <l n="2">P'ra o nosso filho que há de vir ao mundo?</l>
+          <l n="3">Um nome branco como os crisântemos,</l>
+          <l n="4">Ou como os astros desse céu profundo?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pela nossa alma um lindo nome vemos;</l>
+          <l n="2">Eu já de rosas e clarões inundo...</l>
+          <l n="3">Será José. Nós bem nos compreendemos.</l>
+          <l n="4">No nosso amor de doce paz fecundo...</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas o nosso amantíssimo filhinho</l>
+          <l n="2">Não quis viver; voltou ao áureo caminho,</l>
+          <l n="3">Onde Nossa Senhora e São José,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nunca sentiram dentro d'alma as ânsias</l>
+          <l n="2">Dos caminhos de lúgubres distâncias...</l>
+          <l n="3">Lá não existe uma outra Nazaré!</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>*Samaritana*</head>
+        <lg n="1">
+          <l n="1">O lindo nome de Samaritana</l>
+          <l n="2">Ela teria, mas que sorte a sua!</l>
+          <l n="3">Veio e voltou na mesma caravana,</l>
+          <l n="4">Sob o palor tristíssimo da lua.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De onde a luz, nesse espaço azul, emana</l>
+          <l n="2">Ela veio, e p'ra lá voltou. A tua</l>
+          <l n="3">Alma veste-se então de dor insana,</l>
+          <l n="4">E a minh'alma na mesma dor flutua.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ah! se a nossa filhinha se criasse</l>
+          <l n="2">Dar-nos-ia o maior contentamento,</l>
+          <l n="3">Cada vez mais alegre e mais vivace,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quando, nos dias de calor violento,</l>
+          <l n="2">Desse água fresca e pura a quem passasse</l>
+          <l n="3">De cruz aos ombros, cheio de tormento.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>*Paulo*</head>
+        <lg n="1">
+          <l n="1">Paulo, na flórea estrada de Damasco</l>
+          <l n="2">Foi convertido ao amor do Nazareno.</l>
+          <l n="3">Deixou, portanto, deste mundo o asco,</l>
+          <l n="4">Extinguindo-lhe todo o atroz veneno...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pedro limpava, nessa tarde, o casco</l>
+          <l n="2">Do seu barco que para o mar, sereno</l>
+          <l n="3">Iria. E Paulo amou-o, do penhasco,</l>
+          <l n="4">Da altura excelsa de um clarão ameno.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E se a nascer chegasse o nosso filho,</l>
+          <l n="2">O meu amor, que misterioso brilho</l>
+          <l n="3">Nos seus lábios dulcíssimos traria...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Talvez, amor, dentro de poucos anos,</l>
+          <l n="2">Morressem para sempre os desenganos...</l>
+          <l n="3">E o que o mundo na fé então seria?...</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>*Maria Cleofas*</head>
+        <lg n="1">
+          <l n="1">Nasceste e apenas neste mundo um dia</l>
+          <l n="2">Pairaste. Mas que mal te fez a vida?</l>
+          <l n="3">E para que nasceste então, Maria,</l>
+          <l n="4">Por essa tarde de rosais florida?!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dum astro de dulcíssima harmonia,</l>
+          <l n="2">Como se for a da mais branca ermida,</l>
+          <l n="3">Não trouxeste no olhar toda a alegria?</l>
+          <l n="4">De ânsias tu'alma não desceu despida?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pairaste apenas um momento, o quanto</l>
+          <l n="2">Necessário talvez para que o meu pranto</l>
+          <l n="3">Fosse pelo teu lenço de piedade,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Neste Saara tenebroso, enxuto...</l>
+          <l n="2">É o que as almas me dizem, se as perscruto,</l>
+          <l n="3">Quando te lembro, cheio de saudade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>*Cirineu*</head>
+        <lg n="1">
+          <l n="1">Vindo que seja, e se for homem, há de</l>
+          <l n="2">O nosso filho ter um nome lindo.</l>
+          <l n="3">Conosco ele andará pela cidade</l>
+          <l n="4">E pelos campos que se vão florindo...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas o nosso filhinho (Que impiedade!)</l>
+          <l n="2">Deixou de vir do sol, ou se foi indo</l>
+          <l n="3">Para mais longe, para a imensidade</l>
+          <l n="4">Onde outros sóis no azul estão luzindo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Chamar-se-ia Cirineu. Que belo</l>
+          <l n="2">Se chegasse a nascer, e bem juntinho</l>
+          <l n="3">De nós ambos, Maria, e com desvelo</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nos ajudasse, amor, esse filhinho,</l>
+          <l n="2">A carregar a cruz, que é o pesadelo</l>
+          <l n="3">Maior que temos neste atroz caminho!</l>
+        </lg>
+      </div>
+      <div type="poem" n="18">
+        <head>*Pedro*</head>
+        <lg n="1">
+          <l n="1">Pedro seria o nome predileto</l>
+          <l n="2">Deste que, coitadinho, nasceu morto.</l>
+          <l n="3">Ah! Pedro, não! o Galileu, absorto,</l>
+          <l n="4">Não deu ao Mestre um coração correto.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Outro nome teria esse dileto</l>
+          <l n="2">Filho do nosso amor, do nosso horto...</l>
+          <l n="3">Nem mesmo o nosso coração é um porto</l>
+          <l n="4">Com barco a vela, de saudoso aspecto.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas o que digo? Pois ninguém na terra</l>
+          <l n="2">Que tanta lama de miséria encerra,</l>
+          <l n="3">Jamais deixou, no fundo dos reveses,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ou na alegria que na vida o açoite,</l>
+          <l n="2">De negar, dia e noite, dia e noite,</l>
+          <l n="3">Mais do que Pedro, bilhões de vezes?!</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>*Netos*</head>
+        <lg n="1">
+          <l n="1">Quem há que tenha netos e não sinta</l>
+          <l n="2">No peito, uns sentimentos de bondade,</l>
+          <l n="3">Iguais aos que a nossa mocidade</l>
+          <l n="4">Encheram de clarões de luz e tinta...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Nessa quadra feliz porém extinta,</l>
+          <l n="2">Na nossa casa que felicidade!</l>
+          <l n="3">Mas hoje é a mesma casa, na verdade:</l>
+          <l n="4">Basta que tu consintas e eu consinta</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Dos nossos netos toda a traquinagem...</l>
+          <l n="2">Pois eles são a verdadeira imagem</l>
+          <l n="3">Dos nossos filhos, pássaros divinos...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E assim iremos tendo a vida inteira</l>
+          <l n="2">Cada vez mais alegre e alvissareira...</l>
+          <l n="3">Ah! nós também já fomos pequeninos!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="20">
+        <head>*Newton*</head>
+        <lg n="1">
+          <l n="1">Já tive o estio dentro do meu peito</l>
+          <l n="2">E todo ele era um lindo roseiral.</l>
+          <l n="3">Vivia alegre e muito satisfeito</l>
+          <l n="4">Sem os venenos trágicos do mal.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dos rapazes eu era o mais eleito,</l>
+          <l n="2">E o mais querido como o próprio sal.</l>
+          <l n="3">Hoje, friorento, vivo no meu leito...</l>
+          <l n="4">Ah! como a vida é toda original!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas não sinto pesar de haver perdido</l>
+          <l n="2">O sol do estio: — Um outro sol me veio,</l>
+          <l n="3">E mais outros virão, do florescido</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Estio da tu'alma, em pleno eflúvio;</l>
+          <l n="2">Dessa tu'alma que é o mais belo seio</l>
+          <l n="3">Do Arco-Íris nas águas do dilúvio!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="21">
+        <head>*Ondina*</head>
+        <lg n="1">
+          <l n="1">Quando João andava no deserto,</l>
+          <l n="2">Nutrindo-se de mel e gafanhotos,</l>
+          <l n="3">Isso nos tristes séculos remotos,</l>
+          <l n="4">Num tempo que do céu anda bem perto...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ele que tinha o largo peito aberto,</l>
+          <l n="2">E os pés descalços, dos espinhos rotos...</l>
+          <l n="3">Da fé floriam os verdurosos brotos,</l>
+          <l n="4">Do amor mostrava o nosso campo, certo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas não andava só pelo degredo;</l>
+          <l n="2">Talvez tivesse algum pavor e medo;</l>
+          <l n="3">E por isso chamou, num claro dia,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Uma ovelhinha muito casta e doce.</l>
+          <l n="2">E ela, nesse deserto, talvez fosse</l>
+          <l n="3">A que hoje tenho em minha companhia.</l>
+        </lg>
+      </div>
+      <div type="poem" n="22">
+        <head>*Lycurgo*</head>
+        <lg n="1">
+          <l n="1">Filha, não chores pelo teu filhinho</l>
+          <l n="2">Porque a gente peca quando chora...</l>
+          <l n="3">Será melhor prender um passarinho,</l>
+          <l n="4">Ou deixá-lo voar espaço em fora?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando eras pequenina, no caminho,</l>
+          <l n="2">A luz branca e puríssima da aurora,</l>
+          <l n="3">Não ias tu em busca de algum ninho?</l>
+          <l n="4">E o que vias na luz branca e sonora?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vias encantos. E contente, ouvias</l>
+          <l n="2">As ladainhas de ouro, e as litanias,</l>
+          <l n="3">Dos pintassilgos joviais, faceiros.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Saibas tu, meu amor, que eles voavam</l>
+          <l n="2">Alegremente livres, e cantavam</l>
+          <l n="3">Nas ermidas em flor dos espinheiros.</l>
+        </lg>
+      </div>
+      <div type="poem" n="23">
+        <head>*Antônio*</head>
+        <lg n="1">
+          <l n="1">Antônio, se me vires bem velhinho,</l>
+          <l n="2">Com as passadas trêmulas, não deixa</l>
+          <l n="3">O teu avô cair pelo caminho;</l>
+          <l n="4">E ouve-lhe, neto, a sua triste queixa...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E eu velhinho já sou, tenho a madeixa</l>
+          <l n="2">Toda tão branca como o próprio linho.</l>
+          <l n="3">E quantas mágoas a minh'alma enfeixa,</l>
+          <l n="4">Como o rosário azul de um capuchinho.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E se eu chegar a ter oitenta anos,</l>
+          <l n="2">Nessa quadra terás apenas vinte,</l>
+          <l n="3">E ainda por ti, meu neto, os desenganos</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Passado não terão. Por isso, quando</l>
+          <l n="2">Eu os anseios últimos te pinte,</l>
+          <l n="3">Irás entre os teus braços me amparando.</l>
+        </lg>
+      </div>
+      <div type="poem" n="24">
+        <head>*Juvêncio*</head>
+        <lg n="1">
+          <l n="1">Se soubesses em que estou pensando</l>
+          <l n="2">Com certeza a tu'alma choraria...</l>
+          <l n="3">Olha, meu neto, quando chega um dia,</l>
+          <l n="4">E atrás desse outros dias vão chegando...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E a gente vê as faces se enrugando,</l>
+          <l n="2">E o coração aberto à nostalgia,</l>
+          <l n="3">E à luz do olhar a estrada se acabando,</l>
+          <l n="4">E muito ao longe a branca casaria...</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Estou pensando nisso tudo, nisso</l>
+          <l n="2">Que nos arranca da saúde o viço;</l>
+          <l n="3">E nos conduz, nas asas do mistério,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Aos sete palmos de um buraco imundo,</l>
+          <l n="2">Onde se acaba o orgulho deste mundo,</l>
+          <l n="3">Na ironia fatal do cemitério.</l>
+        </lg>
+      </div>
+      <div type="poem" n="25">
+        <head>*Urânia*</head>
+        <lg n="1">
+          <l n="1">Eu creio nos que vão para as Esferas,</l>
+          <l n="2">Para as Esferas límpidas do Espaço,</l>
+          <l n="3">Despidos todos do augural cansaço,</l>
+          <l n="4">Sem a eclosão das lágrimas austeras.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sei que por lá existiram primaveras;</l>
+          <l n="2">E em cada luz um túmido regaço,</l>
+          <l n="3">Que ampara o braço aflito quando o braço</l>
+          <l n="4">Chega de andar lutando contra as feras.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sei que nos tristes túmulos sombrios</l>
+          <l n="2">Não existe mais que o corpo inanimado</l>
+          <l n="3">Dos que se viram nos dantescos rios...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E crendo que dos pântanos imundos,</l>
+          <l n="2">Possa brotar um lírio imaculado,</l>
+          <l n="3">Creio que virás por diversos mundos!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="26">
+        <head>*Nazarena*</head>
+        <lg n="1">
+          <l n="1">Depois de fatigante caminhada</l>
+          <l n="2">Hei de deitar-me à sombra de um cipreste.</l>
+          <l n="3">Vestido como a noite então se veste,</l>
+          <l n="4">Quando não brilha a lua imaculada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De olhos sem luz e fronte congelada,</l>
+          <l n="2">Hei de dormir nessa mansão agreste,</l>
+          <l n="3">Como quem dorme na mansão celeste,</l>
+          <l n="4">Lá nessa paz do azul, iluminada.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E quando isso acontecer, que estejas,</l>
+          <l n="2">Tu, que tanto me queres e me beijas,</l>
+          <l n="3">Que estejas junto ao derradeiro leito</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Do teu avô, que morrerá contente,</l>
+          <l n="2">Se lhe cruzares piedosamente</l>
+          <l n="3">As suas mãos geladas sobre o peito.</l>
+        </lg>
+      </div>
+      <div type="poem" n="27">
+        <head>*Clécio*</head>
+        <lg n="1">
+          <l n="1">Acham-te todos muito parecido</l>
+          <l n="2">Com o teu triste e desolado avô!</l>
+          <l n="3">Mas como estou na vida tão vencido;</l>
+          <l n="4">Como na vida tão velhinho estou.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Deste meu peito, outrora tão florido</l>
+          <l n="2">(E foi a mocidade que o enflorou)</l>
+          <l n="3">Cai para um fundo lúgubre um gemido;</l>
+          <l n="4">E o sonho branco para além voou.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu não acho que os teus formosos olhos</l>
+          <l n="2">Tenham, iguais aos meus, negros abrolhos;</l>
+          <l n="3">Nem tuas faces liriais os selos</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Da tristeza que há tempos me atormenta,</l>
+          <l n="2">Nem seja a tua boca flor sangrenta,</l>
+          <l n="3">Nem sejam neve eterna os teus cabelos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="28">
+        <head>*Léa*</head>
+        <lg n="1">
+          <l n="1">Sei que existes porém não te conheço</l>
+          <l n="2">Se não por um retrato pequenino.</l>
+          <l n="3">Mas mesmo assim na vida não te esqueço;</l>
+          <l n="4">Vem-me lembrança o teu melhor destino.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Peço a Jesus o sonho que careço,</l>
+          <l n="2">Dentro do qual, no seu fulgor divino,</l>
+          <l n="3">(Linda estátua de mármore ou de gesso)</l>
+          <l n="4">Passe o teu corpo ideal, meigo e franzino.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E o sonho desce, quase sempre à noite...</l>
+          <l n="2">Desce da luz da limpidez do espaço;</l>
+          <l n="3">E antes que o tédio do viver me açoite.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ouço-te a voz repleta de fragrância,</l>
+          <l n="2">Que ao coração me fala do cansaço</l>
+          <l n="3">Das asas que se perdem na distância...</l>
+        </lg>
+      </div>
+      <div type="poem" n="29">
+        <head>*Jandir*</head>
+        <lg n="1">
+          <l n="1">Meu neto, a infância é um botão de rosa</l>
+          <l n="2">Que se esconde entre as folhas da roseira.</l>
+          <l n="3">Numa linda manhã alvissareira</l>
+          <l n="4">Embalada na brisa silenciosa.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não o inquieta a abelha vaporosa,</l>
+          <l n="2">Nem o zangão lhe dá fatal canseira...</l>
+          <l n="3">Deixa-o ali estar a vida inteira,</l>
+          <l n="4">A ave daninha, a mais ambiciosa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas flor aberta à viva alacridade</l>
+          <l n="2">Do céu azul, será a mocidade,</l>
+          <l n="3">Cheia de seiva em dias de verão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E quando desfolhada (Eu já to disse)</l>
+          <l n="2">Será por certo o emblema da velhice,</l>
+          <l n="3">No atro caminho da desilusão.</l>
+        </lg>
+      </div>
+      <div type="poem" n="30">
+        <head>*Maria Helena*</head>
+        <lg n="1">
+          <l n="1">Nem quatro palmos tem, Maria Helena,</l>
+          <l n="2">E eu já lhe vejo uma alma de eleição,</l>
+          <l n="3">Meiga, suave, límpida e serena,</l>
+          <l n="4">Como a água sagrada do Jordão.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Chama as bonecas, como ao som da avena</l>
+          <l n="2">Chama a pastora a ovelha, no sertão,</l>
+          <l n="3">E lhes dá mantos lindos, de açucena,</l>
+          <l n="4">No aprisco de ouro do seu coração.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Permita todo o céu estrelejado</l>
+          <l n="2">Que a minha neta veja-me ao seu lado</l>
+          <l n="3">Ainda algum tempo, embora bem velhinho,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Trêmulas as pernas, trêmulos os passos,</l>
+          <l n="2">Trêmula a fronte, e ambos os meus braços,</l>
+          <l n="3">Mas todo ungido pelo seu carinho.</l>
+        </lg>
+      </div>
+      <div type="poem" n="31">
+        <head>*Mário*</head>
+        <lg n="1">
+          <l n="1">Tão pequenino, apenas com dois anos,</l>
+          <l n="2">Sabe de cor a carta do <choice><orig>A-B-C.</orig><seg type="exp">abecê</seg></choice></l>
+          <l n="3">Logo, em ficando grande, já se vê,</l>
+          <l n="4">Conhecerá das Letras os arcanos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Fará nas Letras os mais lindos planos</l>
+          <l n="2">De luminosos ideais, porque</l>
+          <l n="3">Nos olhos dele, tão espertos, sei</l>
+          <l n="4">Haver labutas contra os desenganos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E os vencerá (Deus o permita), como</l>
+          <l n="2">Vence o soldado, num febril assomo,</l>
+          <l n="3">As muralhas fantásticas de um forte.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ah! seja sempre, o meu querido neto,</l>
+          <l n="2">Um coração boníssimo, correto,</l>
+          <l n="3">Para vencer a vida e a própria morte.</l>
+        </lg>
+      </div>
+      <div type="poem" n="32">
+        <head>*Isabel*</head>
+        <lg n="1">
+          <l n="1">Em novembro floresce o jasmineiro,</l>
+          <l n="2">De tal maneira que dá gosto vê-lo,</l>
+          <l n="3">E esse que está florindo, no terreiro</l>
+          <l n="4">Da nossa casa, lembra o Sete-Estrelo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas muito mais floresce o peito inteiro</l>
+          <l n="2">De um pai no amor, no íntimo desvelo</l>
+          <l n="3">Por uma filha cujo olhar fagueiro</l>
+          <l n="4">Ter-lhe d'alma um fundo pesadelo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E tu nasceste para nosso encanto</l>
+          <l n="2">Pois nessa boca, um sorriso santo</l>
+          <l n="3">Vimos um sonho que não é da terra.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ah! meu amor, um pássaro risonho,</l>
+          <l n="2">Nossa Senhora que te conte o sonho</l>
+          <l n="3">Que ainda a tua alma encantadora encerra.</l>
+        </lg>
+      </div>
+      <div type="poem" n="33">
+        <head>*Conceptta*</head>
+        <lg n="1">
+          <l n="1">Vejo-a sorrindo, encantadora e bela</l>
+          <l n="2">Como a ave que vem no meu telhado</l>
+          <l n="3">Cantar de tarde, à hora em que uma estrela</l>
+          <l n="4">Fulge como um turíbulo doirado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vejo-a sorrindo, e me aproximo dela,</l>
+          <l n="2">Devagarinho, cheio de cuidado...</l>
+          <l n="3">? Não te vá magoar a tagarela</l>
+          <l n="4">Alma do teu avô, digo assustado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas Conceptta me escuta, e ainda sorrindo</l>
+          <l n="2">Se transfigura no luar mais lindo,</l>
+          <l n="3">Que é todo a luz misericordiosa</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Dos seus olhares límpidos e ternos,</l>
+          <l n="2">Junto da qual apagam-se os infernos</l>
+          <l n="3">E vibra a alma, translúcida e formosa.</l>
+        </lg>
+      </div>
+      <div type="poem" n="34">
+        <head>*Marília*</head>
+        <lg n="1">
+          <l n="1">Se as hortênsias falassem, se as hortênsias</l>
+          <l n="2">Contar pudessem como se vestiram</l>
+          <l n="3">De azul celeste, e como as resplandecências</l>
+          <l n="4">Do sol nas suas ânforas caíram.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se as hortênsias falassem, se as hortênsias</l>
+          <l n="2">Dissessem tudo quanto são, e viram</l>
+          <l n="3">Do céu na comunhão das florescências</l>
+          <l n="4">Das quais os campos verdes se cobriram.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se as hortênsias falassem, certamente,</l>
+          <l n="2">Ó minha neta amada, alma inocente,</l>
+          <l n="3">Saberíamos todos de que mundo.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Teriam vindo as cândidas pupilas,</l>
+          <l n="2">Meigas, graciosas, doces e tranquilas</l>
+          <l n="3">Dos teus olhos azuis, de olhar profundo!</l>
+        </lg>
+      </div>
+      <div type="poem" n="35">
+        <head>*Hércio*</head>
+        <lg n="1">
+          <l n="1">Quando vês o vovô, dás gargalhadas</l>
+          <l n="2">Que parecem tilintos de ouro e prata,</l>
+          <l n="3">Ou a música d'água da cascata</l>
+          <l n="4">Que corta os campos verdes e as estradas.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E dás palmas então, muito engraçadas,</l>
+          <l n="2">Nas quais tua alma virgem se arrebata</l>
+          <l n="3">A mundos que nem sei! Talvez à cata</l>
+          <l n="4">De quem possa aplaudi-la, horas contadas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas fico, às vezes, bem desconfiado,</l>
+          <l n="2">Que estejas, meu formoso neto amado,</l>
+          <l n="3">Rindo da branquidão dos meus cabelos,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que é a neve que cai das invernias</l>
+          <l n="2">Cheias de tédio e de melancolias,</l>
+          <l n="3">Nas estepes cruéis dos pesadelos.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

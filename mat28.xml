@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36516"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">As mulatas me esqueceram</l>
+          <l n="2">a quem com veneração</l>
+          <l n="3">darei o meu beliscão</l>
+          <l n="4">por amoroso</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>  ACHANDO SE O POETA EM HUMA FESTIVIDADE NA IGREJA DE SAM FRANCISCO OUTROS AMIGOS, QUE ALI ESTAVÃO SOBRE QUAL ERA A MAIS FORMOSA, ELLEGE ENTRE AS TREZ A JOANNA POR MAIS FORMOSA E SINGULAR.</head>
+        <lg n="1">
+          <l n="1">Dão agora em contender</l>
+          <l n="2">sobre qual Moça é mais bela,</l>
+          <l n="3">Joana, se a parentela,</l>
+          <l n="4">e eu me não sei resolver:</l>
+          <l n="5">se eu pudera a Páris ser</l>
+          <l n="6">de tão diversos Zagalos,</l>
+          <l n="7">de tais garbos, de tais galas,</l>
+          <l n="8">não só Joana julgara,</l>
+          <l n="9">que as mais prefere na cara</l>
+          <l n="10">mas a Vênus, Juno, e Palas.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se Páris julgou com risco,</l>
+          <l n="2">pois pela sentença dada</l>
+          <l n="3">vemos a Tróia abrasada,</l>
+          <l n="4">arda embora São Francisco:</l>
+          <l n="5">reduzida a cinza, ou cisco</l>
+          <l n="6">o sítio de idade a idade</l>
+          <l n="7">dê assunto à posteridade;</l>
+          <l n="8">arda ao sítio, o mundo arda,</l>
+          <l n="9">viva Joana galharda,</l>
+          <l n="10">e eu morra pela verdade.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As mais são muito formosas,</l>
+          <l n="2">mui graves, e mui atentas,</l>
+          <l n="3">nas Joana entre as Parentas</l>
+          <l n="4">é Almirante entre as rosas:</l>
+          <l n="5">as estrelas luminosas</l>
+          <l n="6">sendo à Lua paralelas</l>
+          <l n="7">são belas, mas menos belas,</l>
+          <l n="8">e assim Joana em rigor</l>
+          <l n="9">sendo a Luminar maior</l>
+          <l n="10">és mais bela, que as estrelas.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Um Céu a Igreja se viu,</l>
+          <l n="2">onde em luzido arrebol</l>
+          <l n="3">brilham astros, veio o Sol,</l>
+          <l n="4">e as estrelas desluziu:</l>
+          <l n="5">qual sol Joana subiu,</l>
+          <l n="6">e os astros escureceu;</l>
+          <l n="7">se o que sucede no Céu,</l>
+          <l n="8">sucede na Terra enfim,</l>
+          <l n="9">bem haja eu, que o julgo assim</l>
+          <l n="10">porque assim me pareceu.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>RETRATA O POETA AS GALHARDAS PERFEYÇÕES DESTA DAMA SEM HYPERBOLE DE ENCARECIMENTO.</head>
+        <lg n="1">
+          <l n="1">Retratar ao bizarro</l>
+          <l n="2">quero Joanica,</l>
+          <l n="3">por ser Moça, galharda</l>
+          <l n="4">sobre bonita.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que os cabelos são d'ouro,</l>
+          <l n="2">não se duvida,</l>
+          <l n="3">porque o Sol é Joana,</l>
+          <l n="4">que o certifica.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">São seus olhos por claros</l>
+          <l n="2">alvas do dia,</l>
+          <l n="3">que põem de ponto em branco</l>
+          <l n="4">a rapariga.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Certo dia encontrei,</l>
+          <l n="2">que alegre ria,</l>
+          <l n="3">mas não vi, que de prata</l>
+          <l n="4">os dentes tinha.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Por entre eles a língua</l>
+          <l n="2">mal se divisa,</l>
+          <l n="3">mas é certo, que fala</l>
+          <l n="4">como entendida.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">A boquinha bem feita,</l>
+          <l n="2">e pequenina</l>
+          <l n="3">a pedir vem de boca</l>
+          <l n="4">por bonitinha.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Que tem mãos liberais,</l>
+          <l n="2">quem o duvida.</l>
+          <l n="3">que as mãos sempre lavadas</l>
+          <l n="4">dá como rica.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Da camisa o cambrai</l>
+          <l n="2">tem rendas finas,</l>
+          <l n="3">e eu lá vi, que os peitinhos</l>
+          <l n="4">me davam figas.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Ser de peito atacado</l>
+          <l n="2">me parecia</l>
+          <l n="3">porque muito delgada</l>
+          <l n="4">a cinta tinha.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Com um guarda-pé verde</l>
+          <l n="2">Os pés cobria,</l>
+          <l n="3">sendo que tomou pé</l>
+          <l n="4">para ser vista.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Sim julguei, que pequenos</l>
+          <l n="2">os pés teria,</l>
+          <l n="3">quando vi que de firme</l>
+          <l n="4">mui pouco tinha.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">E com isto vos juro</l>
+          <l n="2">minha Menina,</l>
+          <l n="3">que vos quero, e vos amo</l>
+          <l n="4">por minha vida.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>DESCAINDO ESTA MOÇA DA GRAÇA DO POETA, À SACODE COM A MESMA PENNA, QUE À LOUVOU NAS OBRAS ANTECEDENTES, APARECENDO COM HUA SAYA VERDE.</head>
+        <lg n="1">
+          <l n="1">Quando lá no ameno prado</l>
+          <l n="2">a Mãe Eva a graça perde,</l>
+          <l n="3">vestiu-se logo de verde</l>
+          <l n="4">em sinal de haver pecado:</l>
+          <l n="5">a Dama nos há mostrado</l>
+          <l n="6">no verde a sua caída;</l>
+          <l n="7">se Eva de puro sentida</l>
+          <l n="8">logo de verde se enluta,</l>
+          <l n="9">esta, que provou a fruta,</l>
+          <l n="10">de verde seja vestida.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36508"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Desde que, Isabel, te vi,</l>
+          <l n="2">tal fiquei; que desde então</l>
+          <l n="3">em mim se verá quem não</l>
+          <l n="4">sabe já parte de si</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>NAMORA-SE DE OUTRA CHAMADA BELETA,  OU IZABEL, A QUEM FAZ O SEGUINTE.</head>
+        <lg type="mote">
+          <l n="1">Desde que, Isabel, te vi</l>
+          <l n="2">tal fiqvei, qve desde então</l>
+          <l n="3">em mim se verá quem não</l>
+          <l n="4">sabe já parte de si.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Jactou-se o meu alvedrio</l>
+          <l n="2">de nascer com isenção</l>
+          <l n="3">contra a dura escravidão</l>
+          <l n="4">de Amor, e seu Senhorio:</l>
+          <l n="5">como neste altivo brio</l>
+          <l n="6">vivo, desde que nasci,</l>
+          <l n="7">agora que me rendi,</l>
+          <l n="8">confessa com suma dor,</l>
+          <l n="9">que é já vassalo de Amor,</l>
+          <l n="10">Desde que, Isabel, te vi.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E como não sei contar-te,</l>
+          <l n="2">nem posso formar conceito</l>
+          <l n="3">qual foi primeiro em meu peito</l>
+          <l n="4">se o ver-te, se o adorar-te,</l>
+          <l n="5">e sei, que de ver-te, e amar-te</l>
+          <l n="6">foi tudo uma ocasião,</l>
+          <l n="7">por resolver a questão</l>
+          <l n="8">de quando entrei a querer-te,</l>
+          <l n="9">digo, que ao tempo de ver-te</l>
+          <l n="10">Tal fiquei, que desde então.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Tal fiquei, e tão absorto,</l>
+          <l n="2">Quando vi tua beleza,</l>
+          <l n="3">que a minha menor fineza</l>
+          <l n="4">é amar, a quem me tem morto:</l>
+          <l n="5">e como a viver me exorto</l>
+          <l n="6">só por lograr a ocasião</l>
+          <l n="7">de pensar meu coração,</l>
+          <l n="8">tendo-se visto, quem já</l>
+          <l n="9">por não penar morrerá,</l>
+          <l n="10">em mim se verá, quem não.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Em mim se verá cumprida</l>
+          <l n="2">a mor afeição de sorte,</l>
+          <l n="3">que porque dure até à morte,</l>
+          <l n="4">por padecer guarde a vida:</l>
+          <l n="5">afeição jamais ouvida,</l>
+          <l n="6">amor não visto até aqui</l>
+          <l n="7">ficará, Isabel, de ti,</l>
+          <l n="8">mas como enfim to diria,</l>
+          <l n="9">quem por nenhum modo, ou via</l>
+          <l n="10">Sabe já parte de si.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>COMO O NÃO QUIS ADMITIR, A DESCOMPÕE NO SEGUINTE SONETO.</head>
+        <lg n="1">
+          <l n="1">Beleta, a vossa perna tão chagada</l>
+          <l n="2">Olha poderá ser pelo podrida,</l>
+          <l n="3">Mas eu não quero Olha em minha vida</l>
+          <l n="4">Podrida pelo mal inficionada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Estais tão lazarenta, e empestada,</l>
+          <l n="2">Tão ética, mirrada, e corcomida,</l>
+          <l n="3">Que uma pilhancra vossa bem moída</l>
+          <l n="4">Servirá de peçonha refinada.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O que vos gabo é ser presuntuosa</l>
+          <l n="2">Em tal camalidade, em tal miséria,</l>
+          <l n="3">Como se a podridão fora formosa.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas se o acaso vos dói, Dona Lazéria,</l>
+          <l n="2">O gume deste verso, ou desta prosa,</l>
+          <l n="3">Sabei que o vosso humor deu a matéria.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>ACONTECEO QUE FALLANDO ESTA IZABEL COM HUM CERTANEJO, FOY POR  ELLE ACHADA COM ALEXANDRE DE SOUZA MARQUES, RAPAZ, DE QUEM O  POETA SE ENFURECIA ZELOSO, E DESCREVE, A CARREYRA, QUE O CERTANEJO LHE DEO.</head>
+        <lg n="1">
+          <l n="1">Colheu-vos na esparrela</l>
+          <l n="2">o Tabaréu inimigo,</l>
+          <l n="3">vós queríeis o postigo,</l>
+          <l n="4">e tomastes a janela:</l>
+          <l n="5">Beleta de sentinela</l>
+          <l n="6">vendo-vos dentro da praça</l>
+          <l n="7">deu um tiro, e à fumaça</l>
+          <l n="8">acudiu logo o Tenente,</l>
+          <l n="9">fugistes, que o mais valente</l>
+          <l n="10">nas mãos do inimigo embaça.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Como do postigo a malha</l>
+          <l n="2">ocupou logo o Tenente,</l>
+          <l n="3">vós em risco tão urgente</l>
+          <l n="4">saltastes pela muralha:</l>
+          <l n="5">se caísseis sobre a palha,</l>
+          <l n="6">livráreis com menos perda,</l>
+          <l n="7">mas como Beleta é esquerda,</l>
+          <l n="8">e o laço vos pôs no chão,</l>
+          <l n="9">não caístes na traição,</l>
+          <l n="10">porém caístes na merda.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As mãos pusestes no chão,</l>
+          <l n="2">e sentindo a terra branda,</l>
+          <l n="3">da brandura, que tresanda,</l>
+          <l n="4">tivestes má presunção:</l>
+          <l n="5">e assim discorrendo então,</l>
+          <l n="6">se aquela papa-moleta</l>
+          <l n="7">era favor, ou era treta,</l>
+          <l n="8">por informes do nariz</l>
+          <l n="9">soubestes mais de raiz,</l>
+          <l n="10">que era caca de Beleta.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Então mais precipitado</l>
+          <l n="2">fostes fugindo ao perigo,</l>
+          <l n="3">menos do ferro inimigo,</l>
+          <l n="4">que de Beleta ao ferrado:</l>
+          <l n="5">deixando o mato roçado,</l>
+          <l n="6">e a poia menos pomposa</l>
+          <l n="7">vos pondes em polvorosa,</l>
+          <l n="8">que é menos para temido</l>
+          <l n="9">qualquer zeloso ofendido,</l>
+          <l n="10">que uma Puta cagajosa.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Não me espanto não da perda</l>
+          <l n="2">que então teve o tal vinagre,</l>
+          <l n="3">porque como o Moço é bagre</l>
+          <l n="4">se havia de ir logo à merda:</l>
+          <l n="5">espanta-me que tão lerda</l>
+          <l n="6">fosse uma Puta velhaca,</l>
+          <l n="7">pois não lhe dando uma ataca</l>
+          <l n="8">ele, e sendo ela mesquinha,</l>
+          <l n="9">lhe sofresse a passarinha,</l>
+          <l n="10">que ele lhe rapasse a caca.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Tanto Beleta se ria,</l>
+          <l n="2">que me dizem, que afirmara,</l>
+          <l n="3">que a caca de então ficara</l>
+          <l n="4">açúcar de Alexandria:</l>
+          <l n="5">eu não sei, porque o dizia,</l>
+          <l n="6">só sei, que aqui se contou,</l>
+          <l n="7">que porque a merda pisou</l>
+          <l n="8">um Alexandre, a velhaca</l>
+          <l n="9">dissera, que a sua caca</l>
+          <l n="10">Alexandria ficou.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Como estranha a má pessoa,</l>
+          <l n="2">que o seu segredo não dura,</l>
+          <l n="3">se dorme com tô forçura,</l>
+          <l n="4">que todo o lanço apregoa?</l>
+          <l n="5">que esperava a Tabaroa</l>
+          <l n="6">de um inocente sendeiro</l>
+          <l n="7">raso de barba, e dinheiro?</l>
+          <l n="8">que esperava esta velhaca?</l>
+          <l n="9">que ele se borre de caca,</l>
+          <l n="10">e ela lhe alimpe o cueiro.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Beleta é olha podrida,</l>
+          <l n="2">de que Deus livre meu odre,</l>
+          <l n="3">e se é ardida, como é podre,</l>
+          <l n="4">não vi puta mais ardida:</l>
+          <l n="5">está de sarna manida,</l>
+          <l n="6">e anda gafa de coceira,</l>
+          <l n="7">a cara é uma caveira,</l>
+          <l n="8">a carne pilha morrinha,</l>
+          <l n="9">e porque é puta ratinha,</l>
+          <l n="10">mora em uma ratoeira.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Beleta, como passais</l>
+          <l n="2">nesta troca tão bizarra:</l>
+          <l n="3">eu vos dou pela bandarra,</l>
+          <l n="4">vós por bandarra me dais:</l>
+          <l n="5">se vós de mim vos queixais,</l>
+          <l n="6">eu também de vós me queixo,</l>
+          <l n="7">e pondo a cousa em seu eixo,</l>
+          <l n="8">a mim por razão me vem,</l>
+          <l n="9">pois me deixais por ninguém,</l>
+          <l n="10">como eu por alguém vos deixo.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Vós por um Dom Tabaréu</l>
+          <l n="2">deixais um Doutor em Leis,</l>
+          <l n="3">eu deixo, como sabeis,</l>
+          <l n="4">um bagre por um xaréu:</l>
+          <l n="5">vós me quitais o chapéu</l>
+          <l n="6">com infame ingratidão,</l>
+          <l n="7">eu não fui ingrato não,</l>
+          <l n="8">e quem troca odre por odre,</l>
+          <l n="9">um deles há de ser podre,</l>
+          <l n="10">e o meu nesta troca é são.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>QUEYXAVA-SE IZABEL DO POETA, ELLE A SATISFAZ  CAVILOSAMENTE NESTE ROMANCE.</head>
+        <lg n="1">
+          <l n="1">Beleta, eu zombeteava,</l>
+          <l n="2">que nunca falei deveras</l>
+          <l n="3">satirizando as amigas,</l>
+          <l n="4">senão contando finezas.</l>
+          <l n="5">Vós não dormis co Alexandre,</l>
+          <l n="6">nem o rapaz tal intenta,</l>
+          <l n="7">nem da janela saltou,</l>
+          <l n="8">nem foi passado por merda.</l>
+          <l n="9">Tudo é embustes de moços,</l>
+          <l n="10">tudo são contos de velhas,</l>
+          <l n="11">e se o sítio o diz assim,</l>
+          <l n="12">mente o sítio, e toda a terra.</l>
+          <l n="13">Mas quem ao Amor tirara,</l>
+          <l n="14">que mil ciúmes conceba</l>
+          <l n="15">da mais pequena mentira,</l>
+          <l n="16">e da mais leve suspeita.</l>
+          <l n="17">Eu ouvia, e escutava,</l>
+          <l n="18">e passava estas misérias</l>
+          <l n="19">de manhã pelos ouvidos,</l>
+          <l n="20">de tarde pelas orelhas.</l>
+          <l n="21">Entendi, que assim seria,</l>
+          <l n="22">imaginei, que assim era,</l>
+          <l n="23">que a um amor de bom gosto</l>
+          <l n="24">sempre acompanha má estrela.</l>
+          <l n="25">Senti a minha fortuna,</l>
+          <l n="26">queixei-me da vossa ofensa:</l>
+          <l n="27">quem com finezas ofende,</l>
+          <l n="28">como agradará com queixas?</l>
+          <l n="29"><choice><orig>Muger llora, y vencerás</orig><seg type="apo">Muger lôra e vencerás</seg></choice>,</l>
+          <l n="30">dizia a doutor Poeta,</l>
+          <l n="31">vós chorastes, e vencestes,</l>
+          <l n="32">e eu choro, por quem me vença.</l>
+          <l n="33">Estais tão justificada</l>
+          <l n="34">no juízo das suspeitas,</l>
+          <l n="35">que Amor vos absolve já,</l>
+          <l n="36">se lhe prometeis emenda.</l>
+          <l n="37">Retirai-vos de rapazes,</l>
+          <l n="38">que é gente, que se conversa,</l>
+          <l n="39">é força, que infama a casa,</l>
+          <l n="40">pelas cócegas, que deixa.</l>
+          <l n="41">Enxugai, Beleta, o pranto,</l>
+          <l n="42">em riso se torne a queixa,</l>
+          <l n="43">comei cajus, e voltai,</l>
+          <l n="44">que a minha fruita está certa.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

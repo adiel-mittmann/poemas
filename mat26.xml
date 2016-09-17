@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36504"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Eu fiquei com minhas mágoas</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Oh nunca foram tantos</l>
+          <l n="2">nem tão fortes meus males</l>
+          <l n="3">como as ondas</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>NESTE RETIRO DEVEMOS SUPPOR O POETA CONSULTADO DE VARIOS AMIGOS COM ALGUNS ASSUMPTOS PARA RESOLVER, E ASSIM PROSSEGUIREMOS COM AS OBRAS SEGUINTES.</head>
+        <lg n="1">
+          <l n="1">Fábio; que pouco entendes de finezas.</l>
+          <l n="2">Quem faz só, o que pode, a pouco obriga;</l>
+          <l n="3">Quem contra os impossíveis se afadiga,</l>
+          <l n="4">A esses se dê amor em mil ternezas.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Amor comete sempre altas empresas;</l>
+          <l n="2">Pouco amor muita sede não mitiga;</l>
+          <l n="3">Quem impossíveis vence, este me instiga</l>
+          <l n="4">Vencer por ele muitas estranhezas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As durezas da cera o Sol abranda,</l>
+          <l n="2">E da terra as branduras endurece,</l>
+          <l n="3">Atrás do que resiste, o Raio se anda.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quem vence a Resistência, se enobrece,</l>
+          <l n="2">Quem pode, o que não pode, impera, e manda;</l>
+          <l n="3">Quem faz mais do que pode, esse merece.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>CONTINUA O POETA EM LOUVAR A SOLEDADE VITUPERANDO A CORTE.</head>
+        <lg n="1">
+          <l n="1">Ditoso aquele, e bem aventurado,</l>
+          <l n="2">Que longe, e apartado das demandas</l>
+          <l n="3">Não vê nos tribunais as apelandas,</l>
+          <l n="4">Que à vida dão fastio, e dão enfado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ditoso, quem povoa o despovoado,</l>
+          <l n="2">E dormindo o seu sono entre as Holandas</l>
+          <l n="3">Acorda ao doce som, e às vozes brandas</l>
+          <l n="4">Do tenro passarinho enamorado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se estando eu lá na Corte tão seguro</l>
+          <l n="2">Do néscio impertinente, que porfia,</l>
+          <l n="3">A deixei por um mal, que era futuro;</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Como estaria vendo na Bahia,</l>
+          <l n="2">Que das Cortes do mundo é vil monturo,</l>
+          <l n="3">O roubo, a injustiça, a tirania.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>PERGUNTA-SE NESTE PROBLEMA, QUAL HE MAYOR, SE O BEM PERDIDO NA POSSE, OU O QUE SE PERDE ANTES DE SE LOGRAR? DEFENDE O BEM JA POSSUIDO.</head>
+        <lg n="1">
+          <l n="1">Quem perde o bem, que teve possuído,</l>
+          <l n="2">A morte não dilate ao banimento,</l>
+          <l n="3">Que esta dor, esta mágoa, este tormento</l>
+          <l n="4">Não pode ter tormento parecido.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quem perde o bem logrado, tem perdido</l>
+          <l n="2">O discurso, a razão, o entendimento:</l>
+          <l n="3">Porque caber não pode em pensamento</l>
+          <l n="4">A esperança de ser restituído.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quanto fosse a esperança alento à vida,</l>
+          <l n="2">Té nas faltas do bem seria engano</l>
+          <l n="3">O presumir melhoras desta Sorte.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Porque onde falta o bem, é homicida</l>
+          <l n="2">A memória, que atalha o próprio dano,</l>
+          <l n="3">O Refúgio, que priva a mesma morte.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>DEFENDE-SE O BEM QUE SE PERDEO NA ESPERANÇA PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">O bem que não chegou ser possuído,</l>
+          <l n="2">Perdido causa tanto sentimento,</l>
+          <l n="3">Que faltando-lhe a causa do tormento,</l>
+          <l n="4">Faz ser maior tormento o padecido.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sentir o bem logrado, e já perdido</l>
+          <l n="2">Mágoa será do próprio entendimento,</l>
+          <l n="3">Porém o bem, que perde um pensamento,</l>
+          <l n="4">Não o deixa outro bem restituído.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se o logro satisfaz a mesma vida,</l>
+          <l n="2">E depois de logrado fica engano</l>
+          <l n="3">A falta, que o bem faz em qualquer Sorte:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Infalível será ser homicida</l>
+          <l n="2">O bem, que sem ser mal motiva o dano,</l>
+          <l n="3">O mal, que sem ser bem apressa a morte.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>TENTADO A VIVER NA SOLEDADE SE LHE REPRESENTÃO AS GLORIAS DE QUEM NÃO VIO, NEM TRATOU A CORTE.</head>
+        <lg n="1">
+          <l n="1">Ditoso tu, que na palhoça agreste</l>
+          <l n="2">Viveste moço, e velho respiraste,</l>
+          <l n="3">Berço foi, em que moço te criaste,</l>
+          <l n="4">Essa será, que para morto ergueste.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Aí, do que ignoravas, aprendeste,</l>
+          <l n="2">Aí, do que aprendeste, me ensinaste,</l>
+          <l n="3">Que os desprezos do mundo, que alcançaste,</l>
+          <l n="4">Armas são, com que a vida defendeste.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ditoso tu, que longe dos enganos,</l>
+          <l n="2">A que a Corte tributa rendimentos,</l>
+          <l n="3">Tua vida dilatas, e deleitas!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nos palácios reais se encurtam anos;</l>
+          <l n="2">Porém tu sincopando os aposentos,</l>
+          <l n="3">Mais te deleitas, quando mais te estreitas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>MORALIZA O POETA OUTRA VEZ A SUA DECLINAÇÃO PELO SEU LUZIMENTO NO AMORTECIDO DESMAYO DE HUMA POMPOSA FLOR.</head>
+        <lg n="1">
+          <l n="1">De que serviu tão florida,</l>
+          <l n="2">caduca flor, vossa Sorte,</l>
+          <l n="3">se havia da própria morte</l>
+          <l n="4">ser ensaio a vossa vida?</l>
+          <l n="5">quanto melhor advertida</l>
+          <l n="6">andáveis em não nascer,</l>
+          <l n="7">que se a vida houvera ser</l>
+          <l n="8">instrumento de acabar,</l>
+          <l n="9">em deixares de brilhar,</l>
+          <l n="10">deixaríeis de morrer.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Enquanto presa vos vistes</l>
+          <l n="2">no botão, onde morastes,</l>
+          <l n="3">bem que a vida não lograstes,</l>
+          <l n="4">de esperança vos vestistes:</l>
+          <l n="5">mas depois que, flor, abristes,</l>
+          <l n="6">tão depressa fenecestes,</l>
+          <l n="7">que quase a presumir destes</l>
+          <l n="8">(se se pode presumir)</l>
+          <l n="9">que para a morte sentir,</l>
+          <l n="10">somente viver quisestes.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Fazendo da pompa alarde</l>
+          <l n="2">abre a Rosa mais louçã,</l>
+          <l n="3">e o que é gala na manhã,</l>
+          <l n="4">em luto se torna à tarde:</l>
+          <l n="5">pois se a dita mais cobarde,</l>
+          <l n="6">se a mais frágil duração</l>
+          <l n="7">renascestes, porque não</l>
+          <l n="8">terei de crer fundamento,</l>
+          <l n="9">que foi vosso luzimento</l>
+          <l n="10">da vossa sombra ocasião.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E pois acabais florida,</l>
+          <l n="2">bem se vê, flor desditosa,</l>
+          <l n="3">que a não seres tão formosa,</l>
+          <l n="4">não fôreis tão abatida:</l>
+          <l n="5">desgraçada por luzida,</l>
+          <l n="6">ofendida por louçã</l>
+          <l n="7">mostrais bem na pompa vã</l>
+          <l n="8">as mãos do tempo cobarde,</l>
+          <l n="9">que fenecestes à tarde,</l>
+          <l n="10">por luzires na manhã.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Assim pois quando contemplo</l>
+          <l n="2">vossa vida, e vossa morte,</l>
+          <l n="3">em vós, flor, da minha sorte</l>
+          <l n="4">encontro o mais vivo exemplo:</l>
+          <l n="5">subi da fortuna ao templo,</l>
+          <l n="6">mas apenas subi digno,</l>
+          <l n="7">quando me mostra o destino,</l>
+          <l n="8">que, a quem não é venturoso,</l>
+          <l n="9">o chegar a ser ditoso</l>
+          <l n="10">é degrau de ser mofino.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>MORALIZA O POETA SEU DESASOCEGO NA HARMONIA INCAUTA DE HUM PASSARINHO, QUE CHAMA SUA MORTE A COMPAÇOS DE SEU CANTO.</head>
+        <lg n="1">
+          <l n="1">Contente, alegre, ufano Passarinho,</l>
+          <l n="2">Que enchendo o Bosque todo de harmonia,</l>
+          <l n="3">Me está dizendo a tua melodia,</l>
+          <l n="4">Que é maior tua voz, que o teu corpinho.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Como da pequenhez desse biquinho</l>
+          <l n="2">Sai tamanho tropel de vozeria?</l>
+          <l n="3">Como cantas, se és flor de Alexandria?</l>
+          <l n="4">Como cheiras, se és pássaro de arminho?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Simples cantas, e incauto garganteias,</l>
+          <l n="2">Sem ver, que estás chamando o homicida,</l>
+          <l n="3">Que te segue por passos de garganta!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não cantes mais, que a morte lisonjeias;</l>
+          <l n="2">Esconde a voz, e esconderás a vida,</l>
+          <l n="3">Que em ti não se vê mais, que a voz, que canta.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>MORALIZA O POETA NOS OCIDENTES DO SOL A INCONSTANCIA DOS BENS DO MUNDO.</head>
+        <lg n="1">
+          <l n="1">Nasce o Sol, e não dura mais que um dia,</l>
+          <l n="2">Depois da Luz se segue a noite escura,</l>
+          <l n="3">Em tristes sombras morre a formosura,</l>
+          <l n="4">Em contínuas tristezas a alegria.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Porém se acaba o Sol, por que nascia?</l>
+          <l n="2">Se formosa a Luz é, por que não dura?</l>
+          <l n="3">Como a beleza assim se transfigura?</l>
+          <l n="4">Como o gosto da pena assim se fia?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas no Sol, e na Luz, falte a firmeza,</l>
+          <l n="2">Na formosura não se dê constância,</l>
+          <l n="3">E na alegria sinta-se tristeza.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Começa o mundo enfim pela ignorância,</l>
+          <l n="2">E tem qualquer dos bens por natureza</l>
+          <l n="3">A firmeza somente na inconstância.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9" xml:lang="es">
+        <head>A HUMA DAMA QUE SE MOSTRAVA PARA O POETA TODA DESDENHOSA, E CRUEL.</head>
+        <lg type="mote">
+          <l n="1">Gileta siempre cruel,</l>
+          <l n="2">mira-me piedosa un dia,</l>
+          <l n="3">pues saben todos, que matas,</l>
+          <l n="4">/sepan, que puedes dar vida./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Que diré de tu crueldad,</l>
+          <l n="2">de tu rigor que diré,</l>
+          <l n="3">Gileta, si no que fué</l>
+          <l n="4">mi estrella, y fatalidad:</l>
+          <l n="5">que eres mi estrella, es verdad,</l>
+          <l n="6">pero tan mala, y infiel</l>
+          <l n="7">no lo dirá mi pincel,</l>
+          <l n="8">solo diré de sentido,</l>
+          <l n="9">que para mi ruego has sido,</l>
+          <l n="10">Gileta, siempre cruel.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ni un solo dia pudiste</l>
+          <l n="2">perder tu fiero rigor,</l>
+          <l n="3">que para perder mi amor</l>
+          <l n="4">tu condicion no perdiste:</l>
+          <l n="5">si ni aun esto conseguiste</l>
+          <l n="6">de la fé, y firmeza mia,</l>
+          <l n="7">ociosa es la tyrannia,</l>
+          <l n="8">y pues no sierve a tu affecto</l>
+          <l n="9">ser tyranna sin effecto,</l>
+          <l n="10">Mira-me piedosa um dia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Si por matar-me inhumana</l>
+          <l n="2">te precias de rigorosa,</l>
+          <l n="3">quien puede matar de hermosa,</l>
+          <l n="4">no me mate de tyranna:</l>
+          <l n="5">y se a que más soberana</l>
+          <l n="6">te sepan, los que maltratas,</l>
+          <l n="7">tantas vidas desbaratas,</l>
+          <l n="8">conocida tu inclemencia,</l>
+          <l n="9">ya escusas la diligencia,</l>
+          <l n="10">Pues saben todos, que matas.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quando a dar muertes te inclina</l>
+          <l n="2">tu ser, humana te muestra,</l>
+          <l n="3">que si a dar vidas te adiestra,</l>
+          <l n="4">te acreditas por divina:</l>
+          <l n="5">tu fama haze peregrina,</l>
+          <l n="6">si eres, Gileta entendida,</l>
+          <l n="7">y a todos, bella homicida,</l>
+          <l n="8">muestra tu poder, de suerte</l>
+          <l n="9">que aquellos, a quien dás muerte,</l>
+          <l n="10">Sepan, que puedes dar vida.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        
+        <head>A HUMA DAMA A QUEM NÃO RENDIÃO FINEZAS.</head>
+        <lg n="1">
+          <l n="1">Sobre esta dura penha,</l>
+          <l n="2">que repartida em rocas</l>
+          <l n="3">contra o mar inimigo</l>
+          <l n="4">quatro fileiras forma:</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dos mares combatida,</l>
+          <l n="2">escalada das ondas,</l>
+          <l n="3">incêndios de salitre</l>
+          <l n="4">não rendem tanta força.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A rocha permanente</l>
+          <l n="2">às ondas porfiosa,</l>
+          <l n="3">cheio o mar de coragem</l>
+          <l n="4">a penha de vitórias.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não há um desengano</l>
+          <l n="2">para fúrias tão loucas</l>
+          <l n="3">de um elemento débil,</l>
+          <l n="4">a quem o vento assopra.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Mas o curso dos dias,</l>
+          <l n="2">e a carreira das horas,</l>
+          <l n="3">que dão a todo o mundo</l>
+          <l n="4">escarmento e memória,</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Hão de mostrar-lhe enfim,</l>
+          <l n="2">que nas maiores forças</l>
+          <l n="3">não há intento sisudo</l>
+          <l n="4">com esperanças loucas.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Aqui pois onde o fado</l>
+          <l n="2">me conduz, ou me arroja</l>
+          <l n="3">a escrever desenganos</l>
+          <l n="4">ao mar desde esta roca:</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Quero queixar-me ao céu</l>
+          <l n="2">nas cordas numerosas</l>
+          <l n="3">de minha triste lira</l>
+          <l n="4">já de queixar-me rouca.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Porque razão, pergunto,</l>
+          <l n="2">a esfera luminosa</l>
+          <l n="3">me fez tão semelhante</l>
+          <l n="4">desta invencível roca?</l>
+        </lg>
+        <lg n="10">
+          <l n="1">A roca inexpugnável</l>
+          <l n="2">reveste-se animosa</l>
+          <l n="3">da pólvora dos ventos,</l>
+          <l n="4">que dentro d'água estoura:</l>
+        </lg>
+        <lg n="11">
+          <l n="1">E eu também me resisto,</l>
+          <l n="2">há mais de mil auroras</l>
+          <l n="3">aos vaivéns da fortuna,</l>
+          <l n="4">vários, como ela própria.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">A penha incontrastável,</l>
+          <l n="2">cada maré se molha,</l>
+          <l n="3">e leva o branco pé</l>
+          <l n="4">nas sucessivas ondas.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Eu também incansável</l>
+          <l n="2">me levo cada hora</l>
+          <l n="3">no sucessivo pranto,</l>
+          <l n="4">que me inunda, e me afoga.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">As ondas à porfia</l>
+          <l n="2">até ver se se prostra</l>
+          <l n="3">o firme de um penhasco</l>
+          <l n="4">o duro de uma rocha.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">Também minha fortuna</l>
+          <l n="2">tenaz, e porfiosa</l>
+          <l n="3">insiste, em que se prostre</l>
+          <l n="4">minha firmeza heróica.</l>
+        </lg>
+        <lg type="estribilho" n="16">
+          
+          <l n="1">Oh nunca semelhante</l>
+          <l n="2">fora eu desta roca,</l>
+          <l n="3">oh nunca foram tantos</l>
+          <l n="4">nem tão fortes meus males</l>
+          <l n="5">como as ondas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>A HUMA DAMA, QUE SE RECATAVA DE PAGAR FINEZAS.</head>
+        <lg n="1">
+          <l n="1">Filena: eu que mal vos fiz,</l>
+          <l n="2">que sempre a matar-me andais,</l>
+          <l n="3">uma vez, quando me olhais,</l>
+          <l n="4">outra quando me fugis:</l>
+          <l n="5">vi-vos, e logo vos quis</l>
+          <l n="6">tão inseparavelmente,</l>
+          <l n="7">que nem a vista ao presente</l>
+          <l n="8">ao menos sabe dizer-me,</l>
+          <l n="9">entre ver-vos, e render-me</l>
+          <l n="10">qual foi primeiro acidente.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vós sois tão esquiva, e tal,</l>
+          <l n="2">que outras cousas não sabendo,</l>
+          <l n="3">da vossa esquivança entendo,</l>
+          <l n="4">que o meu amor me fez mal:</l>
+          <l n="5">não cabe em meu natural</l>
+          <l n="6">fugir, de quem me maltrata,</l>
+          <l n="7">e se me sai tão barata</l>
+          <l n="8">a vingança de querer-vos,</l>
+          <l n="9">quero amar-vos, e sofrer-vos,</l>
+          <l n="10">porque fiqueis mais ingrata.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Não sinto esta pena atroz,</l>
+          <l n="2">que me fazeis padecer,</l>
+          <l n="3">antes folgo de morrer,</l>
+          <l n="4">vendo, que morro por vós:</l>
+          <l n="5">e se com passo veloz</l>
+          <l n="6">vejo a morte já chegar,</l>
+          <l n="7">não sinto ver-me acabar,</l>
+          <l n="8">sinto a glória, que vos cresce,</l>
+          <l n="9">que uma ingrata não merece</l>
+          <l n="10">a glória de me matar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Vivam vossas esquivanças,</l>
+          <l n="2">e vossa crueldade viva,</l>
+          <l n="3">que a sem-razão de uma esquiva</l>
+          <l n="4">acredita as esperanças:</l>
+          <l n="5">tudo tem certas mudanças,</l>
+          <l n="6">também se muda o rigor,</l>
+          <l n="7">e se Amor me dá valor</l>
+          <l n="8">para sofrer-vos, e amar-vos,</l>
+          <l n="9">claro está, que hão de mudar-vos</l>
+          <l n="10">firmezas do meu amor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>A HUMAS SAUDADES.</head>
+        <lg n="1">
+          <l n="1">Pelo mar do meu tormento,</l>
+          <l n="2">em que padecer me vejo,</l>
+          <l n="3">já que amante me desejo</l>
+          <l n="4">navegue meu pensamento:</l>
+          <l n="5">meus suspiros formem vento,</l>
+          <l n="6">com que me faças ir ter,</l>
+          <l n="7">onde me desejo ver,</l>
+          <l n="8">e diga minha alma assi,</l>
+          <l n="9">Parti, coração parti,</l>
+          <l n="10">navegai sem vos deter.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ide donde meu amor</l>
+          <l n="2">apesar desta distância</l>
+          <l n="3">nem há perdido a constância,</l>
+          <l n="4">nem há admitido rigor:</l>
+          <l n="5">antes mais superior</l>
+          <l n="6">assim se quer exceder,</l>
+          <l n="7">porém se desfalecer</l>
+          <l n="8">em tantas adversidades</l>
+          <l n="9">Ide-vos minhas saudades</l>
+          <l n="10">a meu amor socorrer.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>NASCE A ROSA, E NASCE A FLOR.</head>
+        <lg type="mote">
+          <l n="1">Para que nasceste, rosa,</l>
+          <l n="2">se tão depressa acabaste,</l>
+          <l n="3">nasces na manhã triunfante,</l>
+          <l n="4">/morres despojo de tarde./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Nasce a rosa, e nasce a flor</l>
+          <l n="2">de tanta cor matizada,</l>
+          <l n="3">quando se vê desmaiada</l>
+          <l n="4">triste sem vida, e sem cor:</l>
+          <l n="5">tudo quanto no candor</l>
+          <l n="6">se ostentava majestosa,</l>
+          <l n="7">então menos venturosa</l>
+          <l n="8">perde toda a louçania,</l>
+          <l n="9">e para brilhar um dia</l>
+          <l n="10">Para que nasceste Rosa?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se por nascer tão subida</l>
+          <l n="2">perde a rosa a perfeição,</l>
+          <l n="3">enquanto a rosa em botão</l>
+          <l n="4">mais se lhe dilata a vida:</l>
+          <l n="5">nessa pompa já perdida,</l>
+          <l n="6">com que, rosa, te enfeitaste,</l>
+          <l n="7">vendo o pouco que duraste,</l>
+          <l n="8">da vida foste um nonada,</l>
+          <l n="9">nem foste rosa, nem nada,</l>
+          <l n="10">Se tão depressa acabaste.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se na manhã encarnada</l>
+          <l n="2">te julgas perfeita rosa,</l>
+          <l n="3">olha o lustre de formosa</l>
+          <l n="4">como o perdes desmaiada:</l>
+          <l n="5">quem te viu na madrugada</l>
+          <l n="6">entre as mais flores reinante,</l>
+          <l n="7">que na tarde não se espante,</l>
+          <l n="8">quando murcha assim te vê!</l>
+          <l n="9">dize, rosa, para que</l>
+          <l n="10">Nasces de manhã triunfante.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se como rosa nasceste</l>
+          <l n="2">com tão galhardo valor,</l>
+          <l n="3">como rosa, e como flor</l>
+          <l n="4">a pompa, e garbo perdeste:</l>
+          <l n="5">se tanto te engrandeceste,</l>
+          <l n="6">como te mostras cobarde,</l>
+          <l n="7">pois quando fazendo alarde</l>
+          <l n="8">de te ver tão majestosa,</l>
+          <l n="9">por ver-te na manhã rosa,</l>
+          <l n="10">Morres despojo de tarde.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>ENFADA-SE O POETA DO ESCASSO PROCEDER DE SUA SORTE.</head>
+        <lg n="1">
+          <l n="1">Oh que cansado trago o sofrimento,</l>
+          <l n="2">E que injusta pensão de humana vida,</l>
+          <l n="3">Que dando-me o tormento sem medida,</l>
+          <l n="4">Me encurta o desafogo de um contento!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Nasceu para oficina do tormento</l>
+          <l n="2">Minha alma a seus desgostos tão unida,</l>
+          <l n="3">Que por manter-se em posse de afligida,</l>
+          <l n="4">Me concede os pesares de alimento.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Em mim não são as lágrimas bastantes</l>
+          <l n="2">contra incêndios, que ardentes, me maltratam,</l>
+          <l n="3">Nem estes contra aqueles são possantes.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Contrários contra mim em paz se tratam,</l>
+          <l n="2">E estão em ódio meu tão conspirantes,</l>
+          <l n="3">Que só por me matarem, não me matam.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>ZELOSO, E TRISTE CONSULTA O POETA A SOLEDADE DOS MONTES PARA SEU DESAFÔGO.</head>
+        <lg n="1">
+          <l n="1">Montes, eu venho a buscar-vos</l>
+          <l n="2">para contar-vos meu mal,</l>
+          <l n="3">inda que o vosso silêncio</l>
+          <l n="4">interrompa com meus ais.</l>
+          <l n="5">Já sabeis, que adora à Menga,</l>
+          <l n="6">a quem para sujeitar</l>
+          <l n="7">frágil corrente é meu pranto</l>
+          <l n="8">desatado em seu cristal.</l>
+          <l n="9">Já vos referi mil vezes,</l>
+          <l n="10">como Menga com Pascoal,</l>
+          <l n="11">em cima de me dar zelos,</l>
+          <l n="12">zelos me obriga a aceitar.</l>
+          <l n="13">Se o remédio é não tomá-los,</l>
+          <l n="14">dá-me Menga em se queixar,</l>
+          <l n="15">de que sou Pastor grosseiro,</l>
+          <l n="16">pois não tomo, o que me dá.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>QUEYXA-SE DE QUE NUNCA FALTEM PENAS PARA A VIDA, FALTANDO A VIDA PARA AS MESMAS PENAS.</head>
+        <lg n="1">
+          <l n="1">Em o horror desta muda soledade,</l>
+          <l n="2">Onde voando os ares a porfia</l>
+          <l n="3">Apenas solta a luz a aurora fria,</l>
+          <l n="4">Quando a prende da noite a escuridade.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ah cruel apreensão de uma saudade,</l>
+          <l n="2">De uma falsa esperança fantasia,</l>
+          <l n="3">Que faz que de um momento passe o dia,</l>
+          <l n="4">E que de um dia passe à eternidade!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">São da dor os espaços sem medida,</l>
+          <l n="2">E a medida das horas tão pequena,</l>
+          <l n="3">Que não sei, como a dor é tão crescida.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas é troca cruel, que o fado ordena,</l>
+          <l n="2">Porque a pena me cresça para a vida,</l>
+          <l n="3">Quando a vida me falta para a pena.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17" xml:lang="es">
+        <head>CHORA O POETA SUA INFELICIDADE COM HUM PENSAMENTO OCCULTO.</head>
+        <lg type="mote">
+          <l n="1">Amargo paguen tributo</l>
+          <l n="2">mis ojos al desamor,</l>
+          <l n="3">pues de una esperança en flor</l>
+          <l n="4">/es oy desengaño el fruto./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Solos de mi triste enojo</l>
+          <l n="2">ojos, podreis dar indicios,</l>
+          <l n="3">pues aquestos desperdicios</l>
+          <l n="4">los tuvisteis siempre de ojo:</l>
+          <l n="5">oy, a que lloreis, me arrojo</l>
+          <l n="6">con desengaño absoluto,</l>
+          <l n="7">que el reconcentrado luto,</l>
+          <l n="8">(con causa a los ojos tanto)</l>
+          <l n="9">pide a los ojos, que en llanto</l>
+          <l n="10">Amargo paguen tributo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">No es, ojos, intento mio</l>
+          <l n="2">soltar la corriente en vano,</l>
+          <l n="3">ni que sea en castellano,</l>
+          <l n="4">lo que en portuguez es rio:</l>
+          <l n="5">corrientes de um llanto pio</l>
+          <l n="6">abono de mi dolor</l>
+          <l n="7">manifesten al amor,</l>
+          <l n="8">digan con iras, y affecto</l>
+          <l n="9">su tyranno, y vil effecto</l>
+          <l n="10">Mis ojos al desamor.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Rebentad de sentimiento,</l>
+          <l n="2">Ojos, en tanto delirio,</l>
+          <l n="3">porque de aqueste martirio</l>
+          <l n="4">saquen muchos escarmiento:</l>
+          <l n="5">sepan de vuestro tormento,</l>
+          <l n="6">para que tengan horror,</l>
+          <l n="7">huyan, huyan del amor</l>
+          <l n="8">que nunca es bien de raiz,</l>
+          <l n="9">sepan. sepan, que moris</l>
+          <l n="10">Pues de una esperança en flor.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Y pues conocisteis vos</l>
+          <l n="2">lo mucho, que el amor daña,</l>
+          <l n="3">lo que para niño engana,</l>
+          <l n="4">lo que miente para Dios,</l>
+          <l n="5">la esphinge de humana voz,</l>
+          <l n="6">y coraçon resoluto</l>
+          <l n="7">llorad con ardiente luto:</l>
+          <l n="8">temed con tristes dolores,</l>
+          <l n="9">pues de sus lindas flores</l>
+          <l n="10">Es oy desengaño el fruto.</l>
+        </lg>
+      </div>
+      <div type="poem" n="18" xml:lang="es">
+        <head>AUSENTE DE HUM CONHECIDO BEM RECEA TEMEROSO AS QUEBRAS.</head>
+        <lg type="mote">
+          <l n="1">Ausencias, y soledades</l>
+          <l n="2">llora mi fe, y mi amor,</l>
+          <l n="3">que el adorar-te, y no ver-te</l>
+          <l n="4">/deste effecto causa son./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Oy, Fili, doble passion</l>
+          <l n="2">me offende en dura piedad,</l>
+          <l n="3">los ojos la soledad,</l>
+          <l n="4">y la ausencia el coraçon:</l>
+          <l n="5">el pecho, y los ojos son</l>
+          <l n="6">testigos de mis verdades,</l>
+          <l n="7">pues llorando vanidades,</l>
+          <l n="8">miro con opposiciones,</l>
+          <l n="9">que son causa a mis passiones</l>
+          <l n="10">Ausencias, y soledades.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mi amor, y mi fe conmigo</l>
+          <l n="2">lloran, y rien mi estrago,</l>
+          <l n="3">pues al merito es alhago,</l>
+          <l n="4">lo que al deseo es castigo:</l>
+          <l n="5">assi complicado sigo</l>
+          <l n="6">el plazer por el horror,</l>
+          <l n="7">pues por no ver su esplendor,</l>
+          <l n="8">quando el merito me vê,</l>
+          <l n="9">rie mi amor, y mi fe,</l>
+          <l n="10">Llora mi fe, y mi amor.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Las ausencias nescio llora</l>
+          <l n="2">de una, que deidad se infiere,</l>
+          <l n="3">que quien al divino quiere,</l>
+          <l n="4">no mira, si bien adora:</l>
+          <l n="5">la vista a la fe minora</l>
+          <l n="6">con el peligro al querer-te;</l>
+          <l n="7">no muera pues, que la suerte</l>
+          <l n="8">precia menos por amar-te,</l>
+          <l n="9">el ver-te, sin adorar-te,</l>
+          <l n="10">Que el adorar-te, y no ver-te.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ya quiero la soledad,</l>
+          <l n="2">y el merito en el tormento</l>
+          <l n="3">no lo engendre el suffrimiento,</l>
+          <l n="4">podiendo la enfermedad:</l>
+          <l n="5">effecto de tu beldad</l>
+          <l n="6">es tan noble adoracion,</l>
+          <l n="7">pues tu culto, y mi attencion,</l>
+          <l n="8">tu deidad, y mis affectos,</l>
+          <l n="9">desta causa son effectos,</l>
+          <l n="10">Deste effecto causa son.</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg type="mote">
+          <l n="1">Ao pé de uma junqueirinha</l>
+          <l n="2">nasce uma fonte de prata,</l>
+          <l n="3">assentei-me junto dela,</l>
+          <l n="4">/bem tolo é, quem se mata./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Por divertir saudades</l>
+          <l n="2">de Fílis do céu traslado</l>
+          <l n="3">quis escolher meu cuidado</l>
+          <l n="4">por alívio as soledades:</l>
+          <l n="5">e revolvendo as verdades</l>
+          <l n="6">da fé, e firmeza minha,</l>
+          <l n="7">como cessado não tinha,</l>
+          <l n="8">de sentir, e imaginar,</l>
+          <l n="9">me deitei por descansar</l>
+          <l n="10">Ao pé de uma junqueirinha.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Tomou-me o sono os sentidos,</l>
+          <l n="2">e em sonhos e fantesia</l>
+          <l n="3">arrebatado me guia</l>
+          <l n="4">a ver uns campos floridos:</l>
+          <l n="5">e para mais divertidos</l>
+          <l n="6">meus cuidados, me retrata</l>
+          <l n="7">uma graciosa mata</l>
+          <l n="8">fabricada de craveiros,</l>
+          <l n="9">donde entre verdes oiteiros</l>
+          <l n="10">Nasce uma fonte de prata.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Estava as graças notando</l>
+          <l n="2">de tão linda arquitetura,</l>
+          <l n="3">quando a melhor formosura</l>
+          <l n="4">à fonte se vem chegando:</l>
+          <l n="5">um véu de rosto tirando</l>
+          <l n="6">para melhor poder vê-la,</l>
+          <l n="7">conhecer ser Fílis bela,</l>
+          <l n="8">a que a minha alma roubou,</l>
+          <l n="9">e vendo, que se assentou,</l>
+          <l n="10">Assentei-me junto dela.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Eis que gozando de amor</l>
+          <l n="2">as delícias, acordei,</l>
+          <l n="3">e só sem Fílis me achei</l>
+          <l n="4">da junqueirinha ao redor:</l>
+          <l n="5">que presto vence uma dor</l>
+          <l n="6">qualquer aparência grata!</l>
+          <l n="7">quem em seus amores trata</l>
+          <l n="8">de glórias, não tem razão,</l>
+          <l n="9">e por deleites em vão</l>
+          <l n="10">Bem tolo é, quem se mata.</l>
+        </lg>
+      </div>
+      <div type="poem" n="20">
+        <head>AO MESMO INTENTO.</head>
+        <lg type="mote">
+          <l n="1">Deixai-me, tristes memórias.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Nesta ausência, bem querido,</l>
+          <l n="2">nada me serve de gosto,</l>
+          <l n="3">que o bem, que em vós tenho posto,</l>
+          <l n="4">por ausente está perdido:</l>
+          <l n="5">mas aparta-te, sentido,</l>
+          <l n="6">pois se apartam essas glórias,</l>
+          <l n="7">porque as antigas vitórias,</l>
+          <l n="8">com que amor triunfou então,</l>
+          <l n="9">já lá vão, já nada são,</l>
+          <l n="10">Deixai-me, tristes memórias.</l>
+        </lg>
+      </div>
+      <div type="poem" n="21">
+        <head>CHORA UM BEM PERDIDO, PORQUE O DESCONHECEO NA POSSE.</head>
+        <lg n="1">
+          <l n="1">Porque não conhecia, o que lograva,</l>
+          <l n="2">Deixei como ignorante o bem, que tinha,</l>
+          <l n="3">Vim sem considerar, aonde vinha,</l>
+          <l n="4">Deixei sem atender, o que deixava.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Suspiro agora em vão, o que gozava,</l>
+          <l n="2">Quando não me aproveita a pena minha,</l>
+          <l n="3">Que quem errou, sem ver, o que convinha,</l>
+          <l n="4">Ou entendia pouco, ou pouco amava.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Padeça agora e morra suspirando</l>
+          <l n="2">O mal, que passo, o bem, que possuía,</l>
+          <l n="3">Pague no mal presente o bem passado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que quem podia, e não quis, viver gozando,</l>
+          <l n="2">Confesse, que esta pena merecia,</l>
+          <l n="3">E morra, quando menos confessado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="22" xml:lang="es">
+        <head>COMPARA SUAS PENAS COM AS ESTRELLAS MUYTO SATISFEYTO COM A NOBREZA DO SIMILE. A PRIMEYRA QUARTA NÃO HE SUA.</head>
+        <lg n="1">
+          <l n="1">Una, dos, trez estrellas, veinte, ciento,</l>
+          <l n="2">Un millon, mil millares de millares;</l>
+          <l n="3">Valga-me Dios! que tengan mis pezares</l>
+          <l n="4">Su retrato en el alto firmamento!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que siendo las estrellas tan sin cuenta,</l>
+          <l n="2">Como son las arenas de los mares,</l>
+          <l n="3">Las iguale en sus numeros impares</l>
+          <l n="4">Mi pezar, mi desdicha, y mi tormento!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">May yo de que me espanto, o que me abismo!</l>
+          <l n="2">Tenga esse allivio enfim mi desconsuelo,</l>
+          <l n="3">Que se vá pareciendo al cielo mismo.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pues podiendo mis males por mas duelo</l>
+          <l n="2">Semejar-se a las penas del abismo,</l>
+          <l n="3">Tienen su semejança allá en el cielo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="23">
+        <head>NO FLUXO E REFLUXO DA MARE ENCONTRA O POETA INSENTIVO PARA RECORDAR SEUS MALES.</head>
+        <lg n="1">
+          <l n="1">Seis horas enche e outras tantas vaza</l>
+          <l n="2">A maré pelas margens do Oceano,</l>
+          <l n="3">E não larga a tarefa um ponto no ano,</l>
+          <l n="4">Depois que o mar rodeia, o sol abrasa.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Desde a esfera primeira opaca, ou rasa</l>
+          <l n="2">A Lua com impulso soberano</l>
+          <l n="3">Engole o mar por um secreto cano,</l>
+          <l n="4">E quando o mar vomita, o mundo arrasa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Muda-se o tempo, e suas temperanças.</l>
+          <l n="2">Até o céu se muda, a terra, os mares,</l>
+          <l n="3">E tudo está sujeito a mil mudanças.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Só eu, que todo o fim de meus pesares</l>
+          <l n="2">Eram de algum minguante as esperanças,</l>
+          <l n="3">Nunca o minguante vi de meus azares.</l>
+        </lg>
+      </div>
+      <div type="poem" n="24">
+        <head>PONDERA NA CORRENTE ARREBATADA DE HUM CAUDALOSO RIO QUAM DISTINTO VEM A SER O CURSO DA HUMANA VIDA.</head>
+        <lg type="mote">
+          <l n="1">Vai-te, mas tornas a vir,</l>
+          <l n="2">eu vou, e não torno mais,</l>
+          <l n="3">nascemos mui desiguais,</l>
+          <l n="4">hemo-nos de dividir:</l>
+          <l n="5">em ti tudo é repetir,</l>
+          <l n="6">vazas, e tornas a encher:</l>
+          <l n="7">em mim tudo é fenecer,</l>
+          <l n="8">tudo em mim é acabar,</l>
+          <l n="9">tudo em mim é sepultar,</l>
+          <l n="10">/finalmente hei de morrer./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Vai-te refazer ao mar</l>
+          <l n="2">do cabedal, que hás perdido</l>
+          <l n="3">pela terra divertido,</l>
+          <l n="4">e és ditoso em o cobrar:</l>
+          <l n="5">eu não posso restaurar,</l>
+          <l n="6">nem tampouco conseguir,</l>
+          <l n="7">o que de mim fiz fugir,</l>
+          <l n="8">tudo se tem acabado:</l>
+          <l n="9">tu, em que vais apressado,</l>
+          <l n="10">Vai-te, mas tornas a vir.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O cansaço, e amargura,</l>
+          <l n="2">que te custa o teu correr,</l>
+          <l n="3">tornas logo a converter</l>
+          <l n="4">em leite, mel e doçura:</l>
+          <l n="5">eu correndo à sepultura</l>
+          <l n="6">cada vez me dano mais:</l>
+          <l n="7">somos muito desiguais</l>
+          <l n="8">em converter dissabores,</l>
+          <l n="9">tu te voltas com favores.</l>
+          <l n="10">Eu vou, e não torno mais.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Suposto que sem medida</l>
+          <l n="2">roubando vás dessa sorte,</l>
+          <l n="3">nem por isso passas morte,</l>
+          <l n="4">que dure, ou seja sentida:</l>
+          <l n="5">eu, enquanto dura a vida,</l>
+          <l n="6">se cometo absurdos tais,</l>
+          <l n="7">sem que me valham meus ais,</l>
+          <l n="8">pago mui pelo miúdo,</l>
+          <l n="9">o que a morte faz a tudo,</l>
+          <l n="10">Nascemos mui desiguais.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Afogas mil passageiros,</l>
+          <l n="2">mas tu a ti não te prendes,</l>
+          <l n="3">antes mais forçoso emprendes</l>
+          <l n="4">submegir montes, e oiteiros:</l>
+          <l n="5">eu, se não são verdadeiros</l>
+          <l n="6">meus passos para a Deus ir,</l>
+          <l n="7">me encaminho a destruir:</l>
+          <l n="8">tudo em mim é puro estrago,</l>
+          <l n="9">diversamente naufrago,</l>
+          <l n="10">Hemo-nos de dividir.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Inda que assim te despenhes,</l>
+          <l n="2">não vejo não naufragar-te,</l>
+          <l n="3">antes mais vejo espalhar-te</l>
+          <l n="4">por campos, vales, e brenhas:</l>
+          <l n="5">de mim pobre não há senhas,</l>
+          <l n="6">em chegando a me fundir</l>
+          <l n="7">não me hei de reproduzir,</l>
+          <l n="8">antes para meu encanto</l>
+          <l n="9">fico num contino pranto,</l>
+          <l n="10">Em ti tudo é repetir.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Qualquer tronco, que por si</l>
+          <l n="2">se vê murcho, ou molestado,</l>
+          <l n="3">este mui regozijado</l>
+          <l n="4">se arranca, e vai trás de ti:</l>
+          <l n="5">eu, se culpas cometi,</l>
+          <l n="6">tudo é chorar, e gemer,</l>
+          <l n="7">ninguém me dá seu poder,</l>
+          <l n="8">ando corrido, e feneço,</l>
+          <l n="9">e tu, enquanto eu padeço,</l>
+          <l n="10">Vazas, e tornas a encher.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">És vandoleiro, e pirata</l>
+          <l n="2">de ramos, flores, e frutos</l>
+          <l n="3">teus procederes são brutos,</l>
+          <l n="4">e a ti ninguém te maltrata:</l>
+          <l n="5">eu, se falta em mim se trata,</l>
+          <l n="6">e nela chego a morrer,</l>
+          <l n="7">tudo em mim é padecer,</l>
+          <l n="8">peno toda a eternidade,</l>
+          <l n="9">tu tens outra liberdade,</l>
+          <l n="10">Em mim tudo é fenecer.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Tens mui tiranos efeitos</l>
+          <l n="2">no furor, com que devoras,</l>
+          <l n="3">e todos todas as horas</l>
+          <l n="4">te têm notáveis respeitos:</l>
+          <l n="5">eu, aguardam-me sujeitos</l>
+          <l n="6">para me mais estragar,</l>
+          <l n="7">gusanos para me dar</l>
+          <l n="8">o pago, que hei merecido,</l>
+          <l n="9">tu vives obedecido,</l>
+          <l n="10">Tudo em mim é acabar.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Vê, quanto tens destruído,</l>
+          <l n="2">quanto tens desbaratado,</l>
+          <l n="3">o que tens morto de gado,</l>
+          <l n="4">de toda a sorte nascido:</l>
+          <l n="5">mostra-te disso doído?</l>
+          <l n="6">não: que não tens que penar,</l>
+          <l n="7">em mim sim tudo é chorar,</l>
+          <l n="8">tudo em mim é sentir danos,</l>
+          <l n="9">tudo em mim são desenganos.</l>
+          <l n="10">Tudo em mim é sepultar.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Enfim certamente és rio,</l>
+          <l n="2">foste mar, mar hás de ser,</l>
+          <l n="3">mas eu só devo de crer,</l>
+          <l n="4">que fui, e serei pó frio:</l>
+          <l n="5">assim creio, assim confio,</l>
+          <l n="6">nele me hei de converter,</l>
+          <l n="7">os bichos me hão de comer</l>
+          <l n="8">hei de todo acabar,</l>
+          <l n="9">hei de estreita conta dar,</l>
+          <l n="10">Finalmente hei de morrer.</l>
+        </lg>
+      </div>
+      <div type="poem" n="25">
+        <head>SE NÃO POSSO IR RASTEJANDO</head>
+        <lg type="mote">
+          <l n="1">Como se pode alcançar</l>
+          <l n="2">de dous, que se querem bem,</l>
+          <l n="3">qual terá maior pesar,</l>
+          <l n="4">se o que vai para tornar,</l>
+          <l n="5">/se o que espera, por quem vem./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Se não posso ir rastejando</l>
+          <l n="2">a pena, que pode ter,</l>
+          <l n="3">quem há temor de perder</l>
+          <l n="4">a prenda, que está logrando:</l>
+          <l n="5">e se me confundo, quando</l>
+          <l n="6">me disponho a penetrar</l>
+          <l n="7">aquela pena, e pesar,</l>
+          <l n="8">que deixa um bem já perdido,</l>
+          <l n="9">do mal de ausente o sentido,</l>
+          <l n="10">Como se pode alcançar?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Parece uma pena chica,</l>
+          <l n="2">que chica é por tal arte,</l>
+          <l n="3">que inda que a dor se reparte,</l>
+          <l n="4">toda em um se multiplica:</l>
+          <l n="5">pena, que mais se duplica,</l>
+          <l n="6">quanto mais partida vem,</l>
+          <l n="7">na extensão o aumento tem,</l>
+          <l n="8">que a pena, que a ausência ordena,</l>
+          <l n="9">sobre ser de dous, é pena</l>
+          <l n="10">De dous, que se querem bem.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se é pena de dous, que se amam,</l>
+          <l n="2">quem não vê, que em tal querer</l>
+          <l n="3">dobrado incêndio há de haver,</l>
+          <l n="4">se há dous fogos, que se inflamam:</l>
+          <l n="5">quando dous a um tempo clamam,</l>
+          <l n="6">por força se há de aumentar</l>
+          <l n="7">a um clamar outro clamar;</l>
+          <l n="8">assim no mal de não ver-se</l>
+          <l n="9">cresce a pena, sem saber-se</l>
+          <l n="10">Qual terá maior pesar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quem vai, porque a pena rima,</l>
+          <l n="2">deixa a alma, que se inflama,</l>
+          <l n="3">para que anime, adonde ama</l>
+          <l n="4">muito mais, que adonde anima:</l>
+          <l n="5">quem fica, e se desanima,</l>
+          <l n="6">quer logo as almas trocar,</l>
+          <l n="7">por confundir, e ocultar,</l>
+          <l n="8">qual mais sabe padecer,</l>
+          <l n="9">quem fica para não ver,</l>
+          <l n="10">Se o que vai para tornar.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Nesta confusão de amor</l>
+          <l n="2">duvida a perplexidade,</l>
+          <l n="3">nunca se sabe a verdade</l>
+          <l n="4">sobre a ventagem da dor:</l>
+          <l n="5">mas o discreto Leitor,</l>
+          <l n="6">que quer lhe resolva em bem,</l>
+          <l n="7">o que o mote em si contém,</l>
+          <l n="8">veja, que tem mais cuidado,</l>
+          <l n="9">quem não vem, sendo esperado,</l>
+          <l n="10">Se o que espera, por quem vem.</l>
+        </lg>
+      </div>
+      <div type="poem" n="26">
+        <head>NUMA ILUSTRE ACADEMIA</head>
+        <lg type="mote">
+          <l n="1">Perguntou-se a um discreto,</l>
+          <l n="2">qual era a morte tirana:</l>
+          <l n="3">respondeu, que estar ausente</l>
+          <l n="4">/daquilo, que mais se ama./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Numa ilustre academia,</l>
+          <l n="2">que com ciências infusas</l>
+          <l n="3">fizeram as nove Musas,</l>
+          <l n="4">onde Apolo presidia:</l>
+          <l n="5">leu o Secretário Admeto,</l>
+          <l n="6">um problema mui seleto</l>
+          <l n="7">propôs, para argumentar-se,</l>
+          <l n="8">e havendo de perguntar-se,</l>
+          <l n="9">Perguntou-se a um discreto.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ele, que estava distante,</l>
+          <l n="2">e não ouvia a proposta,</l>
+          <l n="3">não deu por então resposta</l>
+          <l n="4">de Surdo, e não de ignorante:</l>
+          <l n="5">mas vendo no seu semblante</l>
+          <l n="6">a academia Sob'rana,</l>
+          <l n="7">que tinha a desculpa lhana,</l>
+          <l n="8">lhe advertiram com agrado,</l>
+          <l n="9">que lhe haviam perguntado:</l>
+          <l n="10">Qual era a morte tirana.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ele entonces como um raio</l>
+          <l n="2">prontamente, e sem detença</l>
+          <l n="3">tomando vênia, e licença</l>
+          <l n="4">fez consigo um breve ensaio:</l>
+          <l n="5">o mais horrível desmaio</l>
+          <l n="6">que um peito amoroso sente,</l>
+          <l n="7">é a falta do bem presente:</l>
+          <l n="8">ficou-lhe a resposta lhana;</l>
+          <l n="9">e a qual é a morte tirana,</l>
+          <l n="10">Respondeu, que estar ausente.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Deixou a resposta absorto</l>
+          <l n="2">a aquele douto congresso,</l>
+          <l n="3">porque é já provérbio expresso,</l>
+          <l n="4">que ausente é o mesmo que morto:</l>
+          <l n="5">eu me persuado, e exorto,</l>
+          <l n="6">que quem se abrasa, e inflama</l>
+          <l n="7">de amor na contínua chama,</l>
+          <l n="8">inda que sinta abrasar-se,</l>
+          <l n="9">e menos mal, que ausentar-se</l>
+          <l n="10">Daquilo, que mais se ama.</l>
+        </lg>
+      </div>
+      <div type="poem" n="27">
+        <head>CORAÇÃO, QUE EM PERTENDER</head>
+        <lg type="mote">
+          <l n="1">Se de um bem nascem mil males,</l>
+          <l n="2">de um mal quisera saber</l>
+          <l n="3">/quantos bens podem nascer?/*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Coração, que em pertender</l>
+          <l n="2">perdes tempo em esperanças,</l>
+          <l n="3">e quando algum bem alcanças,</l>
+          <l n="4">é por ter mais que perder:</l>
+          <l n="5">por cousas, que não têm ser,</l>
+          <l n="6">e de que nunca te vales,</l>
+          <l n="7">como direi, que te abales?</l>
+          <l n="8">como direi, que convém,</l>
+          <l n="9">andar em busca de um bem,</l>
+          <l n="10">Se de um bem nascem mil males?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando um firme bem procuras,</l>
+          <l n="2">te desavéns com teus bens,</l>
+          <l n="3">porque perdendo os que tens,</l>
+          <l n="4">noutros males te asseguras:</l>
+          <l n="5">aos bens nunca te aventuras</l>
+          <l n="6">sem certos males colher,</l>
+          <l n="7">e eu para te defender,</l>
+          <l n="8">e a vida te conservar,</l>
+          <l n="9">um bem não tomara achar,</l>
+          <l n="10">De um mal quisera saber.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Do bem os males nasceram</l>
+          <l n="2">do mal nunca nasceu bem,</l>
+          <l n="3">salvo o mal de quem não tem</l>
+          <l n="4">bens, de que os males se geram:</l>
+          <l n="5">e inda que do mal puderam</l>
+          <l n="6">os bens produzidos ser,</l>
+          <l n="7">se os hás de vir a perder,</l>
+          <l n="8">antes toma um mal por gosto</l>
+          <l n="9">Quantos bens podem nascer.</l>
+        </lg>
+      </div>
+      <div type="poem" n="28">
+        <head>SERVIU LUÍS A ISABEL</head>
+        <lg type="mote">
+          <l n="1">Amar Luís a Maria,</l>
+          <l n="2">amaria não é amar</l>
+          <l n="3">logo como pode estar</l>
+          <l n="4">/num tempo amar, e amaria./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Serviu Luís a Isabel</l>
+          <l n="2">Por prêmio de um favor só</l>
+          <l n="3">mais tempo do que Jacó</l>
+          <l n="4">serviu à bela Raquel:</l>
+          <l n="5">e porque Isabel infiel</l>
+          <l n="6">o enganou de dia em dia,</l>
+          <l n="7">em pena de aleivosia</l>
+          <l n="8">em Maria o empreguei,</l>
+          <l n="9">e então lhe certifiquei</l>
+          <l n="10">Amar Luís a Maria.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Deixei-a tão persuadida,</l>
+          <l n="2">quanto ela é presuntuosa,</l>
+          <l n="3">que o presumir de formosa</l>
+          <l n="4">persuade o ser querida:</l>
+          <l n="5">porém como é entendida,</l>
+          <l n="6">e em toda a arte de amar</l>
+          <l n="7">sabe mui bem conjugar,</l>
+          <l n="8">disse, tomando-me a mão,</l>
+          <l n="9">que em boa conjugação</l>
+          <l n="10">Amaria não é amar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que amaria é imperfeito,</l>
+          <l n="2">e perfeito o ter amado,</l>
+          <l n="3">e a um presente cuidado</l>
+          <l n="4">não serve o plus-quão-perfeito:</l>
+          <l n="5">vi eu a Moça de jeito,</l>
+          <l n="6">que me pus pela quietar</l>
+          <l n="7">nesta forma a conjugar</l>
+          <l n="8">"Amar Luís, e amaria</l>
+          <l n="9">não está em filosofia",</l>
+          <l n="10">Logo como pode estar?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Este aparente argumento,</l>
+          <l n="2">e sutil proposição</l>
+          <l n="3">não só tirou a questão,</l>
+          <l n="4">mas deu-lhe contentamento:</l>
+          <l n="5">firme enfim ao fundamento</l>
+          <l n="6">da minha sofisteria</l>
+          <l n="7">diz, que a boa astronomia</l>
+          <l n="8">tem uns pontos tão sutis,</l>
+          <l n="9">que pode estar em Luís</l>
+          <l n="10">Num tempo amar, e amaria.</l>
+        </lg>
+      </div>
+      <div type="poem" n="29" xml:lang="es">
+        <head>AMOR, QUE ES FUEGO, Y AMADO</head>
+        <lg type="mote">
+          <l n="1">Antandra, el Amor, si nó</l>
+          <l n="2">ocultas tus rayos, sé,</l>
+          <l n="3">que te ha de roubar, lo que</l>
+          <l n="4">/Prometeo al sol robó./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Amor, que es fuego, y amado</l>
+          <l n="2">com arco, aljaba, y saetas</l>
+          <l n="3">com mil amorosas tretas</l>
+          <l n="4">mil armas ha conquistado:</l>
+          <l n="5">pero tu, Antandra, has ganado</l>
+          <l n="6">más victórias, que el ganó,</l>
+          <l n="7">de suerte que dudo yo</l>
+          <l n="8">(viendo unos, y otros despojos)</l>
+          <l n="9">si puede más que tus ojos,</l>
+          <l n="10">Antandra, el Amor, si no.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Porque en severa conquista</l>
+          <l n="2">tienen flechas, arco, y fuego,</l>
+          <l n="3">y luz, con que el amor ciego</l>
+          <l n="4">dexan a perder de vista:</l>
+          <l n="5">y ansi no ay, quien resista</l>
+          <l n="6">la luz, que en ellos se vê,</l>
+          <l n="7">y aun el mismo Amor por lé</l>
+          <l n="8">(como no puede mirando)</l>
+          <l n="9">que te adora, Antandra, quando</l>
+          <l n="10">Ocultas tus rayos, Sé.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas de sus adoraciones</l>
+          <l n="2">no debes mucho fiar-te</l>
+          <l n="3">que dizen, que hade robar-te,</l>
+          <l n="4">pues le robas coraçones:</l>
+          <l n="5">no ay, que fiar en ladrones,</l>
+          <l n="6">que enbistem a falsa fé;</l>
+          <l n="7">mas yo le perguntaré,</l>
+          <l n="8">Antandra, quando tu queiras,</l>
+          <l n="9">pues afirman tan deveras,</l>
+          <l n="10">Que te hade robar? Lo que?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Y si a tus ojos dixere,</l>
+          <l n="2">bien se dexa ver, que es ciego,</l>
+          <l n="3">y se dixeres, que el fuego,</l>
+          <l n="4">señal, que el tuyo prefiere:</l>
+          <l n="5">luego bien claro se infiere,</l>
+          <l n="6">que el mismo se condenó,</l>
+          <l n="7">y pues asi te embidió</l>
+          <l n="8">puedes dar-lhe de barato,</l>
+          <l n="9">lo que por un falso trato</l>
+          <l n="10">Prometeo al sol robó</l>
+        </lg>
+      </div>
+      <div type="poem" n="30">
+        <head>SE HOUVERA CONFORMIDADE</head>
+        <lg type="mote">
+          <l n="1">Não quero, o que vós quereis,</l>
+          <l n="2">só quero, que vós queirais</l>
+          <l n="3">aquilo, que não quereis,</l>
+          <l n="4">/só quero, não quero mais./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Se houvera conformidade</l>
+          <l n="2">em um, e outro querer,</l>
+          <l n="3">ambos poderiam ser</l>
+          <l n="4">atos da mesma vontade:</l>
+          <l n="5">porém na diversidade</l>
+          <l n="6">de uma, e de outra vereis,</l>
+          <l n="7">quando firme pergunteis,</l>
+          <l n="8">onde minha alma está posta,</l>
+          <l n="9">como tendes por resposta,</l>
+          <l n="10">Não quero, o que vós quereis.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E se acaso se oferece</l>
+          <l n="2">outro objeto a vosso amor,</l>
+          <l n="3">e publicais por favor,</l>
+          <l n="4">que em vós só o meu floresce:</l>
+          <l n="5">esta ação nada merece,</l>
+          <l n="6">mas antes me ofende mais,</l>
+          <l n="7">e do prêmio, que buscais,</l>
+          <l n="8">deponde a louca esperança</l>
+          <l n="9">e não ter de mim lembrança</l>
+          <l n="10">Só quero, que vós queirais.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se nesta deformidade,</l>
+          <l n="2">que em vossas vontades há,</l>
+          <l n="3">algum meio indústria dá</l>
+          <l n="4">para haver conformidade,</l>
+          <l n="5">é, que na vossa vontade</l>
+          <l n="6">mil impossíveis obreis,</l>
+          <l n="7">porque amando não ameis,</l>
+          <l n="8">sendo fino, o não sejais,</l>
+          <l n="9">e não querendo queirais</l>
+          <l n="10">Aquilo, que não quereis.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se isto muito parecer</l>
+          <l n="2">em uma vontade humana</l>
+          <l n="3">isso mesmo desengana</l>
+          <l n="4">os quilates do seu ser:</l>
+          <l n="5">pouco amor, pouco querer</l>
+          <l n="6">é força, que concedais,</l>
+          <l n="7">pelo que não pertendais</l>
+          <l n="8">as lisonjas do meu gosto,</l>
+          <l n="9">porque, o que tenho proposto,</l>
+          <l n="10">Só quero, não quero mais.</l>
+        </lg>
+      </div>
+      <div type="poem" n="31">
+        <head>VIDINHA: POR QUE CHORAIS?</head>
+        <lg type="mote">
+          <l n="1">Se lágrimas aliviam,</l>
+          <l n="2">/como padece, quem chora?/*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Vidinha: por que chorais?</l>
+          <l n="2">porque padeço, meu bem.</l>
+          <l n="3">Mui grande dúvida tem</l>
+          <l n="4">a resposta, que me dais:</l>
+          <l n="5">se lágrimas são sinais</l>
+          <l n="6">dos que dantes padeciam,</l>
+          <l n="7">alívio já sentiriam</l>
+          <l n="8">das lágrimas ao verter;</l>
+          <l n="9">logo implica o padecer</l>
+          <l n="10">Se lágrimas aliviam.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dúvida não pode haver,</l>
+          <l n="2">que enquanto os olhos me choram,</l>
+          <l n="3">suposto a pena melhoram,</l>
+          <l n="4">se está rindo o padecer:</l>
+          <l n="5">alívio deve de ter,</l>
+          <l n="6">quem já seus males melhora,</l>
+          <l n="7">mas se nele a pena mora</l>
+          <l n="8">até o choro acabar,</l>
+          <l n="9">fácil é de se mostrar</l>
+          <l n="10">Como padece, quem chora.</l>
+        </lg>
+      </div>
+      <div type="poem" n="32">
+        <head>DE UNS OLHOS SE VIU RENDIDO</head>
+        <lg type="mote">
+          <l n="1">Para retratar uns olhos</l>
+          <l n="2">Cupido se fez pintor,</l>
+          <l n="3">desfez o céu para tinta</l>
+          <l n="4">/moeu para luz o Sol./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">De uns olhos se viu rendido</l>
+          <l n="2">Amor, que os arpões quebrou,</l>
+          <l n="3">porque afrontados julgou</l>
+          <l n="4">arpões doutro arpão vencido:</l>
+          <l n="5">cego, e turbado Cupido</l>
+          <l n="6">guiado de seus antolhos</l>
+          <l n="7">trilha espinhos, pisa abrolhos,</l>
+          <l n="8">e por curar seu cuidado</l>
+          <l n="9">um pincel pede emprestado</l>
+          <l n="10">Para retratar uns olhos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Para uns olhos tão brilhantes</l>
+          <l n="2">buscava o melhor pincel,</l>
+          <l n="3">negou-lhe Apeles cruel,</l>
+          <l n="4">piedoso lhe deu Timantes:</l>
+          <l n="5">como Mestres tão prestantes</l>
+          <l n="6">puseram de morte cor,</l>
+          <l n="7">olhos, que vencem a Amor:</l>
+          <l n="8">nesta pena, que o soçobra,</l>
+          <l n="9">para colorir a obra</l>
+          <l n="10">Cupido se fez pintor.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sempre eu vi que aos amadores</l>
+          <l n="2">nada falta em bom primor:</l>
+          <l n="3">porém hoje ao mesmo Amor</l>
+          <l n="4">para pintar faltam cores:</l>
+          <l n="5">ele perdeu as melhores</l>
+          <l n="6">em ter a presença extinta</l>
+          <l n="7">dos olhos belos, que pinta,</l>
+          <l n="8">cuja cor é celestial,</l>
+          <l n="9">e por lhe dar natural</l>
+          <l n="10">Desfez o céu para tinta.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Para cópia tão divina,</l>
+          <l n="2">como Amor a imaginou,</l>
+          <l n="3">todo o aparelho tirou</l>
+          <l n="4">dessa esfera cristalina:</l>
+          <l n="5">excedia a ultramarina</l>
+          <l n="6">cor desse azul arrebol,</l>
+          <l n="7">e do divino farol</l>
+          <l n="8">sendo precisa a luz pura,</l>
+          <l n="9">por dar claros à pintura</l>
+          <l n="10">Moeu para luz o Sol.</l>
+        </lg>
+      </div>
+      <div type="poem" n="33">
+        <head>PARECE QUE JA SE ENFASTIAVA O POETA DO SEU RETIRO COMO SE VÊ NA OBRA.</head>
+        <lg type="mote">
+          <l n="1">Contentamento, onde estás,</l>
+          <l n="2">que te não acha ninguém,</l>
+          <l n="3">se intenta buscar-te alguém,</l>
+          <l n="4">/não sabe, por onde vás./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Amigo contentamento,</l>
+          <l n="2">peço-te por esta vez,</l>
+          <l n="3">que não me busques, que intento</l>
+          <l n="4">buscar-te em teu aposento,</l>
+          <l n="5">para lançar-me a teus pés:</l>
+          <l n="6">que não qués, e a ousadia,</l>
+          <l n="7">ou a desserviço o hás,</l>
+          <l n="8">para que te acha algum dia,</l>
+          <l n="9">me digas em cortesia,</l>
+          <l n="10">Contentamento, onde estás.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Por mil partes diferentes</l>
+          <l n="2">andei, e te certifico</l>
+          <l n="3">não ver-te por entre as gentes,</l>
+          <l n="4">antes todos descontentes</l>
+          <l n="5">alto, baixo, pobre, rico:</l>
+          <l n="6">fui-me aos palácios e ouvi,</l>
+          <l n="7">que se acaso ali te vêem,</l>
+          <l n="8">sem deixar sinais de ti,</l>
+          <l n="9">tão cedo te vais dali,</l>
+          <l n="10">Que te não acha ninguém.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Dei logo em imaginar,</l>
+          <l n="2">que estás entre os namorados,</l>
+          <l n="3">busquei-te, e vendo-os queixar,</l>
+          <l n="4">mal (disse) se podem dar</l>
+          <l n="5">contentamento, e cuidados:</l>
+          <l n="6">com que vendo o teu desvio</l>
+          <l n="7">julguei, que passar além</l>
+          <l n="8">era trabalho baldio,</l>
+          <l n="9">e que intenta um desvario,</l>
+          <l n="10">se intenta buscar-te alguém.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Fiquei tão desenganado,</l>
+          <l n="2">que direi por toda a parte,</l>
+          <l n="3">que quem por dita, ou por fado</l>
+          <l n="4">se não vir de ti buscado,</l>
+          <l n="5">não se canse com buscar-te:</l>
+          <l n="6">Porque é tal tua conquista,</l>
+          <l n="7">que inda o triste, a quem te dás,</l>
+          <l n="8">por muito, que ele te assista,</l>
+          <l n="9">em perdendo-te de vista,</l>
+          <l n="10">Não sabe, por onde vás</l>
+        </lg>
+      </div>
+      <div type="poem" n="34">
+        <head>.</head>
+        <head>DESPEDE-SE O POETA DO SEU AMOROSO DIVERTIMENTO COM PRETEXTOS FRIVOLOS, E TOTALMENTE CONTRARIOS A RAZÃO DO AMOR.</head>
+        <lg type="mote">
+          <l n="1">Deixar quero o vosso bem,</l>
+          <l n="2">para tomar vosso mal,</l>
+          <l n="3">porque o vosso bem é tal,</l>
+          <l n="4">/que do mal melhor me vem./*</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Se dor me infunde no peito,</l>
+          <l n="2">Clóri, quererdes-me assaz,</l>
+          <l n="3">dai ao demo amor, que traz</l>
+          <l n="4">mais dano, do que proveito:</l>
+          <l n="5">não vi amor de tal jeito</l>
+          <l n="6">no mundo daquém, e além,</l>
+          <l n="7">e pois simulado vem</l>
+          <l n="8">todo o mal, que me fazeis,</l>
+          <l n="9">neste bem, que me quereis,</l>
+          <l n="10">Deixar quero o vosso bem.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se mal vosso bem me influi,</l>
+          <l n="2">bens vosso mal dará vários,</l>
+          <l n="3">porque de agentes contrários</l>
+          <l n="4">contrário efeito se argúi:</l>
+          <l n="5">a conseqüência conclui</l>
+          <l n="6">por força filosofal;</l>
+          <l n="7">e pois vosso mal é tal,</l>
+          <l n="8">que em vós doutro bem não sei,</l>
+          <l n="9">que bens não repudiarei,</l>
+          <l n="10">Para tomar vosso mal?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pois o bem pelo mal troco</l>
+          <l n="2">pelas causas, que já disse,</l>
+          <l n="3">terei a grã parvoíce,</l>
+          <l n="4">que vós me tenhais por louco,</l>
+          <l n="5">que eu o que exprimento, e toco</l>
+          <l n="6">neste bem prejudicial</l>
+          <l n="7">me faz homem desigual,</l>
+          <l n="8">avesso, néscio, e sandeu:</l>
+          <l n="9">porém tal homem sou eu,</l>
+          <l n="10">Porque o vosso bem é tal.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se tal fora o vosso amor,</l>
+          <l n="2">como são outros amores,</l>
+          <l n="3">fecundo para os favores,</l>
+          <l n="4">estéril para o rigor:</l>
+          <l n="5">tivera a grande favor,</l>
+          <l n="6">Clóri, quererdes, a quem</l>
+          <l n="7">vos adorara um desdém,</l>
+          <l n="8">que outro tempo aborrecia,</l>
+          <l n="9">porque então não entendia,</l>
+          <l n="10">Que do mal melhor me vem.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

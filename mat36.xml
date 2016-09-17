@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36513"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Que me quer o Brasil, que me persegue?</l>
+          <l n="2" met="fragm">......................................................................</l>
+          <l n="3">Com seu ódio a canalha, que consegue?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">que aqui honram os mofinos</l>
+          <l n="2">e mofam dos liberais</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que os Brasileiros são bestas,</l>
+          <l n="2">e estarão a trabalhar</l>
+          <l n="3">toda a vida por manter</l>
+          <l n="4">maganos de Portugal.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>DESEMPULHA-SE O POETA DA CANALHA PERSEGUIDORA CONTRA OS HOMENS SABIOS, CATANDO BENEVOLENCIA AOS NOBRE.</head>
+        <lg n="1">
+          <l n="1">Que me quer o Brasil, que me persegue?</l>
+          <l n="2">Que me querem pasguates, que me invejam?</l>
+          <l n="3">Não vêem, que os entendidos me cortejam,</l>
+          <l n="4">E que os Nobres, é gente que me segue?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Com o seu ódio a canalha, que consegue?</l>
+          <l n="2">Com sua inveja os néscios que motejam?</l>
+          <l n="3">Se quando os néscios por meu mal mourejam,</l>
+          <l n="4">Fazem os sábios, que a meu mal me entregue.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Isto posto, ignorantes, e canalha</l>
+          <l n="2">Se ficam por canalha, e ignorantes</l>
+          <l n="3">No rol das bostas a roerem palha.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E se os senhores nobres, e elegantes</l>
+          <l n="2">Não querem que o soneto vá de valha,</l>
+          <l n="3">Não vá, que tem terríveis consoantes.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>PREZO FINALMENTE O NOSSO POETA PELOS MOTIVOS QUE JA DICEMOS EM SUA VIDA, E CONDENADO A IR DEGREDADO PARA ANGOLA, POR ORDEM DE D. JOÃO D'ALENCASTRE GOVERNADOR ENTÃO DESTE ESTADO: PONDERA, QUAM ADVERSO HE O BRAZIL SUA INGRATA PATRIA AOS HOMENS BENEMERITOS; E COM DEAFOGO DE HOMEM FORTE GRACEJA HUM POUCO AS MULATAS MERETRIZES.</head>
+        <lg n="1">
+          <l n="1">Não sei, para que é nascer</l>
+          <l n="2">neste Brasil empestado</l>
+          <l n="3">um homem branco, e honrado</l>
+          <l n="4">sem outra raça.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Terra tão grosseira, e crassa,</l>
+          <l n="2">que a ninguém se tem respeito,</l>
+          <l n="3">salvo quem mostra algum jeito</l>
+          <l n="4">de ser Mulato.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Aqui o cão arranha o gato,</l>
+          <l n="2">não por ser mais valentão,</l>
+          <l n="3">mas porque sempre a um cão</l>
+          <l n="4">outros acodem.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Os Brancos aqui não podem</l>
+          <l n="2">mais que sofrer, e calar,</l>
+          <l n="3">e se um negro vão matar,</l>
+          <l n="4">chovem despesas.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Não lhe valem as defesas</l>
+          <l n="2">do atrevimento de um cão,</l>
+          <l n="3">porque acode a Relação</l>
+          <l n="4">sempre faminta.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Logo a fazenda, e a quinta</l>
+          <l n="2">vai com tudo o mais à praça,</l>
+          <l n="3">onde se vende de graça,</l>
+          <l n="4">ou fiado.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Que aguardas, homem honrado</l>
+          <l n="2">vendo tantas sem-razões,</l>
+          <l n="3">que não vás para as nações</l>
+          <l n="4">de Berberia.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Porque lá se te faria</l>
+          <l n="2">com essa barbaridade</l>
+          <l n="3">mais razão, e mais verdade,</l>
+          <l n="4">que aqui fazem.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Porque esperas, que te engrazem,</l>
+          <l n="2">e esgotem os cabedais,</l>
+          <l n="3">os que tens por naturais,</l>
+          <l n="4">sendo estrangeiros!</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Ao cheiro dos teus dinheiros</l>
+          <l n="2">vêm com cabedal tão fraco,</l>
+          <l n="3">que tudo cabe num saco,</l>
+          <l n="4">que anda às costas.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Os pés são duas lagostas</l>
+          <l n="2">de andar montes, passar vaus,</l>
+          <l n="3">as mãos são dois bacalhaus</l>
+          <l n="4">já bem ardidos.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Sendo dous anos corridos,</l>
+          <l n="2">na loja estão recostados</l>
+          <l n="3">mais doces, e enfidalgados,</l>
+          <l n="4">que os mesmos Godos.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">A mim me faltam apodos,</l>
+          <l n="2">com que apodar estes tais</l>
+          <l n="3">maganos de três canais</l>
+          <l n="4">até a ponta.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Há outros de pior conta,</l>
+          <l n="2">que entre estes, e entre aqueles</l>
+          <l n="3">vêem cheios de <choice><orig>PP</orig><seg type="exp">Pês</seg></choice>, e <choice><orig>LL</orig><seg type="exp">Eles</seg></choice></l>
+          <l n="4">atrás do ombro.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">De nada disto me assombro</l>
+          <l n="2">pois bota aqui o Senhor</l>
+          <l n="3">outros de marca maior</l>
+          <l n="4">gualde, e tostada.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Perguntai à gente honrada,</l>
+          <l n="2">por que causa se desterra;</l>
+          <l n="3">diz, que tem, quem lá na terra</l>
+          <l n="4">lhe queima o sangue.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Vem viver ao pé de um mangue,</l>
+          <l n="2">e já vos veda o mangal,</l>
+          <l n="3">porque tem mais cabedal,</l>
+          <l n="4">que Porto Rico.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Se algum vem de agudo bico,</l>
+          <l n="2">lá vão prendê-lo ao sertão,</l>
+          <l n="3">e ei-lo bugio em grilhão</l>
+          <l n="4">entre os galfarros.</l>
+        </lg>
+        <lg n="19">
+          <l n="1">A terra é para os bizarros,</l>
+          <l n="2">que vêm da sua terrinha</l>
+          <l n="3">com mais gorda camisinha,</l>
+          <l n="4">que um traquete.</l>
+        </lg>
+        <lg n="20">
+          <l n="1">Que me dizeis do clerguete,</l>
+          <l n="2">que mandaram degradado</l>
+          <l n="3">por dar o óleo sagrado</l>
+          <l n="4">à sua Puta.</l>
+        </lg>
+        <lg n="21">
+          <l n="1">E a velhaca dissoluta</l>
+          <l n="2">destra em todo o artifício</l>
+          <l n="3">fez co óleo um malefício</l>
+          <l n="4">ao mesmo Zote.</l>
+        </lg>
+        <lg n="22">
+          <l n="1">Folgo de ver tanto asnote,</l>
+          <l n="2">que com seus risonhos lábios</l>
+          <l n="3">andam zombando dos sábios</l>
+          <l n="4">e entendidos.</l>
+        </lg>
+        <lg n="23">
+          <l n="1">E porque são aplaudidos</l>
+          <l n="2">de outros da sua facção,</l>
+          <l n="3">se fazem co'a discrição</l>
+          <l n="4">como com terra.</l>
+        </lg>
+        <lg n="24">
+          <l n="1">E dizendo ferra ferra,</l>
+          <l n="2">quando vão a pôr o pé,</l>
+          <l n="3">conhecem, que em boa fé</l>
+          <l n="4">são uns asninhos.</l>
+        </lg>
+        <lg n="25">
+          <l n="1">Porque com quatro ditinhos</l>
+          <l n="2">de conceitos estudados</l>
+          <l n="3">não podem ser graduados</l>
+          <l n="4">nas ciências.</l>
+        </lg>
+        <lg n="26">
+          <l n="1">Então suas negligências</l>
+          <l n="2">os vão conhecendo ali,</l>
+          <l n="3">porque de si para si</l>
+          <l n="4">ninguém se engana.</l>
+        </lg>
+        <lg n="27">
+          <l n="1">Mas em vindo outra semana,</l>
+          <l n="2">já caem no pecado velho,</l>
+          <l n="3">e presumem dar conselho</l>
+          <l n="4">a um Catão.</l>
+        </lg>
+        <lg n="28">
+          <l n="1">Aqui frisava o Frisão,</l>
+          <l n="2">que foi o Heresiarca,</l>
+          <l n="3">porque mais da sua alparca</l>
+          <l n="4">o aprenderam.</l>
+        </lg>
+        <lg n="29">
+          <l n="1">As Mulatas me esqueceram,</l>
+          <l n="2">a quem com veneração</l>
+          <l n="3">darei o meu beliscão</l>
+          <l n="4">pelo amoroso.</l>
+        </lg>
+        <lg n="30">
+          <l n="1">Geralmente é mui custoso</l>
+          <l n="2">o conchego das Mulatas,</l>
+          <l n="3">que se foram mais baratas,</l>
+          <l n="4">não há mais Flandes.</l>
+        </lg>
+        <lg n="31">
+          <l n="1">As que presumem de grandes,</l>
+          <l n="2">porque têm casa, e são forras</l>
+          <l n="3">têm, e chamam de cachorras</l>
+          <l n="4">às mais do trato.</l>
+        </lg>
+        <lg n="32">
+          <l n="1">Angelinha do Sapato,</l>
+          <l n="2">valeria um pino de Ouro,</l>
+          <l n="3">porém tem o cagadouro</l>
+          <l n="4">muito abaixo.</l>
+        </lg>
+        <lg n="33">
+          <l n="1">Traz o amigo cabisbaixo</l>
+          <l n="2">com muitas aleivosias,</l>
+          <l n="3">sendo, que às Ave-Marias</l>
+          <l n="4">lhe fecha a porta.</l>
+        </lg>
+        <lg n="34">
+          <l n="1">Mas isso porém que importa</l>
+          <l n="2">se ao fechar se põe já nua,</l>
+          <l n="3">e sobre o plantar na rua</l>
+          <l n="4">ainda a veste.</l>
+        </lg>
+        <lg n="35">
+          <l n="1">Fica dentro, quem a investe,</l>
+          <l n="2">e o de fora suspirando</l>
+          <l n="3">lhe grita de quando em quando</l>
+          <l n="4">ora isto basta.</l>
+        </lg>
+        <lg n="36">
+          <l n="1">Há gente de tão má casta,</l>
+          <l n="2">e de tão ruim catadura,</l>
+          <l n="3">que até esta cornadura</l>
+          <l n="4">bebe, e verte.</l>
+        </lg>
+        <lg n="37">
+          <l n="1">Todos Agrela converte,</l>
+          <l n="2">porque se com tão ruim puta</l>
+          <l n="3">a alma há de ser dissoluta,</l>
+          <l n="4">antes mui Santa.</l>
+        </lg>
+        <lg n="38">
+          <l n="1">Quem encontra ossada tanta</l>
+          <l n="2">nos beiços de uma caveira,</l>
+          <l n="3">vai fugindo de carreira,</l>
+          <l n="4">e a Deus busca.</l>
+        </lg>
+        <lg n="39">
+          <l n="1">Em uma cova se ofusca,</l>
+          <l n="2">como eu estou ofuscado,</l>
+          <l n="3">chorando o magro pecado,</l>
+          <l n="4">que fiz com ela.</l>
+        </lg>
+        <lg n="40">
+          <l n="1">É mui semelhante a Agrela</l>
+          <l n="2">a Mingota do Negreiros,</l>
+          <l n="3">que me mamou os dinheiros,</l>
+          <l n="4">o pôs-me à orça.</l>
+        </lg>
+        <lg n="41">
+          <l n="1">A Mangá com ser de alcorça</l>
+          <l n="2">dá-se a um Pardo vaganau,</l>
+          <l n="3">que a cunha do mesmo pau</l>
+          <l n="4">melhor atocha.</l>
+        </lg>
+        <lg n="42">
+          <l n="1">À Mariana da Rocha,</l>
+          <l n="2">por outro nome a Pelica,</l>
+          <l n="3">nenhum homem já dedica</l>
+          <l n="4">a sua prata.</l>
+        </lg>
+        <lg n="43">
+          <l n="1">Não há no Brasil Mulata</l>
+          <l n="2">que valha um recado só.</l>
+          <l n="3">Mas Joana Picaró</l>
+          <l n="4">o Brasil todo.</l>
+        </lg>
+        <lg n="44">
+          <l n="1">Se em gostos não me acomodo</l>
+          <l n="2">das mais, não haja disputa,</l>
+          <l n="3">cada um gabe a sua puta,</l>
+          <l n="4">e haja sossego.</l>
+        </lg>
+        <lg n="45">
+          <l n="1">Porque eu calo o meu emprego</l>
+          <l n="2">e o fiz com toda atenção,</l>
+          <l n="3">porque tal veneração</l>
+          <l n="4">se lhe devia.</l>
+        </lg>
+        <lg n="46">
+          <l n="1">Fica-te em boa, Bahia,</l>
+          <l n="2">que eu me vou por esse mundo</l>
+          <l n="3">cortando pelo mar fundo</l>
+          <l n="4">numa barquinha.</l>
+        </lg>
+        <lg n="47">
+          <l n="1">Porque inda que és pátria minha,</l>
+          <l n="2">sou segundo Cipião,</l>
+          <l n="3">que com dobrada razão</l>
+          <l n="4">a minha idéia</l>
+          <l n="5">te diz "<choice><orig>non possedebis ossa mea</orig><seg type="apo">nom possedêbis ossa mea</seg></choice>".</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>THOMAZ PINTO BRANDÃO ESTANDO PREZO POR INDUSTRIAS DE CERTO FRADE: AFOMENTADO NA PRIZÃO POR SEUS DOUS IRMÃOS APPELIDADOS O FRIZÃO, E O CHICORIA EM VESPORAS, QUE ESTAVA O POETA DE IR PARA ANGOLLA.</head>
+        <lg n="1">
+          <l n="1">É uma das mais célebres histó-,</l>
+          <l n="2">A que te fez prender, pobre Tomá-,</l>
+          <l n="3">Porque todos te fazem degradá-,</l>
+          <l n="4">Que no nosso idioma é para Angó-.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Oh se quisesse o Padre Santo Antô-,</l>
+          <l n="2">Que se falsificara este pressá-,</l>
+          <l n="3">Para ficar corrido este Frisá-,</l>
+          <l n="4">E moído em salada este Chicó-.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas ai! que lá me vem buscar Mati-,</l>
+          <l n="2">Que nestes casos é peça de lé-;</l>
+          <l n="3">Adeus, meus camaradas, e ami-.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que vou levar cavalos a Bengué-,</l>
+          <l n="2">Mas se vou a cavalo em um navi-,</l>
+          <l n="3">Servindo vou a El-Rei por mar, e té-.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>EMBARCADO JA O POETA PARA O SEU DEGREDO, E POSTOS OS OLHOS NA SUA INGRATA PATRIA LHE CANTA DESDE O MAR AS DESPEDIDAS.</head>
+        <lg n="1">
+          <l n="1">Adeus praia, adeus Cidade,</l>
+          <l n="2">e agora me deverás,</l>
+          <l n="3">Velhaca, dar eu adeus,</l>
+          <l n="4">a quem devo ao demo dar.</l>
+          <l n="5">Que agora, que me devas</l>
+          <l n="6">dar-te adeus, como quem cai,</l>
+          <l n="7">sendo que estás tão caída,</l>
+          <l n="8">que nem Deus te quererá.</l>
+          <l n="9">Adeus Povo, adeus Bahia,</l>
+          <l n="10">digo, Canalha infernal,</l>
+          <l n="11">e não falo na nobreza</l>
+          <l n="12">tábula, em que se não dá,</l>
+          <l n="13">Porque o nobre enfim é nobre,</l>
+          <l n="14">quem honra tem, honra dá,</l>
+          <l n="15">pícaros dão picardias,</l>
+          <l n="16">e inda lhes fica, que dar.</l>
+          <l n="17">E tu, Cidade, és tão vil,</l>
+          <l n="18">que o que em ti quiser campar,</l>
+          <l n="19">não tem mais do que meter-se</l>
+          <l n="20">a magano, e campará.</l>
+          <l n="21">Seja ladrão descoberto</l>
+          <l n="22">qual águia imperial,</l>
+          <l n="23">tenha na unha o rapante,</l>
+          <l n="24">e na vista o perspicaz.</l>
+          <l n="25">A uns compre, a outros venda,</l>
+          <l n="26">que eu lhe seguro o medrar,</l>
+          <l n="27">seja velhaco notório,</l>
+          <l n="28">e tramoeiro fatal.</l>
+          <l n="29">Compre tudo, e pague nada,</l>
+          <l n="30">deva aqui, deva acolá</l>
+          <l n="31">perca o pejo, e a vergonha,</l>
+          <l n="32">e se casar, case mal.</l>
+          <l n="33">Com branca não, que é pobreza,</l>
+          <l n="34">trate de se mascavar;</l>
+          <l n="35">vendo-se já mascavado,</l>
+          <l n="36">arrime-se a um bom solar.</l>
+          <l n="37">Porfiar em ser fidalgo,</l>
+          <l n="38">que com tanto se achará;</l>
+          <l n="39">se tiver mulher formosa,</l>
+          <l n="40">gabe-a por esses poiaes.</l>
+          <l n="41">De virtuosa talvez,</l>
+          <l n="42">e de entendida outro tal,</l>
+          <l n="43">introduza-se ao burlesco</l>
+          <l n="44">nas casas, onde se achar.</l>
+          <l n="45">Que há Donzela de belisco,</l>
+          <l n="46">que aos punhos se gastará,</l>
+          <l n="47">trate-lhe um galanteio,</l>
+          <l n="48">e um frete, que é principal.</l>
+          <l n="49">Arrime se a um poderoso.</l>
+          <l n="50">que lhe alimente o gargaz,</l>
+          <l n="51">que há pagadores na terra,</l>
+          <l n="52">tão duros como no mar.</l>
+          <l n="53">A estes faça alguns mandados</l>
+          <l n="54">a título de agradar,</l>
+          <l n="55">e conserve-se o afetuoso,</l>
+          <l n="56">confessando o desigual.</l>
+          <l n="57">Intime-lhe a fidalguia,</l>
+          <l n="58">que eu creio, que crerá,</l>
+          <l n="59">porque fique ela por ela,</l>
+          <l n="60">quando lhe ouvir outro tal.</l>
+          <l n="61">Vá visitar os amigos</l>
+          <l n="62">no engenho de cada qual,</l>
+          <l n="63">e comendo-os por um pé,</l>
+          <l n="64">nunca tire o pé de lá.</l>
+          <l n="65">Que os Brasileiros são bestas,</l>
+          <l n="66">e estarão a trabalhar</l>
+          <l n="67">toda a vida por manter</l>
+          <l n="68">maganos de Portugal.</l>
+          <l n="69">Como se vir homem rico,</l>
+          <l n="70">tenha cuidado em guardar,</l>
+          <l n="71">que aqui honram os mofinos,</l>
+          <l n="72">e mofam dos liberais.</l>
+          <l n="73">No Brasil a fidalguia</l>
+          <l n="74">no bom sangue nunca está,</l>
+          <l n="75">nem no bom procedimento,</l>
+          <l n="76">pois logo em que pode estar?</l>
+          <l n="77">Consiste em muito dinheiro,</l>
+          <l n="78">e consiste em o guardar,</l>
+          <l n="79">cada um o guarde bem,</l>
+          <l n="80">para ter que gastar mal.</l>
+          <l n="81">Consiste em dá-lo a maganos,</l>
+          <l n="82">que o saibam lisonjear,</l>
+          <l n="83">dizendo, que é descendente</l>
+          <l n="84">da casa do Vila Real.</l>
+          <l n="85">Se guardar o seu dinheiro,</l>
+          <l n="86">onde quiser, casará:</l>
+          <l n="87">os sogros não querem homens,</l>
+          <l n="88">querem caixas de guardar.</l>
+          <l n="89">Não coma o Genro, nem vista</l>
+          <l n="90">que esse é genro universal;</l>
+          <l n="91">todos o querem por genro,</l>
+          <l n="92">genro de todos será.</l>
+          <l n="93">Oh assolada veja eu</l>
+          <l n="94">Cidade tão suja, e tal,</l>
+          <l n="95">avesso de todo o mundo,</l>
+          <l n="96">só direita em se entortar.</l>
+          <l n="97" met="inesc">Terra, que não parece</l>
+          <l n="98">neste mapa universal</l>
+          <l n="99">com outra, ou são ruins todas,</l>
+          <l n="100">ou ela somente é má.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

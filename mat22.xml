@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36535"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Alto: vou- me meter Frade</l>
+          <l n="2">na ordem de <choice><orig>Fr.</orig><seg type="exp">Frei</seg></choice> Tomás,</l>
+          <l n="3">serei perpétuo lambaz</l>
+          <l n="4">do ralo, da roda, e grade:</l>
+          <l n="5">mamarei paternidade,</l>
+          <l n="6"><choice><orig>Deo gratias</orig><seg type="apo">Dêo grácias</seg></choice> se me dará,</l>
+          <l n="7">e apenas se me ouvirá</l>
+          <l n="8">o estrondo do meu tamanco,</l>
+          <l n="9">quando a Freira sobre o banco</l>
+          <l n="10">no ralo me aguardará.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>ÀS RELIGIOSAS QUE EM HUMA FESTIVIDADE, QUE CELEBRÁRAM, LANÇÁRAM A</head>
+        <lg n="1">
+          <l n="1">Meninas, pois é verdade,</l>
+          <l n="2">não falando por brinquinhos,</l>
+          <l n="3">que hoje aos vossos passarinhos</l>
+          <l n="4">se concede liberdade:</l>
+          <l n="5">fazei-me nisto a vontade</l>
+          <l n="6">de um passarinho me dar,</l>
+          <l n="7">e não o deveis negar,</l>
+          <l n="8">que espero não concedais,</l>
+          <l n="9">pois é dia, em que deitais</l>
+          <l n="10">passarinhos a voar.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>A D. MARTHA DE CHRISTO PRIMEYRA ABBADEÇA DO DESTERRO GALANTEA O POETA OBSEQUIOSAMENTE.</head>
+        <lg n="1">
+          <l n="1">Ilustríssima Abadessa,</l>
+          <l n="2">generosa Dona Marta,</l>
+          <l n="3">que inda que nunca vos vi,</l>
+          <l n="4">vos conheço pela fama.</l>
+          <l n="5">Um ludíbrio da fortuna,</l>
+          <l n="6">epílogo de desgraças</l>
+          <l n="7">se oferece a vossos pés,</l>
+          <l n="8">para beijar-vos as plantas.</l>
+          <l n="9">E bem, que a tão breve pé</l>
+          <l n="10">sobra uma boca tamanha,</l>
+          <l n="11">que mal me estará fazer-vos</l>
+          <l n="12">as adorações sobradas.</l>
+          <l n="13">Que dissera eu, se vos vira</l>
+          <l n="14">a beleza dessa cara,</l>
+          <l n="15">dos corações doce enleio,</l>
+          <l n="16">suave encanto das almas?</l>
+          <l n="17">Mas já que nunca vos vi,</l>
+          <l n="18">por não ter dita tão alta,</l>
+          <l n="19">a informação, que tirei,</l>
+          <l n="20">para desejar-vos basta.</l>
+          <l n="21">Vós sois, Senhora Abadessa,</l>
+          <l n="22">fruto de tão nobre planta,</l>
+          <l n="23">que se não nascêreis vós,</l>
+          <l n="24">mal pudera outro imitá-la.</l>
+          <l n="25">O que vos peço, é querer-vos</l>
+          <l n="26">ou que me désseis palavra</l>
+          <l n="27">de consentir, que vos queira,</l>
+          <l n="28">que é dom, que não custa nada.</l>
+          <l n="29">Eu sou um conimbricense</l>
+          <l n="30">nascido nestas montanhas,</l>
+          <l n="31">e sobre um ovo chocado</l>
+          <l n="32">entre gemas, e entre clara.</l>
+          <l n="33">Servi a Amor muitos anos,</l>
+          <l n="34">e como sempre mal paga,</l>
+          <l n="35">tenho a alma sabichona</l>
+          <l n="36">já de muito escarmentada.</l>
+          <l n="37">Não tenho medo de vós,</l>
+          <l n="38">que não sois das namoradas,</l>
+          <l n="39">dadas a mui pertendidas</l>
+          <l n="40">pelo meio de falsárias.</l>
+          <l n="41">Sois uma Freira mui linda,</l>
+          <l n="42">bem nascida, e bem criada.</l>
+          <l n="43">e o gabo não vos assuste,</l>
+          <l n="44">que ninguém gorda vos chama.</l>
+          <l n="45">A este pobre fradulário</l>
+          <l n="46">dai qualquer favor por carta,</l>
+          <l n="47">porque no tardar do prêmio</l>
+          <l n="48">não perigue a esperança.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>CELEBRA O POETA O CASO, QUE SUCCEDEU A HUA FREYRA DO MESMO CONVENTO A QUEM OUTRAS FREYRAS TRAVESSAS LHE MOLHARAM O TOUCADO, COM QUE PERTENDIA FALLAR À SUA AMANTE.</head>
+        <lg n="1">
+          <l n="1">Pelo toucador, clamais,</l>
+          <l n="2">e em confusão me meteis,</l>
+          <l n="3">porque se enxuto o quereis</l>
+          <l n="4">como sobre ele chorais?</l>
+          <l n="5">quanto mais suspiros dais,</l>
+          <l n="6">novos extremos fazendo,</l>
+          <l n="7">vai vosso dano crescendo,</l>
+          <l n="8">e é mui mal esperdiçado</l>
+          <l n="9">sobre a perda do toucado</l>
+          <l n="10">andar pérolas perdendo:</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas um peito lastimado,</l>
+          <l n="2">que tem em pouco essas sobras,</l>
+          <l n="3">dirá, pois chora por dobras,</l>
+          <l n="4">que o deixem chorar dobrado:</l>
+          <l n="5">ditoso o vosso toucado</l>
+          <l n="6">nas lágrimas, que chorastes,</l>
+          <l n="7">pois tão bem desempenhastes</l>
+          <l n="8">as vezes, que vos ornou,</l>
+          <l n="9">que se até aqui vos toucou,</l>
+          <l n="10">de pérolas o toucastes.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Porventura, Nise, achais,</l>
+          <l n="2">que mais bela a touca estava</l>
+          <l n="3">ao tempo, que vos toucava,</l>
+          <l n="4">do que agora a toucais?</l>
+          <l n="5">não vedes, não reparais,</l>
+          <l n="6">que aqueles vãos ornamentos</l>
+          <l n="7">umedecidos, e lentos</l>
+          <l n="8">de aljôfares derretidos,</l>
+          <l n="9">o que estão de mui caídos,</l>
+          <l n="10">isso têm de mais alentos?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Chorais com razão tão pouca,</l>
+          <l n="2">que estão todos murmurando,</l>
+          <l n="3">que andais as toucas lançando</l>
+          <l n="4">não mais que por uma touca</l>
+          <l n="5">se por Sílvio ides louca,</l>
+          <l n="6">porque arnante vos anele,</l>
+          <l n="7">e mais por vós se desvele,</l>
+          <l n="8">vinde à grade destoucada,</l>
+          <l n="9">e verá, que de empenhada</l>
+          <l n="10">botais as toucas por ele.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Inundais as escarlatas</l>
+          <l n="2">à guisa da bela aurora,</l>
+          <l n="3">como se mui novo fora,</l>
+          <l n="4">que nágua se banhem patas:</l>
+          <l n="5">se as Professas, ou Donatas,</l>
+          <l n="6">que as patas vos mergulharam</l>
+          <l n="7">tanto a peça celebraram,</l>
+          <l n="8">zombai das suas invejas,</l>
+          <l n="9">não se gabem malfazejas,</l>
+          <l n="10">que de patas nos viraram.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>A D. CATHERINA PRELADA, QUE FOY NO MOSTEYRO DE ODIVELLAS,   E AGORA PORTEYRA PEDE O POETA HUMA GRADE.</head>
+        <lg n="1">
+          <l n="1">Parabém seja à vossa Senhoria</l>
+          <l n="2">Ser da Chave dourada dessa glória,</l>
+          <l n="3">Que há de dar-nos sem obra meritória</l>
+          <l n="4">Por graça só da sua fidalguia.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se, quando o céu monástico regia,</l>
+          <l n="2">Deixou de seu juízo tal memória,</l>
+          <l n="3">Quanto mais, que o reger, dará vã glória</l>
+          <l n="4">Estar abrindo a glória cada dia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Qualquer alma, que à glória se avizinha,</l>
+          <l n="2">Contente aceita, alegre se acomoda</l>
+          <l n="3">Com toda glória não: cuma casinha.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não dê Vossenhoria a glória toda,</l>
+          <l n="2">Mas bem vê, que à crueldade se encaminha,</l>
+          <l n="3">Que, sendo Caterina, dê a roda.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>REPETIO O POETA A MESMA ROGATIVA DEPOIS DE ALGUM TEMPO.</head>
+        <lg n="1">
+          <l n="1">Minha Senhora Dona Caterina,</l>
+          <l n="2">Posto que montam pouco os meus engodos,</l>
+          <l n="3">Agora os junto, e os engrazo todos,</l>
+          <l n="4">Chamando a minha Mãe minha Menina.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Já sabeis, que me faz fome canina</l>
+          <l n="2">Lise, de cujos agradáveis modos</l>
+          <l n="3">Não são para servir de seus apodos</l>
+          <l n="4">Os astros dessa esfera cristalina.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Tratai de me fartar esta vontade</l>
+          <l n="2">em uma grade, como em uma boda,</l>
+          <l n="3">Que é pouco em cada mês uma só grade.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pois toda a Mãe seus Filhos acomoda,</l>
+          <l n="2">Adverti, que parece crueldade,</l>
+          <l n="3">Que sendo Caterina deis a roda.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>NO DIA EM QUE O POETA EMPRENDEO GALANTEAR HUA FREYRA DO MESMO CONVENTO SE LHE PEGOU O FOGO NA CAMA, E INDO APAGAR-LO, QUEYMOU UMA MÃO.</head>
+        <lg n="1">
+          <l n="1">Ontem a amar-vos me dispus, e logo</l>
+          <l n="2">Senti dentro de mim tão grande chama,</l>
+          <l n="3">Que vendo arder-me na amorosa flama,</l>
+          <l n="4">Tocou Amor na vossa cela o fogo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dormindo vós com todo o desafogo</l>
+          <l n="2">Ao som do repicar saltais da cama,</l>
+          <l n="3">E vendo arder uma alma, que vos ama,</l>
+          <l n="4">Movida da piedade, e não do rogo</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Fizestes aplicar ao fogo a neve</l>
+          <l n="2">De uma mão branca, que livrar-se entende</l>
+          <l n="3">Da chama, de quem foi despojo breve.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas ai! que se na neve Amor se acende,</l>
+          <l n="2">Como de si esquecida a mão se atreve</l>
+          <l n="3">A apagar, o que Amor na neve incende.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>QUEYXA-SE HUMA FREYRA DAQUELLA MESMA CASA, DE QUE SENDO VISTA HUA VEZ DO POETA, SE DESCUYDAVA-SE DE À TORNAR A VER.</head>
+        <lg n="1">
+          <l n="1">Quem a primeira vez chegou a ver-vos,</l>
+          <l n="2">Nise, e logo se pôs a contemplar-vos,</l>
+          <l n="3">Bem merece morrer por conversar-vos,</l>
+          <l n="4">E não pode viver sem merecer-vos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não soube ver-vos bem, nem conhecer-vos</l>
+          <l n="2">Aquele, que outra vez deseja olhar-vos,</l>
+          <l n="3">Pois não caiu nos riscos de tratar-vos,</l>
+          <l n="4">Quem quer, que lhe queirais por já querer-vos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Essas luzes de amor ricas, e belas</l>
+          <l n="2">Vê-las basta uma vez, para admirá-las,</l>
+          <l n="3">Que vê-las outra vez, será ofendê-las.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E se por resumi-las, e contá-las,</l>
+          <l n="2">Não se podem contar, Nise, as estrelas,</l>
+          <l n="3">Nem menos à memória encomendá-las.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>A HUMA FREYRA QUE NAQUELLA CASA SE LHE APRESENTOU RICAMENTE VESTIDA, E COM UM REGALO DE MARTAS.</head>
+        <lg n="1">
+          <l n="1">De uma rústica pele, que antes dera</l>
+          <l n="2">A um bruto monte, fez regalo Armida,</l>
+          <l n="3">Por ser na fera a gala conhecida,</l>
+          <l n="4">Como na condição já dantes era.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Menos que Armida já se considera</l>
+          <l n="2">Ser a fera, pois perde a doce vida</l>
+          <l n="3">Por Armida cruel: e esta homicida</l>
+          <l n="4">Por vestir a fereza, despe a fera.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se era negra, e feroz por natureza,</l>
+          <l n="2">Com tal mão animada a pele goza</l>
+          <l n="3">De um cordeirinho a mansidão, e a alvura.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Oh que tal é de Armida a mão formosa!</l>
+          <l n="2">Que faz perder às feras a fereza,</l>
+          <l n="3">E trocar-se a fealdade em formosura.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>A OUTRA FREYRA, QUE SATYRIZANDO A DELGADA FIZIONOMIA DO POETA LHE CHAMOU PICAFLOR.</head>
+        <lg n="1">
+          <l n="1">Se Pica-flor me chamais,</l>
+          <l n="2">Pica-flor aceito ser,</l>
+          <l n="3">mas resta agora saber,</l>
+          <l n="4">se no nome, que me dais,</l>
+          <l n="5">meteis a flor, que guardais</l>
+          <l n="6">no passarinho melhor!</l>
+          <l n="7">se me dais este favor,</l>
+          <l n="8">sendo só de mim o Pica,</l>
+          <l n="9">e o mais vosso, claro fica,</l>
+          <l n="10">que fico então Pica-flor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>QUEYXA-SE O POETA DAS FUNDADORAS, QUE VIERAM DE EVORA, POR NÃO PODER CONSEGUIR ALGUM GALANTEYO NAQUELLA CASA, E SEREM SOMENTE ADMITTIDOS FRADES FRANCISCANOS.</head>
+        <lg n="1">
+          <l n="1">Estamos na cristandade?</l>
+          <l n="2">Sofrer se há isto em Argel,</l>
+          <l n="3">que um convento tão novel</l>
+          <l n="4">deixe um leigo por um Frade?</l>
+          <l n="5">que na roda, ralo, ou grade</l>
+          <l n="6">Frades de bom, e mau jeito</l>
+          <l n="7">comam merenda e eito,</l>
+          <l n="8">e estejam a seu contento</l>
+          <l n="9">feitos papas do convento,</l>
+          <l n="10">porque andam co papo feito?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se engordar a fradaria</l>
+          <l n="2">a esta cidade os trouxeram,</l>
+          <l n="3">melhor fora, que vieram,</l>
+          <l n="4">sustentar a Infantaria:</l>
+          <l n="5">que importa, que cada dia</l>
+          <l n="6">façam obras, casas fundem,</l>
+          <l n="7">se os Fradinhos as confundem</l>
+          <l n="8">por modo tão execrando,</l>
+          <l n="9">que quanto elas vão fundando,</l>
+          <l n="10">tudo os Frades lhes refundem.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pelo jeito, que isto leva,</l>
+          <l n="2">cuidam, que em Évora estão,</l>
+          <l n="3">onde de Inverno, e Verão</l>
+          <l n="4">se põem os marrões de ceva:</l>
+          <l n="5">nenhuma jamais se atreva</l>
+          <l n="6">sob pena de excomunhão</l>
+          <l n="7">a cevar o seu marrão,</l>
+          <l n="8">que se em tais calamidades</l>
+          <l n="9">me asseguram, que são Frades</l>
+          <l n="10">arto em cevá-los lhe irão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Sirvam-se do secular,</l>
+          <l n="2">que ali está o garbo, o asseio,</l>
+          <l n="3">o primor, o galanteio,</l>
+          <l n="4">a boa graça, o bom ar:</l>
+          <l n="5">a este lhe hão de falar</l>
+          <l n="6">à grade, ao pátio, ao terreiro,</l>
+          <l n="7">que o secular todo é cheiro,</l>
+          <l n="8">e o Frade a mui limpo ser,</l>
+          <l n="9">sempre há de vir a feder</l>
+          <l n="10">ao cepo de um Pasteleiro.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Em chegando à grade um Frade</l>
+          <l n="2">sem mais carinho, nem graça,</l>
+          <l n="3">o braço logo arregaça,</l>
+          <l n="4">e o trespassa pela grade:</l>
+          <l n="5">e é tal a qualidade</l>
+          <l n="6">de qualquer Frade faminto,</l>
+          <l n="7">que em um átomo sucinto</l>
+          <l n="8">se vê a freira coitada</l>
+          <l n="9">como um figo apolegada,</l>
+          <l n="10">e molhada como um pinto.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">O secular entendido,</l>
+          <l n="2">encolhido e mesurado</l>
+          <l n="3">não pede de envergonhado,</l>
+          <l n="4">não toma de comedido:</l>
+          <l n="5">cortesmente de advertido,</l>
+          <l n="6">e de humilde cortesão</l>
+          <l n="7">declara a sua afeição,</l>
+          <l n="8">e como se agravo fora,</l>
+          <l n="9">chama-lhe sua Senhora,</l>
+          <l n="10">chama-lhe, e pede perdão.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Mas o Frade malcriado,</l>
+          <l n="2">o vilão, o malhadeiro</l>
+          <l n="3">nos modos é mui grosseiro,</l>
+          <l n="4">nos gostos mui depravado:</l>
+          <l n="5">brama, qual lobo esfaimado,</l>
+          <l n="6">porque a Freira se destape,</l>
+          <l n="7">e quer, porque nada escape,</l>
+          <l n="8">levar logo a causa ao cabo,</l>
+          <l n="9">e fede como o diabo</l>
+          <l n="10">ao budum do trape-zape.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Portanto eu vos admoesto,</l>
+          <l n="2">que o mimo, o regalo, o doce</l>
+          <l n="3">o secular vo-lo almoce,</l>
+          <l n="4">que a um Frade basta um cabresto:</l>
+          <l n="5">toda Freira de bom gesto</l>
+          <l n="6">se entregue em toda a maneira</l>
+          <l n="7">a um leigo, que bem lhe queira,</l>
+          <l n="8">e faltando ao que lhe pedem,</l>
+          <l n="9">praza a Deus, que se lhe azedem</l>
+          <l n="10">os doces na cantareira.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>REPETE A QUEYXA INCREPANDO AS CONFIANÇAS DE FR. THOMAZ ONDE O POETA JA TINHA ENTRADA COM D. MARIANNA, FREYRA, QUE BLAZONANDO SUAS ESQUIVANÇAS LHE HAVIA DITO, QUE SE CHAMAVA ORTIGA.</head>
+        <lg n="1">
+          <l n="1">Nenhuma Freira me quer</l>
+          <l n="2">de quantas tem o Desterro,</l>
+          <l n="3">porque todas são do ferro</l>
+          <l n="4">de <choice><orig>Fr.</orig><seg type="exp">Frei</seg></choice> Burro de Almister:</l>
+          <l n="5">que me dá do seu querer,</l>
+          <l n="6">se eu também nenhuma quero:</l>
+          <l n="7">mas o rostinho severo</l>
+          <l n="8">de Soror Madama Urtiga,</l>
+          <l n="9">porque me há de dar fadiga,</l>
+          <l n="10">se tão rendido o venero.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que tem Freirinhas tão belas</l>
+          <l n="2">cos pobres dos seculares,</l>
+          <l n="3">que a todos lançam azares,</l>
+          <l n="4">e nunca a sorte cai nelas:</l>
+          <l n="5">deve de vir das estrelas</l>
+          <l n="6">de algum signo peçonhento,</l>
+          <l n="7">que abaixo do firmamento,</l>
+          <l n="8">onde jaz o Escorpião,</l>
+          <l n="9">lhos influi um Fradalhão,</l>
+          <l n="10">que lhes domina o convento.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Alto: vou-me meter Frade</l>
+          <l n="2">na ordem de <choice><orig>Fr.</orig><seg type="exp">Frei</seg></choice> Tomás,</l>
+          <l n="3">serei perpétuo lambaz</l>
+          <l n="4">do ralo, da roda, e grade:</l>
+          <l n="5">mamarei paternidade,</l>
+          <l n="6"><choice><orig>Deo gratias</orig><seg type="apo">Dêo grácias</seg></choice> se me dará,</l>
+          <l n="7">e apenas se me ouvirá</l>
+          <l n="8">o estrondo do meu tamanco,</l>
+          <l n="9">quando a Freira sobre o banco</l>
+          <l n="10">no ralo me aguardará.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Daí para a grade iremos,</l>
+          <l n="2">e apenas terei entrado,</l>
+          <l n="3">quando o braço arregaçado</l>
+          <l n="4">aos ofícios nos poremos:</l>
+          <l n="5">e quando nos não cheguemos</l>
+          <l n="6">(porque o não consentirá</l>
+          <l n="7">a grade, que longe está)</l>
+          <l n="8">o seu, e o meu coração,</l>
+          <l n="9">porque vá de mão em mão,</l>
+          <l n="10">irá na barca da pá.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Pela pá irá o meu zás,</l>
+          <l n="2">e o seu pela pá virá,</l>
+          <l n="3">e à força de tanta pá</l>
+          <l n="4">viveremos sempre em paz:</l>
+          <l n="5">serei o maior mangaz,</l>
+          <l n="6">que passou de leigo a demo,</l>
+          <l n="7">e a Frade, que é mor extremo,</l>
+          <l n="8">e será por meu sojorno</l>
+          <l n="9">a pá para ela de forno,</l>
+          <l n="10">e pá para mim de remo.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Então me virá buscar</l>
+          <l n="2">a Senhora Dona Urtiga,</l>
+          <l n="3"><choice><orig>Deo gratias</orig><seg type="apo">Dêo grácias</seg></choice>, meu <choice><orig>Fr.</orig><seg type="exp">Frei</seg></choice> Fustiga,</l>
+          <l n="4"><choice><orig>Deo gratias</orig><seg type="apo">Dêo grácias</seg></choice> Sor Rosalgar:</l>
+          <l n="5">então me hei de pôr a olhar,</l>
+          <l n="6">e tão grave me hei de pôr,</l>
+          <l n="7">que quando me diga Amor,</l>
+          <l n="8">esta é a Freira, que dei,</l>
+          <l n="9">dir-lhe-ei, já me purguei,</l>
+          <l n="10">e evacuei esse humor.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">A fé Soror Mariana,</l>
+          <l n="2">que tanto me hei de vingar,</l>
+          <l n="3">que eu mesmo hei de perguntar</l>
+          <l n="4">pela Freira soberana:</l>
+          <l n="5">e há de dizer vossa Mana</l>
+          <l n="6">(digo Soror Florencinha)</l>
+          <l n="7">Senhor Doutor, esta é minha</l>
+          <l n="8">Irmã, a quem você quis,</l>
+          <l n="9">e hei de dizer-lhe, mentis,</l>
+          <l n="10">que esta é uma coitadinha.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Não sabeis, Soror Florença</l>
+          <l n="2">não sabeis diferençar</l>
+          <l n="3">um Frade de um secular?</l>
+          <l n="4">pois é esta a diferença:</l>
+          <l n="5">tendo o leigo a capa imensa</l>
+          <l n="6">como homem racional</l>
+          <l n="7">nada lhe parece mal,</l>
+          <l n="8">toda a Freira é uma flor:</l>
+          <l n="9">mas em sendo Frei Fedor,</l>
+          <l n="10">a melhor é um cardal.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>A MESMA FREYRA D. MARIANNA PELO MESMO CASO DE SE HAVER APPELLIDADO ORTIGA.</head>
+        <lg n="1">
+          <l n="1">Como vos hei de abrandar,</l>
+          <l n="2">se dizeis, que sois Urtiga</l>
+          <l n="3">salvo se vos açoutar,</l>
+          <l n="4">porque então heis de ficar</l>
+          <l n="5">mais branda que uma bexiga.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Outro remédio melhor</l>
+          <l n="2">sei eu para a formosura,</l>
+          <l n="3">que faz gala do rigor,</l>
+          <l n="4">e é não a querer, que amor</l>
+          <l n="5">se vê, que vos faz mais aura.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas se isto de não querer-vos,</l>
+          <l n="2">a dureza há de abrandar-vos,</l>
+          <l n="3">sempre hei de vir a perder-vos,</l>
+          <l n="4">que o mesmo é morrer de ver-vos,</l>
+          <l n="5">que morrer de não falar vos.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Com que a cura de meu mal</l>
+          <l n="2">é amar, calar, sofrer</l>
+          <l n="3">que quando o mal é mortal,</l>
+          <l n="4">se à vida é prejudicial,</l>
+          <l n="5">será remédio o morrer.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Eu morro de vos querer,</l>
+          <l n="2">e tanto em morrer persisto,</l>
+          <l n="3">que podereis vos fazer,</l>
+          <l n="4">que não ficasse malquisto</l>
+          <l n="5">o venturão de vos ver.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Pois sabida a minha morte,</l>
+          <l n="2">e a sua causa sabida,</l>
+          <l n="3">fugindo vós de corrida,</l>
+          <l n="4">todos terão por má sorte</l>
+          <l n="5">ver-vos, e perder a vida.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Mas eu, que do mal de amor</l>
+          <l n="2">faço tanta estimação,</l>
+          <l n="3">não hei de queixar-me não</l>
+          <l n="4">de tão formoso rigor,</l>
+          <l n="5">nem de tão bela afeição.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Antes morte tão luzida</l>
+          <l n="2">com tal gosto a ela corro,</l>
+          <l n="3">que temo, minha homicida,</l>
+          <l n="4">que me torne dar a vida</l>
+          <l n="5">o prazer, com que me morro.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>QUEYXA SE O POETA A MESMA FREYRA DE SUAS INGRATIDÕES DESPRIMOROSAS, IMITANDO A D. THOMAZ DE NORONHA EM HUM SONETO,</head>
+        <lg n="1">
+          <l n="1">Senhora Mariana, em que vos <choice><orig>pes</orig><seg type="reg">pés</seg></choice>,</l>
+          <l n="2">Haveis de me pagar por esta cruz,</l>
+          <l n="3">Porque nisto de cornos nunca os pus,</l>
+          <l n="4">E sei, que me pusestes mais de três.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não sei, quem vos tentou, ou quem vos fez</l>
+          <l n="2">Cruel, que rigor tanto em vós produz,</l>
+          <l n="3">Pois convosco não val, e em mim não luz</l>
+          <l n="4">Fé de Tudesco, e amor de Português.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se contra vós algum delito fiz,</l>
+          <l n="2">Que do vosso favor fora me traz,</l>
+          <l n="3">Vós não podeis ser Parte, e mais Juiz.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não queirais dar contudo a trasbarrás,</l>
+          <l n="2">Nem vos façais de mim xarrisbarris,</l>
+          <l n="3">Que me armeis por diante, e por detrás.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>À MESMA FREYRA JA DE TODO MODERADA DE SEUS ARRUFOS E CORRESPONDENDO AMANTE AO POETA.</head>
+        <lg n="1">
+          <l n="1">A bela composição</l>
+          <l n="2">dos dous nomes, que lograis,</l>
+          <l n="3">bem explica, o que cifrais</l>
+          <l n="4">nessa rara perfeição:</l>
+          <l n="5">porque sendo em conclusão</l>
+          <l n="6">por Maria Mar, e sendo</l>
+          <l n="7">Graças por Ana, já entendo,</l>
+          <l n="8">que quem logra a sorte ufana</l>
+          <l n="9">de estar vendo a Mariana</l>
+          <l n="10">um mar de graça está vendo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>À MESMA FREYRA EM OCCASIÃO, QUE O POETA À OUVIU CANTAR COM AQUELLA ESPECIAL GRAÇA QUE PARA ISSO TINHA.</head>
+        <lg n="1">
+          <l n="1">Oh quem de uma Águia elevada</l>
+          <l n="2">tIvera uma pena! eu creio,</l>
+          <l n="3">que só então com fortuna</l>
+          <l n="4">descrevera a sol tão belo.</l>
+          <l n="5">Porém se tenho de Fênix</l>
+          <l n="6">as penas dentro em meu peito</l>
+          <l n="7">pelo abrasado, em que vivo</l>
+          <l n="8">sejam chamas, quanto escrevo.</l>
+          <l n="9">Mas não: sejam lavaredas</l>
+          <l n="10">à vista desse luzeiro,</l>
+          <l n="11">que a vista de sol tão claro</l>
+          <l n="12">escurece um vivo incêndio.</l>
+          <l n="13">Contudo se o desafogo</l>
+          <l n="14">se permite a todo o peito,</l>
+          <l n="15">por não estalar esta alma,</l>
+          <l n="16">coragão, desabafemos.</l>
+          <l n="17">Convosco falo, Senhora,</l>
+          <l n="18">de minhas atenções centro,</l>
+          <l n="19">que a voz de um vale humilhado</l>
+          <l n="20">também chega ao monte excelso</l>
+          <l n="21">Recebi o sacrifício</l>
+          <l n="22">de um profundo rendimento,</l>
+          <l n="23">que as Deidades soberanas</l>
+          <l n="24">aceitam toscos obséquios.</l>
+          <l n="25">Não culpeis esta ousadia,</l>
+          <l n="26">nem crimineis tanto excesso</l>
+          <l n="27">que o destino de alta estrela</l>
+          <l n="28">me influi um amante excesso.</l>
+          <l n="29">Vi esse pasmo, que adoro,</l>
+          <l n="30">ouvi a voz, que venero,</l>
+          <l n="31">de ver fiquei sem sentido,</l>
+          <l n="32">e de ouvir sem pensamentos.</l>
+          <l n="33">Por ouvir fico enlevado,</l>
+          <l n="34">e por ver fico suspenso,</l>
+          <l n="35">se o ver me prendeu o corpo,</l>
+          <l n="36">o ouvir a alma me tem preso.</l>
+          <l n="37">Um pasmo de formosura</l>
+          <l n="38">do corpo é somente enleio,</l>
+          <l n="39">e a voz mais doce, e canora</l>
+          <l n="40">é só d'alma firme emprego.</l>
+          <l n="41">Mas ser cantora suave,</l>
+          <l n="42">e ser gentil com portento</l>
+          <l n="43">é ser labirinto, e pasmo</l>
+          <l n="44">d'alma, e corpo ao mesmo tempo.</l>
+          <l n="45">Porém se em laços tão doces</l>
+          <l n="46">for eterno prisioneiro,</l>
+          <l n="47">não terão prêmio mais alto</l>
+          <l n="48">meus firmíssimos intentos.</l>
+          <l n="49">No nome sois mar de graça,</l>
+          <l n="50">de prendas sois mar imenso,</l>
+          <l n="51">não permitais, que naufrague</l>
+          <l n="52">meu arnor sem ter remédio.</l>
+          <l n="53">Concedei-me um mar bonança,</l>
+          <l n="54">porto seguro, e sereno,</l>
+          <l n="55">que a esperança de servir-vos</l>
+          <l n="56">é âncora de querer-vos.</l>
+          <l n="57">Na firmeza sou penhasco,</l>
+          <l n="58">mas pronto a qualquer aceno,</l>
+          <l n="59">por isso as ondas mais brandas</l>
+          <l n="60">desse mar serei ligeiro.</l>
+          <l n="61">O vento do vosso agrado</l>
+          <l n="62">sopra sobre mim preceitos,</l>
+          <l n="63">serei baixel, que obediente</l>
+          <l n="64">voe como um pensamento.</l>
+          <l n="65">Seguirei o vosso norte,</l>
+          <l n="66">e por navegar direito,</l>
+          <l n="67">só esse sol seja o astro,</l>
+          <l n="68">que eu observe com empenho.</l>
+          <l n="69">Não haverá tempestade,</l>
+          <l n="70">por brabo que sopre o vento,</l>
+          <l n="71">que obrigue a mudar de rumo,</l>
+          <l n="72">quando em vosso mar navego.</l>
+          <l n="73">Venham pois de vossas luzes</l>
+          <l n="74">os mais brilhantes reflexos,</l>
+          <l n="75">porque possa encher a altura</l>
+          <l n="76">da viagem dos afetos.</l>
+          <l n="77">Mandai, que a vossa presença</l>
+          <l n="78">chegar possa a salvamento,</l>
+          <l n="79">pois ao mar dessas ternuras</l>
+          <l n="80">com vento em popa navego.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>À MESMA FREYRA MANDANDOLHE HUM PRESENTE DE DOCES.</head>
+        <lg n="1">
+          <l n="1">Um doce, que alimpa a tosse,</l>
+          <l n="2">cousa muito grande era,</l>
+          <l n="3">se eu não trocara, e pudera</l>
+          <l n="4">a doçura pelo doce:</l>
+          <l n="5">se quisera Amor, que eu fosse</l>
+          <l n="6">tão digno, e tal me fizera,</l>
+          <l n="7">que juntos vos merecera</l>
+          <l n="8">ora o doce, a doçura ora,</l>
+          <l n="9">maldita a minha alma fora,</l>
+          <l n="10">se tudo vos não comera.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas há grande distinção.</l>
+          <l n="2">e discrímen temerário</l>
+          <l n="3">entre os doces de um almário,</l>
+          <l n="4">e as doçuras de uma mão:</l>
+          <l n="5">e quem é tão sabichão</l>
+          <l n="6">destro no ré mi fá sol</l>
+          <l n="7">mal pode errar, em seu prol,</l>
+          <l n="8">quando sabe, que a doçura</l>
+          <l n="9">se se come, é por natura,</l>
+          <l n="10">e os mais doces por bemol.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O que enfim venho a dizer,</l>
+          <l n="2">é, que se à minha ventura</l>
+          <l n="3">negais comer da doçura,</l>
+          <l n="4">doces não hei de comer:</l>
+          <l n="5">não hei de troca fazer,</l>
+          <l n="6">mais que a palos me moais,</l>
+          <l n="7">e se comigo apertais,</l>
+          <l n="8">que os vossos doces almoce,</l>
+          <l n="9">é fazer-me a boca doce,</l>
+          <l n="10">quando a mim é por demais.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Trocai o doce em favor,</l>
+          <l n="2">e curai meu mal tão grave</l>
+          <l n="3">co'aquela ambrósia suave,</l>
+          <l n="4">com que foi criado o Amor:</l>
+          <l n="5">o néctar será melhor,</l>
+          <l n="6">que destilam vossas flores,</l>
+          <l n="7">que são tão secos favores</l>
+          <l n="8">são de amor efeitos pecos,</l>
+          <l n="9">tão mais são amores secos,</l>
+          <l n="10">como são secos amores.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg n="1">
+          <l n="1">Senhora minha: se de tais clausuras</l>
+          <l n="2">Tantos doces mandais a uma formiga,</l>
+          <l n="3">Que esperais vós agora, que vos diga,</l>
+          <l n="4">Se não forem muchisimas doçuras.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Eu esperei de amor outras venturas:</l>
+          <l n="2" met="inesc">Mas ei-lo vai, tudo o que é de amor, obriga,</l>
+          <l n="3">Ou já seja favor, ou uma figa,</l>
+          <l n="4">Da vossa mão são tudo ambrósias puras.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O vosso doce a todos diz, comei-me,</l>
+          <l n="2">De cheiroso, perfeito, e asseado,</l>
+          <l n="3">E eu por gosto lhe dar, comi, e fartei-me.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Em este se acabando, irá recado,</l>
+          <l n="2">E se vos parecer glutão, sofrei-me,</l>
+          <l n="3">Enquanto vos não peço outro bocado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="18">
+        <head>A OUTRA FREYRA QUE ESTRANHOU AO POETA SATYRIZAR AO PE. DAMASO DA SYLVA, DIZENDOLHE QUE ERA HUM CLERIGO TAM BENEMERITO, QUE JA ELLA TINHA EMPRENHADO, E PARIDO DELLE.</head>
+        <lg n="1">
+          <l n="1">Confessa Sor Madama de Jesus,</l>
+          <l n="2">Que tal ficou de um tal Xesmeninês,</l>
+          <l n="3">Que indo-se os meses, e chegando o mês,</l>
+          <l n="4">Parira enfim de um Cônego Abestruz.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Diz, que um Xisgaravis deitara à luz</l>
+          <l n="2">Morgado de um Presbítero montês,</l>
+          <l n="3">Cara frisona, garras de Irlandês</l>
+          <l n="4">Com boca de cagueiro de alcatruz.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Dou, que nascesse o tal Xisgaravis,</l>
+          <l n="2">Que o parisse uma Freira: vade in paz,</l>
+          <l n="3">Mas que o gerasse o Senhor Padre! arroz</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Verdade pois o coração me diz,</l>
+          <l n="2">Que o Filho foi sem dúvida algum trás,</l>
+          <l n="3">Para as barbas do Pai, onde se pôs.</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>A HUMA FREYRA QUE IMPEDIO A OUTRA MANDAR HUM VERMELHO AO POETA DE PRESENTE, DIZENDO, QUE À HAVIA SATYRIZAR.</head>
+        <lg n="1">
+          <l n="1">Ó vós, quem quer que sejais,</l>
+          <l n="2">que nem o nome vos sei,</l>
+          <l n="3">Freira, a quem nunca falei,</l>
+          <l n="4">e tão mal de mim falais:</l>
+          <l n="5">porque à fome me matais,</l>
+          <l n="6">sem vos dar motivo algum?</l>
+          <l n="7">pois querendo mandar-me um</l>
+          <l n="8">vermelho uma Freira guapa,</l>
+          <l n="9">vós me destes sem ser paga</l>
+          <l n="10">esse dia de jejum.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não quisestes porfiosa,</l>
+          <l n="2">que se me mandasse o peixe,</l>
+          <l n="3">formando para isso um feixe</l>
+          <l n="4">de razões de bem má prosa:</l>
+          <l n="5">a Freirinha era medrosa,</l>
+          <l n="6">e vós, que o peixe intentastes</l>
+          <l n="7">livrar de tantos contrastes,</l>
+          <l n="8">de sátiro me arguístes,</l>
+          <l n="9">e satírica não vistes,</l>
+          <l n="10">que então me satirizastes.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sendo o conselho tão tosco,</l>
+          <l n="2">tão bem a Freira o tomou,</l>
+          <l n="3">que o peixe me não mandou,</l>
+          <l n="4">por não se espinhar convosco:</l>
+          <l n="5">mas vós que tendes conosco,</l>
+          <l n="6">comigo, e minha talia?</l>
+          <l n="7">e se o peixe vos doía,</l>
+          <l n="8">em que eu agora me escaldo,</l>
+          <l n="9">se o fazíeis pelo caldo,</l>
+          <l n="10">o caldo eu vo-lo daria.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Oh: faz a um cuspir no chão</l>
+          <l n="2">uma sátira o Doutor:</l>
+          <l n="3">satiriza um Pica-flor,</l>
+          <l n="4">quanto mais a um peixarrão:</l>
+          <l n="5">homem de tal condição</l>
+          <l n="6">não se lhe dá de comer,</l>
+          <l n="7">e tem pouco que entender,</l>
+          <l n="8">que o Doutor já fraco, e velho</l>
+          <l n="9">se há de comer o vermelho</l>
+          <l n="10">por força o há de morder.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Pois destes tão mal conselho,</l>
+          <l n="2">rogo ao demo, que vos tome,</l>
+          <l n="3">por deixar morrer à fome</l>
+          <l n="4">um pobre faminto velho:</l>
+          <l n="5">rogo ao demo, que ao seu relho</l>
+          <l n="6">vos prenda com força tanta,</l>
+          <l n="7">que nunca arredeis a planta,</l>
+          <l n="8">e que a espinha muita, ou pouca,</l>
+          <l n="9">que me tirastes da boca,</l>
+          <l n="10">se vos crave na garganta.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Assim como isto é verdade,</l>
+          <l n="2">que pelo vosso conselho</l>
+          <l n="3">perdi eu o meu vermelho,</l>
+          <l n="4">percai vós a virgindade:</l>
+          <l n="5">que vo-la arrebate um frade;</l>
+          <l n="6">mas isto que praga é?</l>
+          <l n="7">praza ao demo, que um cobé</l>
+          <l n="8">vos plante tal mangará,</l>
+          <l n="9">que parais um Paiaiá,</l>
+          <l n="10">mais negro do que um Guiné.</l>
+        </lg>
+      </div>
+      <div type="poem" n="20">
+        <head>A CERTA FREYRA QUE EM DIA DE TODOS OS SANTOS MANDOU A SEU AMANTE GRACIOSAMENTE POR PAM POR DEOS HUM CARÁ.</head>
+        <lg n="1">
+          <l n="1">No dia. em que a Igreja dá</l>
+          <l n="2">pão por Deus à cristandade,</l>
+          <l n="3">tenho por má caridade</l>
+          <l n="4">dares vós, Freira, um cará:</l>
+          <l n="5">se foi remoque, oxalá,</l>
+          <l n="6">que vos dêem a mesma esmola,</l>
+          <l n="7">que não há mulher tão tola,</l>
+          <l n="8">que por mais honesta, e grave,</l>
+          <l n="9">não queira levar o cabe,</l>
+          <l n="10">se pôs descoberta a bola.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Descobristes a intenção,</l>
+          <l n="2">e o desejo revelastes,</l>
+          <l n="3">quando o cará encaixastes,</l>
+          <l n="4">a quem vos pedia o pão:</l>
+          <l n="5">como quem diz: meu Irmão,</l>
+          <l n="6">se quem toma, se obrigou</l>
+          <l n="7">a pagar, o que tomou,</l>
+          <l n="8">vós obrigado a pagar-me,</l>
+          <l n="9">ficais ensinado a dar-me</l>
+          <l n="10">o cará, que vos eu dou.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Levado desta seqüela</l>
+          <l n="2">promete o mancebo já</l>
+          <l n="3">de dar-vos o seu cará,</l>
+          <l n="4">porque fique ela por ela:</l>
+          <l n="5">se consiste a vossa estrela</l>
+          <l n="6">em dar, o que heis de tomar,</l>
+          <l n="7">cará não há de faltar,</l>
+          <l n="8">porque o Moço não repara</l>
+          <l n="9">em levar a cópia, para</l>
+          <l n="10">o original vos tornar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se assim for, que assim será,</l>
+          <l n="2">fareis um negócio raro,</l>
+          <l n="3">porque um cará não é caro</l>
+          <l n="4">se por um outro se dá:</l>
+          <l n="5">e pois o quer pagar já</l>
+          <l n="6">sem detença, e com cuidado,</l>
+          <l n="7">se o quereis ver bem pagado,</l>
+          <l n="8">há de ser com tal partido,</l>
+          <l n="9">que por um cará cozido</l>
+          <l n="10">leveis o meu, que anda assado.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Vós pois me haveis de dizer</l>
+          <l n="2">(assentado este negócio)</l>
+          <l n="3">se quereis fazer socrócio,</l>
+          <l n="4">porque comigo há de ser:</l>
+          <l n="5">de carás heis de cozer</l>
+          <l n="6">uma boa caldeirada,</l>
+          <l n="7">e de toda esta tachada</l>
+          <l n="8">tal conserva heis de tomar,</l>
+          <l n="9">que vos venhais a pagar</l>
+          <l n="10">do cará co caralhada.</l>
+        </lg>
+      </div>
+      <div type="poem" n="21">
+        <head>A OUTRA FREYRA QUE MANDOU AO POETA HUM CHOURIÇO DE SANGUE.</head>
+        <lg n="1">
+          <l n="1">Conta-se pelos corrilhos</l>
+          <l n="2">que o Pelicano às titelas</l>
+          <l n="3">sustenta como morcelas</l>
+          <l n="4">a puro sangue a seus filhos:</l>
+          <l n="5">vós, Dona Fábia Carrilhos,</l>
+          <l n="6">se bem cuido, e não me engano,</l>
+          <l n="7">deveis de ser Pelicano,</l>
+          <l n="8">que enchestes este chouriço</l>
+          <l n="9">com o sangue alagadiço</l>
+          <l n="10">desse pássaro magano.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Com que este chouriço gordo,</l>
+          <l n="2">tão gordo, e especiado</l>
+          <l n="3">um filho vosso é criado</l>
+          <l n="4">co sangue do vosso tordo:</l>
+          <l n="5">porém tomou mau acordo,</l>
+          <l n="6">quem quer que o empapelou,</l>
+          <l n="7">e a dar-mo vos obrigou,</l>
+          <l n="8">pois não tem caminho enfim,</l>
+          <l n="9">mandares-me o filho a mim,</l>
+          <l n="10">que outro Pai vos encaixou.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O que me dita o toutiço,</l>
+          <l n="2">é, que o paio se mediu;</l>
+          <l n="3">e por onde este saiu,</l>
+          <l n="4">pode entrar qualquer chouriço:</l>
+          <l n="5">direis, que vos não dá disso,</l>
+          <l n="6">e eu creio, se vos não dá,</l>
+          <l n="7">mas alguém vo-lo dará,</l>
+          <l n="8">e que fora o meu quisera,</l>
+          <l n="9">porque se fartara, e enchera</l>
+          <l n="10">do sangue, que vai por lá.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Comi o chouriço cozido</l>
+          <l n="2">com sossego, e sem empenho,</l>
+          <l n="3">porque outro chouriço tenho</l>
+          <l n="4">para pagar o comido:</l>
+          <l n="5">vós tendes melhor partido,</l>
+          <l n="6">mais liberal, e mais franco,</l>
+          <l n="7">pois como em real estanco</l>
+          <l n="8">tal seguro vos prometo,</l>
+          <l n="9">que por um chouriço preto</l>
+          <l n="10">heis de levar o meu branco.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Sobre vos aventejar</l>
+          <l n="2">nas cores desta trocada,</l>
+          <l n="3">vós destes-me uma talhada,</l>
+          <l n="4">e eu todo vo-lo hei de dar:</l>
+          <l n="5">se cuidais de mo cortar,</l>
+          <l n="6">ele é duro de maneira</l>
+          <l n="7">que a faca mais cortadeira</l>
+          <l n="8">não fará cousa, que importa,</l>
+          <l n="9">que o meu chouriço o não corta,</l>
+          <l n="10">salvo um remoque de Freira.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Eu o dou por bem cortado</l>
+          <l n="2">deste primeiro remoque,</l>
+          <l n="3">que ao vosso mais leve toque</l>
+          <l n="4">fique de todo esgorado:</l>
+          <l n="5">então o vosso cuidado</l>
+          <l n="6">vendo, que tanto me emborco,</l>
+          <l n="7">e inda assim vos não emporco,</l>
+          <l n="8">terá por cousa do Olimpo,</l>
+          <l n="9">que a tripa de um homem limpo</l>
+          <l n="10">se dê por tripa de porco.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Muito me soube atalhada</l>
+          <l n="2">do chouriço inda que preto,</l>
+          <l n="3">e a ser todo vos prometo,</l>
+          <l n="4">que a ceia fora dobrada:</l>
+          <l n="5">mas fora mais acertada</l>
+          <l n="6">cousa, e de menos trabalho</l>
+          <l n="7">que dando-vos nisto um talho,</l>
+          <l n="8">uma lingüiça vos cangue,</l>
+          <l n="9">que o chouriço coalha o sangue,</l>
+          <l n="10">e a lingüiça leva o alho.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Eu sou tão bom conselheiro,</l>
+          <l n="2">que heis de escolher, o que digo,</l>
+          <l n="3">porque quem fala comigo,</l>
+          <l n="4">escolhe em um tabuleiro:</l>
+          <l n="5">se vos for mais lisonjeiro</l>
+          <l n="6">o chouriço, que a lingüiça,</l>
+          <l n="7">dou gosto, e faço justiça:</l>
+          <l n="8">mas bem sabe quem se abrocha,</l>
+          <l n="9">que o chouriço a boca atocha,</l>
+          <l n="10">e a lingüiça o fogo atiça.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

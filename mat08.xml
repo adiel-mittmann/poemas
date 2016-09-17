@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36540"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">para levar tudo ao punho,</l>
+          <l n="2">que só por força tem cunho,</l>
+          <l n="3">ou cruzes o seu dinheiro.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Todos, os que não furtam, muito pobres.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>PONDO OS OLHOS PRIMEIRAMENTE NA SUA CIDADE CONHECE, QUE OS MERCADORES SÃO O PRIMEIRO MÓVEL DA RUÍNA, EM QUE ARDE PELAS MERCADORIAS INÚTEIS E ENGANOSAS.</head>
+        <lg n="1">
+          <l n="1">Triste Bahia! Oh quão dessemelhante</l>
+          <l n="2">Estás, e estou do nosso antigo estado!</l>
+          <l n="3">Pobre te vejo a ti, tu a mi empenhado,</l>
+          <l n="4">Rica te vejo eu já, tu a mi abundante.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A ti trocou-te a máquina mercante,</l>
+          <l n="2">Que em tua larga barra tem entrado,</l>
+          <l n="3">A mim foi-me trocando, e tem trocado</l>
+          <l n="4">Tanto negócio, e tanto negociante.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Deste em dar tanto açúcar excelente</l>
+          <l n="2">Pelas drogas inúteis, que abelhuda</l>
+          <l n="3">Simples aceitas do sagaz Brichote.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Oh se quisera Deus, que de repente</l>
+          <l n="2">Um dia amanheceras tão sisuda</l>
+          <l n="3">Que fora de algodão o teu capote!</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>DESCREVE COM MAIS INDIVIDUAÇÃO A FIDÚCIA, COM QUE OS ESTRANHOS SOBEM A ARRUINAR SUA REPÚBLICA.</head>
+        <lg n="1">
+          <l n="1">Senhora Dona Bahia,</l>
+          <l n="2">nobre, e opulenta cidade,</l>
+          <l n="3">madrasta dos Naturais,</l>
+          <l n="4">e dos Estrangeiros madre.</l>
+          <l n="5">Dizei-me por vida vossa,</l>
+          <l n="6">em que fundais o ditame</l>
+          <l n="7">de exaltar, os que aí vêm,</l>
+          <l n="8">e abater, os que ali nascem?</l>
+          <l n="9">Se o fazeis pelo interesse,</l>
+          <l n="10">de que os estranhos vos gabem,</l>
+          <l n="11">isso os Paisanos fariam</l>
+          <l n="12">com duplicadas vantagens.</l>
+          <l n="13">E suposto que os louvores</l>
+          <l n="14">em boca própria não cabem,</l>
+          <l n="15" met="inesc">se tem força terá a verdade.</l>
+          <l n="16">O certo é, Pátria minha,</l>
+          <l n="17">que fostes terra de alarves,</l>
+          <l n="18">e inda os ressábios vos duram</l>
+          <l n="19">desse tempo, e dessa idade.</l>
+          <l n="20">Haverá duzentos anos,</l>
+          <l n="21">(nem tantos podem contar-se)</l>
+          <l n="22">que éreis uma aldeia pobre,</l>
+          <l n="23">e hoje sois rica cidade.</l>
+          <l n="24">Então vos pisavam Índios,</l>
+          <l n="25">e vos habitavam cafres,</l>
+          <l n="26">hoje chispais fidalguias,</l>
+          <l n="27">arrojando personagens.</l>
+          <l n="28">A essas personagens vamos,</l>
+          <l n="29">sobre elas será o debate,</l>
+          <l n="30">e queira Deus, que o vencer-vos</l>
+          <l n="31">para envergonhar-vos baste.</l>
+          <l n="32">Sai um pobrete de Cristo</l>
+          <l n="33">de Portugal, ou do Algarve</l>
+          <l n="34">cheio de drogas alheias</l>
+          <l n="35">para daí tirar gages:</l>
+          <l n="36">O tal foi sota-tendeiro</l>
+          <l n="37">de um cristão-novo em tal parte,</l>
+          <l n="38">que por aqueles serviços</l>
+          <l n="39">o despachou a embarcar-se.</l>
+          <l n="40">Fez-lhe uma carregação</l>
+          <l n="41">entre amigos, e compadres:</l>
+          <l n="42">e ei-lo comissário feito</l>
+          <l n="43">de linhas, lonas, beirames.</l>
+          <l n="44">Entra pela barra dentro,</l>
+          <l n="45">dá fundo, e logo a entonar-se</l>
+          <l n="46">começa a bordo da Nau</l>
+          <l n="47">cum vestidinho flamante.</l>
+          <l n="48">Salta em terra, toma casas,</l>
+          <l n="49">arma a botica dos trastes,</l>
+          <l n="50">em casa come Baleia,</l>
+          <l n="51">na rua entoja manjares.</l>
+          <l n="52">Vendendo gato por lebre,</l>
+          <l n="53">antes que quatro anos passem,</l>
+          <l n="54">já tem tantos mil cruzados,</l>
+          <l n="55">segundo afirmam Pasguates.</l>
+          <l n="56">Começam a olhar para ele</l>
+          <l n="57">os Pais, que já querem dar-lhe</l>
+          <l n="58">Filha, e dote, porque querem</l>
+          <l n="59">homem, que coma, e não gaste.</l>
+          <l n="60">Que esse mal há nos mazombos,</l>
+          <l n="61">têm tão pouca habilidade,</l>
+          <l n="62">que o seu dinheiro despendem</l>
+          <l n="63">para haver de sustentar-se.</l>
+          <l n="64">Casa-se o meu matachim,</l>
+          <l n="65">põe duas Negras, e um Pajem,</l>
+          <l n="66">uma rede com dous Minas,</l>
+          <l n="67">chapéu-de-sol, casas-grandes.</l>
+          <l n="68">Entra logo nos pilouros,</l>
+          <l n="69">e sai do primeiro lance</l>
+          <l n="70">Vereador da Bahia,</l>
+          <l n="71">que é notável dignidade.</l>
+          <l n="72">Já temos o Canastreiro,</l>
+          <l n="73">que inda fede a seus beirames,</l>
+          <l n="74">metamorfoses da terra</l>
+          <l n="75">transformado em homem grande:</l>
+          <l n="76">e eis aqui a personagem.</l>
+          <l n="77">Vem outro do mesmo lote</l>
+          <l n="78">tão pobre, e tão miserável</l>
+          <l n="79">vende os retalhos, e tira</l>
+          <l n="80">comissão com couro, e carne.</l>
+          <l n="81">Co principal se levanta,</l>
+          <l n="82">e tudo emprega no Iguape,</l>
+          <l n="83">que um engenho, e três fazendas</l>
+          <l n="84">o têm feito homem grande;</l>
+          <l n="85">e eis aqui a personagem.</l>
+          <l n="86">Dentre a chusma e a canalha</l>
+          <l n="87">da marítima bagagem</l>
+          <l n="88">fica às vezes um cristão,</l>
+          <l n="89">que apenas benzer-se sabe:</l>
+          <l n="90">Fica em terra resoluto</l>
+          <l n="91">a entrar na ordem mercante,</l>
+          <l n="92">troca por côvado, e vara</l>
+          <l n="93">timão, balestilha, e mares.</l>
+          <l n="94">Arma-lhe a tenda um ricaço,</l>
+          <l n="95">que a terra chama Magnate</l>
+          <l n="96">com pacto de parceria,</l>
+          <l n="97">que em direito é sociedade:</l>
+          <l n="98">Com isto a Marinheiraz</l>
+          <l n="99">do primeiro jacto, ou lance</l>
+          <l n="100">bota fora o cu breado,</l>
+          <l n="101">as mãos dissimula em guantes.</l>
+          <l n="102">Vende o cabedal alheio,</l>
+          <l n="103">e dá com ele em Levante,</l>
+          <l n="104">vai, e vem, e ao dar das contas</l>
+          <l n="105">diminui, e não reparte.</l>
+          <l n="106">Prende aqui, prende acolá,</l>
+          <l n="107">nunca falta um bom Compadre,</l>
+          <l n="108">que entretenha o acredor,</l>
+          <l n="109">ou faça esperar o Alcaide.</l>
+          <l n="110">Passa um ano, e outro ano,</l>
+          <l n="111">esperando, que ele pague,</l>
+          <l n="112">que uns lhe dão, para que junte,</l>
+          <l n="113">e outros mais, para que engane.</l>
+          <l n="114">Nunca paga, e sempre come,</l>
+          <l n="115">e quer o triste Mascate,</l>
+          <l n="116">que em fazer a sua estrela</l>
+          <l n="117">o tenham por homem grande.</l>
+          <l n="118">O que ele fez, foi furtar,</l>
+          <l n="119">que isso faz qualquer bribante,</l>
+          <l n="120">tudo o mais lhe fez a terra</l>
+          <l n="121">sempre propícia aos infames</l>
+          <l n="122">e eis aqui a personagem.</l>
+          <l n="123">Vem um Clérigo idiota,</l>
+          <l n="124">desmaiado com um jalde,</l>
+          <l n="125">os vícios com seu bioco,</l>
+          <l n="126">com seu rebuço as maldades:</l>
+          <l n="127">Mais Santo do que Mafoma</l>
+          <l n="128">na crença dos seus Arabes,</l>
+          <l n="129">Letrado como um Matulo,</l>
+          <l n="130">e velhaco como um Frade:</l>
+          <l n="131">Ontem simples Sacerdote,</l>
+          <l n="132">hoje uma grã dignidade,</l>
+          <l n="133">ontem selvagem notório,</l>
+          <l n="134">hoje encoberto ignorante.</l>
+          <l n="135">Ao tal Beato fingido</l>
+          <l n="136">é força, que o povo aclame,</l>
+          <l n="137">e os do governo se obriguem,</l>
+          <l n="138">pois edifica a cidade.</l>
+          <l n="139">Chovem uns, e chovem outros</l>
+          <l n="140">com ofícios, e lugares,</l>
+          <l n="141">e o Beato tudo apanha</l>
+          <l n="142">por sua muita humildade.</l>
+          <l n="143">Cresce em dinheiro, e respeito,</l>
+          <l n="144">vai remetendo as fundagens,</l>
+          <l n="145">compra toda a sua terra,</l>
+          <l n="146">com que fica homem grande,</l>
+          <l n="147">e eis aqui a personagem.</l>
+          <l n="148">Vêm outros zotes de Réquiem,</l>
+          <l n="149">que indo tomar o caráter</l>
+          <l n="150">todo o Reino inteiro cruzam</l>
+          <l n="151">sobre a chanca viandante.</l>
+          <l n="152">De uma província para outra</l>
+          <l n="153">como Dromedários partem,</l>
+          <l n="154">caminham como camelos,</l>
+          <l n="155">e comem como salvagens:</l>
+          <l n="156">Mariolas de missal,</l>
+          <l n="157">lacaios missa-cantante</l>
+          <l n="158">sacerdotes ao burlesco,</l>
+          <l n="159">ao sério ganhões de altares.</l>
+          <l n="160">Chega um destes, toma amo,</l>
+          <l n="161">que as capelas dos Magnates</l>
+          <l n="162">são rendas, que Deus criou</l>
+          <l n="163">para estes Orate frates.</l>
+          <l n="164">Fazem-lhe certo ordenado,</l>
+          <l n="165">que é dinheiro na verdade,</l>
+          <l n="166">que o Papa reserva sempre</l>
+          <l n="167">das ceias, e dos jantares.</l>
+          <l n="168">Não se gasta, antes se embolsa,</l>
+          <l n="169">porque o Reverendo Padre</l>
+          <l n="170">é do Santo Nicomedes</l>
+          <l n="171">meritíssimo confrade;</l>
+          <l n="172">e eis aqui a personagem.</l>
+          <l n="173">Vêem isto os Filhos da terra,</l>
+          <l n="174">e entre tanta iniqüidade</l>
+          <l n="175">são tais, que nem inda tomam</l>
+          <l n="176">licença para queixar-se.</l>
+          <l n="177">Sempre vêem, e sempre falam,</l>
+          <l n="178">até que Deus lhes depare,</l>
+          <l n="179">quem lhes faça de justiça</l>
+          <l n="180">esta sátira à cidade,</l>
+          <l n="181">Tão queimada, e destruída</l>
+          <l n="182">te vejas, torpe cidade,</l>
+          <l n="183">como Sodoma, e Gomorra</l>
+          <l n="184">duas cidades infames.</l>
+          <l n="185">Que eu zombo dos teus vizinhos,</l>
+          <l n="186">sejam pequenos, ou grandes</l>
+          <l n="187">gozos, que por natureza</l>
+          <l n="188">nunca mordem, sempre latem.</l>
+          <l n="189">Que eu espero entre Paulistas</l>
+          <l n="190">na divina Majestade,</l>
+          <l n="191">Que a ti São Marçal te queime,</l>
+          <l n="192">E São Pedro assim me guarde.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        
+        <head>JULGA PRUDENTE E DISCRETAMENTE AOS MESMOS POR CULPADOS EM UMA GERAL FOME QUE HOUVE NESTA CIDADE PELO DESGOVERNO DA REPÚBLICA, COMO ESTRANHOS NELA.</head>
+        <lg n="1">
+          <l n="1">Toda a cidade derrota</l>
+          <l n="2">esta fome universal,</l>
+          <l n="3">uns dão a culpa total</l>
+          <l n="4">à Câmara, outros à frota:</l>
+          <l n="5">a frota tudo abarrota</l>
+          <l n="6">dentro nos escotilhões</l>
+          <l n="7">a carne, o peixe, os feijões,</l>
+          <l n="8">e se a Câmara olha, e ri,</l>
+          <l n="9">porque anda farta até aqui,</l>
+          <l n="10">é cousa, que me não toca;</l>
+          <l n="11">Ponto em boca.260</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se dizem, que o Marinheiro</l>
+          <l n="2">nos precede a toda a Lei,</l>
+          <l n="3">porque é serviço d'El-Rei,</l>
+          <l n="4">concedo, que está primeiro:</l>
+          <l n="5">mas tenho por mais inteiro</l>
+          <l n="6">o conselho, que reparte</l>
+          <l n="7">com igual mão, igual arte</l>
+          <l n="8">por todos, jantar, e ceia:</l>
+          <l n="9">mas frota com tripa cheia,</l>
+          <l n="10">e povo com pança oca!</l>
+          <l n="11">Ponto em boca.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A fome me tem já mudo,</l>
+          <l n="2">que é muda a boca esfaimada;</l>
+          <l n="3">mas se a frota não traz nada,</l>
+          <l n="4">por que razão leva tudo?</l>
+          <l n="5">que o Povo por ser sisudo</l>
+          <l n="6">largue o ouro, e largue a prata</l>
+          <l n="7">a uma frota patarata,</l>
+          <l n="8">que entrando co’a vela cheia,</l>
+          <l n="9">o lastro que traz de areia,</l>
+          <l n="10">por lastro de açúcar troca!</l>
+          <l n="11">Ponto em boca.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se quando vem para cá,</l>
+          <l n="2">nenhum frete vem ganhar,</l>
+          <l n="3">quando para lá tornar,</l>
+          <l n="4">o mesmo não ganhará:</l>
+          <l n="5">quem o açúcar lhe dá,</l>
+          <l n="6">perde a caixa, e paga o frete,</l>
+          <l n="7">porque o ano não promete</l>
+          <l n="8">mais negócio, que perder</l>
+          <l n="9">o frete, por se dever,</l>
+          <l n="10">a caixa, porque se choca:</l>
+          <l n="11">Ponto em boca.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Eles tanto em seu abrigo,</l>
+          <l n="2">e o povo todo faminto,</l>
+          <l n="3">ele chora, e eu não minto,</l>
+          <l n="4">se chorando vo-lo digo:</l>
+          <l n="5">tem-me cortado o embigo</l>
+          <l n="6">este nosso General,</l>
+          <l n="7">por isso de tanto mal</l>
+          <l n="8">lhe não ponho alguma culpa;</l>
+          <l n="9">mas se merece desculpa</l>
+          <l n="10">o respeito, a que provoca,</l>
+          <l n="11">Ponto em boca.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Com justiça pois me torno</l>
+          <l n="2">à Câmara Nó Senhora,</l>
+          <l n="3">que pois me trespassa agora,</l>
+          <l n="4">agora leve o retorno:</l>
+          <l n="5">praza a Deus, que o caldo morno,</l>
+          <l n="6">que a mim me fazem cear</l>
+          <l n="7">da má vaca do jantar</l>
+          <l n="8">por falta do bom pescado</l>
+          <l n="9">lhe seja em cristéis lançado;</l>
+          <l n="10">mas se a saúde lhes toca:</l>
+          <l n="11">Ponto em boca.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>NO ANO DE 1686 DIMINUÍRAM AQUELE VALOR, QUE SE HAVIA ERGUIDO À MOEDA, QUANDO O POETA ESTAVA NA CORTE, ONDE ENTÃO COM SEU ALTO JUÍZO SENTIU MAL DO ARBITRISTA, QUE ASSIM ACONSELHARA A EL REI, QUE FOI O PROVEDOR DA MOEDA CHAMADO NICOLAU DE TAL, À QUEM FEZ AQUELA CÉLEBRE OBRA INTITULADA "MARINÍCULAS" O QUE CLARAMENTE SE DEIXA VER NESTES VERSOS:</head>
+        <lg n="1">
+          <l n="1">"Sendo pois o alterar da moeda</l>
+          <l n="2">o asopro, o arbítrio, o ponto, o ardil,</l>
+          <l n="3">de justiça a meu ver se lhe devem</l>
+          <l n="4">as honras, que teve Ferraz, e Soliz"</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        
+        <head>AGORA COM A EXPERIÊNCIA DOS MALES, QUE PADECE A REPÚBLICA NESTAS ALTERAÇÕES, SE JACTA DE O HAVER ESTRANHADO ENTÃO: JULGANDO POR CAUSA TOTAL OS AMBICIOSOS ESTRANGEIROS INIMIGOS DOS BENS ALHEIOS.</head>
+        <lg n="1">
+          <l n="1">Tratam de diminuir</l>
+          <l n="2">o dinheiro a meu pesar,</l>
+          <l n="3">que para a cousa baixar</l>
+          <l n="4">o melhor meio é subir:</l>
+          <l n="5">quem via tão alto ir,</l>
+          <l n="6">como eu vi ir a moeda,</l>
+          <l n="7">lhe prognosticou a queda,</l>
+          <l n="8">como eu lha prognostiquei:</l>
+          <l n="9">dizem, que o mandou El-Rei,</l>
+          <l n="10">quer creiais, quer não creiais.</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Manda-o a força do fado,</l>
+          <l n="2">por ser justo, que o dinheiro</l>
+          <l n="3">baixe a seu valor primeiro</l>
+          <l n="4">depois de tão levantado:</l>
+          <l n="5">o que se vir sublimado</l>
+          <l n="6">por ter mais quatro mangavas,</l>
+          <l n="7">hão de pesá-lo as oitavas,</l>
+          <l n="8">e por leve hão de enjeitá-lo:</l>
+          <l n="9">e se com todo este abalo</l>
+          <l n="10">por descontentes vos dais,</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As pessoas, que quem rezo,</l>
+          <l n="2">hão de ser como o ferrolho,</l>
+          <l n="3">val pouco tomado a olho,</l>
+          <l n="4">val menos tomado a peso:</l>
+          <l n="5">os que prezo, e que desprezo</l>
+          <l n="6">todos serão de uma casta,</l>
+          <l n="7">e só moços de canastra</l>
+          <l n="8">entre veras, e entre chanças</l>
+          <l n="9">com pesos, e com balanças</l>
+          <l n="10">vão a justiçar os mais:</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Porque como em Maranhão</l>
+          <l n="2">mandam novelos à praça,</l>
+          <l n="3">assim vós por esta traça</l>
+          <l n="4">mandareis o algodão:</l>
+          <l n="5">haverá permutação,</l>
+          <l n="6">como ao princípio das gentes,</l>
+          <l n="7">e todos os contraentes</l>
+          <l n="8">trocarão droga por droga,</l>
+          <l n="9">pão por sal, lenha por soga,</l>
+          <l n="10">vinhas por canaviais:</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Virá a frota para o ano,</l>
+          <l n="2">e que leve vós agouro</l>
+          <l n="3">senão tudo a peso de ouro,</l>
+          <l n="4">a peso tudo de engano:</l>
+          <l n="5">não é o valor desumano,</l>
+          <l n="6">que a cada oitava se dá</l>
+          <l n="7">da prata, que corre cá,</l>
+          <l n="8">pelo meu fraco conceito,</l>
+          <l n="9">mas ao cobrar fiel direito,</l>
+          <l n="10">e oblíquo, quando pagais;</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Bem merece esta cidade</l>
+          <l n="2">esta aflição, que a assalta,</l>
+          <l n="3">pois os dinheiros exalta</l>
+          <l n="4">sem real autoridade:</l>
+          <l n="5">eu se hei de falar verdade,</l>
+          <l n="6">o agressor do delito</l>
+          <l n="7">devia ser só o aflito:</l>
+          <l n="8">mas estão tão descansados,</l>
+          <l n="9">talvez que sejam chamados</l>
+          <l n="10">nesta frota, que esperais;</l>
+          <l n="11">Não vos espanteis, que inda lá vem mais.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

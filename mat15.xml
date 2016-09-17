@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36518"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Porque com quatro ditinhos,</l>
+          <l n="2">De conceitos estudados,</l>
+          <l n="3">Não podem ser graduados</l>
+          <l n="4">Em as ciências.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">que hajam poetas ocultos</l>
+          <l n="2">na sombra da poesia</l>
+          <l n="3">fugindo da Luz do dia,</l>
+          <l n="4">e que estes se chamem cultos!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">no hábito de cacoetes,</l>
+          <l n="2">que tem o meu amo entre asnetes</l>
+          <l n="3">de falar agongorado.</l>
+          <l n="4">(o cavalo de Pedralvez)</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>CONTRA OUTROS SATIRIZADOS DE VÁRIAS PENAS QUE O ATTRIBUHIRÃO AO POETA, NEGANDO-LHE A CAPACIDADE DE LOUVAR.</head>
+        <lg n="1">
+          <l n="1">Saiu a sátira má,</l>
+          <l n="2">e empurraram-ma os preversos</l>
+          <l n="3">que nisto de fazer versos</l>
+          <l n="4">eu só tenho jeito cá:</l>
+          <l n="5">noutras obras de talento</l>
+          <l n="6">eu sou só o asneirão,</l>
+          <l n="7">em sendo sátira, então</l>
+          <l n="8">eu só tenho entendimento.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Acabou-se a Sé, e envolto</l>
+          <l n="2">na obra o Sete Carreiras</l>
+          <l n="3">enfermou de caganeiras,</l>
+          <l n="4">e fez muito verso solto:</l>
+          <l n="5">tu, que o Poeta motejas,</l>
+          <l n="6">sabe, que andou acertado</l>
+          <l n="7">que pôr na obra louvado</l>
+          <l n="8">é costume das Igrejas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Correm-se muitos carneiros</l>
+          <l n="2">na festa das Onze mil,</l>
+          <l n="3">e eu com notável ardil</l>
+          <l n="4">não vou ver os cavaleiros:</l>
+          <l n="5">não vou ver, e não se espantem,</l>
+          <l n="6">que algum testemunho temo,</l>
+          <l n="7">sou velho, pelo que gemo,</l>
+          <l n="8">não quero, que mo levantem.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Querem-me aqui todos mal,</l>
+          <l n="2">mas eu quero mal a todos,</l>
+          <l n="3">eles, e eu por nossos modos</l>
+          <l n="4">nos pagamos tal por qual:</l>
+          <l n="5">e querendo eu mal a quantos</l>
+          <l n="6">me têm ódio tão veemente</l>
+          <l n="7">o meu ódio é mais valente,</l>
+          <l n="8">pois sou só, e eles são tantos.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Algum amigo, que tenho,</l>
+          <l n="2">(se é, que tenho algum amigo)</l>
+          <l n="3">me aconselha, que, o que digo,</l>
+          <l n="4">o cale com todo o empenho:</l>
+          <l n="5">este me diz, diz-me estoutro,</l>
+          <l n="6">que me não fie daquele,</l>
+          <l n="7">que farei, se me diz dele,</l>
+          <l n="8">que me não fie aqueloutro.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">O Prelado com bons modos</l>
+          <l n="2">visitou toda a cidade,</l>
+          <l n="3">é cortesão na verdade,</l>
+          <l n="4">pois nos visitou a todos:</l>
+          <l n="5">visitou a pura escrita</l>
+          <l n="6">o Povo, e seus comarcãos,</l>
+          <l n="7">e os réus de mui cortesãos</l>
+          <l n="8">hão de pagar a visita.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">A Cidade me provoca</l>
+          <l n="2">com virtudes tão comuas:</l>
+          <l n="3">há tantas cruzes nas ruas,</l>
+          <l n="4">quantas eu faço na boca:</l>
+          <l n="5">os diabos a seu centro</l>
+          <l n="6">foi cada um por seu cabo,</l>
+          <l n="7">nas ruas não há um diabo,</l>
+          <l n="8">há os das portas a dentro.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">As damas de toda a cor</l>
+          <l n="2">como tão pobre me vêem,</l>
+          <l n="3">as mais lástima me têm,</l>
+          <l n="4">as menos me têm amor:</l>
+          <l n="5">o que me tem admirado</l>
+          <l n="6">é, fecharam-me o poleiro</l>
+          <l n="7">logo acabado o dinheiro,</l>
+          <l n="8">deviam ter-mo contado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>A HUM IGNORANTE POETA, QUE POR SUAS LHE MOSTROU HUMAS DECIMAS DE ANTONIO DA FONCECA SOARES.</head>
+        <lg n="1">
+          <l n="1">Protótipo gentil do Deus muchacho,</l>
+          <l n="2">poeta singular o mais machucho,</l>
+          <l n="3">Que no mais levantado do Cartucho</l>
+          <l n="4">Quis trazer o Pegaso por penacho.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Triunfante ao Parnaso entrou gavacho</l>
+          <l n="2">Com décimas do métrico Capucho;</l>
+          <l n="3">Se são suas merece um bom cachucho,</l>
+          <l n="4">Que por boas conseguem bom despacho.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas o Sol, que na Aurora do desfecho</l>
+          <l n="2">Os párpados abrindo vos viu micho,</l>
+          <l n="3">Por ser vosso talento de relexo</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Logo disse não éreis vós o bicho,</l>
+          <l n="2">Que vos sente nas ancas este sexo,</l>
+          <l n="3">Que vos limpe essas barbas cum rabicho.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>DESCREVE A VIDA ESCOLASTICA.</head>
+        <lg n="1">
+          <l n="1">Mancebo sem dinheiro, bom barrete,</l>
+          <l n="2">Medíocre o vestido, bom sapato,</l>
+          <l n="3">Meias velhas, calção de esfola-gato,</l>
+          <l n="4">Cabelo penteado, bom topete.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Presumir de dançar, cantar falsete,</l>
+          <l n="2">Jogo de fidalguia, bom barato,</l>
+          <l n="3">Tirar falsídia ao Moço do seu trato,</l>
+          <l n="4">Furtar a carne à ama, que promete.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A putinha aldeã achada em feira,</l>
+          <l n="2">Eterno murmurar de alheias famas,</l>
+          <l n="3">Soneto infame, sátira elegante.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Cartinhas de trocado para a Freira,</l>
+          <l n="2">Comer boi, ser Quixote com as Damas,</l>
+          <l n="3">Pouco estudo, isto é ser estudante.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg n="1">
+          <l n="1">Devem de ter-me aqui por um Orate</l>
+          <l n="2">Nascido lá na gema do Lubeque,</l>
+          <l n="3">Ou por filho de algum triste Alfaqueque</l>
+          <l n="4">Daqueles, que trabucam lá em Ternate.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Porque um me dá a glosar um desparate,</l>
+          <l n="2">E quer, que se lhe imprima com crasbeque;</l>
+          <l n="3">Outro vem entonando como um Xeque,</l>
+          <l n="4">E fala pela língua de um mascate.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Anda aqui a poesia a todo o trote,</l>
+          <l n="2">E de mim corre já como um lambique</l>
+          <l n="3">Não sendo eu destilador brichote.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Outro vem, que casou em Moçambique,</l>
+          <l n="2">E vive co'a razão de vinho, e brote,</l>
+          <l n="3">Que o Sogro deu, e o Clérigo Cacique.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>A HUM FULANO DA SYLVA EXCELENTE CANTOR, OU POETA.</head>
+        <lg n="1">
+          <l n="1">Tomas a Lira, Orfeu divino, <choice><orig>ta</orig><seg type="reg">tá</seg></choice>,</l>
+          <l n="2">A lira larga de vencido, que</l>
+          <l n="3">Canoros pasmos te prevejo, se</l>
+          <l n="4">Cadências deste Apolo ouviras cá.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vivas as pedras nessas brenhas lá</l>
+          <l n="2">Mover fizeste, mas que é nada vê:</l>
+          <l n="3">porque este Apolo em contrapondo o ré,</l>
+          <l n="4">Deixa em teu canto dissonante o fá.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Bem podes, Orfeu, já por nada dar</l>
+          <l n="2">A Lira, que nos astros se te pôs</l>
+          <l n="3">Porque não tinha entre os dous Pólos par.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pois o Silva Arião da nossa foz</l>
+          <l n="2">Dessas sereias músicas do mar</l>
+          <l n="3">Suspende os cantos, e emudece a voz.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>MANDANDO GONÇALLO SOARES DA FRANCA SENDO AINDA ESTUDANTE PEDIR AO POETA HUM LIVRO INTITULADO /REPUBLICA GENTILICA EM/ OCCASIÃO, QUE AMBOS ESTAVAM DESFAVORECIDOS DE SUAS DAMAS, O POETA LHO MANDOU COM ESTA DÉCIMA.</head>
+        <lg n="1">
+          <l n="1">Na República, Senhor,</l>
+          <l n="2">de antigas gentilidades</l>
+          <l n="3">achareis as Divindades</l>
+          <l n="4">compadecidas do amor;</l>
+          <l n="5">com que podereis melhor</l>
+          <l n="6">desse mal, que padeceis</l>
+          <l n="7">ter dó de mim, pois sabeis,</l>
+          <l n="8">(que por meu mal, já se vê)</l>
+          <l n="9">restaurar as leis da fé,</l>
+          <l n="10">destruir do Amor as leis.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>RESPOSTA QUE MANDOU AO POETA GONÇALLO SOARES DA FRANCA DE REPENTE E PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Na república, Senhor,</l>
+          <l n="2">não dessas gentilidades,</l>
+          <l n="3">mas de vossas divindades,</l>
+          <l n="4">triunfará o vosso amor:</l>
+          <l n="5">com que então vereis melhor</l>
+          <l n="6">no temor, que padeceis,</l>
+          <l n="7">o quanto vencer sabeis,</l>
+          <l n="8">que muitas vezes se vê</l>
+          <l n="9">dos erros da lei da fé,</l>
+          <l n="10">apurar do amor as leis.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>A ESTA DÉCIMA RESPONDEO O POETA COM ESTE SONETO.</head>
+        <lg n="1">
+          <l n="1">De repente, e cos mesmos consoantes</l>
+          <l n="2">Não o fazem Poetas negligentes,</l>
+          <l n="3">Um Apolo o fará Mestre das gentes,</l>
+          <l n="4">E vós, Gonçalo, Sol dos Estudantes.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A princípios tão raros, e elegantes</l>
+          <l n="2">As Musas já se prostram reverentes,</l>
+          <l n="3">Querendo duplicar-vos muitas frentes,</l>
+          <l n="4">Porque um laurel não são lauréis bastantes</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Canta pois, doce espírito engenhoso,</l>
+          <l n="2">Nunca a Lira deponhas, nem suspendas,</l>
+          <l n="3">Porque das nove o coro soberano</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se põem no Sacro Monte deleitoso</l>
+          <l n="2">Umas, porque Mecenas as acendas,</l>
+          <l n="3">Outras, porque as emendes Mantuano.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>AO DOUTOR ANTONIO RODRIGUES DA COSTA CAVALHEYRO DO HABITO CHRISTO, CHEGANDO DE PORTUGAL COM HUM VESTIDO VERDE, E CANHÕES DE VELUDO, O QUAL SE FEZ ABORRECIDO DO POETA POR MAO LETRADRO, E JURISTA INTRUSO.</head>
+        <lg n="1">
+          <l n="1">Quem vos viu na terra entrar</l>
+          <l n="2">com libréia de Lacaio</l>
+          <l n="3">verde cor de papagaio,</l>
+          <l n="4">que há de vos esperar?</l>
+          <l n="5">haveis de papagaiar,</l>
+          <l n="6">e fazer tal garalhada,</l>
+          <l n="7">que fique a gente pasmada</l>
+          <l n="8">com raiva, e sem paciência</l>
+          <l n="9">vendo a Casa da audiência</l>
+          <l n="10">reduzida em milharada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">As mangas veludo inteiro,</l>
+          <l n="2">e a roupeta verde pano</l>
+          <l n="3">é libréia em todo o ano</l>
+          <l n="4">da grande casa de Aveiro:</l>
+          <l n="5">Vós sois tão vil malhadeiro,</l>
+          <l n="6">que não pode a minha idéia</l>
+          <l n="7">presumir, que tão má preia</l>
+          <l n="8">serviu tão alto solar,</l>
+          <l n="9">salvo vós por vos honrar</l>
+          <l n="10">lhe furtastes a Libréia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Bem é verdade constante,</l>
+          <l n="2">que éreis na praça, e na feira</l>
+          <l n="3">um prólogo do Fronteira,</l>
+          <l n="4">pois lhe íeis sempre diante:</l>
+          <l n="5">que essa Libréia flamante</l>
+          <l n="6">fez ele para uma tropa</l>
+          <l n="7">de Lacaios fraca roupa</l>
+          <l n="8">em uns touros como uns ouros,</l>
+          <l n="9">e por seres contra os touros,</l>
+          <l n="10">vos lançou de si Europa.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Daqui a gente malvada</l>
+          <l n="2">vendo-vos na cara um zás,</l>
+          <l n="3">não cuida, que foi gilvaz,</l>
+          <l n="4">mas cuida, que foi cornada:</l>
+          <l n="5">vós fostes na Lacaiada,</l>
+          <l n="6">quando o Marquês à espanhola</l>
+          <l n="7">quantos touros vê, degola,</l>
+          <l n="8">e bem que andastes na praça,</l>
+          <l n="9">suposto que sois caraça,</l>
+          <l n="10">contudo não sois carola.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">E como o parto suposto</l>
+          <l n="2">é delito atroz, e grave,</l>
+          <l n="3">tendes na cara esse cabe</l>
+          <l n="4">por lacaio pressuposto:</l>
+          <l n="5">dá-me grandíssimo gosto</l>
+          <l n="6">ver-vos ir peão peão</l>
+          <l n="7">co'a capa arrastando o chão,</l>
+          <l n="8">pois a crer, que sois me arrisco</l>
+          <l n="9">na cinza de São Francisco</l>
+          <l n="10">São Ivo da procissão.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">A ver-vos com sobrecéu</l>
+          <l n="2">fôreis em retrato fiel</l>
+          <l n="3">Rainha Santa Isabel</l>
+          <l n="4">sem rosas, mas com chapéu:</l>
+          <l n="5">ganhais por isso o troféu</l>
+          <l n="6">aos advogados, porquanto</l>
+          <l n="7">a todos excedeis tanto,</l>
+          <l n="8">que ainda dos condenados</l>
+          <l n="9">os demais são advogados,</l>
+          <l n="10">contudo vós sois o Santo.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Só vós sabeis, quanto a mim,</l>
+          <l n="2">os prelúdios, que fazeis,</l>
+          <l n="3"><choice><orig>Casus est iste</orig><seg type="apo">Cásus ést íste</seg></choice>, dizeis,</l>
+          <l n="4">reverente: é grão Latim!</l>
+          <l n="5">dissera um vilão ruim</l>
+          <l n="6">tirado ant'onte das cabras</l>
+          <l n="7">tais latins, nem tais palavras?</l>
+          <l n="8">vá lavar-se ao mar Euxino</l>
+          <l n="9">o latim do Calepino,</l>
+          <l n="10" met="inesc">e o do Padre Manuel Abrás.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Ó lacaio alatinado,</l>
+          <l n="2">ó macarrônico ilustre,</l>
+          <l n="3">ó Jurista balaústre</l>
+          <l n="4">ao machado torneado!</l>
+          <l n="5">pois sois tão grande Letrado,</l>
+          <l n="6">vede, que dizem doutores,</l>
+          <l n="7">que os Rábulas ladradores</l>
+          <l n="8">por isso cães se chamavam,</l>
+          <l n="9">porque aos ouvidos ladravam</l>
+          <l n="10">dos míseros pleiteadores.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Cuidais, caraça de broma,</l>
+          <l n="2">que as Leis dos Imperadores</l>
+          <l n="3">se hão de levar a clamores,</l>
+          <l n="4">como a espada as de Mafoma?</l>
+          <l n="5">se a língua vos dá, que coma,</l>
+          <l n="6">pode dar-vos, que jejue,</l>
+          <l n="7">e bem que a pança se atue</l>
+          <l n="8">com gritos, pode a Bahia</l>
+          <l n="9">acordar sisuda um dia,</l>
+          <l n="10">e é força descontinue.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Com homens, que têm por pulha</l>
+          <l n="2">tomar-vos por seu Lacaio,</l>
+          <l n="3">nem heis de ser papagaio,</l>
+          <l n="4">nem menos heis de ser grulha:</l>
+          <l n="5">navegai por outra agulha,</l>
+          <l n="6">e atai melhor vossos molhos,</l>
+          <l n="7">porque em chegando aos abrolhos</l>
+          <l n="8">a ressaca muita, ou pouca,</l>
+          <l n="9">se não tapares a boca,</l>
+          <l n="10">há de fechar-vos os olhos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>AO MESMO LETRADO QUE HAVENDO ARTICULADO CONTRA HUMA PARTE EM TOTAL PERJUIZO DE HUMA HERANÇA, ESTA HUMA NOYTE LHE METTEO NA CABEÇA HUMA PANELLA DE MERDA, DIZENDO, QUE ERAM CAMARÕES.O POETA LHE CHAMA AQUI GILVAZ, PORQUE TINHA HUMA CUTILADA NA CARA.</head>
+        <lg n="1">
+          <l n="1">Estava o Doutor Gilvaz</l>
+          <l n="2">à margem da livraria,</l>
+          <l n="3">cuidando, no que faria,</l>
+          <l n="4">e estudando, o que não faz:</l>
+          <l n="5">quando uma parte sagaz</l>
+          <l n="6">lhe entrou com certas questões,</l>
+          <l n="7">e ao pagar-lhe das razões</l>
+          <l n="8">lhe transformou no bofete</l>
+          <l n="9">a panela em capacete,</l>
+          <l n="10">e em câmara os camarões.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Uns camarões em panela</l>
+          <l n="2">era o mimo, e o presente,</l>
+          <l n="3">que aquela parte insolente</l>
+          <l n="4">levava ao Doutor cabrela:</l>
+          <l n="5">ele arremessou-se a ela,</l>
+          <l n="6">mas mostrou-lhe o seu pecado,</l>
+          <l n="7">que do ofício de advogado,</l>
+          <l n="8">em que estriba o seu sustento,</l>
+          <l n="9">era aquele um provimento</l>
+          <l n="10">pela Câmara passado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Porque da Câmara era,</l>
+          <l n="2">diz a Parte, que o levara,</l>
+          <l n="3">que reverente o beijara,</l>
+          <l n="4">e na cabeça o pusera:</l>
+          <l n="5">que a panela se escorrera,</l>
+          <l n="6">e da cara mascarada</l>
+          <l n="7">saíra tal enxurrada,</l>
+          <l n="8">que o Doutor nesta ocasião</l>
+          <l n="9">não cegou de privação,</l>
+          <l n="10">ficou cego de privada.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Deste sucesso infeliz</l>
+          <l n="2">logo, e a todo o correr</l>
+          <l n="3">teve notícia a Mulher</l>
+          <l n="4">por avisos do nariz:</l>
+          <l n="5">e posto que ver não quis</l>
+          <l n="6">tal cara com tal salmoura,</l>
+          <l n="7">viu na cabeleira cara,</l>
+          <l n="8">que a afeia, e a desdoura,</l>
+          <l n="9">que adequada a tornara</l>
+          <l n="10">mais suja, porém mais loura.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Por evitar maior perda,</l>
+          <l n="2">água água pediu logo,</l>
+          <l n="3">senão para tanto fogo,</l>
+          <l n="4">água para tanta merda:</l>
+          <l n="5">lavou-lhe cabelo, e cerda,</l>
+          <l n="6">lavou-lhe roupa, e vestido,</l>
+          <l n="7">e como o tinha sentido,</l>
+          <l n="8">disse medrosa, a velhaca,</l>
+          <l n="9">vede vós toda esta caca,</l>
+          <l n="10">não me cheira bem, Marido.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">E porque mais água pede,</l>
+          <l n="2">ela lhe disse, isto basta,</l>
+          <l n="3">porque esta merda é de casta,</l>
+          <l n="4">que se a mais bolem, mais fede:</l>
+          <l n="5">ide para a rua, e vede</l>
+          <l n="6">a razão, com que vos move,</l>
+          <l n="7">na história fazei-vos novo,</l>
+          <l n="8">mostrai-vos leve na perda,</l>
+          <l n="9">porque esta merda foi merda,</l>
+          <l n="10">de que gostou todo o povo.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">A Parte andou temerária,</l>
+          <l n="2">e com sobeja ousadia,</l>
+          <l n="3">não faria valentia,</l>
+          <l n="4">mas fez causa necessária:</l>
+          <l n="5">vós como grande alimária</l>
+          <l n="6">no pleito lhe dareis perda,</l>
+          <l n="7">pois um artigo a deserda,</l>
+          <l n="8">e ela já pode afirmar,</l>
+          <l n="9">que me inventou deserdar</l>
+          <l n="10">pela mesma boca merda.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Que era de engenho notório</l>
+          <l n="2">dá grandíssima suspeita,</l>
+          <l n="3">pois deixa câmara feita,</l>
+          <l n="4">o que foi sempre escritório:</l>
+          <l n="5">mudai logo o consistório</l>
+          <l n="6">como Letrado de Lampa,</l>
+          <l n="7">que já hoje o juízo escampa;</l>
+          <l n="8">mas diz a gente travessa,</l>
+          <l n="9">que vós fazíeis-lhe a peça,</l>
+          <l n="10">mas ele amou-vos a trampa.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Quem pôs tal merda em tal capa,</l>
+          <l n="2">tenho por ponto assentado,</l>
+          <l n="3">que morrerá excomungado,</l>
+          <l n="4">se não recorrer ao Papa:</l>
+          <l n="5">vós sois Fidalgo de chapa</l>
+          <l n="6">desde o Brasil até Europa,</l>
+          <l n="7">pois quando a merda vos topa,</l>
+          <l n="8">tanto fedeis, que ao nariz</l>
+          <l n="9">do Moço da Câmara ides</l>
+          <l n="10">a Moço de guarda-roupa.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Se vos não houve respeito</l>
+          <l n="2">(que é cousa, em que se repara)</l>
+          <l n="3">nem à cruz da vossa cara,</l>
+          <l n="4">nem à cruz, que está no peito:</l>
+          <l n="5">o que presumo, e suspeito,</l>
+          <l n="6">é, que nunca está seguro</l>
+          <l n="7">de tanto cabungo impuro</l>
+          <l n="8">cruzeiro em monturo alçado,</l>
+          <l n="9">com que o vosso está cagado</l>
+          <l n="10">por cruz posta em um monturo.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">A Parte não andou lerda</l>
+          <l n="2">em vir com panela cheia,</l>
+          <l n="3">porque a mim me coube meia</l>
+          <l n="4">panela com meia merda:</l>
+          <l n="5">não quis a fortuna esquerda,</l>
+          <l n="6">que mos dê tão má maré</l>
+          <l n="7">desigualar-nos, mais que</l>
+          <l n="8">no sentimento, e respeito,</l>
+          <l n="9">pois vós tomaste-la a peito,</l>
+          <l n="10">porém eu dei-lhe c'o pé.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Não temais, que a Parte lusa,</l>
+          <l n="2">porque leva a mão ganhada,</l>
+          <l n="3">que se ela fez panelada,</l>
+          <l n="4">nós faremos garatusa:</l>
+          <l n="5">ela deu assunto à Musa,</l>
+          <l n="6">que já dormia, e roncava,</l>
+          <l n="7">pois quando agora acordava,</l>
+          <l n="8">viu, que pelo triste caso</l>
+          <l n="9">té a fonte do Parnaso</l>
+          <l n="10">com tanta merda inundava.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>AO MESMO LETRADO MORDENDO, E ABOCCANHANDO AS LETRAS DO POETA; E ELLE LHE AMEAÇA SEUS ATREVIMENTOS.</head>
+        <lg n="1">
+          <l n="1">Vós não quereis, Cutilada,</l>
+          <l n="2">tomar emenda, e calar,</l>
+          <l n="3">morrendo andais por levar</l>
+          <l n="4">outra na outra queixada:</l>
+          <l n="5">quereis a cara cruzada,</l>
+          <l n="6">gilvazada a não quereis,</l>
+          <l n="7">pois tudo conseguireis,</l>
+          <l n="8">e se a vossa fé vos salva,</l>
+          <l n="9">no calvário dessa calva</l>
+          <l n="10">três cruzes postas vereis.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Na capinha, ou no capuz,</l>
+          <l n="2">tendes a cruz de cristão,</l>
+          <l n="3">na cara a do mau ladrão,</l>
+          <l n="4">e inda vos falta outra cruz:</l>
+          <l n="5">eu vos juro por Jesus,</l>
+          <l n="6">que por fazer o ternário</l>
+          <l n="7">por modo extraordinário</l>
+          <l n="8">à outra vos hei de pôr,</l>
+          <l n="9">porque do monte Tabor</l>
+          <l n="10">vades ao monte Calvário.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ao Pretório ireis levado,</l>
+          <l n="2">onde a gentinha vulgar</l>
+          <l n="3">crucifige há de clamar,</l>
+          <l n="4">e heis de sair condenado:</l>
+          <l n="5">um negro Simão chamado</l>
+          <l n="6">será o vosso Cireneu,</l>
+          <l n="7">e na fôrma do chapéu</l>
+          <l n="8">um pau vos há de encaixar,</l>
+          <l n="9">e então vos hão de jogar</l>
+          <l n="10">o adivinha, quem te deu.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ireis entre dous Teatinos</l>
+          <l n="2">vendo o vosso enterramento,</l>
+          <l n="3">tendo o maior desalento</l>
+          <l n="4">na cantiga dos Meninos:</l>
+          <l n="5">que piedosos, e benignos</l>
+          <l n="6">ora por ele dirão,</l>
+          <l n="7">e vós nesta ocasião</l>
+          <l n="8">revirando os bugalhitos,</l>
+          <l n="9">os Padres serão mosquitos,</l>
+          <l n="10">e o mais povo confusão.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Irá o porteiro diante</l>
+          <l n="2">pelo seu papel cantando,</l>
+          <l n="3">e dirá de quando em quando</l>
+          <l n="4">justiça a este Bargante:</l>
+          <l n="5">manda El-Rei, que num instante</l>
+          <l n="6">se lhe tire fala, e vista,</l>
+          <l n="7">e se lhe faça com vista;</l>
+          <l n="8">justiça, que manda El-Rei</l>
+          <l n="9">fazer a um homem sem lei,</l>
+          <l n="10">por se meter a legista.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Não heis de então requerer,</l>
+          <l n="2">e muito menos gritar,</l>
+          <l n="3">pois por gritos de advogar</l>
+          <l n="4">ide-vos a padecer:</l>
+          <l n="5">deitar pleitos a perder</l>
+          <l n="6">a puros gritos e zurros</l>
+          <l n="7">botar na terra sussurros,</l>
+          <l n="8">de que sois grande Doutor</l>
+          <l n="9">na forca vos hão de pôr</l>
+          <l n="10">a vós, mais a vossos burros</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>A CERTO LETRADO QUE SENDO HOMEM DE NAÇÃO AFFECTAVA JACOBICES CORRENDO A VIA SACRA COM OS BRAÇOS ABERTOS.</head>
+        <lg n="1">
+          <l n="1">Deixe, Senhor Beato, a Beati-,</l>
+          <l n="2">Que se é via do Céu a via <choice><orig>sa</orig><seg type="reg">sá</seg></choice>-</l>
+          <l n="3">Ninguém o quer já crer nesta cidá-</l>
+          <l n="4">Porque é você da casta Israeli-.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando devoto corre a sacra vi-</l>
+          <l n="2">E a cada pé de cruz estende os <choice><orig>bra</orig><seg type="reg">brá</seg></choice>-</l>
+          <l n="3">Parece um entremez da Lei da <choice><orig>gra</orig><seg type="reg">grá</seg></choice>-</l>
+          <l n="4">Que a toda a cristandade causa ri-.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Deixe-se disso, e trate do escritó-</l>
+          <l n="2" met="inesc">Que esse lhe dá de render o pão da <choice><orig>me</orig><seg type="reg">mê</seg></choice>-,</l>
+          <l n="3">E o céu também, se com bom zelo advó-.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas se quer, que por Santo o reconhê-</l>
+          <l n="2">E na paixão de Deus faz o graciô-,</l>
+          <l n="3">Embolsará as risadas da comé-.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>A CERTO LETRADO FULANO COELHO, CASANDO-SE COM HUMA MOÇA, QUE SE DIZIA SER TAL COMO PUBLICA A MESMA SATYRA.</head>
+        <lg n="1">
+          <l n="1">Este, que de Nise conto,</l>
+          <l n="2">ouçam, que é bem raro caso,</l>
+          <l n="3">pois dizem, calça seu vaso</l>
+          <l n="4">(com ser tão grande) um só ponto:</l>
+          <l n="5">casou com Fábio, que é tonto,</l>
+          <l n="6">e eu folgo por vida minha,</l>
+          <l n="7">porque é cousa bem sabida</l>
+          <l n="8">que andavam com grão cuidado</l>
+          <l n="9">o Moço por ela assado,</l>
+          <l n="10">e ela por ele cozida.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Por dar alívio a seu peito</l>
+          <l n="2">no mar de amor, lhe convinha</l>
+          <l n="3">a Fábio passar a linha,</l>
+          <l n="4">porém não passar o estreito:</l>
+          <l n="5">mas não haverá conceito,</l>
+          <l n="6">que repare a Fábio amante,</l>
+          <l n="7">pois hoje a vela constante</l>
+          <l n="8">(quando em deleites se arrulha)</l>
+          <l n="9">o rumo serve de agulha</l>
+          <l n="10">como astuto navegante.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mais direito do que um fuso</l>
+          <l n="2">Fábio com manha seleta</l>
+          <l n="3">no vaso por linha reta</l>
+          <l n="4">lhe encaixou o membro obtuso:</l>
+          <l n="5">mas de dizer não me escuso,</l>
+          <l n="6">que nisto tinha interesse,</l>
+          <l n="7">pois caso estranho parece,</l>
+          <l n="8">e coisa rara que Fábio</l>
+          <l n="9">sendo Astrólogo tão sábio</l>
+          <l n="10">o Virgo não conhecesse.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Andou prudente, e alentado</l>
+          <l n="2">nesta empresa, a que aspirava</l>
+          <l n="3">pois de Nise o vaso estava</l>
+          <l n="4">com linhas fortificado:</l>
+          <l n="5">avançou-o denodado,</l>
+          <l n="6">donde claramente infiro</l>
+          <l n="7">(não cuide alguém, que isto é conto)</l>
+          <l n="8">que a Moça lhe pôs o ponto?</l>
+          <l n="9">para ele fazer o tiro.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Em casar com Nise bela</l>
+          <l n="2">nada Fábio se desonra,</l>
+          <l n="3">que nisto de pontos d'honra</l>
+          <l n="4">ninguém sabe mais do que ela:</l>
+          <l n="5">e assim com gentil cautela</l>
+          <l n="6">que ambos ganharam (suspeito),</l>
+          <l n="7">a vida num mesmo efeito,</l>
+          <l n="8">sem que pareça tolice,</l>
+          <l n="9">com os pontos de honra Nice,</l>
+          <l n="10">Fábio com os de direito.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se Fábio ocioso alguma hora</l>
+          <l n="2">de Nise, por ser sandeu</l>
+          <l n="3">as linhas tristes torceu</l>
+          <l n="4">alegre as destorce agora:</l>
+          <l n="5">embainhe o membro embora</l>
+          <l n="6">no vaso, pois nisto acerta;</l>
+          <l n="7">mas é bom, que esteja alerta,</l>
+          <l n="8">não se fira nesta bulha</l>
+          <l n="9">porque bainha de agulha</l>
+          <l n="10">é força, que esteja aberta.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Bem é, liberal se ostente</l>
+          <l n="2">em casar-se Nise bela,</l>
+          <l n="3">dando-se aos mais donzela</l>
+          <l n="4">pois dando-se a muitos ela</l>
+          <l n="5">hoje um recebe somente:</l>
+          <l n="6">ter-me-ão por maldizente,</l>
+          <l n="7">mas não tenho a culpa eu,</l>
+          <l n="8">que sou mui cativo seu:</l>
+          <l n="9">a verdade aqui só conto,</l>
+          <l n="10">sem lhe acrescentar um ponto</l>
+          <l n="11">dos que ela no vaso deu.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>AO MESMO ASSUMPTO E AOS MESMOS SUGEYTOS SUCCEDENDOLHE O QUE DIZ.</head>
+        <lg n="1">
+          <l n="1">Casou-se nesta terra esta, e aquele,</l>
+          <l n="2">Aquele um gozo filho de cadela,</l>
+          <l n="3">Esta uma donzelíssima donzela,</l>
+          <l n="4">Que muito antes do parto o sabia ele.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Casaram por unir pele com pele,</l>
+          <l n="2">E tanto se uniram, que ele com ela</l>
+          <l n="3">Com seu mau parecer ganha para ela,</l>
+          <l n="4">Com seu bom parecer ganha para ele.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Deram-lhe em dote muitos mil cruzados</l>
+          <l n="2">Excelentes alfaias, bons adornos,</l>
+          <l n="3">De que estão os seus quartos bem ornados:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Por sinal, que na porta, e seus contornos</l>
+          <l n="2">Um dia amanheceram bem contados</l>
+          <l n="3">Três bacios de merda, e dous de cornos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>AO MESMO LETRADO METTIDO EM AMIZADES COM O Pe. DAMASO, A QUEM PRATICAVA OS TEMPOS DA VOCACIA, SATYRISA O POETA A AMBOS.</head>
+        <lg n="1">
+          <l n="1">Deu agora o Frisão em requerente</l>
+          <l n="2">Fiado em seu saber, e boas artes.</l>
+          <l n="3">Será por essa via homem de partes,</l>
+          <l n="4">E irá (se for à queima) por agente.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Má hora, que vá ele por paciente,</l>
+          <l n="2">Sendo agente de tantos Durandartes,</l>
+          <l n="3">Que atacando-lhe o Ventre a puros fartes,</l>
+          <l n="4">Come-os ele, mas não lhe põe o dente.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Neste ofício se val da companhia</l>
+          <l n="2">De um moderno, que em vez de pêlo Louro</l>
+          <l n="3">Penteia as tranças da carneceria.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Doutor com borla de osso? mau agouro:</l>
+          <l n="2">Adonde pode achar-se? Na Bahia,</l>
+          <l n="3">Que de um manso /Coelho/ faz um touro.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>A MANUEL ROIZ DE FIGUEYREDO, QUE SENDO REQUERENTE SE POZ COM PRESUNÇÕES DE LETRADO, A QUEM CONCORRIA GRANDE PARTE DOS PLEYTEANTES.</head>
+        <lg n="1">
+          <l n="1">Letrado, que cachimbais,</l>
+          <l n="2">quando estudais nos Jasões</l>
+          <l n="3">e assentais as conclusões</l>
+          <l n="4">com as letras garrafais:</l>
+          <l n="5">grande riso me causais,</l>
+          <l n="6">quando no vosso cetial</l>
+          <l n="7">dais audiência geral,</l>
+          <l n="8">e as Partes aconselhando,</l>
+          <l n="9">todas ides defumando</l>
+          <l n="10">porque tornem ao pombal.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vós graduado a borrões</l>
+          <l n="2">em uma universidade</l>
+          <l n="3">que fundou nesta cidade</l>
+          <l n="4">o braço dos asneirões:</l>
+          <l n="5">fazeis tais alegações</l>
+          <l n="6">nas lides, causas, e pleitos,</l>
+          <l n="7">que vos dão alguns sujeitos,</l>
+          <l n="8">que afirmam letrados velhos</l>
+          <l n="9">fedem os vossos conselhos</l>
+          <l n="10">tanto, como vossos feitos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O que me vira o miolo</l>
+          <l n="2">é o gabão, que trazeis,</l>
+          <l n="3">que um Bártolo pareceis,</l>
+          <l n="4">não sendo senão Bartolo:</l>
+          <l n="5">comeis a queijada, e o bolo</l>
+          <l n="6">desde a Baia ao Cairu;</l>
+          <l n="7">eu vos peço, meu Mandu,</l>
+          <l n="8">que se usais das vossas artes,</l>
+          <l n="9">comendo das vossas partes,</l>
+          <l n="10">que a primeira seja o cu.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não vos culpo, asno barbado,</l>
+          <l n="2">senão a esta simples gente,</l>
+          <l n="3">que de um tão mau requerente</l>
+          <l n="4">quer formar um bom letrado:</l>
+          <l n="5">vós pondes todo o cuidado</l>
+          <l n="6">em manter a vida cara,</l>
+          <l n="7">e assim eu vos não culpara,</l>
+          <l n="8">senão ao néscio, que quer</l>
+          <l n="9">comprar-vos o parecer,</l>
+          <l n="10">tendo vós tão torpe cara.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Irmão, não vos acelere</l>
+          <l n="2">querer subir de repente,</l>
+          <l n="3">que o cargo de requerente</l>
+          <l n="4">vosso talento o requere:</l>
+          <l n="5">assim o céu vos prospere,</l>
+          <l n="6">que da vocacia honrada</l>
+          <l n="7">torneis à vida passada,</l>
+          <l n="8">que quem se entrega aos Jasões</l>
+          <l n="9">comer pode os camarões</l>
+          <l n="10">que comeu o Cutilada.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Não é o advogar de nós,</l>
+          <l n="2">Santos são, os advogados,</l>
+          <l n="3">dai ao demo os maus letrados,</l>
+          <l n="4">e o primeiro sejais vós:</l>
+          <l n="5">bem vistes o caso atroz,</l>
+          <l n="6">que depois de Ave-Marias</l>
+          <l n="7">sucedeu, há quatro dias,</l>
+          <l n="8">ardendo os vossos papéis,</l>
+          <l n="9">porque vós, e eles ardeis</l>
+          <l n="10">pelas vossas heresias.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>AO TABELIÃO MANUEL MARQUES TENDO SIDO ESPADEYRO HAVIA POUCO.</head>
+        <lg n="1">
+          <l n="1">Há cousa, como ver o Sô Mandu</l>
+          <l n="2">Mui prezado de ser Tabelião</l>
+          <l n="3">Na Ilha descendente de um vilão,</l>
+          <l n="4">E cá feito um Monarca do Pegu.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Aspecto reverendo, feio, e cru</l>
+          <l n="2">Trombeteiro de sua geração,</l>
+          <l n="3">E encaixando o barrete, e seu roupão</l>
+          <l n="4">Representa um fatal Jacó Baru.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que ignore este enfim seu nascimento,</l>
+          <l n="2">Como o faz no Brasil qualquer Brichote,</l>
+          <l n="3">Vade em paz, porque imita mais de cento:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas que sendo inda há pouco espadeirote,</l>
+          <l n="2">Queira ser como Bruto grão talento;</l>
+          <l n="3">Será: que manhas tem de Dom Quixote.</l>
+        </lg>
+      </div>
+      <div type="poem" n="18">
+        <head>A OUTRO REQUERENTE DA MESMA CIÊNCIA E DA MESMA PRESUNÇÃO, MAS INFAMADO DE CHRISTÃO NOVO E DE MULATO CHAMADO PEDRO DE TAL.</head>
+        <lg n="1">
+          <l n="1">Ó Galileu Requerente,</l>
+          <l n="2">Macabeu solicitante,</l>
+          <l n="3">quem vos deu tamanho guante,</l>
+          <l n="4">tendo-vos de gozo o dente?</l>
+          <l n="5">Se me dais cá por agente,</l>
+          <l n="6">sois homens de tantas partes,</l>
+          <l n="7">que me ganhais estandartes:</l>
+          <l n="8">eu zombo de vossos pleitos,</l>
+          <l n="9">porque são vossos direitos</l>
+          <l n="10">de Pedro de malas artes.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Latis, e cuidais, que eu morro</l>
+          <l n="2">de ouvir o vosso latir,</l>
+          <l n="3">e eu zombo de vê-lo ouvir,</l>
+          <l n="4">porque quem late, é cachorro:</l>
+          <l n="5">vós latis, e eu me desforro</l>
+          <l n="6">dando-vos estas pedradas,</l>
+          <l n="7">que quando um cão nas estradas</l>
+          <l n="8">late ao manso caminheiro,</l>
+          <l n="9">assentando-lhe o cacheiro</l>
+          <l n="10">deixa as partes sossegadas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Guardais-vos Israelita,</l>
+          <l n="2">que se me chega a mostarda,</l>
+          <l n="3">talvez, que a casa vos arda,</l>
+          <l n="4">porque é casa de mesquita:</l>
+          <l n="5">se à força da jeribita</l>
+          <l n="6">tendes a idéia turbada,</l>
+          <l n="7">com que vos não dais de nada,</l>
+          <l n="8">vede, que a minha Camena</l>
+          <l n="9">como vos corta co'a pena</l>
+          <l n="10">vos pode cortar co'a espada.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Dizem, que um Hebreu vos fez</l>
+          <l n="2">entre o Porto, e entre Judá,</l>
+          <l n="3">por isso não falais cá</l>
+          <l n="4">nem hebreu, nem português:</l>
+          <l n="5">temo, que caiais de vez</l>
+          <l n="6">neste, ou noutro qualquer porto,</l>
+          <l n="7">porque culpado no Horto,</l>
+          <l n="8">e do Egito no desterro,</l>
+          <l n="9">não me podeis pegar, Perro,</l>
+          <l n="10">como eu a vós, Perro morto.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Quem vos meteu, canzarrão,</l>
+          <l n="2">co demo, que vos atiça,</l>
+          <l n="3">a ser membro da justiça,</l>
+          <l n="4">se não sois membro cristão?</l>
+          <l n="5">corre de vós opinião,</l>
+          <l n="6">que bem pouco vos aflige,</l>
+          <l n="7">que o mais a que se dirige</l>
+          <l n="8">o vosso negro saber,</l>
+          <l n="9">é somente o requerer</l>
+          <l n="10">crucifige, crucifige.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Dirigi pois os sapatos</l>
+          <l n="2">caminho da terra Santa,</l>
+          <l n="3">onde heis de fincar a planta</l>
+          <l n="4">no Pretório de Pilatos:</l>
+          <l n="5">Lá tão sacrílegos tratos,</l>
+          <l n="6">como em pretório fiel</l>
+          <l n="7">fareis, Escriba cruel,</l>
+          <l n="8">porque vejais entre os cães,</l>
+          <l n="9">que há na Bahia escrivães,</l>
+          <l n="10">e Escribas em Israel.</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>A OUTRO REQUERENTE APELLIDADO O PERALVILHO, QUE COSTUMAVA VENDER AS CAUSAS, E FURTOU AO POETA UM CAVALLO SELLADO.</head>
+        <lg n="1">
+          <l n="1">Peralvilho: o Peralvilho</l>
+          <l n="2">pudera de vos tomar</l>
+          <l n="3">lições de peralvilhar,</l>
+          <l n="4">para ser reperalvilho:</l>
+          <l n="5">vós sereis muito bom filho,</l>
+          <l n="6">como eu entendo em rigor,</l>
+          <l n="7">mas sois mau procurador,</l>
+          <l n="8">porque aqui para entre nós,</l>
+          <l n="9">em procurar para vós</l>
+          <l n="10">sois contra procurador.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Procurastes ao traidor,</l>
+          <l n="2">e eu fiquei desenganado,</l>
+          <l n="3">que fostes já procurado</l>
+          <l n="4">para mau procurador;</l>
+          <l n="5">lá entregou ao Senhor</l>
+          <l n="6">um Judas Escariote,</l>
+          <l n="7">vós, Peralvilho Quixote,</l>
+          <l n="8">entregastes como acinte</l>
+          <l n="9">ao vosso constituinte</l>
+          <l n="10">como a simples sacerdote.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Judas vendeu por dinheiro</l>
+          <l n="2">a seu Mestre, a seu Rabi,</l>
+          <l n="3">a vós nem maravedi</l>
+          <l n="4">vos rendeu ser mau vendeiro:</l>
+          <l n="5">Judas teve o paradeiro</l>
+          <l n="6">da sua dor, e fadiga</l>
+          <l n="7">numa figueira inimiga,</l>
+          <l n="8">e vós de puro coitado</l>
+          <l n="9">para seres enforcado,</l>
+          <l n="10">nem figueira achais, nem figa.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">As custas me heis de pagar</l>
+          <l n="2">em ser tido por velhaco,</l>
+          <l n="3">e por velhaco, e por caco</l>
+          <l n="4">vos hei de os cacos quebrar:</l>
+          <l n="5">caco não há de ficar</l>
+          <l n="6">no vosso casebre inteiro</l>
+          <l n="7">e por velhaco embusteiro</l>
+          <l n="8">a vossa casa velhaca</l>
+          <l n="9">terão por caco de caca,</l>
+          <l n="10">e a vós por caco, e caqueiro.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Sois um simples, e um coitado,</l>
+          <l n="2">e a mim nada me acobarda,</l>
+          <l n="3">pois furtando-me uma albarda</l>
+          <l n="4">vós ficastes o albardado:</l>
+          <l n="5">ficai agora ensinado</l>
+          <l n="6">a andar pelo barbicacho,</l>
+          <l n="7">com focinho triste, e baixo,</l>
+          <l n="8">vendo, que como ruim</l>
+          <l n="9">me furtastes um rocim</l>
+          <l n="10">para cair dele abaixo.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Por traidor, e por falsário</l>
+          <l n="2">a sentença vos condena,</l>
+          <l n="3">e para dar-vos a pena,</l>
+          <l n="4">foi curto o vocabulário:</l>
+          <l n="5">esgotou-se o Calendário</l>
+          <l n="6">das nossas execuções,</l>
+          <l n="7">e por encurtar razões</l>
+          <l n="8">temi, que no caso atroz</l>
+          <l n="9">cheirasses ao duro algoz</l>
+          <l n="10">os fundilhos dos calções.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

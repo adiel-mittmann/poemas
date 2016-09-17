@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36507"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Porque todos te fazem degradá-,</l>
+          <l n="2">Que no nosso idioma é para Angó-.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">mande-me já degradado</l>
+          <l n="2">por sentença ou de perceito,</l>
+          <l n="3">ao mar, largo, ou mar estreito,</l>
+          <l n="4">onde os campos de Zafir</l>
+          <l n="5">com respeito me hão de ouvir</l>
+          <l n="6">e não falar por respeito</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Ver dar açotes sin piedad ni tassa</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>AO GOVERNADOR D. JOÃO D'ALENCASTRE QUANDO MANDOU PRENDER AO
+        AUCTOR PARA O DEGRADAR POR TER CHEGADO DISFARÇADO DE LISBOA
+        EM HUMA NAO DE GUERRA O FILHO DE ANTONIO LUIZ DA CAMARA
+        COUTINHO COM INTENTO DE Ó MATAR PELAS SATYRAS. QUE FEZ A SEU
+        PAY: O QUE CONHECIDO PELO GOVERNADOR D. JOÃO D'ALENCASTRE, LHE
+        QUIS SEGURAR A VIDA COM O PRETEXTO DE DEGREDO PARA ANGOLLA. O
+        QUE O AUCTOR NESTA OBRA QUER NEGAR DESCULPANDO-SE.</head>
+        <lg type="mote">
+          <l n="1">Não há mais tirano efeito,</l>
+          <l n="2">que padecer, e calar</l>
+          <l n="3">ter boca para falar,</l>
+          <l n="4">e não falar por respeito.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Que hoje à força meu fado</l>
+          <l n="2">um Governador envolto,</l>
+          <l n="3">que, por ser na língua solta,</l>
+          <l n="4">seja no discurso atado:</l>
+          <l n="5">velhacamente informado</l>
+          <l n="6">formou de mim tal conceito:</l>
+          <l n="7">porém (salvo o seu respeito)</l>
+          <l n="8">fazer-me a defesa pausa,</l>
+          <l n="9">havendo mentir a causa,</l>
+          <l n="10">Não há mais tirano efeito.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Já não há bem, e conheço</l>
+          <l n="2">que neste presente abalo</l>
+          <l n="3">padeço mais, do que calo,</l>
+          <l n="4">calo mais, do que padeço:</l>
+          <l n="5">porém, Senhor, se eu mereço</l>
+          <l n="6">nos dous extremos votar,</l>
+          <l n="7">se qualquer me há de ultrajar,</l>
+          <l n="8">tenho a melhor padecer,</l>
+          <l n="9">antes falar, e morrer,</l>
+          <l n="10">Que padecer, e calar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu tenho a língua embargada</l>
+          <l n="2">aqui, que se a não tivera,</l>
+          <l n="3">cousa boa não dissera,</l>
+          <l n="4">fizera cousa falada:</l>
+          <l n="5">tudo digo neste nada,</l>
+          <l n="6">nada faço em me explicar;</l>
+          <l n="7">assim quero-me calar,</l>
+          <l n="8">porque no presente ano</l>
+          <l n="9">só pode qualquer magano</l>
+          <l n="10">Ter boca para falar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Serei qual melão letrado</l>
+          <l n="2">com bem estranho sentido,</l>
+          <l n="3">que hei de ser mais entendido,</l>
+          <l n="4">quando estiver mais calado:</l>
+          <l n="5">mande-me já degradado</l>
+          <l n="6">por sentença, ou de perceito,</l>
+          <l n="7">ao mar largo, ou mar estreito,</l>
+          <l n="8">onde os campos de Zafir</l>
+          <l n="9">com respeito me hão de ouvir,</l>
+          <l n="10">E não falar por respeito.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2" xml:lang="es">
+        <head>DESCREVE O QUE REALMENTE SE PASSA NO REINO DE ANGOLLA.</head>
+        <lg n="1">
+          <l n="1">Passar la vida, sin sentir que passa,</l>
+          <l n="2">De gustos falta, y de esperanças llena,</l>
+          <l n="3">Bolver atraz pisando en seca arena,</l>
+          <l n="4">Sufrir un sol, que como fuego abraza.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Beber delas cacimas água bassa,</l>
+          <l n="2">Comer mal pos a medio dia, y cena,</l>
+          <l n="3">Oyr por qualquer parte una cadena,</l>
+          <l n="4">Ver dar açotes sin piedad, ni tassa:</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ver-se uno rico por encantamiento,</l>
+          <l n="2">Y señor, quando a penas fué creado,</l>
+          <l n="3">No tener, de quien fué, conocimiento;</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ser mentiroso por razon de estado,</l>
+          <l n="2">Vivir en ambicion siempre sediento,</l>
+          <l n="3">Morir de deudas, y pezar cargado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>DESCREVE A HUM AMIGO DESDE AQUELLE DEGREDO AS ALTERAÇÕES, E  MISERIAS DAQUELLE REYNO DE ANGOLLA, E O QUE JUNTAMENTE LHE  ACONTECEO COM OS SOLDADOS AMOTINADOS, QUE O LEVARAM PARA O  CAMPO, E TIVERAM CONSIGO PARA OS ACONSELHAR NO MOTIM.</head>
+        <lg n="1">
+          <l n="1">Angola é terra de pretos,</l>
+          <l n="2">mas por vida de Gonçalo,</l>
+          <l n="3">que o melhor do mundo é Angola,</l>
+          <l n="4">e o melhor de Angola os trapos.</l>
+          <l n="5">Trapos foi o seu dinheiro</l>
+          <l n="6">este século passado,</l>
+          <l n="7">hoje já trapos não correm,</l>
+          <l n="8">corre dinheiro mulato.</l>
+          <l n="9">Dinheiro de infame casta,</l>
+          <l n="10">e de sangue inficionado,</l>
+          <l n="11">por cuja causa em Angola</l>
+          <l n="12">houve os seguintes fracassos.</l>
+          <l n="13">Houve amotinar-se o Terço,</l>
+          <l n="14">e de ponto em branco armado</l>
+          <l n="15">na praia de Nazaré</l>
+          <l n="16">pôr-nos em sítio apertado.</l>
+          <l n="17">Houve, que Luís Fernandes</l>
+          <l n="18">foi entonces aclamado</l>
+          <l n="19">por rei dos jeribiteiros,</l>
+          <l n="20">e por sova dos borrachos.</l>
+          <l n="21">Houve expulsão do Ouvidor,</l>
+          <l n="22">que na chinela de um barco</l>
+          <l n="23">botou pela barra fora</l>
+          <l n="24">mais medroso, que outro tanto.</l>
+          <l n="25">Houve levar-se o Doutor</l>
+          <l n="26">rocim pelo barbicacho,</l>
+          <l n="27">à campanha do motim</l>
+          <l n="28">por Secretário de estado.</l>
+          <l n="29">Houve, que receando o Terço</l>
+          <l n="30">mandou aqui lançar bandos,</l>
+          <l n="31">alguns com pena de morte,</l>
+          <l n="32">outros com pena de tratos.</l>
+          <l n="33">Houve, que sete cabeças</l>
+          <l n="34">foram metidas num saco,</l>
+          <l n="35">porque o dinheiro crescesse,</l>
+          <l n="36">como os fizessem em quartos.</l>
+          <l n="37">Houve, que sete mosquetes</l>
+          <l n="38">leram aos sete borrachos</l>
+          <l n="39">as sentenças aos ouvidos</l>
+          <l n="40">em segredo aqui entre ambos.</l>
+          <l n="41">Houve, que sete mosquetes</l>
+          <l n="42">inda hoje se estão queixando,</l>
+          <l n="43">que aquela grande porfia</l>
+          <l n="44">lhe tem os cascos quebrados.</l>
+          <l n="45">Houve, que após da sentença,</l>
+          <l n="46">e execução dos madraços</l>
+          <l n="47">prenderam os esmoleiros,</l>
+          <l n="48">que deram socorro ao campo.</l>
+          <l n="49">Houve, que saíram livres</l>
+          <l n="50">por força de um texto Santo,</l>
+          <l n="51">cuja fé nos persuade,</l>
+          <l n="52">que a esmola apaga os pecados.</l>
+          <l n="53">Houve mil desaventuras,</l>
+          <l n="54">mil sustos, e mil desmaios,</l>
+          <l n="55">uns tremiam com quartãs,</l>
+          <l n="56">a outros tremiam os quartos.</l>
+          <l n="57">Houve, que esteve em depósito,</l>
+          <l n="58">a ponto de ser queimado</l>
+          <l n="59">arremedando nas cinzas</l>
+          <l n="60">ao antigo mar Troiano.</l>
+          <l n="61">Leve o diabo o dinheiro,</l>
+          <l n="62">por cujo sangue queimado</l>
+          <l n="63">tanta queimação de sangue</l>
+          <l n="64">padecem negros, e brancos.</l>
+          <l n="65">Com isto não digo mais,</l>
+          <l n="66">antes tenho sido largo,</l>
+          <l n="67">que me esquccia até agora</l>
+          <l n="68">do nosso amigo Lencastro.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>LAMENTA O POETA O TRISTE PARADEYRO DA SUA FORTUNA DESCREVENDO  AS MIZERIAS DO REYNO DE ANGOLLA PARA ONDE Ò DESTERRARAM.</head>
+        <lg n="1">
+          <l n="1">Nesta turbulenta terra</l>
+          <l n="2">armazém de pena, e dor,</l>
+          <l n="3">confusa mais do temor,</l>
+          <l n="4">inferno em vida.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Terra de gente oprimida,</l>
+          <l n="2">monturo de Portugal,</l>
+          <l n="3">para onde purga seu mal,</l>
+          <l n="4">e sua escória:</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Onde se tem por vanglória</l>
+          <l n="2">o furto, a malignidade,</l>
+          <l n="3">a mentira, a falsidade,</l>
+          <l n="4">e o interesse:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Onde a justiça perece</l>
+          <l n="2">por falta, de quem a entenda,</l>
+          <l n="3">e onde para haver emenda</l>
+          <l n="4">usa Deus,</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Do que usava cos Judeus,</l>
+          <l n="2">quando era Deus de vinganças,</l>
+          <l n="3">que com todas as três lanças</l>
+          <l n="4">de sua ira</l>
+        </lg>
+        <lg n="6">
+          <l n="1">De seu tronco nos atira</l>
+          <l n="2">com peste, e sanguínea guerra,</l>
+          <l n="3">com infecúndias da terra,</l>
+          <l n="4">e pestilente</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Febre maligna, e ardente,</l>
+          <l n="2">que aos três dias, ou aos sete</l>
+          <l n="3">debaixo da terra mete</l>
+          <l n="4">o mais robusto.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Corpo queimado, e combusto,</l>
+          <l n="2">sem lhe valer medicina,</l>
+          <l n="3">como se peçonha fina</l>
+          <l n="4">fora o ar:</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Deste nosso respirar</l>
+          <l n="2">efeitos da zona ardente,</l>
+          <l n="3">onde a etiópica gente</l>
+          <l n="4">faz morada:</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Gente asnaval, e tostada,</l>
+          <l n="2">que da cor da escura noite</l>
+          <l n="3">a pura marca, e açoite</l>
+          <l n="4">se encaminha:</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Aqui a fortuna minha</l>
+          <l n="2">conjurada com seu fado</l>
+          <l n="3">me trazem em tal estado,</l>
+          <l n="4">qual me vejo.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Aqui onde o meu desejo</l>
+          <l n="2">debalde busca seu fim,</l>
+          <l n="3">e sempre me acho sem mim,</l>
+          <l n="4">quando me busco.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Aqui onde o filho é fusco,</l>
+          <l n="2">e quase negro é o neto,</l>
+          <l n="3">negro de todo o bisneto</l>
+          <l n="4">e todo escuro;</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Aqui onde ao sangue puro</l>
+          <l n="2">o clima gasta, e conforme,</l>
+          <l n="3">o gesto rói, e corcome</l>
+          <l n="4">o ar, e o vento,</l>
+        </lg>
+        <lg n="15">
+          <l n="1">Sendo tão forte e violento,</l>
+          <l n="2">que ao bronze metal eterno,</l>
+          <l n="3">que o mesmo fogo do inferno</l>
+          <l n="4">não gastara,</l>
+        </lg>
+        <lg n="16">
+          <l n="1">O racha, quebra, e prepara,</l>
+          <l n="2">que o reduz a quase nada;</l>
+          <l n="3">os bosques são vil morada</l>
+          <l n="4">de Empacassas</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Animais de estranhas raças,</l>
+          <l n="2">de Leões, Tigres, e Abadas,</l>
+          <l n="3">Elefantes às marradas,</l>
+          <l n="4">e matreiros:</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Lobos servis, carniceiros,</l>
+          <l n="2">Javalis de agudas setas,</l>
+          <l n="3">Monos, Bugios de tretas</l>
+          <l n="4">e dos rios</l>
+        </lg>
+        <lg n="19">
+          <l n="1">Há maldições de assobios</l>
+          <l n="2">de crocodilos manhosos</l>
+          <l n="3">de cavalos espantosos</l>
+          <l n="4">dos marinhos,</l>
+        </lg>
+        <lg n="20">
+          <l n="1">Que fazem horrendo ninhos</l>
+          <l n="2">nas mais ocultas paragens</l>
+          <l n="3">das emaranhadas margens,</l>
+          <l n="4">e se acaso,</l>
+        </lg>
+        <lg n="21">
+          <l n="1">Quereis encher de água um vaso,</l>
+          <l n="2">chegando ao rio ignorante</l>
+          <l n="3">logo nesse mesmo instante</l>
+          <l n="4">vos sepulta</l>
+        </lg>
+        <lg n="22">
+          <l n="1">Na tripagem mais oculta</l>
+          <l n="2">um intrépido lagarto,</l>
+          <l n="3">vós inda vivo, ele farto:</l>
+          <l n="4">pelo que</l>
+        </lg>
+        <lg n="23">
+          <l n="1">Não ousais a pôr o pé</l>
+          <l n="2">uma braça da corrente</l>
+          <l n="3">que este tragador da gente</l>
+          <l n="4">vos obriga</l>
+        </lg>
+        <lg n="24">
+          <l n="1">A fugir-lhe da barriga;</l>
+          <l n="2">Deus me valha, Deus me acuda,</l>
+          <l n="3">e com sua santa ajuda</l>
+          <l n="4">me reserve:</l>
+        </lg>
+        <lg n="25">
+          <l n="1">Em terra não me conserve,</l>
+          <l n="2">onde a sussurros, e a gritos</l>
+          <l n="3">a multidão de mosquitos</l>
+          <l n="4">toda a noite</l>
+        </lg>
+        <lg n="26">
+          <l n="1">Me traga em contino açoite,</l>
+          <l n="2">e bofetadas soantes,</l>
+          <l n="3">porque as veias abundantes</l>
+          <l n="4">do vital</l>
+        </lg>
+        <lg n="27">
+          <l n="1">Humor puro, e cordial</l>
+          <l n="2">não veja quase rasgadas</l>
+          <l n="3">a puras ferretoadas:</l>
+          <l n="4">e inda é mais;</l>
+        </lg>
+        <lg n="28">
+          <l n="1">Se acaso vos inclinais</l>
+          <l n="2">por fugir da ocasião</l>
+          <l n="3">da vossa condenação</l>
+          <l n="4">a lavrador,</l>
+        </lg>
+        <lg n="29">
+          <l n="1">Estando a semente em flor,</l>
+          <l n="2">qual contra pintos minhotos,</l>
+          <l n="3">um bando de gafanhotos,</l>
+          <l n="4">imundícia,</l>
+        </lg>
+        <lg n="30">
+          <l n="1">Ou qual bárbara milícia</l>
+          <l n="2">em confusos esquadrões</l>
+          <l n="3">marcham confusas legiões,</l>
+          <l n="4">(estranho caso!)</l>
+        </lg>
+        <lg n="31">
+          <l n="1">Que deixam o campo raso,</l>
+          <l n="2">sem raiz, talo, nem fruto,</l>
+          <l n="3">sem que o lavrador astuto</l>
+          <l n="4">valer lhe possa:</l>
+        </lg>
+        <lg n="32">
+          <l n="1">Antes metido na choça</l>
+          <l n="2">se lastima, e desconsola</l>
+          <l n="3">vendo, o quão geral assola</l>
+          <l n="4">esta má praga.</l>
+        </lg>
+        <lg n="33">
+          <l n="1">Há uma cobra, que traga</l>
+          <l n="2">de um só sorvo, e de um bocado</l>
+          <l n="3">um grandíssimo veado:</l>
+          <l n="4">e se me ouvis,</l>
+        </lg>
+        <lg n="34">
+          <l n="1">Há outra chamada Enfuís,</l>
+          <l n="2">que se vos chegais a ela</l>
+          <l n="3">vos lança uma esguicha dela</l>
+          <l n="4">de peçonha,</l>
+        </lg>
+        <lg n="35">
+          <l n="1">Quantidade, que se exponha</l>
+          <l n="2">bem dos olhos na menina,</l>
+          <l n="3">com dores, que desatina</l>
+          <l n="4">o paciente:</l>
+        </lg>
+        <lg n="36">
+          <l n="1">Cega-vos incontinenti</l>
+          <l n="2">que o trabuco vos assesta</l>
+          <l n="3">distante um tiro de besta:</l>
+          <l n="4">(ó clemência</l>
+        </lg>
+        <lg n="37">
+          <l n="1">De Deus?) ó onipotência,</l>
+          <l n="2">que nada embalde criaste!</l>
+          <l n="3">Para que depositaste</l>
+          <l n="4">num lugar</l>
+        </lg>
+        <lg n="38">
+          <l n="1">lnstrumentos de matar</l>
+          <l n="2">tais, e em tanta quantidade!</l>
+          <l n="3">e se o sol com claridade,</l>
+          <l n="4">e reflexão</l>
+        </lg>
+        <lg n="39">
+          <l n="1">É causa da geração</l>
+          <l n="2">como aqui corrompe, e mata?</l>
+          <l n="3">e se a lua cria a prata,</l>
+          <l n="4">e seu humor</l>
+        </lg>
+        <lg n="40">
+          <l n="1">Almo, puro, e criador</l>
+          <l n="2">comunica às verdes plantas,</l>
+          <l n="3">como aqui maldades tantas</l>
+          <l n="4">descarrega?</l>
+        </lg>
+        <lg n="41">
+          <l n="1">E se a chuva só se emprega</l>
+          <l n="2">em fertilizar os prados,</l>
+          <l n="3">como febres aos molhados</l>
+          <l n="4">dá mortais?</l>
+        </lg>
+        <lg n="42">
+          <l n="1">E se quantos animais</l>
+          <l n="2">a terra sustenta, e cria,</l>
+          <l n="3">são dos homens comedia,</l>
+          <l n="4">como nesta</l>
+        </lg>
+        <lg n="43">
+          <l n="1">Terra maldita, e infesta,</l>
+          <l n="2">triste, horrorosa, e escura</l>
+          <l n="3">são dos homens sepultura?</l>
+          <l n="4">Mas, Senhor,</l>
+        </lg>
+        <lg n="44">
+          <l n="1">Vós sois sábio e criador</l>
+          <l n="2">desta fábrica do mundo,</l>
+          <l n="3">e é vosso saber profundo,</l>
+          <l n="4">e sem medida.</l>
+        </lg>
+        <lg n="45">
+          <l n="1">Lembrai-vos da minha vida,</l>
+          <l n="2">antes que em pó se desfaça,</l>
+          <l n="3">ou dai-me da vossa graça</l>
+          <l n="4">por eterna despedida.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

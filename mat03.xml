@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36538"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Gabando-vos a vós, e eu fico um Rei</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>A EL REY D. PEDRO II COM UM ASTROLABIO DE TOMAR O SOL, QUE MANDOU O Pe. VALENTIM STANCEL DEDICADO AO RENASCIDO MONARCA.</head>
+        <lg n="1">
+          <l n="1">Este, Senhor, que fiz leve instrumento</l>
+          <l n="2">Para pesar o sol a qualquer hora,</l>
+          <l n="3">Dedico a aquele Sol, a cuja aurora</l>
+          <l n="4">Já destinam dous mundos rendimento.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Desta minha humildade, e desalento,</l>
+          <l n="2">Que a sua quarta esfera não ignora,</l>
+          <l n="3">subindo a oitavo céu, pertende agora</l>
+          <l n="4">A estrela achar no vosso firmamento.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu, que outro sol no seu <choice><orig>zenith</orig><seg type="apo">zenít</seg></choice> pondero</l>
+          <l n="2">Aos do Nascido Soberanos Raios,</l>
+          <l n="3">Pesando-me eu a mim me desespero.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas vós, Águia Real, esses ensaios</l>
+          <l n="2">Entre os vossos levai, pois considero,</l>
+          <l n="3">Que nunca em tanta sombra houve desmaios.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>A MORTE DA AUGUSTA SENHORA RAINHA D. MARIA, FRANCISCA, IZABEL DE SABOYA, QUE FALLECEO EM 1683.</head>
+        <lg n="1">
+          <l n="1">Hoje pó, ontem Deidade soberana,</l>
+          <l n="2">Ontem sol, hoje sombra, ó Senadores,</l>
+          <l n="3">Lises imperiais enfim são flores,</l>
+          <l n="4">Quem outra cousa crê, muito se engana.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Nas cinzas, que essa urna guarda ufana,</l>
+          <l n="2">Vejo, que os aromáticos licores</l>
+          <l n="3">são de seu mortal ser descobridores,</l>
+          <l n="4">Porque, o que a arte esconde, o juízo alhana.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A Real Capitânia submergida!</l>
+          <l n="2">Olhos à gávea, ó tu Naveta ousada,</l>
+          <l n="3">Que ao mar te engolfas de ambição vencida:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pois em terra a Real está encalhada,</l>
+          <l n="2">Alerta, altos Baixéis, porque anda a vida</l>
+          <l n="3">Da mortal tempestade ameaçada.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>A SERENISSIMA INFANTA DE PORTUGAL D. IZABEL, LUIZA, JOSEPHA NASCENDO EM DIA DE REYS.</head>
+        <lg n="1">
+          <l n="1">Nasces, Infanta bela, e com ventura</l>
+          <l n="2">Tão desigual a toda a gentileza,</l>
+          <l n="3">Que vencendo o poder da natureza,</l>
+          <l n="4">Venturosa fizeste à formosura.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Com tal estrela sobe a tal altura</l>
+          <l n="2">A formosura posta em tanta alteza,</l>
+          <l n="3">Que por nasceres pasmo da beleza,</l>
+          <l n="4">Da pensão de formosa estás segura.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Nasceste Filha enfim da bela Aurora</l>
+          <l n="2">Com graça singular, ventura clara,</l>
+          <l n="3">Com estrela nasceste, ó feliz hora!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nascer bela, e feliz é cousa rara:</l>
+          <l n="2">Mas em ti Portugal venera agora</l>
+          <l n="3">Uma estrela na dita, um sol na cara.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>NA MORTE DA MESMA SENHORA RATIFICA O POETA AS VENTURAS, QUE PROMETTE O SONETO ANTECEDENTE.</head>
+        <lg n="1">
+          <l n="1">Bem disse eu logo, que éreis venturosa</l>
+          <l n="2">Quando nascestes, com nascer tão bela,</l>
+          <l n="3">E me lembra dizer já com cautela,</l>
+          <l n="4">Cousa rara é ser bela, e ser ditosa.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O nascer com estrela, e ser formosa</l>
+          <l n="2">Raro prodígio é, que mais se anela;</l>
+          <l n="3">Mas ser na terra flor, nos céus estrela,</l>
+          <l n="4">Só em vós foi ventura prodigiosa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Fostes, e sois estrela enfim do Norte,</l>
+          <l n="2">Do céu girando o Norte mui segura,</l>
+          <l n="3">Girando sempre a tão felice corte.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Hoje lograis mais bela formosura,</l>
+          <l n="2">Possuindo na glória dita, e sorte,</l>
+          <l n="3">Que em ser do Céu consiste o ter ventura.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>CONTINUA A MESMA RATIFICAÇÃO NA ESTRELLA DOS MAGOS POR HAVER NASCIDO ESTA SENHORA EM DIA DE REYS.</head>
+        <lg n="1">
+          <l n="1">Nascestes bela, e fostes entendida</l>
+          <l n="2">Uniu-se em vós saber, e formosura:</l>
+          <l n="3">Não se pode lograr tanta ventura,</l>
+          <l n="4">Em quem com tal estrela foi nascida.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quem viu co'a formosura a sorte unida,</l>
+          <l n="2">Que julgasse essa vida por segura?</l>
+          <l n="3">Muito esperou por vós a sepultura,</l>
+          <l n="4">Que, em quem é tão feliz, não dura a vida.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quem dissera no vosso nascimento,</l>
+          <l n="2">Que em tal estrela haviam tais enganos,</l>
+          <l n="3">Para ser maior hoje o sentimento!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Porém nestes prodígios soberanos,</l>
+          <l n="2">Tendo dos Magos vós o entendimento,</l>
+          <l n="3">Não podiam ser muitos vossos anos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>SENTIMENTOS D'EL REY D. PEDRO II À MORTE DESTA SERENISSIMA SENHORA SUA FILHA PRIMOGENITA.</head>
+        <lg n="1">
+          <l n="1">Se a dar-te vida a minha dor bastara,</l>
+          <l n="2">Filha Isabel, de minha dor morrera,</l>
+          <l n="3">E porque minha dor tudo excedera,</l>
+          <l n="4">Gêneros novos de sentir buscara.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se uma vida se dera, ou se emprestara,</l>
+          <l n="2">A metade da minha te ofrecera,</l>
+          <l n="3">Ou toda, porque inveja não tivera</l>
+          <l n="4">Outra a metade, que órfã me ficara.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E se a minha alma enfim tua agonia</l>
+          <l n="2">Substituir pudera com a sua,</l>
+          <l n="3">Tua vida animando a cinza fria:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Inda que a arrojo o mundo o atribua,</l>
+          <l n="2">Não só a vida, a alma te daria</l>
+          <l n="3">Por melhorá-la com fazê-la tua.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>GLOSA</head>
+        <lg n="1">
+          <l n="1">Filha minha Isabel, alma ditosa,</l>
+          <l n="2">Que do corpo as prisões desemparaste,</l>
+          <l n="3">E qual cândida flor, ou fresca rosa</l>
+          <l n="4">De teus anos a flor em flor cortaste:</l>
+          <l n="5">De minha dor a mágoa saudosa,</l>
+          <l n="6">Que por herança d’alma me deixaste,</l>
+          <l n="7">Deves crer, que até agora não durara,</l>
+          <l n="8">Se a dar-te vida a minha dor bastara.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não durara até agora a minha mágoa,</l>
+          <l n="2">Se fora ela bastante a dar-te vida,</l>
+          <l n="3">Porque, vivendo tu, dos olhos a água</l>
+          <l n="4">Se enxugara em dous rostos reprimida:</l>
+          <l n="5">E sendo o peito humano a própria frágua,</l>
+          <l n="6">Onde a dor em licores derretida</l>
+          <l n="7">Corre a desafogar: se não correra,</l>
+          <l n="8">Filha Isabel, de minha dor morrera.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Morrera, Filha minha, e acabara</l>
+          <l n="2">De um doce mal, formosa enfermidade:</l>
+          <l n="3">Todo o poder do mundo me invejara,</l>
+          <l n="4">Pois falta a seu poder esta verdade:</l>
+          <l n="5">Com minha morte a vida se trocara,</l>
+          <l n="6">Da maior, e mais alta majestade</l>
+          <l n="7">Enjeitara tudo, porque nada era,</l>
+          <l n="8">E porque a minha dor tudo excedera.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ficara tão ufano de seguir-te,</l>
+          <l n="2">Vivo por te chorar, morto por ver-te,</l>
+          <l n="3">Que se pudera crer, que por senir-te</l>
+          <l n="4">A ocasião estimara de perder-te:</l>
+          <l n="5">E se nesta estranheza de sentir-te</l>
+          <l n="6">Não chegara um aplauso a merecer-te,</l>
+          <l n="7">De uma a outra estranheza me passara,</l>
+          <l n="8">Gêneros novos de sentir buscara.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Sangue ondeara a margem deste rio,</l>
+          <l n="2">A rosa adoecera em suas cores,</l>
+          <l n="3">Da Aurora carmesim fora o rocio,</l>
+          <l n="4">Não recendera o ambar entre as flores:</l>
+          <l n="5">Fora da natureza um desvario</l>
+          <l n="6">A ordem natural de seus primores:</l>
+          <l n="7">Mas nada a minha dor necessitara,</l>
+          <l n="8">Se uma vida se dera, ou se emprestara.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se pudera emprestar-te a minha vida,</l>
+          <l n="2">Se escusara então meu sentimento:</l>
+          <l n="3">Mas ai! que nem o dá-la por perdida</l>
+          <l n="4">Remédio pode ser do meu tormento:</l>
+          <l n="5">E já, que não é cousa permitida</l>
+          <l n="6">Celebrar um contrato tão violento,</l>
+          <l n="7">E dar a vida enfim se não tolera,</l>
+          <l n="8">A metade da minha te ofrecera.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">E pois a natureza é tão escassa,</l>
+          <l n="2">Que na esfera da sua potestade</l>
+          <l n="3">Não cabe por indulto, nem por graça</l>
+          <l n="4">Uma vida partir pela metade:</l>
+          <l n="5">E inda que o vença amor, indústria, ou traça,</l>
+          <l n="6">Me resta outra maior dificuldade,</l>
+          <l n="7">De que se hão de invejar, metade dera,</l>
+          <l n="8">Ou toda, porque inveja não tivera.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Se a metade da vida, que te ofreço,</l>
+          <l n="2">Inveja há de causar, à com que fico,</l>
+          <l n="3">E sobre dar-lhe inveja à que despeço,</l>
+          <l n="4">Que saudades lhe dê me certifico:</l>
+          <l n="5">Para livrar-me de um, e outro tropeço,</l>
+          <l n="6">Com que nesta partida me complico,</l>
+          <l n="7">Sobre a tua metade te largara</l>
+          <l n="8">A outra metade, que órfã me ficara.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Dera-te enfim a minha vida toda,</l>
+          <l n="2">Que o mais fora desdouro da firmeza,</l>
+          <l n="3">Que sempre, quem bem ama, se acomoda</l>
+          <l n="4">Fazer a vida altar de uma fineza:</l>
+          <l n="5">Dar tudo nunca a amor desacomoda,</l>
+          <l n="6">Dera-te a vida, e alma nesta empresa,</l>
+          <l n="7">Se a minha vida a morte te alivia,</l>
+          <l n="8">E se a minha alma enfim tua agonia.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Ásia filha maior do mar profundo,</l>
+          <l n="2">A África do mar soberania,</l>
+          <l n="3">Europa exemplar luz de todo o mundo</l>
+          <l n="4">E a América do ouro monarquia,</l>
+          <l n="5">veriam, com quão ledo, e quão jucundo</l>
+          <l n="6">Rosto por ti minha alma despedia,</l>
+          <l n="7">Se o calor da minha alma à vida tua</l>
+          <l n="8">Substituir pudera com a sua.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">O Rouxinol, que canta docemente</l>
+          <l n="2">À vista da consorte, que o namora,</l>
+          <l n="3">A Rola triste, que ao esposo ausente</l>
+          <l n="4">De dia busca, se de noite o chora:</l>
+          <l n="5">No ar sutil, na fonte transparente,</l>
+          <l n="6">Vendo o fino de uma alma, que te adora,</l>
+          <l n="7">Pasmariam de ver, como supria</l>
+          <l n="8">Tua vida, animando a cinza fria.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">A inveja, que do ódio se alimenta,</l>
+          <l n="2">A detração, que como espada corta,</l>
+          <l n="3">A calúnia, que a todos ensangüenta,</l>
+          <l n="4">E a aversão, que os áspides aborta:</l>
+          <l n="5">Todos a iníquia mão, língua cruenta</l>
+          <l n="6">Mostrariam pasmada, obtusa, absorta;</l>
+          <l n="7">Eu só perdera a vida pela tua,</l>
+          <l n="8">Inda que a arrojo o mundo o atribua.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Pasme de assombro, ou da fineza a terra,</l>
+          <l n="2">Trema do caso, ou da estranheza o monte,</l>
+          <l n="3">De invejosas as aves se dêem guerra</l>
+          <l n="4">De corrido se mude o Horizonte:</l>
+          <l n="5">Co'as nuvens indignadas choque a serra,</l>
+          <l n="6">Brame o mar, soe o Céu, murmure a fonte,</l>
+          <l n="7">Que eu firme nesta minha fantesia</l>
+          <l n="8">Não só a vida, a alma te daria.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Dá-la-ia não só por imitar-te,</l>
+          <l n="2">Se cabe em minha dor tão alta sorte,</l>
+          <l n="3">Senão por despojar-me, e despojar-te</l>
+          <l n="4">A mim do sentimento, a ti da morte:</l>
+          <l n="5">Não só daria a alma por mostrar-te,</l>
+          <l n="6">Que não tenho outro alívio em mal tão forte:</l>
+          <l n="7">Senão (pois perde tanto em ser tão sua)</l>
+          <l n="8">Por melhorá-la com fazê-la tua.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>AO CONDE DE ERICEYRA D. LUIZ DE MENEZES PEDINDO LOUVORES AO POETA NÃO LHE ACHANDO ELLE PRESTIMO ALGUM.</head>
+        <lg n="1">
+          <l n="1">Um soneto começo em vosso gabo;</l>
+          <l n="2">Contemos esta regra por primeira,</l>
+          <l n="3">Já lá vão duas, e esta é a terceira,</l>
+          <l n="4">Já este quartetinho está no cabo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Na quinta torce agora a porca o rabo:</l>
+          <l n="2">A sexta vá também desta maneira,</l>
+          <l n="3">na sétima entro já com grã canseira,</l>
+          <l n="4">E saio dos quartetos muito brabo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Agora nos tercetos que direi?</l>
+          <l n="2">Direi, que vós, Senhor, a mim me honrais,</l>
+          <l n="3">Gabando-vos a vós, e eu fico um Rei.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nesta vida um soneto já ditei,</l>
+          <l n="2">Se desta agora escapo, nunca mais;</l>
+          <l n="3">Louvado seja Deus, que o acabei.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>CENSURA QUE FAZ O POETA DESTE TAL CONDE NA SUA DESASTRADA MORTE, LANÇANDO-SE DA JANELLA DO SEU JARDIM, ONDE ACABOU MISERAVELMENTE POR ALTOS JUIZOS DE DEOS.</head>
+        <lg n="1">
+          <l n="1">Tanta virtude excelente</l>
+          <l n="2">de animoso, e de alentado,</l>
+          <l n="3">de valeroso soldado,</l>
+          <l n="4">e de cortesão valente,</l>
+          <l n="5">viu o mundo, e soube a gente,</l>
+          <l n="6">que inda que em santo podia</l>
+          <l n="7">transformar-se a Senhoria,</l>
+          <l n="8">o Conde o não conseguiu,</l>
+          <l n="9">porque de noite caiu,</l>
+          <l n="10">e o Santo cai no seu dia.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se o Conde caiu de noite,</l>
+          <l n="2">como o teremos por Santo,</l>
+          <l n="3">quando a queda um tanto, ou quanto,</l>
+          <l n="4">teve do divino açoite:</l>
+          <l n="5">quis Deus, que o Conde se afoite,</l>
+          <l n="6">porque visse o bom Soldado,</l>
+          <l n="7">que o Conde de puro honrado</l>
+          <l n="8">quis, que o visse a própria terra,</l>
+          <l n="9">quanto arrojado na guerra,</l>
+          <l n="10">na paz tão precipitado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ícaro da nossa guerra</l>
+          <l n="2">ares corta o Conde só,</l>
+          <l n="3">Ícaro caiu no Pó,</l>
+          <l n="4">e o Conde caiu na terra:</l>
+          <l n="5">se, porque o rio o enterra,</l>
+          <l n="6">o nome lhe ficou dado</l>
+          <l n="7">de Ícaro ter sepultado:</l>
+          <l n="8">assim porque a terra dura</l>
+          <l n="9">deu ao Conde sepultura,</l>
+          <l n="10">ficou a terra um condado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">De cera, e pluma se val</l>
+          <l n="2">Ícaro para viver,</l>
+          <l n="3">e o Conde para morrer</l>
+          <l n="4">valeu-se do natural:</l>
+          <l n="5">quanto a força artificial</l>
+          <l n="6">da natureza é sobrada</l>
+          <l n="7">fica a do Conde adiantada,</l>
+          <l n="8">porque Ícaro quando bóia</l>
+          <l n="9">faz tragédia de tramóia,</l>
+          <l n="10">e o Conde de capa, e espada.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Tinha o Conde de morrer;</l>
+          <l n="2">todo o mortal nisto pára,</l>
+          <l n="3">e se ele se não matara,</l>
+          <l n="4">quem lho havia de fazer?</l>
+          <l n="5">fez bem o Conde a meu ver,</l>
+          <l n="6">quando ao jardim se arrojou,</l>
+          <l n="7">e entre as flores expirou:</l>
+          <l n="8">vento é a vida em rigor,</l>
+          <l n="9">e como o Conde era flor,</l>
+          <l n="10">entre as flores acabou.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se ignorou alguns sentidos,</l>
+          <l n="2">porque tanto mal se urdiu,</l>
+          <l n="3">era valido, e caiu,</l>
+          <l n="4">que o cair é dos validos:</l>
+          <l n="5">tão certos são, e sabidos</l>
+          <l n="6">no monte, no lar, na praça</l>
+          <l n="7">estes reveses da graça,</l>
+          <l n="8">que é já dos Palácios lei,</l>
+          <l n="9">que quem da graça d’El-Rei</l>
+          <l n="10">cai, cai da sua desgraça.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>AO MESMO ASSUMPTO E PELO MESMO CASO.</head>
+        <lg n="1">
+          <l n="1">Nesse precipício, Conde,</l>
+          <l n="2">fostes Ícaro segundo,</l>
+          <l n="3">bem que a Dédalo no mundo</l>
+          <l n="4">vossa fama corresponde:</l>
+          <l n="5">em parte caístes, onde</l>
+          <l n="6">como Ícaro morrestes,</l>
+          <l n="7">mas a Dédalo excedestes</l>
+          <l n="8">nesses labirintos tristes,</l>
+          <l n="9">em fazer no que caístes,</l>
+          <l n="10">e em cair, no que fizestes.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Caiu o Conde, e se diz,</l>
+          <l n="2">que foi por um caso atroz,</l>
+          <l n="3">porém já corre outra voz,</l>
+          <l n="4">que a esta se contradiz:</l>
+          <l n="5">que foram uns frenesis</l>
+          <l n="6">do juízo descortês:</l>
+          <l n="7">mas eu digo desta vez</l>
+          <l n="8">ouvindo do baque o truz,</l>
+          <l n="9">que o juízo ao Conde induz</l>
+          <l n="10">ter caído, no que fez.</l>
+        </lg>
+        <lg type="estribilho" n="3">
+          <l n="1">Aqui jaz, em que lhe <choice><orig>pes</orig><seg type="reg">pés</seg></choice>,</l>
+          <l n="2">quem tudo fez com má sorte,</l>
+          <l n="3">e só na hora da morte</l>
+          <l n="4">caiu naquilo, que fez.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>A MORTE DO ILLUSTRISSIMO MARQUEZ DE MARIALVA. GENERAL DAS ARMAS DE PORTUGAL SOBRE AS PALAVRAS DA ESCRIPTURA
+        "PLANDITE ANTE EXEQUIAS ABNER; FIPSE FLEVIT DAVID SUPER TUMULUM ABNER."</head>
+        <lg n="1">
+          <l n="1">Quando a morte de Abner <choice><orig>David</orig><seg type="apo">Davi</seg></choice> sentia,</l>
+          <l n="2">Mandou a seus vassalos, que chorassem,</l>
+          <l n="3">E que em lágrimas todos publicassem</l>
+          <l n="4">Quanto o Reino lhe deve, e o Rei devia.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Cada qual seu tormento repetia,</l>
+          <l n="2">Sem querer, que os dos outros o igualassem</l>
+          <l n="3">E todos procuravam, que mostrassem</l>
+          <l n="4">As lágrimas dilúvio, a dor porfia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pois se a morte de Abner se sente tanto,</l>
+          <l n="2">Só por ser General valente, e forte,</l>
+          <l n="3">Que move o Reino, e Rei a tanto pranto:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Lamente Portugal, e sinta a Corte</l>
+          <l n="2">A morte de Marialva, porque espanto</l>
+          <l n="3">Foi do mundo, e o pudera ser da Morte.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>EPITAFIO AO CORAÇÃO DESTE MESMO GENERAL ENTERRADO AOS PÉS D'EL REY D. JOÃO IV.</head>
+        <lg n="1">
+          <l n="1">Aqui jaz o coração</l>
+          <l n="2">do mais valente Anibal,</l>
+          <l n="3">que restaurou Portugal</l>
+          <l n="4">com a espada de co’a razão:</l>
+          <l n="5">aos pés do Rei quarto João</l>
+          <l n="6">lhe mandaram dar jazigo,</l>
+          <l n="7">para que a todo o perigo</l>
+          <l n="8">os dous unidos por lei</l>
+          <l n="9">achasse o vassalo ao Rei,</l>
+          <l n="10">e tivesse o Rei o amigo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>AO MESMO ASSUMPTO E PELOS MESMOS CONSOANTES</head>
+        <lg n="1">
+          <l n="1">Aqui jaz o coração</l>
+          <l n="2">do vassalo mais leal,</l>
+          <l n="3">a quem deve Portugal</l>
+          <l n="4">o quarto Rei Dom João:</l>
+          <l n="5">e assim com justa razão</l>
+          <l n="6">lhe dão a seus pés jazigo,</l>
+          <l n="7">porque a todo o perigo</l>
+          <l n="8">unidos os dous por lei</l>
+          <l n="9">achasse a lealdade o Rei,</l>
+          <l n="10">tivesse o vassalo amigo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>AO MESMO MARQUEZ SENDO ENTERRADO EM TREZ PARTES.  O CORPO EM CATANHÉDE; O CORAÇÃO EM S. VICENTE DE FORA; E OS INTESTINOS EM SAM JOSÉ DE RIBA MAR.</head>
+        <lg n="1">
+          <l n="1">Em três partes enterrado</l>
+          <l n="2">está o corpo do Marquês</l>
+          <l n="3">de Marialva: porque em dez</l>
+          <l n="4">mil seu nome é venerado:</l>
+          <l n="5">e foi destino acertado,</l>
+          <l n="6">que em tanta parte estivesse,</l>
+          <l n="7">para que o mundo soubesse,</l>
+          <l n="8">que este valeroso Marte</l>
+          <l n="9">morto assiste em qualquer parte,</l>
+          <l n="10">como se ainda vivesse.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

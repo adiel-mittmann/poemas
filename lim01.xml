@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Permanência de Inês</title>
+        <author>Jorge de Lima</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Obra impressa.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem" n="1">
+        <head>Permanência de Inês</head>
+        <lg n="1">
+          <l n="1">Estavas, linda Inês, nunca em sossego</l>
+          <l n="2">e por isso voltaste neste poema,</l>
+          <l n="3">louca, virgem Inês, engano cego,</l>
+          <l n="4">ó multípara Inês, sutil e extrema,</l>
+          <l n="5">ilha e mareta funda, raso pego,</l>
+          <l n="6">Inês desconstruída mas eurema,</l>
+          <l n="7">chamada Inês de muitos nomes, antes,</l>
+          <l n="8">depois, como de agora, hojes distantes.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Porém penumbra vaga talvez acha</l>
+          <l n="2">celeste consumindo-se, também</l>
+          <l n="3">a própria conceição parindo baixa</l>
+          <l n="4">a real prole; de súbito ninguém</l>
+          <l n="5">nessas longínquas órbitas que enfaixa</l>
+          <l n="6">com seus cabelos, ela-a-mais-de-cem,</l>
+          <l n="7">a mais de mil, Inês amorfa e aresta,</l>
+          <l n="8">Inês a só, mas logo a sempre festa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Inês que fulge quando o dia brilha</l>
+          <l n="2">ou se acinzenta quando o ocaso avança,</l>
+          <l n="3">rainha negra, mãe e branca filha,</l>
+          <l n="4">entre arcanjos do céu etérea dança,</l>
+          <l n="5">e nos dias dos mundos andarilha,</l>
+          <l n="6">andar incandescente que não cansa,</l>
+          <l n="7">poema aparentemente muitos poemas</l>
+          <l n="8">mas infância perene, tema em temas.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ela fechada virgem, via-a em rio;</l>
+          <l n="2">eu era os meus sete anos, vendo-a vejo</l>
+          <l n="3">a próprio poesia que surgiu</l>
+          <l n="4">intemporal, poesia que antevejo,</l>
+          <l n="5">poesia que me vê, verá, me viu,</l>
+          <l n="6">ó mar sempre passando em que velejo,</l>
+          <l n="7">em próprio outro marujo e outro oceano</l>
+          <l n="8">em redor do marujo transmontano.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Meu pai te lia, ó página de insânia!</l>
+          <l n="2">E eu o escutava, como se findasses.</l>
+          <l n="3">Findasses?  Se tu eras a espontânea,</l>
+          <l n="4">a musa aparecida de cem faces,</l>
+          <l n="5">a além de mim e além da Lusitânia,</l>
+          <l n="6">como se além da página acenasses</l>
+          <l n="7">aos que postos em teus desassossegos,</l>
+          <l n="8">cegam seus olhos por teus olhos cegos.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Ó vidente através, ó Inês mirante,</l>
+          <l n="2">em nós mortes sofridas para versos,</l>
+          <l n="3">para que nesta vida o mudo cante</l>
+          <l n="4">e o cego e o surdo e os homens controversos</l>
+          <l n="5">apreendam todos teu geral instante,</l>
+          <l n="6">teus pequenos e grandes universos,</l>
+          <l n="7">teu aparecimento em <choice><orig>Miraceli</orig><seg type="apo">Miracele</seg></choice>,</l>
+          <l n="8">para que tua face se revele.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Perfeitamente posta nas entranhas,</l>
+          <l n="2">planos, colunas, ramos, perspectivas,</l>
+          <l n="3">Inês ereta, lindes sempre estranhas,</l>
+          <l n="4">as auroras de sol tremulam vivas,</l>
+          <l n="5">os cabelos de nuvens, rubras anhas</l>
+          <l n="6">de lãs esvoaçadas mas cativas,</l>
+          <l n="7">como cativa a criação das cores,</l>
+          <l n="8">apenas liberdade para as flores.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Inês, porém, jamais, jamais fundada</l>
+          <l n="2">quer indicar talvez, uma inquietude,</l>
+          <l n="3">inquietude de Inês apoderada,</l>
+          <l n="4">subido Inês, efêmera altitude,</l>
+          <l n="5">descida em seus abismos, augurada,</l>
+          <l n="6">para que nela o clima sempre mude.</l>
+          <l n="7">Inês refaz-se simultaneamente,</l>
+          <l n="8">obumbra os horizontes, cobre o poente.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Nenhum tribuno em ti nem duros rostos,</l>
+          <l n="2">mas gentios trazidos, livros santos,</l>
+          <l n="3">e seus antepassados, puros mostos</l>
+          <l n="4">de espíritos ornados de áureos cantos;</l>
+          <l n="5">nem as sombras dos mantos são desgostos,</l>
+          <l n="6">mas são talares, são voejados mantos.</l>
+          <l n="7">Nem Héspero nem Júpiter nem Cronos</l>
+          <l n="8">podem resplandecer com mores tronos.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Amou revelação, purificou-se,</l>
+          <l n="2">nenhum amor descrido conseguiu</l>
+          <l n="3">ensombrar-lhe de angústia o olhar doce.</l>
+          <l n="4">Inês resplandecente, sempre estio,</l>
+          <l n="5">conheceu-se em seus símbolos.  Amou-se,</l>
+          <l n="6">pois fora a restituída.  Coexistiu.</l>
+          <l n="7">Chispa inventiva, Inês florida arena</l>
+          <l n="8">marasmos espezinha.  Altiva cena.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Reclina-se sem medo e sem alarde,</l>
+          <l n="2">ó fábula sem par, comédia infusa,</l>
+          <l n="3">manhã remurmurada pela tarde;</l>
+          <l n="4">a atitude é tão justa nessa musa</l>
+          <l n="5">que a forma aguda nos aspectos arde,</l>
+          <l n="6">Inês primordiada, era conclusa,</l>
+          <l n="7">os seus frutos sonoros querem que ela</l>
+          <l n="8">seja inscrição, apenas fria estela.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Trouxeram-na os análogos algozes</l>
+          <l n="2">diante da ambiguidade das essências,</l>
+          <l n="3">em que as asas divinas e as ferozes</l>
+          <l n="4">asas (que eram da Luz magnificências),</l>
+          <l n="5">confundem doces vozes e atras vozes;</l>
+          <l n="6">e eis que as piedosas, íntimas insciências:</l>
+          <l n="7">Levai-me à Cítia fria, ou à Líbia ardente,</l>
+          <l n="8">onde em lágrimas viva eternamente.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Não podendo em sossego Inês estar,</l>
+          <l n="2">seus algozes mudaram-na na lida,</l>
+          <l n="3">na continuada lida — mar e mar.</l>
+          <l n="4">E eis que a sombra colaça e a luz ardida</l>
+          <l n="5">são nos espaços — elo circular,</l>
+          <l n="6">asas obsidionais à asa da vida,</l>
+          <l n="7">morta de amor, amada que se mata</l>
+          <l n="8">para se amar depois em morta abstrata.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Ó paz, ó tudo, ó mundo inominado!</l>
+          <l n="2">(Pessoa a doce névoa mensageira).</l>
+          <l n="3">O rosto primogênito gelado,</l>
+          <l n="4">de pólen misterioso se empoeira,</l>
+          <l n="5">eterno calendário procurado,</l>
+          <l n="6">Inês recomeçada, ala ritual,</l>
+          <l n="7">terra da vida, afã ascensional.</l>
+        </lg>
+        
+        <lg n="15">
+          <l n="1">Existes, linda Inês, repercutida</l>
+          <l n="2">nessa plaga de sonho, nesse poema,</l>
+          <l n="3">e tão lua dormida e coincidida</l>
+          <l n="4">entre luares, de súbito diadema,</l>
+          <l n="5">que a trajetória muda mais renhida,</l>
+          <l n="6">e te refluis na vaga desse tema,</l>
+          <l n="7">constante vaga, vaga em movimento,</l>
+          <l n="8">pródiga e vinda como o próprio vento.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Inês da terra.  Inês do céu.  Inês.</l>
+          <l n="2">Preferida dos anjos.  Árdua rota,</l>
+          <l n="3">conúbio consumado, anteviuvez.</l>
+          <l n="4">Mas após amplidão sempre remota,</l>
+          <l n="5">branca existência, face da sem tez.</l>
+          <l n="6">Ontem forma palpável.  Hoje ignota.</l>
+          <l n="7">Eterna linda Inês, paz, desapego,</l>
+          <l n="8">porta recriada para os sem-sossego.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Em chegando um inverno ela se incluía</l>
+          <l n="2">nos cabelos de espumas verdejantes</l>
+          <l n="3">das axilas; do púbis se cobriu</l>
+          <l n="4">purinha entre barqueiros incessantes,</l>
+          <l n="5">amortalhada Inês, Maria em rio,</l>
+          <l n="6">passou ficando entanto o que era dantes:</l>
+          <l n="7">outra vez nua e lisa.  Ó transparente,</l>
+          <l n="8">ó carne, ó suor de sangue, ó como a gente.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Queimada viva, logo ressurreta,</l>
+          <l n="2">subversiva, refeita das fogueiras,</l>
+          <l n="3">adelgaçada como início e meta;</l>
+          <l n="4">as palavras e estrofes sobranceiras</l>
+          <l n="5">narram seus gestos por um seu poeta</l>
+          <l n="6">ultrapassado às musas derradeiras</l>
+          <l n="7">da sempre linda Inês, paz, desapego,</l>
+          <l n="8">porta da vida para os sem-sossego.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

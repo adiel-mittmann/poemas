@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36520"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">"Também você tem licença</l>
+          <l n="2">(me disse a Môça) porque</l>
+          <l n="3">onde há lei de cortesia</l>
+          <l n="4">não val comigo outra lei"</l>
+        </lg>
+        <lg n="2">
+          <l n="1">"Era uma estrêla? pior,</l>
+          <l n="2">a estrêla que tem que ver?"</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>FOI VISTA ESTA DAMA PELO POETA EM CASA DE HUA AMIGA INDO DIVERTIR-SE AO CAMPO COM CERTO SUGEYTO.</head>
+        <head>ROMANCE </head>
+        <lg n="1">
+          <l n="1">Eu vi, Senhores Poetas,</l>
+          <l n="2">quarta-feira pelas três</l>
+          <l n="3">do presente mês, que corre,</l>
+          <l n="4">o prodígio, que direi.</l>
+          <l n="5">Ia eu por certo bairro,</l>
+          <l n="6">que agora calar convém,</l>
+          <l n="7">porque o lanço me não furtem,</l>
+          <l n="8">ao campo a espairecer.</l>
+          <l n="9">Acompanhava-me entonces</l>
+          <l n="10">um amigo, que à mi fe</l>
+          <l n="11">e douto disto de fêmeas,</l>
+          <l n="12">porque as conhece el por el.</l>
+          <l n="13">Eis que em frente de uma porta,</l>
+          <l n="14">que sua urupema tem,</l>
+          <l n="15">ouvimos um ruge-ruge</l>
+          <l n="16">da sêda de um guarda-pé</l>
+          <l n="17">Chegou logo o tal amigo,</l>
+          <l n="18">que no que toca a saber</l>
+          <l n="19">segredos, de quem será,</l>
+          <l n="20">e grandíssimo corcês.</l>
+          <l n="21">Chegou, como tenho dito,</l>
+          <l n="22">e mesurado de pés</l>
+          <l n="23">abriu a urupema, e disse,</l>
+          <l n="24">sois vos, Dona Bersabé!</l>
+          <l n="25">Ao que ela respondeu logo,</l>
+          <l n="26">esta sou: entre você;</l>
+          <l n="27">ia ele ja quase entrando,</l>
+          <l n="28">quando eu da rua gritei:</l>
+          <l n="29">"Tá, que não é cortesia</l>
+          <l n="30">entrar só vossa mercê,</l>
+          <l n="31">deixando-me a mim na rua,</l>
+          <l n="32">que de inveja morrerei"</l>
+          <l n="33">"Também você tem licença</l>
+          <l n="34">(me disse a Môça) porque</l>
+          <l n="35">onde há lei de cortesia</l>
+          <l n="36">não val comigo outra lei."</l>
+          <l n="37">Palavras não eram ditas,</l>
+          <l n="38">quando eu logo a quatro pés</l>
+          <l n="39">me emboquei pela urupema,</l>
+          <l n="40">tomei vênia, e me assentei.</l>
+          <l n="41">Fitei os olhos na Môça</l>
+          <l n="42">e embasbacado de a ver</l>
+          <l n="43">estive co'a alma no papo</l>
+          <l n="44">morrerei não morrerei.</l>
+          <l n="45">Mas subindo-me a memória,</l>
+          <l n="46">que era obrigado por fé</l>
+          <l n="47">servir ao menos sete anos</l>
+          <l n="48">Jacó a bela Raquel;</l>
+          <l n="49">Acordei do paracismo,</l>
+          <l n="50">e fiz tanto por viver,</l>
+          <l n="51">que estou capaz de pintar-vos</l>
+          <l n="52">quao jeitosa a Môça é.</l>
+          <l n="53">Era, se creio a meus olhos,</l>
+          <l n="54">e e crível o meu pincel,</l>
+          <l n="55">Anjo disfarcada em Dama,</l>
+          <l n="56">ou flor mentida em mulher.</l>
+          <l n="57">Era um sol: mal a comparo:</l>
+          <l n="58">porque o sol que tem que ver,</l>
+          <l n="59">tendo a caraça redonda</l>
+          <l n="60">mascarada de ouropel?</l>
+          <l n="61">Era uma estrêla: pior,</l>
+          <l n="62">a estrêla que tem que ver?</l>
+          <l n="63">é pisca em anoitecendo,</l>
+          <l n="64">e vesga ao amanhecer.</l>
+          <l n="65">Era uma jóia; mal disse;</l>
+          <l n="66">porque com quatro vinténs</l>
+          <l n="67">se compra uma boa jóia,</l>
+          <l n="68">e esta Môça nem com dez.</l>
+          <l n="69">Era um diamante; tampouco,</l>
+          <l n="70">que o diamante vem a ser</l>
+          <l n="71">um parto bruto da terra,</l>
+          <l n="72">e ela imagem de Deus é.</l>
+          <l n="73">Eu digo desta vez: era</l>
+          <l n="74">/Maria/: mas não sei, em que</l>
+          <l n="75">se me pega a voz, que enfim</l>
+          <l n="76">não acabo de o dizer.</l>
+          <l n="77">Digo, que era Mariana</l>
+          <l n="78">"disse-o?" que remédio tem?</l>
+          <l n="79">já dei co segrêdo em terra;</l>
+          <l n="80">mal fiz: mas aliviei.</l>
+          <l n="81">É linda; e que manso o digo:</l>
+          <l n="82">tem garbo: e como que o tem,</l>
+          <l n="83">e bonita, não sei como,</l>
+          <l n="84">e tem gravea como quê.</l>
+          <l n="85">Mais que o favor, e o carinho</l>
+          <l n="86">da mais formosa mulher</l>
+          <l n="87">val de Mariana um riso:</l>
+          <l n="88">que digo um riso? um desdém.</l>
+          <l n="89">Neste estado ia o debuxo</l>
+          <l n="90">dêste meu tosco pincel,</l>
+          <l n="91">quando pela porta entrou</l>
+          <l n="92">todo o firmamento a pé.</l>
+          <l n="93">Entrou uma linda Môça,</l>
+          <l n="94">que mora logo através,</l>
+          <l n="95">pela porta do quintal,</l>
+          <l n="96">traidoramente fiel.</l>
+          <l n="97">Fizemos-lhe a reverência,</l>
+          <l n="98">e ela com gentil prazer</l>
+          <l n="99">nos disse "as de vossarcedes,</l>
+          <l n="100">e nos as de vossarcê."</l>
+          <l n="101">Foi-se a ela o meu amigo</l>
+          <l n="102">quel Pirata Dunquerqué,</l>
+          <l n="103">e a rendeu a bom partido,</l>
+          <l n="104">porque pediu bom quartel.</l>
+          <l n="105">Estimei a ocasião,</l>
+          <l n="106">porque co'a outra fiquei</l>
+          <l n="107">tão só, que os meus segredinhos</l>
+          <l n="108">lhe pude entonces dizer.</l>
+          <l n="109" met="inesc">Fretam-nos finalmente</l>
+          <l n="110">para a semana, que vem,</l>
+          <l n="111">que por estar achacada,</l>
+          <l n="112">de achaque se quis valer</l>
+          <l n="113">A outra Môça do amigo</l>
+          <l n="114">ficou fretada também</l>
+          <l n="115">para qualquer outro dia,</l>
+          <l n="116">porque bem sabe em qualquer.</l>
+          <l n="117">Isto, Senhores Poetas,</l>
+          <l n="118">é, o que a quarta passei,</l>
+          <l n="119">e o que suceder à quinta</l>
+          <l n="120">direi a vossas mercês.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>RECOLHIDO O POETA A SUA CASA ASSASMENTE NAMORADO QUE HAVIA VISTO: NAO PÓDE SOCEGAR SEU AMANTE GENIO, QUE LHE NÃO MANDASSE NO OUTRO DIA ESTE ENCARECIMENTO DE SEU AMOR.</head>
+        <head>SONETO </head>
+        <lg n="1">
+          <l n="1">Ontem quando te vi, meu doce emprêgo,</l>
+          <l n="2">Tão perdido fiquei por ti, meu bem,</l>
+          <l n="3">Que parece, êste amor nasce, de quem</l>
+          <l n="4">Por amar-te já vive sem sossêgo,</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Essa luz de teus olhos me tem cego,</l>
+          <l n="2">E tão cego, Senhora, êles me têm,</l>
+          <l n="3">Que é fineza o adorar-te, e assim convém,</l>
+          <l n="4">A ti, ó rica prenda, o desapêgo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu buscar-te, meu bem, isso é fineza,</l>
+          <l n="2">Tu deixares de amar-me é desfavor,</l>
+          <l n="3">Eu amar-te com fé, isso é firmeza.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Tu ausente de mim, vê, que é rigor,</l>
+          <l n="2">Nota pois, que farei, rica beleza,</l>
+          <l n="3">Quando amar-te desejo com primor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>TORNA O POETA A INSTAR SEGUNDA VEZ SEM SE AFASTAR DO SEU ENCARECIMENTO</head>
+        <head>DÉCIMA </head>
+        <lg n="1">
+          <l n="1">Maricas, quando te eu vi,</l>
+          <l n="2">tanto a minha alma roubastes,</l>
+          <l n="3">que não sei, se me acabastes,</l>
+          <l n="4">ou se eu fui, que me perdi:</l>
+          <l n="5">porém sempre presumi,</l>
+          <l n="6">que êste amor, que há entre nós,</l>
+          <l n="7">causa pena tão atroz,</l>
+          <l n="8">que a mim no fim me tem pôsto,</l>
+          <l n="9">porque nada me dá gôsto</l>
+          <l n="10">quando me vejo sem vós.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>A MUDANÇA QUE FEZ ESTA DAMA FAZ AGORA O POETA MENÇÃO</head>
+        <head>DÉCIMAS </head>
+        <lg n="1">
+          <l n="1">Tenho por admiração,</l>
+          <l n="2">Menina, e por coisa rara,</l>
+          <l n="3">que mudásseis vós de cara,</l>
+          <l n="4">porém não de condição:</l>
+          <l n="5">vendo-vos nesta ocasião</l>
+          <l n="6">de feições tão desmentida,</l>
+          <l n="7">mais dura, e mais sacudida,</l>
+          <l n="8">vos julguei (porque o revele)</l>
+          <l n="9">qual cobra, que despe a pele,</l>
+          <l n="10">mas não põe emenda a vida.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Como não terá desgôsto,</l>
+          <l n="2">quem adora uma beleza,</l>
+          <l n="3">se sem mudar natureza</l>
+          <l n="4">tão mudada está de rosto?</l>
+          <l n="5">para vós me dareis gôsto,</l>
+          <l n="6">e pegardes minha fé,</l>
+          <l n="7">o que haveis de fazer, é,</l>
+          <l n="8">(por dar-me algum galardão)</l>
+          <l n="9">mudares de condição,</l>
+          <l n="10">mas de cara, para quê?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Cara, que já me agradara</l>
+          <l n="2">por bonita, e por graciosa,</l>
+          <l n="3">comigo e mudança ociosa,</l>
+          <l n="4">convosco é mudanca cara:</l>
+          <l n="5">se Amor vos desenganara,</l>
+          <l n="6">que me parecíeis bem,</l>
+          <l n="7">não tivéreis vos por quem</l>
+          <l n="8">fazer esta varieção,</l>
+          <l n="9">sendo vária na afeição,</l>
+          <l n="10">e tão firme no desdém.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não digo, minha Senhora,</l>
+          <l n="2">mal da vossa perfeição;</l>
+          <l n="3">quero Mariana de então,</l>
+          <l n="4">e não Mariana de agora:</l>
+          <l n="5">que quem vos ama, e adora</l>
+          <l n="6">tão firme, e constantemente,</l>
+          <l n="7">quer, que saiba tôda a gente,</l>
+          <l n="8">que minha alma enamorada</l>
+          <l n="9">não da Mariana passada</l>
+          <l n="10">por Mariana presente.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Quem faz mudanças na cara,</l>
+          <l n="2">bem que não no coração,</l>
+          <l n="3">sempre deixa a presunção,</l>
+          <l n="4">que por pouco se mudara:</l>
+          <l n="5">eu a amar-vos não chegara</l>
+          <l n="6">sem ter por delito atroz,</l>
+          <l n="7">que haja mudança entre nós:</l>
+          <l n="8">pois não só mudar se chama,</l>
+          <l n="9">irdes vós para outra Dama,</l>
+          <l n="10">como de vós para vós.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Ou mudada, ou não mudada</l>
+          <l n="2">vos afirmo reverente,</l>
+          <l n="3">que sois mais môça ao presente</l>
+          <l n="4">para ser fruita passada:</l>
+          <l n="5">e está tão idolatrada</l>
+          <l n="6">de mim essa cara bela,</l>
+          <l n="7">que ou seja esta, ou aquela,</l>
+          <l n="8">o que agora importa, é,</l>
+          <l n="9">que deis um jeito, com que</l>
+          <l n="10">eu pobre me logre dela.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>A MESMA MARIANNA PEDINDO LHE FIZESSE HUNS VERSOS, ENCONTRANDO-A NO MAR INDO PARA FORA.</head>
+        <head>DÉCIMAS </head>
+        <lg n="1">
+          <l n="1">Os versos, que me pedis,</l>
+          <l n="2">podendo-os mandar formar,</l>
+          <l n="3">que vós por me não mandar,</l>
+          <l n="4">não mandareis dois ceitis:</l>
+          <l n="5">como sem assunto os fiz,</l>
+          <l n="6">pois vós a vosso contento,</l>
+          <l n="7">não destes o pensamento,</l>
+          <l n="8">os rasgues, por ser melhor</l>
+          <l n="9">assunto do meu amor,</l>
+          <l n="10">que o vosso contentamento.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Por sete anos de Pastor</l>
+          <l n="2">serviu Jacó a Raquel,</l>
+          <l n="3">eu servi a uma cruel,</l>
+          <l n="4">mais de sete anos de amor:</l>
+          <l n="5">a Jacó lhe foi traidor</l>
+          <l n="6">Labão: cuja aleivosia</l>
+          <l n="7">por Raquel lhe entregou Lia,</l>
+          <l n="8">e a mim não pior me vai,</l>
+          <l n="9">se me não engana um Pai,</l>
+          <l n="10">veio a enganar-me uma Tia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Esta tão assegurada</l>
+          <l n="2">me propôs a refestela,</l>
+          <l n="3">que cuidei, que tinha nela</l>
+          <l n="4">a tutia preparada:</l>
+          <l n="5">enganou-me de malvada</l>
+          <l n="6">tanto pior, que Labão,</l>
+          <l n="7">que Lia a Jacó lhe dão,</l>
+          <l n="8">bem que com sorte trocada,</l>
+          <l n="9">e a mim nem Lia, nem nada</l>
+          <l n="10">me deram, dão, nem darão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Oito anos há, que fiel,</l>
+          <l n="2">estou servindo a um amor,</l>
+          <l n="3">que Labão não foi pior,</l>
+          <l n="4">porque vós sois a Raquel:</l>
+          <l n="5">esta ingratidão cruel</l>
+          <l n="6">foi o meu triste alimento</l>
+          <l n="7">oito anos, e fôra um cento,</l>
+          <l n="8">porque quem chega a querer,</l>
+          <l n="9">para ajudar-se a viver</l>
+          <l n="10">faz do Malquerer sustento.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Ontem vos topei no mar</l>
+          <l n="2">em uma barca tão breve,</l>
+          <l n="3">quem nem por ligeira, e leve</l>
+          <l n="4">os pôde a vista alcançar:</l>
+          <l n="5">pus-me logo a duvidar,</l>
+          <l n="6">vendo-vos ir sôbre  pôpa,</l>
+          <l n="7">se sérieis vós Europa</l>
+          <l n="8">sôbre a vaca fabulosa,</l>
+          <l n="9">mas vós íeis mais formosa,</l>
+          <l n="10">do que Europa, e tôda Europa.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se hei de dizer-vos verdade,</l>
+          <l n="2">e me haveis de crer a mim,</l>
+          <l n="3">até o meu bergantim</l>
+          <l n="4">ficou morto de saudade:</l>
+          <l n="5">ficou de tal qualidade</l>
+          <l n="6">a barquinha entropecida,</l>
+          <l n="7">que nem do vento impelida,</l>
+          <l n="8">nem do remo forcejada</l>
+          <l n="9">se moveu, antes pasmada,</l>
+          <l n="10">que a vi por vós perdida.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Com trabalho em tanta calma,</l>
+          <l n="2">(que o trabalho havia eu tido,</l>
+          <l n="3">por não haver conhecido;</l>
+          <l n="4">o que tinha dentro n'alma)</l>
+          <l n="5">levei do perigo a palma,</l>
+          <l n="6">e ao pôrto o bergantim,</l>
+          <l n="7">e saindo dêle enfim</l>
+          <l n="8">soube já na terra lhana,</l>
+          <l n="9">que éreis vós a Mariana</l>
+          <l n="10">disfarçada em serafim.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Então fiquei mais absorto,</l>
+          <l n="2">mais sentido, e pesaroso</l>
+          <l n="3">mais amante, e mais saudoso,</l>
+          <l n="4">enfim então fiquei morto:</l>
+          <l n="5">nestes versos me conforto,</l>
+          <l n="6">pois nêles se queixa Amor:</l>
+          <l n="7">e inda que o vosso favor</l>
+          <l n="8">é coisa, que nunca espero,</l>
+          <l n="9">digo ao menos, que vos quero,</l>
+          <l n="10">e alivio a minha dor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>SENTIO-SE MARIANNA DE QUE O POETA PUBLICASSE SEU NOME SABENDO, O QUE DEVIA A THOMAZ PATRICIO, E QUE, PERSERVERASSE AINDA NA EMPREZA, AO QUE RESPONDE O POETA COM O SEGUINTE MOTE </head>
+        <lg type="mote">
+          <l n="1">Se tomar minha pena em penitência</l>
+          <l n="2">Do êrro em que caiu o pensamento</l>
+          <l n="3">Não abranda, mas dobra meu tormento:</l>
+          <l n="4">A isto, e a mais obriga a paciência.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Bem conheço, Senhor, que hei errado,</l>
+          <l n="2">Em pedir-vos afeto tão rendido,</l>
+          <l n="3">Mas bem vêdes, que andei muito acertado,</l>
+          <l n="4">Em vos dar meu amor enternecido:</l>
+          <l n="5">Baste a pena de não ser vosso amado,</l>
+          <l n="6">Se punir-me quereis por atrevido,</l>
+          <l n="7">Que mereço da culpa a indulgência,</l>
+          <l n="8">Se tomar minha pena em penitência.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando viram meus olhos a beleza</l>
+          <l n="2">Dêsse rosto, e os mates dessa graça,</l>
+          <l n="3">Logo a fé de querer-vos com firmeza</l>
+          <l n="4">Dedicar-vos pensei do amor por traça:</l>
+          <l n="5">Se julgais por arrôjo esta fineza,</l>
+          <l n="6">Ou dizeis, que é meu êrro por desgraça,</l>
+          <l n="7">Emendar-me, Senhora, não intento</l>
+          <l n="8">Do êrro em que caiu o pensamento.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sim dos tempos fiar posso a ventura,</l>
+          <l n="2">Porque o tempo domina na vontade,</l>
+          <l n="3">Mas medicina é esta, que não cura</l>
+          <l n="4">de uma amor excessivo a enfermidade:</l>
+          <l n="5">Porque eu logre essa rara formosura</l>
+          <l n="6">Quer Amor, que deixeis a crueldade,</l>
+          <l n="7">Que o remédio do tempo, como é lento,</l>
+          <l n="8">Não abranda, mas dobra meu tormento.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nesse cravo partido por fiança</l>
+          <l n="2">Se o remédio do tempo é aplicado,</l>
+          <l n="3">Não duvido, que só desta esperança</l>
+          <l n="4">Viver possa o amor mais alentado:</l>
+          <l n="5">Abster quero já agora da esquivança</l>
+          <l n="6">Meu amor na esperança sossegado,</l>
+          <l n="7">Que a viver um amor em abstinência</l>
+          <l n="8">A isto, e a mais obriga a paciência.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>ADOECENDO MARIANNA GALANTEA O POETA SUA ENFERMIDADE.</head>
+        <head>ROMANCE </head>
+        <lg n="1">
+          <l n="1">Enfermou Clóri, Pastôres,</l>
+          <l n="2">por ter de humana um só es.</l>
+          <l n="3">que também padece males,</l>
+          <l n="4">quem logra em si tantos bens.</l>
+          <l n="5">Clóri, digo, aquêle extremo</l>
+          <l n="6">de formosura cruel,</l>
+          <l n="7">que a quantos vê, tira a vida,</l>
+          <l n="8">hoje prostrada se vê.</l>
+          <l n="9">Triunfa agora o achaque,</l>
+          <l n="10">o que nunca fez ninguém,</l>
+          <l n="11">porque levar Clóri à cama,</l>
+          <l n="12">o mal só agora fêz.</l>
+          <l n="13">Dizem, que adoeceu Clóri,</l>
+          <l n="14">por lhe faltar não sei quê,</l>
+          <l n="15">eu não sei, que faltar possa,</l>
+          <l n="16">a quem tão perfeita é.</l>
+          <l n="17">Mover dúvidas podia</l>
+          <l n="18">esta doença fazer,</l>
+          <l n="19">porque haver em Clóri faltas</l>
+          <l n="20">grande causa é de as morrer.</l>
+          <l n="21">Nunca quis Clóri sangrar-se</l>
+          <l n="22">nos bracos, senão nos pés,</l>
+          <l n="23">que de puro soberana,</l>
+          <l n="24">não dá seu braço a torcer.</l>
+          <l n="25">Mostrou seu pé ao Barbeiro,</l>
+          <l n="26">que com suspensão cortês,</l>
+          <l n="27">inda que água era mui pouca,</l>
+          <l n="28">não podia tomar pé.</l>
+          <l n="29">Água fria pediu logo</l>
+          <l n="30">com brevidade, porque</l>
+          <l n="31">com a quente se podia</l>
+          <l n="32">tanta neve derreter.</l>
+          <l n="33">Então vadio o Barbeiro</l>
+          <l n="34">com Clóri quis entender</l>
+          <l n="35">que como a colheu descalça,</l>
+          <l n="36">dizem, que a picara bem.</l>
+          <l n="37">Desmaiou Clóri sentida,</l>
+          <l n="38">dando bem a perceber,</l>
+          <l n="39">que a tal sangria lhe custa</l>
+          <l n="40">gôtas de sangue esta vez.</l>
+          <l n="41">Com sal na bôca diverte</l>
+          <l n="42">o desmaio, mas eu sei,</l>
+          <l n="43">que bôca tão engraçada</l>
+          <l n="44">nenhum sal há de mister.</l>
+          <l n="45">Que foi supérfluo o remédio</l>
+          <l n="46">do sal, não duvide alguém,</l>
+          <l n="47">porque quem é luz do mundo,</l>
+          <l n="48">sal da terra deve ser.</l>
+          <l n="49">Logrou bem o sangrador</l>
+          <l n="50">privilégios de Moisés,</l>
+          <l n="51">da pedra não, mas de um jaspe</l>
+          <l n="52">fez também sangue correr.</l>
+          <l n="53">Agora chegai, formosas,</l>
+          <l n="54">nestas côres aprender</l>
+          <l n="55">o melhor branco da neve,</l>
+          <l n="56">do coral o mais fiel.</l>
+          <l n="57">Chegai a ver êstes mares,</l>
+          <l n="58">onde em crescida maré</l>
+          <l n="59">dentre a neve matizada</l>
+          <l n="60">belos rubis colhereis.</l>
+          <l n="61">Tôdas, as que amor lhe tinham,</l>
+          <l n="62">parece, que ódio lhe tem</l>
+          <l n="63">pelo muito, que desejam</l>
+          <l n="64">chegar seu sangue a beber.</l>
+          <l n="65">Mas todos ficam em branco,</l>
+          <l n="66">quando vêem convalescer</l>
+          <l n="67">a Clóri do seu desmaio,</l>
+          <l n="68">e da doença também.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>CONTINUA O POETA NA MESMA EMPREZA DE SER ADMITIDO FAZENDO GALA DO SEU MESMO DESPREZO.</head>
+        <lg type="mote">
+          <l n="1">Não me queixo de ninguém,</l>
+          <l n="2">se bem, que por vida minha</l>
+          <l n="3">que bastante causa tinha</l>
+          <l n="4">para queixar-me de alguém.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Queixar-me a mais não poder</l>
+          <l n="2">e despedir o pesar:</l>
+          <l n="3">amar, querer, e queixar</l>
+          <l n="4">e queixar-se do querer:</l>
+          <l n="5">eu, que isto sei entender,</l>
+          <l n="6">e alcanço, que me está bem</l>
+          <l n="7">não queixar-me de um desdém</l>
+          <l n="8">por mostrar, que estimo a causa,</l>
+          <l n="9">dando a meus alívios pausa,</l>
+          <l n="10">Não me queixo de ninguém.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se me queixo de uma dor,</l>
+          <l n="2">abro a porta a meu tormento,</l>
+          <l n="3">e não perco um sentimento</l>
+          <l n="4">porquanto gostos dá Amor:</l>
+          <l n="5">vencer a pena e melhor,</l>
+          <l n="6">que render-se a uma dorzinha:</l>
+          <l n="7">e quando a Parca mesquinha</l>
+          <l n="8">da vida os fios me corte,</l>
+          <l n="9">passarei por minha morte,</l>
+          <l n="10">se bem, que por vida minha.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se Clóri de mui querida</l>
+          <l n="2">é alma do meu viver,</l>
+          <l n="3">porque a morte hei de temer</l>
+          <l n="4">dada pelas mãos da vida?</l>
+          <l n="5">que vida mais bem perdida,</l>
+          <l n="6">que dar eu, não sendo minha,</l>
+          <l n="7">a vida, a quem ma sustinha?</l>
+          <l n="8">e quando não baste isto,</l>
+          <l n="9">sei eu, por havê-la visto,</l>
+          <l n="10">Que bastante causa tinha.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Bastante causa tivera,</l>
+          <l n="2">já que não para queixar-me,</l>
+          <l n="3">para morrer, e matar-me</l>
+          <l n="4">por calar pena tão fera:</l>
+          <l n="5">e inda que a fineza era</l>
+          <l n="6">calar a rigor, de quem</l>
+          <l n="7">me mata a puro desdém,</l>
+          <l n="8">calar por mais perfeição</l>
+          <l n="9">não tira o ter eu razão,</l>
+          <l n="10">Para queixar-me de alguém.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>FOY PREZA MARIANNA PELOS REPETIDOS ESCANDALOS COM THOMAZ PATRICIO POR ORDEM DE SUA ILUSTRISSIMA, E RAYOVOSO O POETA DO PASSADO LHE FEZ ESTE.</head>
+        <head>SONÊTO</head>
+        <lg n="1">
+          <l n="1">Esta prêsa uma Dama do Xadrês,</l>
+          <l n="2">um nôvo serafim de Satanás,</l>
+          <l n="3">Aquela, que em querer muito a Tomás,</l>
+          <l n="4">Esta já feita a roupa de Francês.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mudou de herege a Idolatrino Inglês,</l>
+          <l n="2">E sacrifica tanto êsse Mangaz,</l>
+          <l n="3">Que de tudo, o que tem vítima faz,</l>
+          <l n="4">E dá cos burros n'água desta vez.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Prêsa uma Dama? nome de Jesus!</l>
+          <l n="2">Mas eu digo, que foi reto o Juiz,</l>
+          <l n="3">Que a condena à prisão por esta cruz;</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Porque o caso é tremendo, e o mundo diz,</l>
+          <l n="2">Que se mata uma Rôla, uma Avestruz</l>
+          <l n="3">Por um herege de tão grão nariz.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>A FUGIDA QUE FEZ DA CADEYA MARIANNA COM O FAVOR DO CHANCELLER DA RELAÇÃO DESTE ESTADO, COM QUEM ELLA TINHA ALGUNS DESHONESTOS DIVERTIMENTOS</head>
+        <head>DÉCIMAS </head>
+        <lg n="1">
+          <l n="1">Na gaiola episcopal</l>
+          <l n="2">caiu por dar no pinguelo</l>
+          <l n="3">um pássaro de cabelo</l>
+          <l n="4">pouco maior, que um Pardal:</l>
+          <l n="5">O Passareiro real</l>
+          <l n="6">ou de lastima, ou carinho,</l>
+          <l n="7">ou já por dar-lhe co ninho,</l>
+          <l n="8">brecha lhe abriu na gaiola:</l>
+          <l n="9">não quis mais a passarola,</l>
+          <l n="10">foi-se como um passarinho.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A Rolinha, que as amola,</l>
+          <l n="2">zomba, de quem se desvela,</l>
+          <l n="3">por colhê-la na esparrela,</l>
+          <l n="4">ou tomá-la na gaiola:</l>
+          <l n="5">não é passarinho a Rôla,</l>
+          <l n="6">que no débil embaraço</l>
+          <l n="7">caia de linho, ou sedaço,</l>
+          <l n="8">salvo um Mazulo nariz</l>
+          <l n="9">se lhe põem por chamariz,</l>
+          <l n="10">que então cairá no laço.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se o Prelado tem jactância</l>
+          <l n="2">de a tornar a reduzir,</l>
+          <l n="3"><choice><orig>ojos, que la vieron ir,</orig><seg type="apo">orros que la viérom ir</seg></choice></l>
+          <l n="4"><choice><orig>no la veran mas en Francia:</orig><seg type="apo">no la véram mas em Frância</seg></choice></l>
+          <l n="5">que ela de estância em distância,</l>
+          <l n="6">e de amigo em amigão</l>
+          <l n="7">assegura o cordovão,</l>
+          <l n="8">porque é segura cautela,</l>
+          <l n="9">que quem se prende com ela,</l>
+          <l n="10">não a dá a outra prisão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quem no mundo há de ter modos</l>
+          <l n="2">de prender uma mulher</l>
+          <l n="3">tão destríssima em prender,</l>
+          <l n="4">que de um olhar prende a todos:</l>
+          <l n="5">que Medos, Partos, ou Godos,</l>
+          <l n="6">que Ministro, ou Regedor</l>
+          <l n="7">a há de prender em rigor,</l>
+          <l n="8">se ela àqueles, que por lei</l>
+          <l n="9">prendem da parte d'El-Rei</l>
+          <l n="10">prende da parte do Amor.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

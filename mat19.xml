@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36533"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Formosa sem invenção</l>
+          <l n="2">e bela sem cerimônia</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>RETRATA O POETA COM GRACIOSO MIMO AS MIMOSAS GRAÇAS DESTA DAMA.</head>
+        <lg n="1">
+          <l n="1">Olá digo: ó vós Teresa,</l>
+          <l n="2">que vós sois bizarra em forma,</l>
+          <l n="3">formosa sem invenção,</l>
+          <l n="4">e bela sem cerimônia.</l>
+          <l n="5">Sois linda, como há de ser,</l>
+          <l n="6">e Brites, que é tão formosa,</l>
+          <l n="7">será vossa irmã em sangue,</l>
+          <l n="8">na beleza, são histórias.</l>
+          <l n="9">O mimo da vossa cara</l>
+          <l n="10">é tal, que crê, quem a olha,</l>
+          <l n="11">que as mais ao buril são feitas,</l>
+          <l n="12">e a vossa vazada em fôrma.</l>
+          <l n="13">O papinho, que se enxerga</l>
+          <l n="14">por baixo da barba airosa,</l>
+          <l n="15">me está dizendo — comei-me,</l>
+          <l n="16">só vós me dizeis, não coma.</l>
+          <l n="17">Logo me encolho de medo</l>
+          <l n="18">talvez, talvez de vergonha,</l>
+          <l n="19">que um grito na mesa alheia</l>
+          <l n="20">põe o apetite em cóspias.</l>
+          <l n="21">Não sei, que diga Teresa,</l>
+          <l n="22">acerca da vossa boca;</l>
+          <l n="23">mas que mais posso dizer</l>
+          <l n="24">depois de dizer, que é vossa?</l>
+          <l n="25">Sei dizer, que dentro nela</l>
+          <l n="26">tal riqueza se entesoura,</l>
+          <l n="27">que não sei, se são diamantes,</l>
+          <l n="28">se perolas; se outra coisa.</l>
+          <l n="29">Bem apoda uns brancos dentes,</l>
+          <l n="30">que a aljôfar os apoda,</l>
+          <l n="31">e eu fizera o mesmo aos vossos,</l>
+          <l n="32">mas quando o sonhou aljôfar?</l>
+          <l n="33">Não sei, que tem vossa cara</l>
+          <l n="34">de polida, e de mimosa,</l>
+          <l n="35">que as outras são como as mais,</l>
+          <l n="36">e a vossa não como as outras.</l>
+          <l n="37">Quando a vossa cara vejo,</l>
+          <l n="38">logo me vem à memória,</l>
+          <l n="39">o melindre do jesmim,</l>
+          <l n="40">e a natazinha da rosa.</l>
+          <l n="41">Cuido, que se vem a unha</l>
+          <l n="42">o carão, que a cara enforma,</l>
+          <l n="43">e a medo lhe emprego a vista,</l>
+          <l n="44">porque cuido, que a transtorna.</l>
+          <l n="45">Não sou basilisco olhando,</l>
+          <l n="46">mas essa fineza vossa,</l>
+          <l n="47">como a qualquer unha cai,</l>
+          <l n="48">a qualquer vista se volta.</l>
+          <l n="49">Por isso tomara ver-vos</l>
+          <l n="50">sempre de vidraças posta,</l>
+          <l n="51">porque vos não ofendera,</l>
+          <l n="52">quem vos fala, e quem vos olha.</l>
+          <l n="53">A minha alma então prostrada</l>
+          <l n="54">diante da imagem vossa,</l>
+          <l n="55">não só, quem vos ama, víreis,</l>
+          <l n="56">mas também quem vos adora.</l>
+          <l n="57">Tal novena vos fizera,</l>
+          <l n="58">que durara a vida toda,</l>
+          <l n="59">um penhor da vossa glória,</l>
+          <l n="60">por ver se vos merecia.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>OUTRA PINTURA EM SOMBRAS DESTA DAMA.</head>
+        <lg n="1">
+          <l n="1">Seres formosa, Teresa,</l>
+          <l n="2">sendo trigueira, me espanta,</l>
+          <l n="3">pois tendo beleza tanta,</l>
+          <l n="4">é sobre isso milagrosa:</l>
+          <l n="5">como não será espantosa,</l>
+          <l n="6">se o adágio me assegura,</l>
+          <l n="7">que, quem quiser formosura,</l>
+          <l n="8">a há de ir na alvura ver,</l>
+          <l n="9">e vós sois linda mulher</l>
+          <l n="10">contra o adágio da alvura.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas o nosso adágio mente,</l>
+          <l n="2">e eu lhe acho a repugnância,</l>
+          <l n="3">de que a beleza é substância,</l>
+          <l n="4">e a alvura é acidente:</l>
+          <l n="5">se na esfera tão luzente</l>
+          <l n="6">dessa cara prazenteira</l>
+          <l n="7">o sol como por vidreira</l>
+          <l n="8">se duplica retratado,</l>
+          <l n="9">sendo vós sol duplicado,</l>
+          <l n="10">que importa seres trigueira.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu melhor coisa não vi</l>
+          <l n="2">de olhos, do que vossos olhos,</l>
+          <l n="3">no ferir almas abrolhos,</l>
+          <l n="4">no caçar almas nebli:</l>
+          <l n="5">cos vossos olhos aqui</l>
+          <l n="6">me sinto tão arriscado,</l>
+          <l n="7">que me dá menos cuidado,</l>
+          <l n="8">e fora a melhor partido</l>
+          <l n="9">dos vossos olhos mordido,</l>
+          <l n="10">que da vossa vista olhado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se todo o mundo pisara,</l>
+          <l n="2">não vira no mundo inteiro</l>
+          <l n="3">nem riso mais feiticeiro,</l>
+          <l n="4">nem mais agradável cara:</l>
+          <l n="5">tinha-vos por coisa rara,</l>
+          <l n="6">notável, e prodigiosa;</l>
+          <l n="7">mas acho, que artificiosa</l>
+          <l n="8">em vós natureza obrou</l>
+          <l n="9">pois sobre sombras pintou</l>
+          <l n="10">uma cara tão formosa.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>PINTA O POETA ENTRE AMOROSOS ACCIDENTES O GARBO DE THEREZA EM OCCASIÃO, QUE LHE PASSOU PELA RUA.</head>
+        <lg n="1">
+          <l n="1">Por esta rua Teresa,</l>
+          <l n="2">e co lencinho na trunsa,</l>
+          <l n="3">apostarei, que são mortos</l>
+          <l n="4">os meus vizinhos da rua.</l>
+          <l n="5">Apostarei, que passando</l>
+          <l n="6">de Teresa a formosura,</l>
+          <l n="7">não viu pessoa, que então</l>
+          <l n="8">não ficasse moribunda.</l>
+          <l n="9">Apostarei, que pediam</l>
+          <l n="10">confissão por essas ruas,</l>
+          <l n="11">once ela empregava os olhos</l>
+          <l n="12">por portas, e por adufas.</l>
+          <l n="13">Deus a Teresa perdoe,</l>
+          <l n="14">e a demais gente defunta,</l>
+          <l n="15">a Teresa os seus delitos,</l>
+          <l n="16">aos demais as suas culpas.</l>
+          <l n="17">Porque se ela não passava</l>
+          <l n="18">airosa, galharda, e pulcra,</l>
+          <l n="19" met="inesc">como garbo de mais da marca,</l>
+          <l n="20">que é pior, que espada nua:</l>
+          <l n="21">Não morreram meus vizinhos</l>
+          <l n="22">de tão suave olhadura,</l>
+          <l n="23">que era uma peste agradável</l>
+          <l n="24">de lisonjeiras angústias.</l>
+          <l n="25">E porque se meus vizinhos</l>
+          <l n="26">quando ela dos olhos puxa,</l>
+          <l n="27">cada qual fugira então</l>
+          <l n="28">do perigo, a que se expunha:</l>
+          <l n="29">Se fugiram das janelas,</l>
+          <l n="30">se fecharam as adufas,</l>
+          <l n="31">não foram mortos agora</l>
+          <l n="32">de ver Teresa na rua.</l>
+          <l n="33">De nenhum eu me lastimo,</l>
+          <l n="34">antes tenho inveja suma,</l>
+          <l n="35">de que de tal morte morram</l>
+          <l n="36">tão incapazes criaturas.</l>
+          <l n="37">Eu só quisera morrer</l>
+          <l n="38">por Teresa, e é injúria,</l>
+          <l n="39">que todos morram, e eu só</l>
+          <l n="40">por seu amor me consuma.</l>
+          <l n="41">Que eu morra, porque me mata</l>
+          <l n="42">desdenhosa, ingrata, e dura,</l>
+          <l n="43">passe, que é morte discreta,</l>
+          <l n="44">passe, que a causa o desculpa.</l>
+          <l n="45">Mas que morra a vizinhança</l>
+          <l n="46">não mais de porque ela punha</l>
+          <l n="47">os olhos, quando passava</l>
+          <l n="48">pela gentinha da rua!</l>
+          <l n="49">É mui grande atrevimento,</l>
+          <l n="50">é desaforo, é injúria,</l>
+          <l n="51">que se faz a uma beleza</l>
+          <l n="52">tão soberana, e tão culta.</l>
+          <l n="53">Eu não lhe posso sofrer,</l>
+          <l n="54">nem hei de sofrê-lo nunca,</l>
+          <l n="55">porque não é para todos</l>
+          <l n="56">morrer de uma formosura.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>REALÇA O POETA AS PERFEYÇÕES DE THEREZA NA MORTE COR DE HUMA ENFERMIDADE, QUE PADECEO, DA QUAL AGORA CONVALECIA.</head>
+        <lg n="1">
+          <l n="1">Na roça os dias passados</l>
+          <l n="2">vi a Senhora Tetê</l>
+          <l n="3">tão linda, como achacosa,</l>
+          <l n="4">tão fraca, como cruel.</l>
+          <l n="5">Não sei, que força escondida</l>
+          <l n="6">sobre os meus sentidos tem,</l>
+          <l n="7">que estando fraca a beleza,</l>
+          <l n="8">não resisto a seu poder.</l>
+          <l n="9">Se a doença é tão formosa,</l>
+          <l n="10">como em Teresa se vê,</l>
+          <l n="11">quem não trocara a saúde</l>
+          <l n="12">pelos seus males? e quem,</l>
+          <l n="13">seja púrpura no campo,</l>
+          <l n="14">seja rubi no vergel,</l>
+          <l n="15">não trocará o encarnado</l>
+          <l n="16">por tão linda palidez?</l>
+          <l n="17">As flores da laranjeira</l>
+          <l n="18">vendo assentar-se-lhe ao pé,</l>
+          <l n="19">todas ao chão se arrojaram</l>
+          <l n="20">desesperadas de a ver.</l>
+          <l n="21">Uma colheu ela as mãos;</l>
+          <l n="22">outras pisou com seu pés,</l>
+          <l n="23">e qual era a mão, a flor,</l>
+          <l n="24">não soube enxergar ninguém.</l>
+          <l n="25">Fez-se de flores um monte</l>
+          <l n="26">a par da linda Tetê,</l>
+          <l n="27">que por deixá-las luzir,</l>
+          <l n="28">a tratavam de esconder.</l>
+          <l n="29">De todo o monte de flores,</l>
+          <l n="30">um ramilhete se fez</l>
+          <l n="31">elas ao pé eram flores</l>
+          <l n="32">e em cima era flor Tetê.</l>
+          <l n="33">Os pássaros lhe cantaram</l>
+          <l n="34">o seu lá sol fá mi ré,</l>
+          <l n="35">crendo, que segunda aurora</l>
+          <l n="36">lhes tornava a amanhecer.</l>
+          <l n="37">A fonte parou seu curso,</l>
+          <l n="38">porque a fonte, nem ninguém</l>
+          <l n="39">pode ser corrente à vista</l>
+          <l n="40">de uma Dama tão cortês:</l>
+          <l n="41">Eu quis descobrir-lhe o amor</l>
+          <l n="42">que a seus olhos consagrei,</l>
+          <l n="43">como em aras de beleza,</l>
+          <l n="44">onde se holocausta a fé.</l>
+          <l n="45">Fui curto, não me atrevi,</l>
+          <l n="46">temi, emudeci, calei;</l>
+          <l n="47">sempre amor difere mal,</l>
+          <l n="48">a quem não se explica bem.</l>
+          <l n="49">De mim me queixo somente,</l>
+          <l n="50">e do adágio português,</l>
+          <l n="51">que diz, que o calar não dana;</l>
+          <l n="52">e eu perdi, porque calei.</l>
+          <l n="53">Se os Malmequeres do campo</l>
+          <l n="54">por rainha aquela vez</l>
+          <l n="55">a aclamaram, e elegeram</l>
+          <l n="56">pela cor, e o mal me quer:</l>
+          <l n="57">Eu dessa eleição apelo,</l>
+          <l n="58">e fiado em minha fé,</l>
+          <l n="59">dará volta o mal me queres,</l>
+          <l n="60">e parará em querer bem.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>DESTAS ZOMBARIAS COM QUE O POETA COMEÇOU A GALANTEAR A ESTA DAMA EM DESPIQUE DE SUA IRMÃA, SE PRESUMEM AGORA AMOROSAS VERAS NESTA OBRA.</head>
+        <lg n="1">
+          <l n="1">Tetê sempre desabrida</l>
+          <l n="2">mostra um dia entranhas gratas,</l>
+          <l n="3">pois sabem todos, que matas,</l>
+          <l n="4">saibam que podes dar vida:</l>
+          <l n="5">sendo tu minha homicida,</l>
+          <l n="6">com morte tão desumana</l>
+          <l n="7">dás a entender, que és humana;</l>
+          <l n="8">porém se a vida me dás,</l>
+          <l n="9">então, Tetê, mostrarás,</l>
+          <l n="10">que és divina, e soberana.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O dar morte é de mulheres</l>
+          <l n="2">propensas a crueldades,</l>
+          <l n="3">dar vida é de divindades,</l>
+          <l n="4">com soberanos poderes:</l>
+          <l n="5">dando-me tu desprazeres,</l>
+          <l n="6">a morte, a dor, e o pesar</l>
+          <l n="7">hás de ficar com desar,</l>
+          <l n="8">de que em ti tais males caibam,</l>
+          <l n="9">e te está melhor, que saibam,</l>
+          <l n="10">que tens mil vidas, que dar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Deixai-me viver não mais,</l>
+          <l n="2">que por vossa, e minha glória,</l>
+          <l n="3">vós tereis nossa vanglória,</l>
+          <l n="4">e eu folgarei, que a tenhais:</l>
+          <l n="5">e se a vida me não dais,</l>
+          <l n="6">porque enfada, quem adora,</l>
+          <l n="7">não temais, minha Senhora,</l>
+          <l n="8">que eu sei da vossa profia,</l>
+          <l n="9">que dando-me cada dia,</l>
+          <l n="10">ma tirareis cada hora!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Vida, que tão pouco dura,</l>
+          <l n="2">liberalmente se dá,</l>
+          <l n="3">vosso enfado a tirará,</l>
+          <l n="4">se a de vossa formosura:</l>
+          <l n="5">e porque fique segura</l>
+          <l n="6">morte tão apetecida,</l>
+          <l n="7">dai-ma vós tão escondida,</l>
+          <l n="8">que eu a não sinta chegar,</l>
+          <l n="9">porque o gosto de acabar</l>
+          <l n="10">não me torne a dar a vida.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>PHILOSOPHIA, E RHETORICA DIZ AQUI O POETA, QUE LEO, E COMO RHETORICAMENTE PHILOSOPHO SEMPRE TEM QUE RESPONDER AOS CASOS MENOS PENSADOS, COMO VEREMOS.</head>
+        <lg n="1">
+          <l n="1">Que todo o bem se faria</l>
+          <l n="2">dissestes, falsa Tetê,</l>
+          <l n="3">o todo eu o perdoara,</l>
+          <l n="4">basta-me parte do bem.</l>
+          <l n="5">Quem não merece o bem todo,</l>
+          <l n="6">com parte se satisfaz,</l>
+          <l n="7">todo o bem, ou parte dele,</l>
+          <l n="8">pouco, ou muito é mesmo bem.</l>
+          <l n="9">Na boa filosofia,</l>
+          <l n="10">e na retórica sei,</l>
+          <l n="11">e li, que entre pouco, e muito</l>
+          <l n="12">jamais distinção se fez</l>
+          <l n="13">Pouco mal, e muito mal</l>
+          <l n="14">o mesmo mal vem a ser,</l>
+          <l n="15">com que o mesmo bem será</l>
+          <l n="16">pouco bem, e muito bem.</l>
+          <l n="17">Distingue-se em quantidade,</l>
+          <l n="18">não na espécie, nem no ser,</l>
+          <l n="19">na substância é sempre o mesmo,</l>
+          <l n="20">se em quantidade não é.</l>
+          <l n="21">Basta ser da vossa mão,</l>
+          <l n="22">para ser mui grande bem,</l>
+          <l n="23">se é pouco, estima-se muito,</l>
+          <l n="24">e em muito, se muito é.</l>
+          <l n="25">Com pouco um pobre se alegra,</l>
+          <l n="26">e quem tão pobre se vê,</l>
+          <l n="27">Tetê, dos vossos favores,</l>
+          <l n="28">se alegrará com qualquer.</l>
+          <l n="29">Mas vós sois uma traidora,</l>
+          <l n="30">falsa, fingida, infiel,</l>
+          <l n="31">aleivosa, e fementida,</l>
+          <l n="32">sobretudo sois mulher.</l>
+          <l n="33">Prometeis mui largamente,</l>
+          <l n="34">no dar vos arrependeis,</l>
+          <l n="35">como se fora pecado</l>
+          <l n="36">o dar sobre o prometer.</l>
+          <l n="37">O arrepender é virtude,</l>
+          <l n="38">mas se acaso o arrepender</l>
+          <l n="39">é de dar o prometido,</l>
+          <l n="40">vício, e vilania é.</l>
+          <l n="41">Mas isso é para os ditosos;</l>
+          <l n="42">isso é para aqueles, que</l>
+          <l n="43">vos enganam com embustes,</l>
+          <l n="44">coisa, que eu não sei fazer.</l>
+          <l n="45">Praza a Amor, Tetê ingrata,</l>
+          <l n="46">que tanto embuste encontreis,</l>
+          <l n="47">que vos lembrem as verdades,</l>
+          <l n="48">que enjeitais em minha fé.</l>
+          <l n="49">Praza a Amor, que os desenganos</l>
+          <l n="50">vos cheguem a estado, que</l>
+          <l n="51">me vingue em vossos pesares</l>
+          <l n="52">de vossos termos cruéis.</l>
+          <l n="53">A Deus, Tetê, que eu me vou</l>
+          <l n="54">para Sergipe d'El-Rei,</l>
+          <l n="55">a viver de me ausentar,</l>
+          <l n="56">e a morrer de vos não ver.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>DESCULPA-SE ESTA DAMA EM CERTA OCCASIÃO QUE TEVE DE CONVERSAR COM O POETA, DEPOIS DE VARIAS PETIÇÕES, COM A OBJEÇÃO FRIVOLA DE QUE NÃO SATISFAZIA SEU DEZEJO POR SER CASADO: AO QUE ELLE RESPONDE GRACIOSAMENTE.</head>
+        <lg n="1">
+          <l n="1">Graças a Deus, que logrei,</l>
+          <l n="2">Teresa, uma ocasião</l>
+          <l n="3">da vossa conversação,</l>
+          <l n="4">por que tanto suspirei:</l>
+          <l n="5">e posto que me ausentei</l>
+          <l n="6">de vós tão desenganado,</l>
+          <l n="7">pois me enjeitas por casado,</l>
+          <l n="8">confio em vosso primor,</l>
+          <l n="9">que há de alcançar-vos Amor</l>
+          <l n="10">ou casado, ou descasado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Coração tão inimigo</l>
+          <l n="2">mostrais ao casado ser,</l>
+          <l n="3">que às claras venho a entender</l>
+          <l n="4">que quereis casar comigo:</l>
+          <l n="5">não se perca um bom amigo</l>
+          <l n="6">por tão leve impedimento:</l>
+          <l n="7">casemos, se vos contento,</l>
+          <l n="8">e segunda vez casado</l>
+          <l n="9">se me virdes açoutado,</l>
+          <l n="10">isso mesmo é casamento.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se a Justiça me açoutar</l>
+          <l n="2">por casar segunda vez,</l>
+          <l n="3">açoutado, em que me <choice><orig>pes</orig><seg type="reg">pés</seg></choice>,</l>
+          <l n="4">vos hei de alegre gozar:</l>
+          <l n="5">quero as ruas passear</l>
+          <l n="6">arrastando mil baraços</l>
+          <l n="7">entre os alcaides madraços,</l>
+          <l n="8">e o algoz após de mim</l>
+          <l n="9">antes, que de um serafim</l>
+          <l n="10">perder os doces abraços.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E se por disciplinante</l>
+          <l n="2">for tido de toda a gente,</l>
+          <l n="3">que mau é ser penitente,</l>
+          <l n="4">para ser santo bribante:</l>
+          <l n="5">e se o algoz falseante</l>
+          <l n="6">me puser por mais rigor</l>
+          <l n="7">alguma marca ao traidor</l>
+          <l n="8">por duas vezes casado,</l>
+          <l n="9">dirão, que é vosso estreado</l>
+          <l n="10">homem de marca maior.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Enfim que de qualquer sorte,</l>
+          <l n="2">que vós me queirais a mim,</l>
+          <l n="3">vos hei de dar sempre o sim,</l>
+          <l n="4">e um sim que dure até a morte:</l>
+          <l n="5">no maior mal, e mais forte,</l>
+          <l n="6">ao mais infame desdouro</l>
+          <l n="7">hei de desprezar o agouro,</l>
+          <l n="8">porque sendo vós tão grata</l>
+          <l n="9">sobre ser moça de prata</l>
+          <l n="10">sois Teresa um pino de ouro.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>PEDE O POETA ZELOS A THEREZA, E ELLA LHE RESPONDEO, QUE SERIA DAS ESCOLLAS DO AMOR.</head>
+        <lg n="1">
+          <l n="1">Os zelos, minha Teresa,</l>
+          <l n="2">não sabe entender ninguém,</l>
+          <l n="3">quem os não tem, esse os dá,</l>
+          <l n="4">e pede-os, quem os não quer.</l>
+          <l n="5">Eu chego a pedir-vos zelos,</l>
+          <l n="6">e não quero, que mos deis,</l>
+          <l n="7">mas vós mos dais, e os não tendes,</l>
+          <l n="8">quem zelos há de entender?</l>
+          <l n="9">Pela razão natural</l>
+          <l n="10">ninguém dá, o que não tem,</l>
+          <l n="11">e pela mesma razão</l>
+          <l n="12">ninguém pede, o que não quer.</l>
+          <l n="13">E assim enleia o juízo,</l>
+          <l n="14">que os não tenhais, e mos deis,</l>
+          <l n="15">que eu, que os peço, os não quisera,</l>
+          <l n="16">que é pedir, e não querer.</l>
+          <l n="17">E suposta esta advertência,</l>
+          <l n="18">vos peço, Teresa, que,</l>
+          <l n="19">quando zelos vos pedir,</l>
+          <l n="20">mais que os peça, mos não deis.</l>
+          <l n="21">Porque eu peço, o que não quero,</l>
+          <l n="22">e este pedir, é querer,</l>
+          <l n="23">não que vós mos concedais,</l>
+          <l n="24">senão sim que mos negueis.</l>
+          <l n="25">Como amor é entendimento,</l>
+          <l n="26">e como amar é entender,</l>
+          <l n="27">vós como amante entendida,</l>
+          <l n="28">vós, que como amais, sabeis.</l>
+          <l n="29">Deveis das minhas palavras</l>
+          <l n="30">tomar discreta, e cortês</l>
+          <l n="31">não aquilo, que elas dizem,</l>
+          <l n="32">mas o que querem dizer.</l>
+          <l n="33">Não entendais, que vos peço</l>
+          <l n="34">ciúmes, pelos querer,</l>
+          <l n="35">antes sim pelos deixar</l>
+          <l n="36">vos peço uma, e outra vez.</l>
+          <l n="37">Pedir zelos é queixar-me,</l>
+          <l n="38">e se eu amante, e fiel,</l>
+          <l n="39">com finezas vos enfado,</l>
+          <l n="40">com queixas que vos farei?</l>
+          <l n="41">Teresa eu não peço zelos,</l>
+          <l n="42">que quem tão mofino é,</l>
+          <l n="43">que fino vos desagrada,</l>
+          <l n="44">triste que há de parecer?</l>
+          <l n="45">A beleza, que se adora,</l>
+          <l n="46">tão privilegiada é,</l>
+          <l n="47">que se há de mister licença</l>
+          <l n="48">para sentir seus desdéns.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>ALCANÇOU O POETA OCCASIÃO DE LOGRAR OS FAVORES DE THEREZA, E A HUM DESMAYO, COM QUE O RECEBEO, FEZ ESTE SONETO.</head>
+        <lg n="1">
+          <l n="1">Desmaiastes, meu bem, quando uma vida</l>
+          <l n="2">Recuperais no logro da ventura,</l>
+          <l n="3">Mostrando, que é delito à formosura</l>
+          <l n="4">Deixar de amor a posse tão valida.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Parece-vos, amores, que corrida</l>
+          <l n="2">Vos mostrasse a fineza, se a doçura</l>
+          <l n="3">Não deixara o carinho da brandura</l>
+          <l n="4">Na confusão do gosto suspendida.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ora não, minha vida, não consiste</l>
+          <l n="2">O melindre da Dama nos desmaios,</l>
+          <l n="3">Com que agora a vergonha vos assiste.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que Amor só vive, quando em seus ensaios</l>
+          <l n="2">Ao incêndio do gosto se resiste,</l>
+          <l n="3">E aos fulgores do sol fomenta os raios.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>PELO MESMO CASO E PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Se a gostos tiras, Clóris, uma vida,</l>
+          <l n="2">Que de amor teve o logro por ventura,</l>
+          <l n="3">Por que trocas em sombra a formosura,</l>
+          <l n="4">Que foi no mundo rodo tão valida?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">GIória, que passa tanto de corrida,</l>
+          <l n="2">Onde apenas se vê breve doçura,</l>
+          <l n="3">Acredita o melindre da brandura</l>
+          <l n="4">Nos extremos, que a deixam suspendida.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Não desmaies, meus olhos, pois consiste</l>
+          <l n="2">O gosto em suspender feros desmaios,</l>
+          <l n="3">Que dão tormento, a quem amante assiste.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">São da morte cruel tristes ensaios,</l>
+          <l n="2">E o coração, que adore, não resiste,</l>
+          <l n="3">Sendo d'alma em rigor funestos raios.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>FINAL ENCARECIMENTO DE THEREZA, E SUAS DELICADAS PRENDAS.</head>
+        <lg n="1">
+          <l n="1">Teresa, muito me prezo</l>
+          <l n="2">de vos amar, e querer,</l>
+          <l n="3">porque sei, que sois mulher</l>
+          <l n="4">de conta, medida, e peso:</l>
+          <l n="5">as demais por vós desprezo,</l>
+          <l n="6">quer belas, quer entendidas,</l>
+          <l n="7">e entre as mais presumidas,</l>
+          <l n="8">juro-vos, e passa assi,</l>
+          <l n="9">que nunca beleza vi,</l>
+          <l n="10">que mais me enchesse as medidas.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se da bela Felizarda</l>
+          <l n="2">a formosura contemplo,</l>
+          <l n="3">não lhe posso achar exemplo</l>
+          <l n="4">senão no garbo da Anarda:</l>
+          <l n="5">em louvar-vos se acobarda</l>
+          <l n="6">o discurso mais valente,</l>
+          <l n="7">e inda no mesmo acidente</l>
+          <l n="8">de iluminados desmaios</l>
+          <l n="9">ao manancial dos raios</l>
+          <l n="10">vos considero eminente.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

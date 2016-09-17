@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36528"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Meus recados à Velhinha,</l>
+          <l n="2">outros tantos à Mulata</l>
+          <l n="3">à Negrinha da corrente</l>
+          <l n="4">e às vossas Damas pintadas</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>A HUMA DAMA POR NOME MARIA VIEGAS, QUE FALLAVA FRESCO, E CORRIA POR CONTA DO CAPITÃO BENTO RABELLO SEU AMIGO.</head>
+        <lg n="1">
+          <l n="1">Senhora Cota Vieira,</l>
+          <l n="2">Deus me não salve a minha alma,</l>
+          <l n="3">se vós não me pareceis</l>
+          <l n="4">uma linda, e gentil dama.</l>
+          <l n="5">Tão risonha como a Aurora,</l>
+          <l n="6">tão alegre como a Páscoa,</l>
+          <l n="7">mais belicosa, que o fogo,</l>
+          <l n="8">e mais corrente, que a água.</l>
+          <l n="9">Picará como nascida</l>
+          <l n="10">na picardia da França,</l>
+          <l n="11">e assim francesa nas obras,</l>
+          <l n="12">Portuguesa nas palavras.</l>
+          <l n="13">Tudo chamais por seu nome</l>
+          <l n="14">tão propriamente, tão clara,</l>
+          <l n="15">que ao cono lhe chamais cono,</l>
+          <l n="16">chamais caralho à caralha.</l>
+          <l n="17">Malditas da maldição</l>
+          <l n="18">de Deus sejam as tavascas,</l>
+          <l n="19">que de surradas nas obras</l>
+          <l n="20">põem de bioco as palavras.</l>
+          <l n="21">Há cousa como chamar,</l>
+          <l n="22">o que uma cousa se chama,</l>
+          <l n="23">porque sirva de sustento</l>
+          <l n="24">à luxúria, que desmaia.</l>
+          <l n="25">Há cousa como falar,</l>
+          <l n="26">como o Pai Adão falava,</l>
+          <l n="27">pão por pão, vinho por vinho,</l>
+          <l n="28">e caralho por caralha.</l>
+          <l n="29">Quem pôs o nome de crica</l>
+          <l n="30">à crica, que se esparralha,</l>
+          <l n="31">senão nosso Pai Adão</l>
+          <l n="32">quando com Eva brincava?</l>
+          <l n="33">Pois se pôs o nome às cousas</l>
+          <l n="34">o Pai da nossa prosápia,</l>
+          <l n="35">porque Deus lho permitiu,</l>
+          <l n="36">nós por que hemos de emendá-las?</l>
+          <l n="37">Mas tornando ao vosso garbo,</l>
+          <l n="38">sois, Maricas, tão bizarra, que</l>
+          <l n="39">estive nem mais nem menos</l>
+          <l n="40">por vos dar a piçalhada.</l>
+          <l n="41">Tive debaixo da língua</l>
+          <l n="42">o pedir-vos uma lasca</l>
+          <l n="43">da nata do vosso cono,</l>
+          <l n="44">se é, que tem côdea essa nata.</l>
+          <l n="45">Quando a culatra vos vi</l>
+          <l n="46">tão tremenda, e rebolada,</l>
+          <l n="47">meti logo a mão à porra,</l>
+          <l n="48">e estive saca, não saca.</l>
+          <l n="49">Mas reverente adverti,</l>
+          <l n="50">que ali o Capitão estava</l>
+          <l n="51">senhor das minhas ações</l>
+          <l n="52">e dono da vossa casa.</l>
+          <l n="53">Porque inda que sempre diz,</l>
+          <l n="54">que assentou convosco a espada,</l>
+          <l n="55">eu creio, no que Deus disse,</l>
+          <l n="56">não no que um berrante fala.</l>
+          <l n="57">Quem, o que deve a um amigo</l>
+          <l n="58">em respeitos lhe não paga,</l>
+          <l n="59">não é amigo, nem homem,</l>
+          <l n="60">é uma besta assalvajada.</l>
+          <l n="61">Mas andar, foda ele embora,</l>
+          <l n="62">isso não importa nada,</l>
+          <l n="63">teremos amores secos,</l>
+          <l n="64">seco é o biscouto, e campa.</l>
+          <l n="65">Falaremos sempre aos molhos,</l>
+          <l n="66">e riremos às canadas,</l>
+          <l n="67">folgaremos, que amor seco</l>
+          <l n="68">sem molhar beiço se passa.</l>
+          <l n="69">Irei conversar convosco,</l>
+          <l n="70">e a reverenda Madrasta</l>
+          <l n="71">entre os pontinhos que der</l>
+          <l n="72">meta sua colherada.</l>
+          <l n="73">Assim se passa uma vida</l>
+          <l n="74">tão santa, e tão ajustada,</l>
+          <l n="75">que ganharemos o céu</l>
+          <l n="76">na sacra via às braçadas.</l>
+          <l n="77">Meus recados à Velhinha,</l>
+          <l n="78">outros tantos à Mulata,</l>
+          <l n="79">à Negrinha da corrente</l>
+          <l n="80">e às vossas Damas pintadas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>ANATOMIA HORROROSA QUE FAZ DE HUMA NEGRA CHAMADA MARIA VIEGAS.</head>
+        <lg n="1">
+          <l n="1">Dize-me, Maria Viegas</l>
+          <l n="2">qual é a causa, que te move,</l>
+          <l n="3">a quereres, que te prove</l>
+          <l n="4">todo o home, a quem te entregas?</l>
+          <l n="5">jamais a ninguém te negas,</l>
+          <l n="6">tendo um vaso vaganau,</l>
+          <l n="7">e sobretudo tão mau,</l>
+          <l n="8">que afirma toda a pessoa,</l>
+          <l n="9">que o fornicou já, que enjoa,</l>
+          <l n="10">por feder a bacalhau.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se tu sabes, o que é</l>
+          <l n="2">o teu vaso furta-fogo,</l>
+          <l n="3">como tens tal desafogo,</l>
+          <l n="4">que te pespegas em pé?</l>
+          <l n="5">dizem, para Marapé</l>
+          <l n="6">fugira o triste Silveira</l>
+          <l n="7">está tão correspondente</l>
+          <l n="8">ao vaso, que juntamente</l>
+          <l n="9">serra uma, e outra fronteira.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Tu, me dizem, que fretaste</l>
+          <l n="2">ao galante de antemão,</l>
+          <l n="3">e que na tal ocasião</l>
+          <l n="4">também foste, a que o chamaste:</l>
+          <l n="5">o teu intento lograste:</l>
+          <l n="6">mas podias advertir,</l>
+          <l n="7">que não era bem dormir</l>
+          <l n="8">(sendo tu ruim) com quem</l>
+          <l n="9">te cataneasse bem,</l>
+          <l n="10">como podes inferir.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Vendo-se tão perseguido</l>
+          <l n="2">o pobre do pecador,</l>
+          <l n="3">não deixou de ir com temor</l>
+          <l n="4">por ver, que tens vaso ardido:</l>
+          <l n="5">e assim de pouco sofrido,</l>
+          <l n="6">vendo-se quase atolado</l>
+          <l n="7">se safou desesperado,</l>
+          <l n="8">e diz, que tem grande mágoa,</l>
+          <l n="9">que havendo nele tanta água,</l>
+          <l n="10">sempre esteja emporcalhado.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Diz, que achou tal apicu</l>
+          <l n="2">tão tremendo, e temerário,</l>
+          <l n="3">que só membro extraordinário</l>
+          <l n="4">abalaria esse cu:</l>
+          <l n="5">com guelras de Baiacu</l>
+          <l n="6">(diz) que se farta o teu Tordo,</l>
+          <l n="7">e assim que vaso tão gordo,</l>
+          <l n="8">tão grande, e com tal bocaina</l>
+          <l n="9">busque maior partezaina,</l>
+          <l n="10">que eu por isso é, que vos mordo.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Diz, que sois como um champrão</l>
+          <l n="2">que nem esporas de pua</l>
+          <l n="3">farão bolir tal charrua</l>
+          <l n="4">com vezos de galeão:</l>
+          <l n="5">se fincas o cu no chão,</l>
+          <l n="6">como, puta, te ofereces?</l>
+          <l n="7">e se a todos ruim pareces,</l>
+          <l n="8">deixa já de fornicar,</l>
+          <l n="9">que se eles te vão buscar,</l>
+          <l n="10">é porque os favoreces.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Diz mais, que quando acabaste,</l>
+          <l n="2">deste peidos tão atrozes,</l>
+          <l n="3">que começou a dar vozes</l>
+          <l n="4">por ver, que te espeidorraste:</l>
+          <l n="5">e que também lhe rogaste,</l>
+          <l n="6">depois de se ter tirado,</l>
+          <l n="7">te fornicasse virado,</l>
+          <l n="8">pois de costas não podia,</l>
+          <l n="9">porque, quem tanto bolia,</l>
+          <l n="10">era força estar cansado.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Saíste toda com susto,</l>
+          <l n="2">e vendo ao triste queixar,</l>
+          <l n="3">te puseste a escutar,</l>
+          <l n="4">pois se queixava tão justo:</l>
+          <l n="5">nada tem ele de injusto,</l>
+          <l n="6">antes a metade cala,</l>
+          <l n="7">e só a mim me regala</l>
+          <l n="8">dizer, que atolava inteiro,</l>
+          <l n="9">se a um ramo de araçazeiro</l>
+          <l n="10">se não pegara por gala.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Guardaste triste merenda</l>
+          <l n="2">para o triste do coitado,</l>
+          <l n="3">que ficou tão enjoado,</l>
+          <l n="4">que promete ter emenda:</l>
+          <l n="5">e com tão grande Calenda</l>
+          <l n="6">se veio de ti queixando,</l>
+          <l n="7">que toda a gente pasmando</l>
+          <l n="8">está de ver, que o teu vaso</l>
+          <l n="9">é a fonte do Parnaso</l>
+          <l n="10">nas águas, que está manando.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Ao burlesco será cono,</l>
+          <l n="2">ao tudesco chancarona,</l>
+          <l n="3">c'uma crica de azeitona,</l>
+          <l n="4">onde encrica todo o mono:</l>
+          <l n="5">daqui a razão entono</l>
+          <l n="6">para te satirizar,</l>
+          <l n="7">e se outra vez pespegar</l>
+          <l n="8">quiseres, busca, garoupa,</l>
+          <l n="9">quem no vaso entupa a roupa,</l>
+          <l n="10">se a roupa o pode entulhar.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Anda a triste fralda tal,</l>
+          <l n="2">tão hedionda, e molhada,</l>
+          <l n="3">que só pode ser coroada</l>
+          <l n="4">com fogo de São Marçal:</l>
+          <l n="5">considere cada qual,</l>
+          <l n="6">o que o Moço passaria</l>
+          <l n="7">ao ver-se na estrebaria</l>
+          <l n="8">daquele tremendo vaso,</l>
+          <l n="9">que joga rasteiro, e raso</l>
+          <l n="10">tão nojenta artilharia.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Não terás vergonha, puta,</l>
+          <l n="2">de com tão ruim pentelho,</l>
+          <l n="3">sobre seres vaso velho,</l>
+          <l n="4">tomes a capa de enxuta?</l>
+          <l n="5">és puta tão dissoluta,</l>
+          <l n="6">que diz o Moço enjoado,</l>
+          <l n="7">que já ficou ensinado,</l>
+          <l n="8">e nunca mais te veria,</l>
+          <l n="9">porque sempre d'água fria</l>
+          <l n="10">há medo o gato escaldado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>A MESMA MARIA VIEGAS SACODE AGORA O POETA ESTRAVAGANTEMENTE, PORQUE SE ESPEYDORRAVA MUYTO.</head>
+        <lg n="1">
+          <l n="1">Dizem, que o vosso cu, Cota,</l>
+          <l n="2">assopra sem zombaria,</l>
+          <l n="3">que parece artilharia,</l>
+          <l n="4">quando vem chegando a frota:</l>
+          <l n="5">parece, que está de aposta</l>
+          <l n="6">este cu a peidos dar,</l>
+          <l n="7">porque jamais sem parar</l>
+          <l n="8">este grão-cu de enche-mão</l>
+          <l n="9">sem pederneira, ou murrão</l>
+          <l n="10">está sempre a disparar.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De Cota o seu arcabuz</l>
+          <l n="2">apontado sempre está,</l>
+          <l n="3">que entre noite, e dia dá</l>
+          <l n="4">mais de quinhentos truz-truz::</l>
+          <l n="5">não achareis muitos cus</l>
+          <l n="6">tão prontos em peidos dar,</l>
+          <l n="7">porque jamais sem parar</l>
+          <l n="8">faz tão grande bateria,</l>
+          <l n="9">que de noite, nem de dia</l>
+          <l n="10">pode tal cu descansar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Cota, esse vosso arcabuz</l>
+          <l n="2">parece ser encantado,</l>
+          <l n="3">pois sempre está carregado</l>
+          <l n="4">disparando tantos truz:</l>
+          <l n="5">arrenego de tais cus,</l>
+          <l n="6">porque este foi o primeiro</l>
+          <l n="7">cu de Moça fulieiro,</l>
+          <l n="8">que tivesse tal saída</l>
+          <l n="9">para tocar toda a vida</l>
+          <l n="10">por fole de algum ferreiro.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

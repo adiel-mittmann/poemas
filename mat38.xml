@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36537"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Por entre o Beberibe e o Oceano</l>
+          <l n="2" met="fragm">.......................................................................</l>
+          <l n="3">Que o Belga edificou, ímpio tirano</l>
+        </lg>
+        <lg n="2">
+          <l n="1">As Damas cortesãs</l>
+          <l n="2" met="fragm">.......................................................................</l>
+          <l n="3">mas a culpa têm Vossas Reverências</l>
+          <l n="4">pois as trazem rompidas, e escaladas</l>
+          <l n="5">com cordões, com bentinhos, e indulgências</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quando os meus olhos mortais</l>
+          <l n="2">ponho nos vossos divinos,</l>
+          <l n="3">creio estar vendo os meninos</l>
+          <l n="4">do Gregório de Morais.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>DESCREVE O POETA A CIDADE DO REClFE EM PERNAMBUCO.</head>
+        <lg n="1">
+          <l n="1">Por entre o Beberibe, e o Oceano</l>
+          <l n="2">Em uma areia sáfia, e lagadiça</l>
+          <l n="3">Jaz o Recife povoação mestiça,</l>
+          <l n="4">Que o Belga edificou ímpio tirano.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O Povo é pouco, e muito pouco ufbano,</l>
+          <l n="2">Que vive à mercê de uma lingüiça,</l>
+          <l n="3">Unha-de-velha insípida enfermiça,</l>
+          <l n="4">E camarões de charco em todo o ano.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As Damas cortesãs, e por rasgadas</l>
+          <l n="2">Olhas podridas, são, e pestilências,</l>
+          <l n="3">Elas com purgações, nunca purgadas.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mas a culpa têm vossas reverências,</l>
+          <l n="2">Pois as trazem rompidas, e escaladas</l>
+          <l n="3">Com cordões, com bentinhos, e indulgências.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>A CERTO POETA MODERNO QUE EM PERNAMBUCO LHE VEYO MOSTRAR HUM PASSO, QUE COMPUSERA, OBSEQUIO FEYTO EM NOME DE CERTA PESSOA, ONDE O POETA SE ACHAVA POR HOSPEDE.</head>
+        <lg n="1">
+          <l n="1">O vosso Passo, Senhor,</l>
+          <l n="2">premissas do que aprendestes,</l>
+          <l n="3">a quem por título destes</l>
+          <l n="4">os milagres de um favor:</l>
+          <l n="5">quando o lestes ao Doutor,</l>
+          <l n="6">vi, que estava tão atento,</l>
+          <l n="7">que me veio ao pensamento,</l>
+          <l n="8">que com tal tento o ouvia,</l>
+          <l n="9">um Doutor da poesia,</l>
+          <l n="10">porque era o passo um portento.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Acabado em conclusão,</l>
+          <l n="2">e limado ao rigor d'arte</l>
+          <l n="3">correrá por toda a parte</l>
+          <l n="4">por obra de vossa mão:</l>
+          <l n="5">por vosso o conhecerão</l>
+          <l n="6">em todo o côncavo espaço,</l>
+          <l n="7">porque só um real braço,</l>
+          <l n="8">como o vosso vem a ser,</l>
+          <l n="9">poderá hoje emprender</l>
+          <l n="10">fazer, e acabar um passo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>DESCREVE A PROCISSÃO DE QUARTA FEYRA DE CINZA EM PERNAMBUCO.</head>
+        <lg n="1">
+          <l n="1">Um negro magro em sufilié mui justo,</l>
+          <l n="2">Dous azorragues de um Joá pendentes,</l>
+          <l n="3">Barbado o Peres, mais dous penitentes,</l>
+          <l n="4">Com asas seis crianças sem mais custo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De vermelho o Mulato mais robusto,</l>
+          <l n="2">Três meninos Fradinhos inocentes,</l>
+          <l n="3">Dez, ou doze Brichotes mui agentes,</l>
+          <l n="4">Vinte, ou trinta canelas de ombro onusto.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sem débita reverência seis andores,</l>
+          <l n="2">Um pendão de algodão tinto em tejuco,</l>
+          <l n="3">Em fileira dez pares de Menores:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Atrás um negro, um cego, um Mamaluco,</l>
+          <l n="2">Três lotes de rapazes gritadores,</l>
+          <l n="3">É a Procissão de cinza em Pernambuco.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        
+        <lg n="1">
+          <l n="1">ofertar-vo-lo de geolhos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Como não fareis vós por tal respeito</l>
+          <l n="2">favores, de que nunca me despido?</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>VIO O POETA ESTA FORMOSURA, E DESTA SORTE COMEÇA A ENCARECER SUAS ALTAS PRENDAS.</head>
+        <lg n="1">
+          <l n="1">Peregrina Florência Portuguesa,</l>
+          <l n="2">Se em venda vos puser o Deus vendado,</l>
+          <l n="3">Pouco estima o seu gosto, e seu cuidado,</l>
+          <l n="4">Quem, Florência, por vós não der Veneza.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Eu entre a formosura, e a riqueza</l>
+          <l n="2">De um, e outro domínio dilatado,</l>
+          <l n="3">Não desejara estado por estado,</l>
+          <l n="4">Mas trocara beleza por beleza.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Só, Florência, por vossa flor tão pura</l>
+          <l n="2">Um reino inteiro, não uma cidade</l>
+          <l n="3">Deve dar, quem saber amar procura.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Em vós do mundo admiro a majestade,</l>
+          <l n="2">Quanto é mais que a grandeza a formosura,</l>
+          <l n="3">Menos a monarquia, que a deidade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>PASSANDO O POETA EM CERTA OCCASIÃO PELA PORTA DESTA GALHARDA DAMA REPAROU, QUE A SUA VISTA EXPUSERA NO PEYTO HUM RAMILHETE DE FLORES, QUE TINHA NA MÃO.</head>
+        <lg n="1">
+          <l n="1">Flores na mão de uma flor,</l>
+          <l n="2">Floralva, nunca tal vi,</l>
+          <l n="3">quem viu flores pela neve?</l>
+          <l n="4">quem viu neve por Abril?</l>
+          <l n="5">Flor, que fala, flor, que zomba,</l>
+          <l n="6">e de toda a flor se ri,</l>
+          <l n="7">deve ser nevado nácar,</l>
+          <l n="8">ou nacarado jesmim.</l>
+          <l n="9">Na esfera do vosso peito</l>
+          <l n="10">souberam ontem luzir</l>
+          <l n="11">as fragrâncias raio a raio,</l>
+          <l n="12">os raios rubi, a rubi.</l>
+          <l n="13">No peito as flores pusestes,</l>
+          <l n="14">e eu não posso conseguir</l>
+          <l n="15">a dita de vossas flores,</l>
+          <l n="16">que sou convosco infeliz.</l>
+          <l n="17">Não vi tal tropel de luzes</l>
+          <l n="18">em concurso de jesmins</l>
+          <l n="19">vibravam fragrância os raios,</l>
+          <l n="20">chispavam fogo os Abris.</l>
+          <l n="21">Porém, lembra-te Floralva,</l>
+          <l n="22">que eu não passo por aí,</l>
+          <l n="23">porque a vossa flor me cheira,</l>
+          <l n="24">a que não me heis de admitir.</l>
+          <l n="25">Importa estares de acordo,</l>
+          <l n="26">que se entro em vosso jardim,</l>
+          <l n="27">por mais que me defendais,</l>
+          <l n="28">hei de colher, quanto vir.</l>
+          <l n="29">Já não colherei a flor,</l>
+          <l n="30">porque não sou tão infeliz,</l>
+          <l n="31">mas co cheiro me contento,</l>
+          <l n="32">que é dádiva do Brasil.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>RESPONDE FLORALVA PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Quem me engrandece por flor,</l>
+          <l n="2">muitos dias há, que vi,</l>
+          <l n="3">sem fazer caso da neve</l>
+          <l n="4">nem me dar cuidado Abril.</l>
+          <l n="5">Eu sou flor, que fala, e zomba,</l>
+          <l n="6">e flor que também se ri</l>
+          <l n="7">já do acendido do nácar,</l>
+          <l n="8">já do mais claro jesmim.</l>
+          <l n="9">Cá na esfera do meu peito</l>
+          <l n="10">hoje só sabem luzir</l>
+          <l n="11">as finezas raio a raio,</l>
+          <l n="12">o fino rubi a rubi.</l>
+          <l n="13">Vós fostes, que a flor pusestes</l>
+          <l n="14">no peito; e quem conseguir</l>
+          <l n="15">pertendia flor com flores,</l>
+          <l n="16">não se reputa infeliz.</l>
+          <l n="17">Inda não vistes de luzes</l>
+          <l n="18">tal tropel? nem de jesmim</l>
+          <l n="19">tal fragrância? pois são raios</l>
+          <l n="20">dos meus passados Abris.</l>
+          <l n="21">Nada lembreis de Floralva,</l>
+          <l n="22">que eu não passo por aí,</l>
+          <l n="23">e esse cheiro, que vos cheiram</l>
+          <l n="24">bem o podeis admitir.</l>
+          <l n="25">Não há, que pôr-me de acordo</l>
+          <l n="26">de entrar cá no meu jardim,</l>
+          <l n="27">em que vós mo defendais,</l>
+          <l n="28">não vos hei de deixar vir.</l>
+          <l n="29">Por que aqui a colher flores</l>
+          <l n="30">entra só, quem é feliz</l>
+          <l n="31">e com ele me contento,</l>
+          <l n="32">e nada mais do Brasil.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>TORNA O POETA A INSTAR SEGUNDA VEZ.</head>
+        <lg n="1">
+          <l n="1">Bela Floralva, se Amor</l>
+          <l n="2">me fizera abelha um dia,</l>
+          <l n="3">todo esse dia estaria</l>
+          <l n="4">picado na vossa flor:</l>
+          <l n="5">e quando o vosso rigor</l>
+          <l n="6">quisestes dar-me de mão</l>
+          <l n="7">por guardar a flor, então</l>
+          <l n="8">tão abelhudo eu andara,</l>
+          <l n="9">que em vós logo me vingara</l>
+          <l n="10">com vos meter o ferrão.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se eu fora a vosso vergel,</l>
+          <l n="2">e na vossa flor picara,</l>
+          <l n="3">um favo de mel formara</l>
+          <l n="4">mais doce, que o mesmo mel:</l>
+          <l n="5">mas como vós sois cruel,</l>
+          <l n="6">e de natural castiço</l>
+          <l n="7">deixais entrar no caniço</l>
+          <l n="8">um Zangano comedor,</l>
+          <l n="9">que vos rouba o mel, e a flor,</l>
+          <l n="10">e a mim o vosso cortiço.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>RESPONDE FLORALVA PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Senhor Abelha, se Amor</l>
+          <l n="2">fizesse abelhudo um dia,</l>
+          <l n="3">sem dúvida, que estaria</l>
+          <l n="4">doido à vista desta flor:</l>
+          <l n="5">tal demasia, e rigor</l>
+          <l n="6">merecia: mas de mão</l>
+          <l n="7">quero dar-lhe, porque então,</l>
+          <l n="8">quando eu rigorosa andara,</l>
+          <l n="9">de outra sorte me vingara</l>
+          <l n="10">do equívoco do ferrão.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Entrar cá no meu vergel</l>
+          <l n="2">não presuma, e me picara,</l>
+          <l n="3">se acaso disso formara</l>
+          <l n="4">escrúpulos: e este mel</l>
+          <l n="5">é, de quem menos cruel</l>
+          <l n="6">me trata, Senhor Castiço,</l>
+          <l n="7">porque cá no meu caniço</l>
+          <l n="8">o Zangano comedor,</l>
+          <l n="9">a quem dou o mel, e a flor</l>
+          <l n="10">é o Senhor do cortiço.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>TERCEYRO PIQUE À MESMA DAMA.</head>
+        <lg n="1">
+          <l n="1">Não me farto de falar,</l>
+          <l n="2">Floralva, em vossa flor bela,</l>
+          <l n="3">e tanto hei de falar nela,</l>
+          <l n="4">té que a hei de desfolhar:</l>
+          <l n="5">que a fim de despinicar,</l>
+          <l n="6">como fazem as mulheres</l>
+          <l n="7">nos dourados malmequeres,</l>
+          <l n="8">à roda a hei de despir,</l>
+          <l n="9">até que venha a cair</l>
+          <l n="10">a sorte no bem me queres.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que coisas chega a dizer</l>
+          <l n="2">em dois versos um Poeta.</l>
+          <l n="3">e vós sendo tão discreta</l>
+          <l n="4">não me acabais de entender:</l>
+          <l n="5">porque possais perceber</l>
+          <l n="6">outra vez direi o caso:</l>
+          <l n="7">é pois, minha Flor, o prazo,</l>
+          <l n="8">que torno a pedir aqui</l>
+          <l n="9">não a flor, que já perdi,</l>
+          <l n="10">senão a flor com seu vaso.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Forrai-me os largos espaços,</l>
+          <l n="2">que dais ao vosso Matias,</l>
+          <l n="3">pois sabeis, que há tantos dias,</l>
+          <l n="4">morro por vossos pedaços:</l>
+          <l n="5">os desejos já relassos</l>
+          <l n="6">nos prova da vossa olha</l>
+          <l n="7">se querem ver na bambolha,</l>
+          <l n="8">e se achais, que a flor em preço</l>
+          <l n="9">é coisa, que não mereço,</l>
+          <l n="10">dai-me ao menos uma folha.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Dai-me já, o que quiseres,</l>
+          <l n="2">dai-me o cheiro dessa flor,</l>
+          <l n="3">que é o mais leve favor,</l>
+          <l n="4">que no Brasil dão mulheres:</l>
+          <l n="5">e se me não concederes,</l>
+          <l n="6">que possa essa flor cheirar,</l>
+          <l n="7">assim só de me matar,</l>
+          <l n="8">façamos este partido,</l>
+          <l n="9">pois me tirais um sentido,</l>
+          <l n="10">dai-me já o de apalpar.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>ATONITO E ABRAZADO O POETA NOS ESTRONDOS DAQUELLA FORMOSURA SEM ALCANÇAR OUTRA COUSA MAIS QUE DESVIOS, E DESDENS: TORNA A COMBATER QUARTA VEZ AQUELLE DURO PEYTO.</head>
+        <lg n="1">
+          <l n="1">Floralva: que desventura</l>
+          <l n="2">vos foi causar o meu fado,</l>
+          <l n="3">que sendo vosso criado,</l>
+          <l n="4">vos mostrais cruel, e dura?</l>
+          <l n="5">Olhai, que tal formosura,</l>
+          <l n="6">tal donaire, e tão bons olhos</l>
+          <l n="7">tudo se vira em abrolhos,</l>
+          <l n="8">e eu perderei, quanto tenho,</l>
+          <l n="9">sendo o meu maior empenho</l>
+          <l n="10">ofertar-vo-lo de geolhos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando vos vejo diente,</l>
+          <l n="2">tenho grão contentamento,</l>
+          <l n="3">porque vejo em um momento</l>
+          <l n="4">a melhor luz do Oriente:</l>
+          <l n="5">tendo-vos ali presente,</l>
+          <l n="6">todo me estou gloriando</l>
+          <l n="7">de ver, que mil mates dando</l>
+          <l n="8">estais aos lírios, e rosas,</l>
+          <l n="9">e que as flores de invejosas</l>
+          <l n="10">de vos ver se vão murchando.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Amor, que assim se declara,</l>
+          <l n="2">bem mostra, que está rendido,</l>
+          <l n="3">e que empregou seu sentido</l>
+          <l n="4">na vossa beleza rara:</l>
+          <l n="5">e se certo não ficara</l>
+          <l n="6">de ser bem remunerado,</l>
+          <l n="7">morrera desesperado,</l>
+          <l n="8">e nunca jamais amara,</l>
+          <l n="9">antes de vós me queixara</l>
+          <l n="10">como amante desgraçado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>RESPONDE FLORALVA QUARTA VEZ E CADA VEZ MAIS DESDENHOSA: E PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Por glória, e não desventura</l>
+          <l n="2">tenho ver em vós tal fado,</l>
+          <l n="3">pois obrais mais que criado</l>
+          <l n="4">com quem é no amor tão dura:</l>
+          <l n="5">se vos rende a formosura</l>
+          <l n="6">garbo, e luz, que têm meus olhos,</l>
+          <l n="7">sofrei eternos abrolhos,</l>
+          <l n="8">pois flores pisado tenho,</l>
+          <l n="9">por mais que façam empenho</l>
+          <l n="10">de se prostrar de geolhos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E se por me ver diente</l>
+          <l n="2">há em vós contentamento,</l>
+          <l n="3">sabei, que só num momento</l>
+          <l n="4">dou luz ao claro Oriente:</l>
+          <l n="5">e que assistindo presente</l>
+          <l n="6">de Febo me estou gloriando,</l>
+          <l n="7">e luz aos mais astros dando</l>
+          <l n="8">enchendo de brios as rosas,</l>
+          <l n="9">tem seu mate as invejosas,</l>
+          <l n="10">pois todas se vão murchando.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E se tanto se declara</l>
+          <l n="2">vosso amor assim rendido,</l>
+          <l n="3">eu me vejo sem sentido</l>
+          <l n="4">de ver lisonja tão rara:</l>
+          <l n="5">porque sei, que já ficara</l>
+          <l n="6">vosso amor remunerado,</l>
+          <l n="7">em querer desesperado</l>
+          <l n="8">a outra, que tanto amara,</l>
+          <l n="9">e nunca mais se queixara</l>
+          <l n="10">chamando-se desgraçado.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>ARGUMENTA O POETA, (PHILOSOPHANDO ENGANOS) RAZÕES DE FINO COM PERSEVERAR A TODO O RIGOR DE SEU DESPRÊZO.</head>
+        <lg n="1">
+          <l n="1">Já desprezei, sou hoje desprezado,</l>
+          <l n="2">Despojo sou, de quem triunfo hei sido,</l>
+          <l n="3">E agora nos desdéns de aborrecido</l>
+          <l n="4">Desconto as ufanias de adorado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O amor me incita a um perpétuo agrado,</l>
+          <l n="2">O decoro me obriga a um justo olvido,</l>
+          <l n="3">E não sei, no que emprendo, e no que lido,</l>
+          <l n="4">Se triunfe o respeito, se o cuidado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Porém vença o mais forte sentimento,</l>
+          <l n="2">Perca o brio maior autoridade,</l>
+          <l n="3">Que é menos o ludíbrio, que o tormento.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quem quer, só do querer faça vaidade,</l>
+          <l n="2">Que quem logra em amor entendimento,</l>
+          <l n="3">Não tem outro capricho, que a vontade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>MOSTRA QUE PRIMEYRO DEVE ATENDER AO SEU RESPEYTO QUE AO SEU AMOR, PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Querido um tempo, agora desprezado,</l>
+          <l n="2">Nada serei por muito, que haja sido,</l>
+          <l n="3">Agora sinto o ver-me aborrecido,</l>
+          <l n="4">Inda mais que estimei ver-me adorado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sem decoro não há manter agrado,</l>
+          <l n="2">Se amo o desprezo, o pundonor olvido:</l>
+          <l n="3">E nas grandes empresas sempre lido,</l>
+          <l n="4">Que seja o brio objeto do cuidado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Então só será justo o sentimento,</l>
+          <l n="2">Se da perda nascer a autoridade,</l>
+          <l n="3">Que onde injúria não há, não há tormento.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Manter respeito é honra, e não vaidade,</l>
+          <l n="2">E a honra tem lugar no entendimento,</l>
+          <l n="3">Que é potência mais nobre, que a vontade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>MOSTRA FINALMENTE MEYO PARA NO MESMO DESPREZO CONTINUAR O SEU AMOR COM DECORO, PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Ser decoroso amante, e desprezado</l>
+          <l n="2">Fácil empresa em mim de amor há sido,</l>
+          <l n="3">Pois não caminho sendo aborrecido</l>
+          <l n="4">Atrás dos interesses do adorado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se não quer merecer o meu agrado,</l>
+          <l n="2">Se a fé sustento, se o favor olvido,</l>
+          <l n="3">O decoro mantenho, porque lido</l>
+          <l n="4">Só pela propensão do meu cuidado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sendo tão fino enfim, meu sentimento</l>
+          <l n="2">Não perco em adorar a autoridade,</l>
+          <l n="3">Pois não é por lograr o meu tormento.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Logo pode o desprezo ser vaidade,</l>
+          <l n="2">A quem com parecer do entendimento</l>
+          <l n="3">Por prêmio não amar, mas por vontade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>RESPONDE FLORALVA SEM SE DESVIAR DO SEU THEMA: PELO MESMO CAPRICHO DE REPETIR OS CONSOANTES DO PRIMEIRO SONETO.</head>
+        <lg n="1">
+          <l n="1">Querida amei, prossigo desdenhada,</l>
+          <l n="2">E de amor, e docoro combatida:</l>
+          <l n="3">Me dá glória, e tormento uma ferida</l>
+          <l n="4">Sentindo o golpe, festejando a espada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas se de amor o empenho só me agrada,</l>
+          <l n="2">Não olho, ao que o respeito me convida,</l>
+          <l n="3">Pois se em saber amar esgoto a vida,</l>
+          <l n="4">Em a honra perder, não perco nada.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se o querer no desprezo é não ter brio,</l>
+          <l n="2">Fora o deixar de amar não ter vontade,</l>
+          <l n="3">E nada é mais em nós, que o alvedrio.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Cárcere a honra, o gosto imunidade:</l>
+          <l n="2">Logo fora em mim cego desvario</l>
+          <l n="3">Trocar pela prisão a liberdade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>SEGUNDA RESPOSTA DE FLORALVA. PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Amar não quero, quando desdenhada,</l>
+          <l n="2">Da maior afeição sou combatida,</l>
+          <l n="3">Que em mim podem fazer menos ferida</l>
+          <l n="4">Do Amor as setas, que do brio a espada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Com razão o respeito só me agrada,</l>
+          <l n="2">E em vão o afeto a injúrias me convida,</l>
+          <l n="3">Que se nos corações o amor é vida,</l>
+          <l n="4">A vida nos desprezos não é nada.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Entre a isenção do gosto, e ser do brio</l>
+          <l n="2">Deve ter mais impulsos a vontade</l>
+          <l n="3">A favor da razão, que do alvedrio.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Mais glória alcança, mais imunidade</l>
+          <l n="2">Em fazer do desprezo desvario,</l>
+          <l n="3">Que em fazer da fineza liberdade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>TERCEYRA RESPOSTA DE FLORALVA. PELOS MESMOS CONSOANTES.</head>
+        <lg n="1">
+          <l n="1">Que importa se amo, que ame desdenhada,</l>
+          <l n="2">Se não sou de interesses combatida,</l>
+          <l n="3">Pois vivendo sem custas da ferida</l>
+          <l n="4">Mui embalde será crelar da espada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quando o servir sem prêmio só me agrada,</l>
+          <l n="2">Que importa no rigor, que me convida,</l>
+          <l n="3">Que do próprio morrer sustente a vida,</l>
+          <l n="4">Se do muito querer não quero nada.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Na independência se conserve o brio,</l>
+          <l n="2">Obre Amor seus efeitos na vontade,</l>
+          <l n="3">E ambos ficarão com alvedrio.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Em tal amor, em tal imunidade</l>
+          <l n="2">Não sirvo por lograr, que é desvario:</l>
+          <l n="3">Mas amo por amar, que é liberdade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="18">
+        <head>CONTINUA DESFAVORECIDO EM SEU AMOR, LEMBRANDO-SE AGORA DO SEU MISERO DESTERRO, NATURAL EFFEYTO DE HUA GRANDE PENA TRAZER À MEMORIA OS PASSADOS INFORTUNIOS.</head>
+        <lg n="1">
+          <l n="1">Que me queres, porfiado pensamento,</l>
+          <l n="2">Arquiteto da minha alta loucura,</l>
+          <l n="3">Invencível martírio, que me apura</l>
+          <l n="4" met="inesc">Fatal presunção do sofrimento!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que me queres, que dentro em um momento</l>
+          <l n="2">Voas, corres, e tomas de andadura,</l>
+          <l n="3">Até pôr-me na idéia a formosura,</l>
+          <l n="4">Que é morte cor do meu contentamento!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que queres a um ausente desterrado?</l>
+          <l n="2">Que pois começa a morte na partida,</l>
+          <l n="3">Por morto amor me julga, e me condena.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se lá para viver sobrou cuidado,</l>
+          <l n="2">E cá para morrer me sobra a vida,</l>
+          <l n="3">Fantasma sou, que por Floralva pena.</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>REMETTE O SEU CUYDADO AS DELIGENCIAS DO TERREYRO LIZONGEANDO A MAY DESTA DAMA.</head>
+        <lg n="1">
+          <l n="1">Senhora Florenciana, isto me embaça</l>
+          <l n="2">Contares vós de mim tantos agrados,</l>
+          <l n="3">E estar eu vendo, que por meus pecados</l>
+          <l n="4">Tenho para convosco pouca graça.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Em casa publicais, no lar, na praça</l>
+          <l n="2">Que sou homem capaz de altos cuidados,</l>
+          <l n="3">E nunca me ajudais cos negregados</l>
+          <l n="4">Que tenho com Madama de Mombaça.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu não sei, como passo, ou como vivo</l>
+          <l n="2">Na pouca confiança, que me destes,</l>
+          <l n="3">Depois que fui de Amor aljava, ou crivo.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Porque por mais mercês, que me fizestes,</l>
+          <l n="2">Jamais me recebestes por cativo,</l>
+          <l n="3">Nem menos para genro me quisestes.</l>
+        </lg>
+      </div>
+      <div type="poem" n="20">
+        <head>DE HUMA FESTIVIDADE PUBLICA ONDE A TODOS DAVA QUE SENTIR, SE AUSENTOU FLORALVA A DIVERTIR-SE NAS RIBEYRAS DO CAPIBARIBE, ONDE TINHA SEUS EMPREGOS.</head>
+        <lg n="1">
+          <l n="1">Ausentou-se Floralva, e ocultou</l>
+          <l n="2">A luz, com que nas festas assistiu,</l>
+          <l n="3">Tudo em trevas na ausência confundiu,</l>
+          <l n="4">Porque consigo todo o sol levou.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dizem, que Amor de medo a retirou</l>
+          <l n="2">Tão louco, que a si próprio se feriu,</l>
+          <l n="3">Porque do ponto, que a Floralva viu,</l>
+          <l n="4">Só pode persuadir-se, que cegou.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Por livrá-la na terra de olho mau,</l>
+          <l n="2">Na região de Vênus a escondeu,</l>
+          <l n="3">Ou em um rio, de que sabe o vau.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Oh quem fora por roubo assim do Céu</l>
+          <l n="2">Ou Jasão embarcado numa Nau,</l>
+          <l n="3">Ou atado a um penhasco Prometeu!</l>
+        </lg>
+      </div>
+      <div type="poem" n="21">
+        <head>SAUDOSO O POETA DAQUELLA AUSENCIA, QUE FEZ FLORALVA DA FESTIVIDADE, VAY MEDINDO ESTA OBRA PELAS IDEAS DE D. AUGOSTIN DE SALAZAR, Y TORRES, QUANDO DESCREVE A FORMOSURA DE SCYLLA, PORQUE TINHA ESTA DAMA TODAS AS SUAS PERFEYÇOES ALI COMO PINTADAS AO VIVO.</head>
+        <lg n="1">
+          <l n="1">Oh dos cerúleos abismos:</l>
+          <l n="2">ouvi-me Deuses salobres,</l>
+          <l n="3">que as deidades nunca faltam</l>
+          <l n="4">ao triste clamor dos homens.</l>
+          <l n="5">Ouve, divino Nereu,</l>
+          <l n="6">escuta cândida Dores,</l>
+          <l n="7">quanto contém de um amante</l>
+          <l n="8">de mérito os seus clamores.</l>
+          <l n="9">Que é isto, ingratas Deidades?</l>
+          <l n="10">como os Deuses não respondem?</l>
+          <l n="11">como em vós piedades faltam,</l>
+          <l n="12">que vos distinguem dos homens?</l>
+          <l n="13">Mas já em cândidas Coréias</l>
+          <l n="14">o pélago as Ninfas rompem,</l>
+          <l n="15">e os largos campos colmados</l>
+          <l n="16">de tanto embrechado monte.</l>
+          <l n="17">Já me atendeis piedosas</l>
+          <l n="18">mil vezes, mil vezes, nobres</l>
+          <l n="19">Filhos do mar, quanto devem</l>
+          <l n="20">já a vossos pés minhas vozes.</l>
+          <l n="21">Chegai, e a neve das plantas</l>
+          <l n="22">a neve dos mares corte,</l>
+          <l n="23">velozes andai, que tardam,</l>
+          <l n="24">a quem espera, os velozes.</l>
+          <l n="25">Sabei, Nereidas, e Ninfas;</l>
+          <l n="26">oh quem para imensas dores.</l>
+          <l n="27">para imenso mal tivera</l>
+          <l n="28">imensas ativas vozes!</l>
+          <l n="29">Sabei já, sagradas Ninfas,</l>
+          <l n="30">que em vossos mares se esconde</l>
+          <l n="31">uma Deidade tão bela,</l>
+          <l n="32">que aos mesmos Deuses se encobre.</l>
+          <l n="33">Uma beleza tão fera,</l>
+          <l n="34">que aspira, a que se equivoquem</l>
+          <l n="35">a formosura, a beleza,</l>
+          <l n="36">as perfeições, os rigores.</l>
+          <l n="37">Ontem foi vista entre as gentes,</l>
+          <l n="38">e há dúvida desde entonces,</l>
+          <l n="39">se é Anjo em traje de fera,</l>
+          <l n="40">se é fera em forma de bronze.</l>
+          <l n="41" met="inesc">É tal Floral, não sei, se o diga,</l>
+          <l n="42">nem se de Humana tem nome;</l>
+          <l n="43">é Floralva, e tenho dito,</l>
+          <l n="44">ou perdoe, ou não perdoe.</l>
+          <l n="45">Pintar-vos quero as feições</l>
+          <l n="46">deste mármore, deste roble,</l>
+          <l n="47">constantes como o seu tronco,</l>
+          <l n="48">lindas como as suas flores.</l>
+          <l n="49">Quando humana, e quando ociosa</l>
+          <l n="50">as negras tranças descolhe</l>
+          <l n="51">em pélagos de azeviche,</l>
+          <l n="52">não há alma, que não soçobre.</l>
+          <l n="53">Nas sobrancelhas Amor</l>
+          <l n="54">traidoras armas esconde,</l>
+          <l n="55">os olhos as julgam arcos,</l>
+          <l n="56">mas sente-as a alma fulgores.</l>
+          <l n="57">Ardor, e neve seu rosto</l>
+          <l n="58">mistura em tintas conformes,</l>
+          <l n="59">porque é tão divina, que</l>
+          <l n="60">faz unir, o que é discorde.</l>
+          <l n="61">Se as pérolas de seus dentes</l>
+          <l n="62">não foram do dia alvores,</l>
+          <l n="63">a Aurora faltara ao dia,</l>
+          <l n="64">eterna seria a noite.</l>
+          <l n="65">A boca é tão incendida,</l>
+          <l n="66">que em um cravo se recolhe,</l>
+          <l n="67">e parece ensangüentada,</l>
+          <l n="68">que em lugar de abrir, a rompe.</l>
+          <l n="69">Este assombro das Deidades,</l>
+          <l n="70">esta admiração das orbes</l>
+          <l n="71">por meu bem quis Deus, que a visse,</l>
+          <l n="72">e Amor por meu mal, que a adore.</l>
+          <l n="73">Mas sabei, que a meu afeto</l>
+          <l n="74">tão ingrata corresponde,</l>
+          <l n="75">que a seu natural ofendem</l>
+          <l n="76">até seus mesmos louvores.</l>
+        </lg>
+      </div>
+      <div type="poem" n="22">
+        <head>COM ESTE ROMANCE MANDOU O POETA POR INTERPRETE ENCARECEDOR DO QUE NELLE SE EXPRESSA O SEGUINTE SONETO.</head>
+        <lg n="1">
+          <l n="1">Entre, ó Floralva, assombros repetidos</l>
+          <l n="2">É tal a pena, com que vivo ausente,</l>
+          <l n="3">Que palavras a vós me não consente,</l>
+          <l n="4">E só para sentir me dá sentidos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Nos prantos, e nos ais enternecidos</l>
+          <l n="2">Dizer não pode o peito o mal, que sente,</l>
+          <l n="3">Pois vai confusa a queixa na corrente,</l>
+          <l n="4">E mal articulada nos gemidos.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se para o meu tormento conheceres</l>
+          <l n="2">Não basta o sutil discurso vosso,</l>
+          <l n="3">A dor me não permite outros poderes.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Vede nos prantos, e ais o meu destroço,</l>
+          <l n="2">E entendei o mal, como quiseres,</l>
+          <l n="3">Que só sei explicá-lo, como posso.</l>
+        </lg>
+      </div>
+      <div type="poem" n="23">
+        <head>POR VER HUMA OBRA EM QUE O POETA EXAGERA OS DONAYRES DE ANNICA DE SOUZA MULATA EM PERNAMBUCO SE PICOU DE ZELOS FLORALVA, E DANDO LHO A ENTENDER, ELLE LHE RESPONDE</head>
+        <lg n="1">
+          <l n="1">Dos vossos zelos presumo,</l>
+          <l n="2">Floralva, que são mentira,</l>
+          <l n="3">porque donde Amor não tira</l>
+          <l n="4">flama, não levanta fumo:</l>
+          <l n="5">anos há, que me consumo</l>
+          <l n="6">por vós, por vossos bons feitos,</l>
+          <l n="7">e vós por certos respeitos</l>
+          <l n="8">desviastes-me os prefumes,</l>
+          <l n="9">e agora nestes ciúmes</l>
+          <l n="10">sem ver causa, vejo efeitos.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se me não tendes amor,</l>
+          <l n="2">como zelos me fingis?</l>
+          <l n="3">não mos dais, e mos pedis,</l>
+          <l n="4">dai ao demo tal favor:</l>
+          <l n="5">que importa, que chame eu flor</l>
+          <l n="6">a uma papoula silvestre,</l>
+          <l n="7">se neste globo terrestre</l>
+          <l n="8">o que importa, é lisonjeira,</l>
+          <l n="9">e eu nas artes de enganar</l>
+          <l n="10">penteio barbas de mestre.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vós sois verdadeira flor</l>
+          <l n="2">no trato, e no parecer,</l>
+          <l n="3">e eu só o sei conhecer,</l>
+          <l n="4">porque sou taful de amor:</l>
+          <l n="5">se jogásseis com primor,</l>
+          <l n="6">como outras tafuis fizeram,</l>
+          <l n="7">nunca elas vos excederam,</l>
+          <l n="8">que a mim na tafularia</l>
+          <l n="9">da conjugal dameria</l>
+          <l n="10">sempre os dados me perderam.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E ainda que em todo o mapa</l>
+          <l n="2">me vejais tratar com flores,</l>
+          <l n="3">Floralva, isso são amores,</l>
+          <l n="4">que arranco da minha capa:</l>
+          <l n="5">só vós sois dama de chapa,</l>
+          <l n="6">só vos sois flor às direitas,</l>
+          <l n="7">e para deixar desfeitas</l>
+          <l n="8">essas vossas presunções,</l>
+          <l n="9">sabei, que isso são sezões,</l>
+          <l n="10">que passam como maleitas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="24">
+        <head>DEYXOU-SE FLORALVA HUMA VEZ CONVERSAR DO POETA E PELA VER DESDENHOSISSIMA SE DESPEDE: E COMO ELLA CONSENTIO DESABRIDA, LHE FAZ ESTE SONETO.</head>
+        <lg n="1">
+          <l n="1">Tão depressa vos dais por despedida,</l>
+          <l n="2">Que vista a varonil conformidade,</l>
+          <l n="3">Me está dizendo vossa crueldade,</l>
+          <l n="4">Que morríeis por ver-vos excluída.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pois não seria ação mais comedida,</l>
+          <l n="2">Demais cortês, e justa urbanidade</l>
+          <l n="3">Fingir, que por amor, ou por piedade</l>
+          <l n="4">Recusáveis a minha despedida?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O certo é, Floralva, que esse peito</l>
+          <l n="2">Anda mui penetrado, e mui ferido</l>
+          <l n="3">De outro amor, outra seta, outro sujeito.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E pois fiz tal serviço a tal Cupido,</l>
+          <l n="2">Como não fazeis vós por tal respeito</l>
+          <l n="3">Favores, de que nunca me despido?</l>
+        </lg>
+      </div>
+      <div type="poem" n="25">
+        <head>LAMENTA O POETA OS DESVIOS, E RIGORES, QUE MOSTROU FLORALVA DAHI POR DIANTE.</head>
+        <lg n="1">
+          <l n="1">Chorai, tristes olhos meus,</l>
+          <l n="2">que o chorar não é fraqueza,</l>
+          <l n="3">quando Amor vos tiraniza,</l>
+          <l n="4">os sentidos, e as potências.</l>
+          <l n="5">Senti, pois tendes razão,</l>
+          <l n="6">uma ausência tão violenta,</l>
+          <l n="7">que a luz, meus olhos vos tira,</l>
+          <l n="8">sem alma o corpo vos deixa.</l>
+          <l n="9">Senti, coração, senti,</l>
+          <l n="10">pois por vossa culpa mesma</l>
+          <l n="11">emprendi um impossível</l>
+          <l n="12">tão fácil em me dar penas.</l>
+          <l n="13">Chorai, que chorais mui pouco,</l>
+          <l n="14">se a causa se considera,</l>
+          <l n="15">porque uma ausência chorais,</l>
+          <l n="16">e heis de sentir uma quebra.</l>
+          <l n="17">A ausência é um mal curável,</l>
+          <l n="18">que com dois dias de pena</l>
+          <l n="19">dá gosto ao terceiro dia,</l>
+          <l n="20">vendo-se, o que se deseja.</l>
+          <l n="21">A quebra é mal sem remédio,</l>
+          <l n="22">pois se desata, e desfecha</l>
+          <l n="23">aquela união das almas,</l>
+          <l n="24">de que a vida se alimenta.</l>
+          <l n="25">Eu hei de perder Floralva,</l>
+          <l n="26">não porque ingrata me seja,</l>
+          <l n="27">mas como vivo amanhã,</l>
+          <l n="28">sou mofino, hei de perdê-la.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

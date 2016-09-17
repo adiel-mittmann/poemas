@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36522"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Meus males de quem procedem?</l>
+          <l n="2">Não é de vós? claro é isso:</l>
+          <l n="3">Que eu não faço mal a nada</l>
+          <l n="4">por ser terra e mato arisco.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Isto sois, minha Bahia,</l>
+          <l n="2">Isto passa em vosso burgo.</l>
+        </lg>
+      </div>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">E pois coronista sou//</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se souberas falar também falaras</l>
+          <l n="2">também satirizaras, se souberas,</l>
+          <l n="3">e se foras poeta, poetaras.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Cansado de vos pregar</l>
+          <l n="2">cultíssimas profecias,</l>
+          <l n="3">quero das culteranias</l>
+          <l n="4">hoje o hábito enforcar:</l>
+          <l n="5">de que serve arrebentar,</l>
+          <l n="6">por quem de mim não tem mágoa?</l>
+          <l n="7">Verdades direi como água,</l>
+          <l n="8">porque todos entendais</l>
+          <l n="9">os ladinos, e os boçais</l>
+          <l n="10">a Musa praguejadora.</l>
+          <l n="11">Entendeis-me agora?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Permiti, minha formosa,</l>
+          <l n="2">que esta prosa envolta em verso</l>
+          <l n="3">de um Poeta tão perverso</l>
+          <l n="4">se consagre a vosso pé,</l>
+          <l n="5">pois rendido à vossa fé</l>
+          <l n="6">sou  já Poeta converso</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Mas amo por amar, que é liberdade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>DESCREVE O QUE ERA REALMENTE NAQUELLE TEMPO A CIDADE DA BAHIA DE MAIS ENREDADA POR MENOS CONFUSA</head>
+        <lg n="1">
+          <l n="1">A cada canto um grande conselheiro,</l>
+          <l n="2" met="inesc">Que nos quer governar a cabana, e vinha,</l>
+          <l n="3">Não sabem governar sua cozinha,</l>
+          <l n="4">E podem governar o mundo inteiro.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Em cada porta um freqüentado olheiro,</l>
+          <l n="2">Que a vida do vizinho, e da vizinha</l>
+          <l n="3">Pesquisa, escuta, espreita, e esquadrinha,</l>
+          <l n="4">Para a levar à Praça, e ao Terreiro.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Muitos Mulatos desavergonhados,</l>
+          <l n="2">Trazidos pelos pés os homens nobres,</l>
+          <l n="3">Posta nas palmas toda a picardia.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Estupendas usuras nos mercados,</l>
+          <l n="2">Todos, os que não furtam, muito pobres,</l>
+          <l n="3">E eis aqui a cidade da Bahia.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>À CIDADE E ALGUNS PICAROS, QUE HAVIÃO NELLA.</head>
+        <lg n="1">
+          <l n="1">Quem cá quiser viver, seja um Gatão,</l>
+          <l n="2">Infeste toda a terra, invada os mares,</l>
+          <l n="3">Seja um Chegai, ou um Gaspar Soares,</l>
+          <l n="4">E por si terá toda a Relação.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sobejar-lhe-á na mesa vinho, e pão,</l>
+          <l n="2">E siga, os que lhe dou, por exemplares,</l>
+          <l n="3">Que a vida passará sem ter pesares,</l>
+          <l n="4">Assim como os não tem Pedro de Unhão</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quem cá se quer meter a ser sisudo</l>
+          <l n="2">Nunca lhe falta um Gil, que o persiga,</l>
+          <l n="3">E é mais aperreado que um cornudo.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Furte, coma, beba, e tenha amiga,</l>
+          <l n="2">Porque o nome d'El-Rei dá para tudo</l>
+          <l n="3">A todos, que El-Rei trazem na barriga.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        
+        <head>FINGINDO O POETA QUE ACODE PELAS HONRAS DA CIDADE, ENTRA A FAZER JUSTIÇA EM SEUS MORADORES, SIGNALANDOLHES OS VICIOS, EM QUE ALGUNS DELLES SE DEPRAVAVÃO</head>
+        <lg n="1">
+          <l n="1">Uma cidade tão nobre,</l>
+          <l n="2">uma gente tão honrada</l>
+          <l n="3">veja-se um dia louvada</l>
+          <l n="4">desde o mais rico ao mais pobre:</l>
+          <l n="5">Cada pessoa o seu cobre,</l>
+          <l n="6">mas se o diabo me atiça,</l>
+          <l n="7">que indo a fazer-lhe justiça,</l>
+          <l n="8">algum saia a justiçar,</l>
+          <l n="9">não me poderão negar,</l>
+          <l n="10">que por direito, e por Lei</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O Fidalgo de solar</l>
+          <l n="2">se dá por envergonhado</l>
+          <l n="3">de um tostão pedir prestado</l>
+          <l n="4">para o ventre sustentar:</l>
+          <l n="5">diz, que antes o que furtar</l>
+          <l n="6">por manter a negra honra,</l>
+          <l n="7">que passar pela desonra,</l>
+          <l n="8">de que lhe neguem talvez;</l>
+          <l n="9">mas se o virdes nas galés</l>
+          <l n="10">com honras de Vice-Rei,</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A Donzela embiocada</l>
+          <l n="2">mal trajada, e mal comida,</l>
+          <l n="3">antes quer na sua vida</l>
+          <l n="4">ter saia, que ser honrada:</l>
+          <l n="5">à pública amancebada</l>
+          <l n="6">por manter a negra honrinha,</l>
+          <l n="7">e se lho sabe a vizinha,</l>
+          <l n="8">e lho ouve a clerezia</l>
+          <l n="9">dão com ela na enxovia,</l>
+          <l n="10">e paga a pena da lei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">A casada com adorno</l>
+          <l n="2">e o Marido mal vestido,</l>
+          <l n="3">crede, que este mal Marido</l>
+          <l n="4">penteia monho de corno:</l>
+          <l n="5">se disser pelo contorno,</l>
+          <l n="6">que se sofre a <choice><orig>Fr.</orig><seg type="exp">Frei</seg></choice> Tomás,</l>
+          <l n="7">por manter a honra o faz,</l>
+          <l n="8">esperai pela pancada,</l>
+          <l n="9">que com carocha pintada</l>
+          <l n="10">de Angola há de ser Visrei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Os Letrados Peralvilhos</l>
+          <l n="2">citando o mesmo Doutor</l>
+          <l n="3">a fazer de Réu, o Autor</l>
+          <l n="4">comem de ambos os carrilhos:</l>
+          <l n="5">se se diz pelos corrilhos</l>
+          <l n="6">sua prevaricação,</l>
+          <l n="7">a desculpa, que lhe dão,</l>
+          <l n="8">é a honra de seus parentes</l>
+          <l n="9">e entonces os requerentes,</l>
+          <l n="10">fogem desta infame grei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">O Clérigo julgador,</l>
+          <l n="2">que as causas julga sem pejo,</l>
+          <l n="3">não reparando, que eu vejo,</l>
+          <l n="4">que erra a Lei, e erra o Doutor:</l>
+          <l n="5">quando vêem de Monsenhor</l>
+          <l n="6">a Sentença Revogada</l>
+          <l n="7">por saber, que foi comprada</l>
+          <l n="8">pelo jimbo, ou pelo abraço,</l>
+          <l n="9">responde o Juiz madraço,</l>
+          <l n="10">minha honra é minha Lei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">O Mercador avarento,</l>
+          <l n="2">quando a sua compra estende,</l>
+          <l n="3">no que compra, e no que vende,</l>
+          <l n="4">tira duzentos por cento:</l>
+          <l n="5">não é ele tão jumento,</l>
+          <l n="6">que não saiba, que em Lisboa</l>
+          <l n="7">se lhe há de dar na gamboa;</l>
+          <l n="8">mas comido já o dinheiro</l>
+          <l n="9">diz, que a honra está primeiro,</l>
+          <l n="10">e que honrado a toda Lei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">A viúva autorizada,</l>
+          <l n="2">que não possui um vintém,</l>
+          <l n="3">porque o Marido de bem</l>
+          <l n="4">deixou a casa empenhada:</l>
+          <l n="5">ali vai a fradalhada,</l>
+          <l n="6">qual formiga em correição,</l>
+          <l n="7">dizendo, que à casa vão</l>
+          <l n="8">manter a honra da casa,</l>
+          <l n="9">se a virdes arder em brasa,</l>
+          <l n="10">que ardeu a honra entendei:</l>
+          <l n="11">esta é a justiça, que manda EL-Rei.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">O Adônis da manhã,</l>
+          <l n="2">o Cupido em todo o dia,</l>
+          <l n="3">que anda correndo a Coxia</l>
+          <l n="4">com recadinhos da Irmã:</l>
+          <l n="5">e se lhe cortam a lã,</l>
+          <l n="6">diz, que anda naquele andar</l>
+          <l n="7">por a honra conservar</l>
+          <l n="8">bem tratado, e bem vestido,</l>
+          <l n="9">eu o verei tão despido,</l>
+          <l n="10">que até as costas lhe verei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Se virdes um Dom Abade</l>
+          <l n="2">sobre o púlpito cioso,</l>
+          <l n="3">não lhe chameis Religioso,</l>
+          <l n="4">chamai-lhe embora de Frade:</l>
+          <l n="5">e se o tal Paternidade</l>
+          <l n="6">rouba as rendas do Convento</l>
+          <l n="7">para acudir ao sustento</l>
+          <l n="8">da puta, como da peita,</l>
+          <l n="9">com que livra da suspeita</l>
+          <l n="10">do Geral, do Viso-Rei:</l>
+          <l n="11">esta é a justiça, que manda El-Rei.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>DEFINE A SUA CIDADE</head>
+        <lg type="mote">
+          <l n="1">De dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> se compõe</l>
+          <l n="2">esta cidade a meu ver</l>
+          <l n="3">um furtar, outro foder.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Recopilou-se o direito,</l>
+          <l n="2">e quem o recopilou</l>
+          <l n="3">com dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> o explicou</l>
+          <l n="4">por estar feito, e bem feito:</l>
+          <l n="5">por bem Digesto, e Colheito</l>
+          <l n="6">só com dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> o expõe,</l>
+          <l n="7">e assim quem os olhos põe</l>
+          <l n="8">no trato, que aqui se encerra,</l>
+          <l n="9">há de dizer, que esta terra</l>
+          <l n="10">De dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> se compõe.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se de dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> composta</l>
+          <l n="2">está a nossa Bahia,</l>
+          <l n="3">errada a ortografia</l>
+          <l n="4">a grande dano está posta:</l>
+          <l n="5">eu quero fazer aposta,</l>
+          <l n="6">e quero um tostão perder,</l>
+          <l n="7">que isso a há de preverter,</l>
+          <l n="8">se o /furtar /e o /foder/ bem</l>
+          <l n="9">não são os <choice><orig>ff</orig><seg type="exp">efes</seg></choice> que tem</l>
+          <l n="10">Esta cidade a meu ver.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Provo a conjetura já</l>
+          <l n="2">prontamente como um brinco:</l>
+          <l n="3">Bahia tem letras cinco</l>
+          <l n="4">que são <choice><orig>B-A-H-I-A</orig><seg type="exp">bê á agá i á</seg></choice>:</l>
+          <l n="5">logo ninguém me dirá</l>
+          <l n="6">que dous <choice><orig>ff</orig><seg type="exp">efes</seg></choice> chega a ter,</l>
+          <l n="7">pois nenhum contém sequer,</l>
+          <l n="8">salvo se em boa verdade</l>
+          <l n="9">são os <choice><orig>ff</orig><seg type="exp">efes</seg></choice> da cidade</l>
+          <l n="10">um furtar, outro foder.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>QUEYXA-SE A BAHIA POR SEU BASTANTE PROCURADOR, CONFESSANDO, QUE AS CULPAS, QUE LHE INCREPÃO, NÃO SÃO SUAS, MAS SIM DOS VICIOSOS MORADORES,</head>
+        <lg n="1">
+          <l n="1">Já que me põem a tormento</l>
+          <l n="2">murmuradores nocivos,</l>
+          <l n="3">carregando sobre mim</l>
+          <l n="4">suas culpas, e delitos:</l>
+          <l n="5">Por crédito de meu nome,</l>
+          <l n="6">e não por temer castigo</l>
+          <l n="7">confessar quero os pecados,</l>
+          <l n="8">que faço, e que patrocino.</l>
+          <l n="9">E se alguém tiver a mal</l>
+          <l n="10">descobrir este sigilo,</l>
+          <l n="11">não me infame, que eu serei</l>
+          <l n="12">pedra em poço, ou seixo em rio.</l>
+          <l n="13">Sabei, céu, sabei, estrelas,</l>
+          <l n="14">escutai, flores, e lírios,</l>
+          <l n="15">montes, serras, peixes, aves</l>
+          <l n="16" met="inesc">luz, sol, mortos, e vivos:</l>
+          <l n="17">Que não há, nem pode haver</l>
+          <l n="18">desde o Sul ao Norte frio</l>
+          <l n="19">cidade com mais maldades,</l>
+          <l n="20">nem província com mais vícios:</l>
+          <l n="21">Do que sou eu, porque em mim</l>
+          <l n="22">recopilados, e unidos</l>
+          <l n="23">estão juntos, quantos têm</l>
+          <l n="24">mundos, e reinos distintos.</l>
+          <l n="25">Tenho Turcos, tenho Persas</l>
+          <l n="26">homens de nação Impios</l>
+          <l n="27">Magores, Armênios, Gregos,</l>
+          <l n="28">infiéis, e outros gentios.</l>
+          <l n="29">Tenho ousados Mermidônios,</l>
+          <l n="30">tenho Judeus, tenho Assírios,</l>
+          <l n="31">e de quantas castas há,</l>
+          <l n="32">muito tenho, e muito abrigo.</l>
+          <l n="33">E se não digam aqueles</l>
+          <l n="34">prezados de vingativos,</l>
+          <l n="35">que santidade têm mais,</l>
+          <l n="36">que um Turco, e um Moabito?</l>
+          <l n="37">Digam Idólatras falsos,</l>
+          <l n="38">que estou vendo de contino,</l>
+          <l n="39">adorarem ao dinheiro,</l>
+          <l n="40">gula, ambição, e amoricos.</l>
+          <l n="41">Quantos com capa cristã</l>
+          <l n="42">professam o judaísmo,</l>
+          <l n="43">mostrando hipocritamente</l>
+          <l n="44">devoção à Lei de Cristo!</l>
+          <l n="45">Quantos com pele de ovelha</l>
+          <l n="46">são lobos enfurecidos,</l>
+          <l n="47">ladrões, falsos, e aleivosos,</l>
+          <l n="48">embusteiros, e assassinos!</l>
+          <l n="49">Estes por seu mau viver</l>
+          <l n="50">sempre péssimo, e nocivo</l>
+          <l n="51">são, os que me acusam de danos,</l>
+          <l n="52">e põem labéus inauditos.</l>
+          <l n="53">Mas o que mais me atormenta,</l>
+          <l n="54">é ver, que os contemplativos,</l>
+          <l n="55">sabendo a minha inocência,</l>
+          <l n="56">dão a seu mentir ouvidos.</l>
+          <l n="57">Até os mesmos culpados</l>
+          <l n="58">têm tomado por capricho,</l>
+          <l n="59">para mais me difamarem,</l>
+          <l n="60">porem pela praça escritos.</l>
+          <l n="61">Onde escrevem sem vergonha</l>
+          <l n="62">não só brancos, mas mestiços,</l>
+          <l n="63">que para os bons sou inferno,</l>
+          <l n="64">e para os maus paraíso.</l>
+          <l n="65">Ó velhacos insolentes,</l>
+          <l n="66">ingratos, mal procedidos,</l>
+          <l n="67">se eu sou essa, que dizeis,</l>
+          <l n="68">porque não largais meu sítio?</l>
+          <l n="69">Por que habitais em tal terra,</l>
+          <l n="70">podendo em melhor abrigo?</l>
+          <l n="71">eu pego em vós? eu vos rogo?</l>
+          <l n="72">respondei! dizei, malditos!</l>
+          <l n="73">Mandei acaso chamar-vos</l>
+          <l n="74">ou por carta, ou por aviso?</l>
+          <l n="75">não viestes para aqui</l>
+          <l n="76">por vosso livre alvedrio?</l>
+          <l n="77">A todos não dei entrada,</l>
+          <l n="78">tratando-vos como a filhos?</l>
+          <l n="79">que razão tendes agora</l>
+          <l n="80">de difamar-me atrevidos?</l>
+          <l n="81">Meus males, de quem procedem?</l>
+          <l n="82">não é de vós? claro é isso:</l>
+          <l n="83">que eu não faço mal a nada</l>
+          <l n="84">por ser terra, e mato arisco.</l>
+          <l n="85">Se me lançais má semente,</l>
+          <l n="86">como quereis fruito limpo?</l>
+          <l n="87">lançai-a boa, e vereis,</l>
+          <l n="88">se vos dou cachos opimos.</l>
+          <l n="89">Eu me lembro, que algum tempo</l>
+          <l n="90">(isto foi no meu princípio)</l>
+          <l n="91">a semente, que me davam,</l>
+          <l n="92">era boa, e de bom trigo.</l>
+          <l n="93">Por cuja causa meus campos</l>
+          <l n="94">produziam pomos lindos,</l>
+          <l n="95">de que ainda se conservam</l>
+          <l n="96">alguns remotos indícios.</l>
+          <l n="97">Mas depois que vós viestes</l>
+          <l n="98">carregados como ouriços</l>
+          <l n="99">de sementes invejosas,</l>
+          <l n="100">e legumes de maus vícios:</l>
+          <l n="101">Logo declinei convosco,</l>
+          <l n="102">e tal volta tenho tido,</l>
+          <l n="103">que, o que produzia rosas,</l>
+          <l n="104">hoje só produz espinhos.</l>
+          <l n="105">Mas para que se conheça</l>
+          <l n="106">se falo verdade, ou minto,</l>
+          <l n="107">e quanto os vossos enganos</l>
+          <l n="108">têm difamado o meu brio:</l>
+          <l n="109">confessar quero de plano,</l>
+          <l n="110">o que encubro por servir-vos</l>
+          <l n="111">e saiba, quem me moteja,</l>
+          <l n="112">os prêmios, que ganho nisso.</l>
+          <l n="113">Já que fui tão pouco atenta,</l>
+          <l n="114">que a luz da razão, e o siso</l>
+          <l n="115">não só quis cegar por gosto,</l>
+          <l n="116">mas ser do mundo ludíbrio.</l>
+          <l n="117">Vós me ensinastes a ser</l>
+          <l n="118">das inconstâncias arquivo,</l>
+          <l n="119">pois nem as pedras, que gero,</l>
+          <l n="120">guardam fé aos edifícios.</l>
+          <l n="121">Por vosso respeito dei</l>
+          <l n="122">campo franco, e grande auxílio</l>
+          <l n="123">para que se quebrantassem</l>
+          <l n="124">os mandamentos divinos.</l>
+          <l n="125">Cada um por suas obras</l>
+          <l n="126">conhecerá, que meu xingo,</l>
+          <l n="127">sem andar excogitando,</l>
+          <l n="128">para quem se aponta o tiro.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>PRECEITO 1</head>
+        <lg n="1">
+          <l n="1">Que de quilombos que tenho</l>
+          <l n="2">com mestres superlativos,</l>
+          <l n="3">nos quais se ensinam de noite</l>
+          <l n="4">os calundus, e feitiços.</l>
+          <l n="5">Com devoção os freqüentam</l>
+          <l n="6">mil sujeitos femininos,</l>
+          <l n="7">e também muitos barbados,</l>
+          <l n="8">que se presam de narcisos.</l>
+          <l n="9">Ventura dizem, que buscam;</l>
+          <l n="10">não se viu maior delírio!</l>
+          <l n="11">eu, que os ouço, vejo, e calo</l>
+          <l n="12">por não poder diverti-los.</l>
+          <l n="13">O que sei, é, que em tais danças</l>
+          <l n="14">Satanás anda metido,</l>
+          <l n="15">e que só tal padre-mestre</l>
+          <l n="16">pode ensinar tais delírios.</l>
+          <l n="17">Não há mulher desprezada,</l>
+          <l n="18">galã desfavorecido,</l>
+          <l n="19">que deixe de ir ao quilombo</l>
+          <l n="20">dançar o seu bocadinho.</l>
+          <l n="21">E gastam pelas patacas</l>
+          <l n="22">com os mestres do cachimbo,</l>
+          <l n="23">que são todos jubilados</l>
+          <l n="24">em depenar tais patinhos.</l>
+          <l n="25">E quando vão confessar-se,</l>
+          <l n="26">encobrem aos Padres isto,</l>
+          <l n="27">porque o têm por passatempo,</l>
+          <l n="28">por costume, ou por estilo.</l>
+          <l n="29">Em cumprir as penitências</l>
+          <l n="30">rebeldes são, e remissos,</l>
+          <l n="31">e muito pior se as tais</l>
+          <l n="32">são de jejuns, e cilícios.</l>
+          <l n="33">A muitos ouço gemer</l>
+          <l n="34">com pesar muito excessivo,</l>
+          <l n="35">não pelo horror do pecado,</l>
+          <l n="36">mas sim por não consegui-lo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>PRECEITO 2</head>
+        <lg n="1">
+          <l n="1">No que toca aos juramentos,</l>
+          <l n="2">de mim para mim me admiro</l>
+          <l n="3">por ver a facilidade,</l>
+          <l n="4">com que os vão dar juízo.</l>
+          <l n="5">Ou porque ganham dinheiro,</l>
+          <l n="6">por vingança, ou pelo amigo,</l>
+          <l n="7">e sempre juram conformes,</l>
+          <l n="8">sem discreparem do artigo.</l>
+          <l n="9">Dizem, que falam verdade,</l>
+          <l n="10">mas eu pelo que imagino,</l>
+          <l n="11">nenhum, creio, que a conhece,</l>
+          <l n="12">nem sabe seus aforismos.</l>
+          <l n="13">Até nos confessionários</l>
+          <l n="14">se justificam mentindo</l>
+          <l n="15">com pretextos enganosos,</l>
+          <l n="16">e com rodeios fingidos.</l>
+          <l n="17">Também aqueles, a quem</l>
+          <l n="18">dão cargos, e dão ofícios,</l>
+          <l n="19">suponho, que juram falso</l>
+          <l n="20">por conseqüências, que hei visto.</l>
+          <l n="21">Prometem guardar direito,</l>
+          <l n="22">mas nenhum segue este fio,</l>
+          <l n="23">e por seus rodeios tortos</l>
+          <l n="24">são confusos labirintos.</l>
+          <l n="25">Honras, vidas, e fazendas</l>
+          <l n="26">vejo perder de contino,</l>
+          <l n="27">por terem como em viveiro</l>
+          <l n="28">estes falsários metidos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>PRECEITO 3</head>
+        <lg n="1">
+          <l n="1">Pois no que toca a guardar</l>
+          <l n="2">dias Santos, e Domingos:</l>
+          <l n="3">ninguém vejo em mim, que os guarde,</l>
+          <l n="4">se tem, em que ganhar jimbo.</l>
+          <l n="5">Nem aos míseros escravos</l>
+          <l n="6">dão tais dias de vazio,</l>
+          <l n="7">porque nas leis do interesse,</l>
+          <l n="8">é preceito proibido.</l>
+          <l n="9">Quem os vê ir para o templo</l>
+          <l n="10">com as contas e os livrinhos</l>
+          <l n="11">de devoção, julgará,</l>
+          <l n="12">que vão p'ra ver a Deus Trino:</l>
+          <l n="13">Porém tudo é mero engano,</l>
+          <l n="14">porque se alguns escolhidos</l>
+          <l n="15">ouvem missa, é perturbados</l>
+          <l n="16">desses, que vão por ser vistos.</l>
+          <l n="17">E para que não pareça,</l>
+          <l n="18">aos que escutam, o que digo,</l>
+          <l n="19">que há mentira, no que falo</l>
+          <l n="20">com a verdade me explico:</l>
+          <l n="21">Entra um destes pela Igreja,</l>
+          <l n="22">sabe Deus com que sentido,</l>
+          <l n="23">e faz um sinal-da-cruz</l>
+          <l n="24">contrário ao do catecismo.</l>
+          <l n="25">Logo se põe de joelhos,</l>
+          <l n="26">não como servo rendido,</l>
+          <l n="27">mas em forma de besteiro</l>
+          <l n="28">cum pé no chão, outro erguido.</l>
+          <l n="29">Para os altares não olha,</l>
+          <l n="30">nem para os Santos no nicho,</l>
+          <l n="31">mas para quantas pessoas</l>
+          <l n="32">vão entrando, e vão saindo.</l>
+          <l n="33">Gastam nisto o mais do tempo,</l>
+          <l n="34">e o que resta divertidos</l>
+          <l n="35">se põem em conversação,</l>
+          <l n="36">com os que estão mais propínquos</l>
+          <l n="37">Não contam vidas de Santos,</l>
+          <l n="38">nem exemplos ao divino,</l>
+          <l n="39">mas sim muita patarata,</l>
+          <l n="40">do que não há, nem tem sido.</l>
+          <l n="41">Pois se há sermão, nunca o ouvem,</l>
+          <l n="42">porque ou se põem de improviso</l>
+          <l n="43">a cochilar como negros,</l>
+          <l n="44">ou se vão escapulindo.</l>
+          <l n="45">As tardes passam nos jogos,</l>
+          <l n="46">ou no campo divertidos</l>
+          <l n="47">em murmurar dos governos,</l>
+          <l n="48">dando Leis, e dando arbítrios.</l>
+          <l n="49">As mulheres são piores,</l>
+          <l n="50">porque se lhes faltam brincos</l>
+          <l n="51">manga a volá, broche, troço,</l>
+          <l n="52">ou saia de labirintos,</l>
+          <l n="53">não querem ir para a Igreja,</l>
+          <l n="54">seja o dia mais festivo,</l>
+          <l n="55">mas em tendo essas alfaias,</l>
+          <l n="56">saltam mais do que cabritos.</l>
+          <l n="57">E se no Carmo repica,</l>
+          <l n="58">ei-las lá vão rebolindo,</l>
+          <l n="59">o mesmo para São Bento,</l>
+          <l n="60">Colégio, ou São Francisco.</l>
+          <l n="61">Quem as vir muito devotas,</l>
+          <l n="62">julgará sincero, e liso,</l>
+          <l n="63">que vão na missa, e sermão</l>
+          <l n="64">a louvar a Deus com hinos.</l>
+          <l n="65">Não quero dizer, que vão,</l>
+          <l n="66">por dizer mal do Maridos,</l>
+          <l n="67">aos amantes, ou talvez</l>
+          <l n="68">cair em erros indignos.</l>
+          <l n="69">Debaixo do parentesco,</l>
+          <l n="70">que fingem pelo apelido,</l>
+          <l n="71">mandando-lhes com dinheiro</l>
+          <l n="72">muitos, e custosos mimos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>PRECEITO 4</head>
+        <lg n="1">
+          <l n="1">Vejo, que morrem de fome</l>
+          <l n="2">os Pais daquelas, e os Tios,</l>
+          <l n="3">ou porque os vêem Lavradores,</l>
+          <l n="4">ou porque tratam de ofícios.</l>
+          <l n="5">Pois que direi dos respeitos,</l>
+          <l n="6">com que os tais meus mancebinhos</l>
+          <l n="7">tratam esses Pais depois</l>
+          <l n="8">que deixam de ser meninos?</l>
+          <l n="9">Digam-no quantos o vêem,</l>
+          <l n="10">que eu não quero repeti-lo,</l>
+          <l n="11">a seu tempo direi como</l>
+          <l n="12">criam estes morgadinhos.</l>
+          <l n="13">Se algum em seu testamento</l>
+          <l n="14">cerrado, ou nuncupativo</l>
+          <l n="15">a algum parente encarrega</l>
+          <l n="16">sua alma, ou legados pios:</l>
+          <l n="17">Trata logo de enterrá-lo</l>
+          <l n="18">com demonstrações de amigo,</l>
+          <l n="19">mas passando o <choice><orig>Resquiescat</orig><seg type="apo">resquiêscat</seg></choice></l>
+          <l n="20">tudo se mate no olvido.</l>
+          <l n="21">Da fazenda tomam posse</l>
+          <l n="22">até do menor caquinho;</l>
+          <l n="23">mas para cumprir as deixas</l>
+          <l n="24">adoecem de fastio.</l>
+          <l n="25">E desta omissão não fazem</l>
+          <l n="26">escrúpulo pequenino,</l>
+          <l n="27">nem se lhes dá, que o defunto</l>
+          <l n="28">arda, ou pene em fogo ativo.</l>
+          <l n="29">E quando chega a apertá-los</l>
+          <l n="30">o tribunal dos resíduos,</l>
+          <l n="31">ou mostram quitações falsas,</l>
+          <l n="32">ou movem pleitos renhidos.</l>
+          <l n="33">Contados são, os que dão</l>
+          <l n="34">a seus escravos ensino,</l>
+          <l n="35">e muitos nem de comer,</l>
+          <l n="36">sem lhes perdoar serviço.</l>
+          <l n="37">Oh quantos, e quantos há</l>
+          <l n="38">de bigode fernandino,</l>
+          <l n="39">que até de noite às escravas</l>
+          <l n="40">pedem selários indignos,</l>
+          <l n="41">Pois no modo de criar</l>
+          <l n="42">aos filhos parecem símios,</l>
+          <l n="43">causa por que os não respeitam,</l>
+          <l n="44">depois que se vêem crescidos.</l>
+          <l n="45">Criam-nos com liberdade</l>
+          <l n="46">nos jogos, como nos vício,</l>
+          <l n="47">persuadindo-lhes, que saibam</l>
+          <l n="48">tanger guitarra, e machinho.</l>
+          <l n="49">As Mães por sua imprudência</l>
+          <l n="50">são das filhas desperdício,</l>
+          <l n="51">por não haver refestela,</l>
+          <l n="52">onde as não levem consigo.</l>
+          <l n="53">E como os meus ares são</l>
+          <l n="54">muito coados, e finos,</l>
+          <l n="55">se não há grande recato,</l>
+          <l n="56">têm as donzelas perigo.</l>
+          <l n="57">Ou as quebranta de amores</l>
+          <l n="58">o ar de algum recadinho,</l>
+          <l n="59">ou pelo frio da barra</l>
+          <l n="60">saem co ventre crescido.</l>
+          <l n="61">Então vendo-se opiladas,</l>
+          <l n="62">se não é do santo vínculo,</l>
+          <l n="63">para livrarem do achaque,</l>
+          <l n="64">buscam certos abortinhos.</l>
+          <l n="65">Cada dia o estou vendo,</l>
+          <l n="66">e com ser isto sabido,</l>
+          <l n="67">contadas são, as que deixam</l>
+          <l n="68">de amar estes precipícios.</l>
+          <l n="69">Com o dedo a todas mostro,</l>
+          <l n="70">quanto indica o vaticínio,</l>
+          <l n="71">e se não querem guardá-lo,</l>
+          <l n="72">não culpam meu domicílio.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>PRECEITO 5</head>
+        <lg n="1">
+          <l n="1">Vamos ao quinto preceito,</l>
+          <l n="2">Santo Antônio vá comigo,</l>
+          <l n="3">e me depare algum meio,</l>
+          <l n="4">para livrar do seu risco.</l>
+          <l n="5">Porque suposto que sejam</l>
+          <l n="6">quietos, mansos, benignos,</l>
+          <l n="7">quantos pisam meus oiteiros,</l>
+          <l n="8">montes, vales, e sombrios;</l>
+          <l n="9">Pode suceder, que esteja</l>
+          <l n="10">algum áspide escondido</l>
+          <l n="11">entre as flores, como diz</l>
+          <l n="12">aquele provérbio antigo.</l>
+          <l n="13">Faltar não quero à verdade</l>
+          <l n="14">nem dar ao mentir ouvidos,</l>
+          <l n="15">o de César dê-se a César,</l>
+          <l n="16">o de Deus a Jesus Cristo.</l>
+          <l n="17">Não tenho brigas, nem mortes</l>
+          <l n="18">pendências, nem arruídos,</l>
+          <l n="19">tudo é paz, tranqüilidade,</l>
+          <l n="20">cortejo com regozijo:</l>
+          <l n="21">Era dourada parece,</l>
+          <l n="22">mas não é como eu a pinto</l>
+          <l n="23">porque debaixo deste ouro</l>
+          <l n="24">tem as fezes escondido.</l>
+          <l n="25">Que importa não dar aos corpos</l>
+          <l n="26">golpes, catanadas, tiros,</l>
+          <l n="27">e que só sirvam de ornato</l>
+          <l n="28">espada, e cotós limpos?</l>
+          <l n="29">Que importa, que não se enforquem</l>
+          <l n="30">os ladrões, e os assassinos,</l>
+          <l n="31">os falsários, maldizentes,</l>
+          <l n="32">e outros a este tonilho?</l>
+          <l n="33">Se debaixo desta paz,</l>
+          <l n="34">deste amor falso, e fingido</l>
+          <l n="35">há fezes tão venenosas,</l>
+          <l n="36">que o ouro é chumbo mofino</l>
+          <l n="37">É o amor um mortal ódio,</l>
+          <l n="38">sendo todo o incentivo</l>
+          <l n="39">a cobiça do dinheiro,</l>
+          <l n="40">ou a inveja dos ofícios.</l>
+          <l n="41">Todos pecam no desejo</l>
+          <l n="42">de querer ver seus patrícios</l>
+          <l n="43">ou da pobreza arrastados,</l>
+          <l n="44">ou do crédito abatidos.</l>
+          <l n="45">E sem outra cousa mais</l>
+          <l n="46">se dão a destro, e sinistro</l>
+          <l n="47">pela honra, e pela fama</l>
+          <l n="48">golpes cruéis, e infinitos.</l>
+          <l n="49">Nem ao sagrado perdoam,</l>
+          <l n="50">seja Rei, ou seja Bispo,</l>
+          <l n="51">ou Sacerdote, ou Donzela</l>
+          <l n="52">metida no seu retiro.</l>
+          <l n="53">A todos enfim dão golpes</l>
+          <l n="54">de enredos, e mexericos</l>
+          <l n="55">tão cruéis, e tão nefandos,</l>
+          <l n="56">que os despedaçam em cisco.</l>
+          <l n="57">Pelas mãos nada; porque</l>
+          <l n="58">não sabem obrar no quinto;</l>
+          <l n="59">mas pelas línguas não há</l>
+          <l n="60">leões mais enfurecidos.</l>
+          <l n="61">E destes valentes fracos</l>
+          <l n="62">nasce todo o meu martírio;</l>
+          <l n="63">digam todos, os que me ouvem,</l>
+          <l n="64">se falo a verdade, ou minto.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>PRECEITO 6</head>
+        <lg n="1">
+          <l n="1">Entremos pelos devotos</l>
+          <l n="2">do nefando Deus Cupido,</l>
+          <l n="3">que também esta semente</l>
+          <l n="4">não deixa lugar vazio.</l>
+          <l n="5">Não posso dizer, quais são</l>
+          <l n="6">por seu número infinito,</l>
+          <l n="7">mas só digo, que são mais</l>
+          <l n="8">do que as formigas, que crio.</l>
+          <l n="9">Seja solteiro, ou casado,</l>
+          <l n="10">é questão, é já sabido</l>
+          <l n="11">não estar sem ter borracha</l>
+          <l n="12">seja do bom, ou mau vinho.</l>
+          <l n="13">Em chegando a embebedar-se</l>
+          <l n="14">de sorte perde os sentidos.</l>
+          <l n="15">que deixa a mulher em couros,</l>
+          <l n="16">e traz os filhos famintos:</l>
+          <l n="17">Mas a sua concubina</l>
+          <l n="18">há de andar como um palmito,</l>
+          <l n="19">para cujo efeito empenham</l>
+          <l n="20">as botas com seus atilhos.</l>
+          <l n="21">Elas por não se ocuparem</l>
+          <l n="22">com costuras, nem com bilros,</l>
+          <l n="23">antes de chegar aos doze</l>
+          <l n="24">vendem o signo de Virgo.</l>
+          <l n="25">Ouço dizer vulgarmente</l>
+          <l n="26">(não sei, é certo este dito)</l>
+          <l n="27">que fazem pouco reparo</l>
+          <l n="28">em ser caro, ou baratinho.</l>
+          <l n="29">O que sei é, que em magotes</l>
+          <l n="30">de duas, três, quatro, cinco</l>
+          <l n="31">as vejo todas as noites</l>
+          <l n="32">sair de seus esconderijos</l>
+          <l n="33">E como há tal abundância</l>
+          <l n="34">desta fruita no meu sítio,</l>
+          <l n="35">para ver se há, quem as compre,</l>
+          <l n="36">dão pelas ruas mil giros.</l>
+          <l n="37">E é para sentir, o quanto</l>
+          <l n="38">se dá Deus por ofendido</l>
+          <l n="39">não só por este pecado,</l>
+          <l n="40">mas pelos seus conjuntivos:</l>
+          <l n="41">como são cantigas torpes,</l>
+          <l n="42">bailes, e toques lascivos,</l>
+          <l n="43">venturas, e fervedouros,</l>
+          <l n="44">pau de forca, e pucarinhos.</l>
+          <l n="45">Quero entregar ao silêncio</l>
+          <l n="46">outros excessos malditos,</l>
+          <l n="47">como do Pai carumbá,</l>
+          <l n="48">Ambrósio, e outros pretinhos.</l>
+          <l n="49">Com os quais estas formosas</l>
+          <l n="50">vão fazer infames brincos</l>
+          <l n="51">governados por aqueles,</l>
+          <l n="52">que as trazem num cabrestinho.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>PRECEITO 7</head>
+        <lg n="1">
+          <l n="1">Já pelo sétimo entrando</l>
+          <l n="2">sem alterar o tonilho,</l>
+          <l n="3">digo, que quantos o tocam</l>
+          <l n="4">sempre o tiveram por crítico</l>
+          <l n="5">Eu sou, a que mais padeço</l>
+          <l n="6">de seus efeitos malignos,</l>
+          <l n="7">porque todos meus desdouros</l>
+          <l n="8">pelo sétimo têm vindo.</l>
+          <l n="9">Não falo (como lá dizem)</l>
+          <l n="10">ao ar, ou libere dicto,</l>
+          <l n="11">pois diz o mundo loquaz,</l>
+          <l n="12">que encubro mil latrocínios</l>
+          <l n="13">Se é verdade, eu o não sei,</l>
+          <l n="14">pois acho implicância nisto</l>
+          <l n="15">porque o furtar tem dous verbos</l>
+          <l n="16">um furor, outro surrípio.</l>
+          <l n="17">Eu não vejo cortar bolsas,</l>
+          <l n="18">nem sair pelos caminhos,</l>
+          <l n="19">como fazem nas mais partes</l>
+          <l n="20">salvo alguns negros fugidos.</l>
+          <l n="21">Vejo, que a forca, ou picota</l>
+          <l n="22">paga os altos do vazio,</l>
+          <l n="23">e que o carrasco não ganha</l>
+          <l n="24">nem dous réis para cominhos</l>
+          <l n="25">Vejo, que nos tribunais</l>
+          <l n="26">há vigilantes Ministros,</l>
+          <l n="27">e se houvera em mim tal gente</l>
+          <l n="28">andara à soga em contino.</l>
+          <l n="29">Porém se disto não há,</l>
+          <l n="30">com que razão, ou motivo</l>
+          <l n="31">dizem por aí, que sou</l>
+          <l n="32">um covil de Latrocínios!</l>
+          <l n="33">Será por verem, que em mim</l>
+          <l n="34">é venerado, e querido</l>
+          <l n="35">Santo Unhate, irmão de Caco,</l>
+          <l n="36">porque faz muitos prodígios.</l>
+          <l n="37">Sem questão deve de ser,</l>
+          <l n="38">porque este Unhate maldito</l>
+          <l n="39">faz uns milagres, que eu mesma</l>
+          <l n="40">não sei, como tenho tino.</l>
+          <l n="41">Pode haver maior milagre</l>
+          <l n="42">(ouça bem quem tem ouvidos)</l>
+          <l n="43">do que chegar um Reinol</l>
+          <l n="44">de Lisboa, ou lá do Minho</l>
+          <l n="45">ou degredado por crimes</l>
+          <l n="46">ou por Moço ao Pai fugido,</l>
+          <l n="47">ou por não ter que comer</l>
+          <l n="48">no Lugar, onde é nascido:</l>
+          <l n="49">E saltando no meu cais</l>
+          <l n="50">descalço, roto, e despido,</l>
+          <l n="51">sem trazer mais cabedal,</l>
+          <l n="52">que piolhos, e assobios:</l>
+          <l n="53">Apenas se ofrece a Unhate</l>
+          <l n="54">de guardar seu compromisso,</l>
+          <l n="55">tomando com devoção</l>
+          <l n="56">sua regra, e seu bentinho:</l>
+          <l n="57">Quando umas casas aluga</l>
+          <l n="58">de preço, e valor subido,</l>
+          <l n="59">e se põe em tempo breve</l>
+          <l n="60">com dinheiro, e com navios?</l>
+          <l n="61">Pode haver maior portento,</l>
+          <l n="62">nem milagre encarecido,</l>
+          <l n="63">como de ver um Mazombo</l>
+          <l n="64">destes cá do meu pavio,</l>
+          <l n="65">que sem ter eira, nem beira</l>
+          <l n="66">engenho, ou juro sabido</l>
+          <l n="67">tem amiga, e joga largo</l>
+          <l n="68">veste sedas, põe polvilhos?</l>
+          <l n="69">Donde lhe vem isto tudo?</l>
+          <l n="70">Cai do Céu? Tal não afirmo;</l>
+          <l n="71">ou Santo Unhate lho dá,</l>
+          <l n="72">ou do Calvário é prodígio.</l>
+          <l n="73">Consultam agora os sábios,</l>
+          <l n="74">que de mim fazem corrilhos</l>
+          <l n="75">se estou ilesa da culpa,</l>
+          <l n="76">que me dão sobre este artigo.</l>
+          <l n="77">Mas não quero repetir</l>
+          <l n="78">a dor e o pesar, que sinto</l>
+          <l n="79">por dar mais um passo avante</l>
+          <l n="80">para o oitavo suplício.</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>PRECEITO 8</head>
+        <lg n="1">
+          <l n="1">As culpas, que me dão nele,</l>
+          <l n="2">são, que em tudo o que digo,</l>
+          <l n="3">me aparto do verdadeiro</l>
+          <l n="4">com ânimo fementido.</l>
+          <l n="5">Muito mais é, do que falo,</l>
+          <l n="6">mas é grande barbarismo,</l>
+          <l n="7">quererem, que pague a albarda,</l>
+          <l n="8">o que comete o burrinho.</l>
+          <l n="9">Se por minha desventura</l>
+          <l n="10">estou cheia de percitos,</l>
+          <l n="11">como querem, que haja em mim</l>
+          <l n="12">fé, verdade, ou falar liso?</l>
+          <l n="13">Se como atrás declarei,</l>
+          <l n="14">se oudera cobro nisto,</l>
+          <l n="15">a verdade aparecera</l>
+          <l n="16">cruzando os braços comigo.</l>
+          <l n="17">Mas como dos tribunais</l>
+          <l n="18">proveito nenhum se há visto,</l>
+          <l n="19">a mentira está na terra,</l>
+          <l n="20">a verdade vai fugindo.</l>
+          <l n="21">O certo é, que os mais deles</l>
+          <l n="22">têm por gala, e por capricho</l>
+          <l n="23">não abrir a boca nunca</l>
+          <l n="24">sem mentir de fito a fito.</l>
+          <l n="25">Deixar quero os pataratas,</l>
+          <l n="26">e tornando a meu caminho,</l>
+          <l n="27">quem quiser mentir o faça,</l>
+          <l n="28">que me não toca impedi-lo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>PRECEITO 9</head>
+        <lg n="1">
+          <l n="1">Do nono não digo nada,</l>
+          <l n="2">porque para mim é vidro,</l>
+          <l n="3">e quem o quiser tocar,</l>
+          <l n="4">vá com o olho sobreaviso.</l>
+          <l n="5">Eu bem sei, que também trazem</l>
+          <l n="6">o meu crédito perdido,</l>
+          <l n="7">mas valha sem sê-lo ex causa,</l>
+          <l n="8">ou lhos ponham seus maridos.</l>
+          <l n="9">Confesso, que tenho culpas,</l>
+          <l n="10">porém humilde confio,</l>
+          <l n="11">mais que em riquezas do mundo,</l>
+          <l n="12">da virtude num raminho.</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>PRECEITO 10</head>
+        <lg n="1">
+          <l n="1">Graças a Deus que cheguei</l>
+          <l n="2">a coroar meus delitos</l>
+          <l n="3">com o décimo preceito,</l>
+          <l n="4">no qual tenho delinqüido.</l>
+          <l n="5">Desejo, que todos amem,</l>
+          <l n="6">seja pobre, ou seja rico,</l>
+          <l n="7">e se contentem com a sorte,</l>
+          <l n="8">que têm, e estão possuindo.</l>
+          <l n="9">Quero finalmente, que</l>
+          <l n="10">todos, quantos têm ouvido,</l>
+          <l n="11">pelas obras, que fizerem,</l>
+          <l n="12">vão para o Céu direitinhos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>QUEIXAS DA SUA MESMA VERDADE.</head>
+        <lg n="1">
+          <l n="1">Quer-me mal esta cidade</l>
+          <l n="2">pela verdade,</l>
+          <l n="3">Não há, quem me fale, ou veja</l>
+          <l n="4">de inveja,</l>
+          <l n="5">E se alguém me mostra amor</l>
+          <l n="6">é temor.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">De maneira, meu Senhor,</l>
+          <l n="2">que me hão de levar a palma</l>
+          <l n="3">meus três inimigos d'alma</l>
+          <l n="4">Verdade, Inveja, e Temor.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Oh quem soubera as mentiras</l>
+          <l n="2">do Milimbiras,</l>
+          <l n="3">Fora aqui senhor do bolo</l>
+          <l n="4">como tolo,</l>
+          <l n="5">E feito tolo, e velhaco</l>
+          <l n="6">fora um caco.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Meteria assim no saco</l>
+          <l n="2">Servindo, andando e correndo</l>
+          <l n="3">as ligas, que vão fazendo</l>
+          <l n="4">Milimbiras, Tolo, e Caco.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Tirara cinzas tiranas</l>
+          <l n="2">das bananas,</l>
+          <l n="3">Outro se os meus dez réis</l>
+          <l n="4">de pastéis,</l>
+          <l n="5">E porque isento não fosse</l>
+          <l n="6">até do doce.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Teria assim, com que almoce</l>
+          <l n="2">o meu amancebamento,</l>
+          <l n="3">pois lhe basta por sustento</l>
+          <l n="4">Bananas, Pastéis, e Doce.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Prendas, que a empenhar obrigo</l>
+          <l n="2">pelo amigo,</l>
+          <l n="3">Dobrar-lhe eu o valor</l>
+          <l n="4">e primor,</l>
+          <l n="5">Cobrando em dous bodegões</l>
+          <l n="6">os tostões.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">E seus donos asneirões</l>
+          <l n="2">ao desfazer da moeda</l>
+          <l n="3">perdem da mesma assentada</l>
+          <l n="4">Amigo, Primor, Tostões.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Ao jimbo, que se lhe conta</l>
+          <l n="2">boa conta,</l>
+          <l n="3">E já por amigo vejo</l>
+          <l n="4">sem ter pejo,</l>
+          <l n="5">Pois lhe tira de corrida</l>
+          <l n="6">a medida.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Mas verdadeira, ou mentida</l>
+          <l n="2">a conta ajustada vem,</l>
+          <l n="3">sendo um homem, que não tem,</l>
+          <l n="4">Conta, Pejo, nem Medida.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Dever-me-ão camaradas</l>
+          <l n="2">mil passadas,</l>
+          <l n="3">E o triste do companheiro</l>
+          <l n="4">o dinheiro,</l>
+          <l n="5">E à conta das minhas brasas</l>
+          <l n="6">as casas.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Assim lhe empatara as vazas,</l>
+          <l n="2">pois o mesmo, que eu devia,</l>
+          <l n="3">por força me deveria</l>
+          <l n="4">Passadas, Dinheiro, e Casas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>TORNA A DEFINIR O POETA OS MAOS MODOS DE OBRARNA GOVERNANÇA DA BAHIA, PRINCIPALMENTE NAQUELA UNIVERSAL FOME, QUE PADECIA A CIDADE.</head>
+        <lg n="1">
+          <l n="1">Que falta nesta cidade?</l>
+          <l n="2">Verdade</l>
+          <l n="3">Que mais por sua desonra</l>
+          <l n="4">Honra</l>
+          <l n="5">Falta mais que se lhe ponha</l>
+          <l n="6">Vergonha.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O demo a viver se exponha,</l>
+          <l n="2">por mais que a fama a exalta,</l>
+          <l n="3">numa cidade, onde falta</l>
+          <l n="4">Verdade, Honra, Vergonha.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quem a pôs neste socrócio?</l>
+          <l n="2">Negócio</l>
+          <l n="3">Quem causa tal perdição?</l>
+          <l n="4">Ambição</l>
+          <l n="5">E o maior desta loucura?</l>
+          <l n="6">Usura.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Notável desaventura</l>
+          <l n="2">de um povo néscio, e sandeu,</l>
+          <l n="3">que não sabe, que o perdeu</l>
+          <l n="4">Negócio, Ambição, Usura.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Quais são os seus doces objetos?</l>
+          <l n="2">Pretos</l>
+          <l n="3">Tem outros bens  mais maciços?</l>
+          <l n="4">Mestiços</l>
+          <l n="5">Quais destes lhe são mais gratos? </l>
+          <l n="6">Mulatos.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Dou ao demo os insensatos,</l>
+          <l n="2">dou ao demo a gente asnal,</l>
+          <l n="3">que estima por cabedal</l>
+          <l n="4">Pretos, Mestiços, Mulatos.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Quem faz os círios mesquinhos?</l>
+          <l n="2">Meirinhos</l>
+          <l n="3">Quem faz as farinhas tardas?</l>
+          <l n="4">Guardas</l>
+          <l n="5">Quem as tem nos aposentos?</l>
+          <l n="6">Sargentos.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Os círios lá vêm aos centos,</l>
+          <l n="2">e a terra fica esfaimando,</l>
+          <l n="3">porque os vão atravessando</l>
+          <l n="4">Meirinhos, Guardas, Sargentos,</l>
+        </lg>
+        <lg n="9">
+          <l n="1">E que justiça a resguarda? </l>
+          <l n="2">Bastarda</l>
+          <l n="3">É grátis distribuída?</l>
+          <l n="4">Vendida</l>
+          <l n="5">Quem tem, que a todos assusta?</l>
+          <l n="6">Injusta.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Valha-nos Deus, o que custa,</l>
+          <l n="2">o que EL-Rei nos dá de graça,</l>
+          <l n="3">que anda a justiça na praça</l>
+          <l n="4">Bastarda, Vendida, Injusta.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Que vai pela clerezia?</l>
+          <l n="2">Simonia</l>
+          <l n="3">E pelo membros da Igreja?</l>
+          <l n="4">Inveja</l>
+          <l n="5">Cuidei, que mais se lhe punha?</l>
+          <l n="6">Unha.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Sazonada caramunha!</l>
+          <l n="2">enfim que na Santa Sé</l>
+          <l n="3">o que se pratica, é</l>
+          <l n="4">Simonia, Inveja, Unha.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">E nos Frades há manqueiras?</l>
+          <l n="2">Freiras</l>
+          <l n="3">Em que ocupam os serões?</l>
+          <l n="4">Sermões</l>
+          <l n="5">Não se ocupam em disputas?</l>
+          <l n="6">Putas.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Com palavras dissolutas</l>
+          <l n="2">me concluís na verdade,</l>
+          <l n="3">que as lidas todas de um Frade</l>
+          <l n="4">são Freiras, Sermões, e Putas.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">O açúcar já se acabou?</l>
+          <l n="2">Baixou</l>
+          <l n="3">E o dinheiro se extinguiu?</l>
+          <l n="4">Subiu</l>
+          <l n="5">Logo já convalesceu?</l>
+          <l n="6">Morreu.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">À Bahia aconteceu</l>
+          <l n="2">o que a um doente acontece,</l>
+          <l n="3">cai na cama, o mal lhe cresce,</l>
+          <l n="4">Baixou, Subiu, e Morreu.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">A Câmara não acode?</l>
+          <l n="2">Não pode</l>
+          <l n="3">Pois não tem todo o poder?</l>
+          <l n="4">Não quer</l>
+          <l n="5">É que o governo convence?</l>
+          <l n="6">Não vence.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Quem haverá que tal pense,</l>
+          <l n="2">que uma Câmara tão nobre</l>
+          <l n="3">por ver-se mísera, e pobre</l>
+          <l n="4">Não pode, não quer, não vence.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

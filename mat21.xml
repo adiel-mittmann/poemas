@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36527"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Que é fidalgo nos ossos, cremos nós,</l>
+          <l n="2">Que nisto consistia o mor brasão</l>
+          <l n="3">daqueles, que comiam seus avós.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Faça mesuras de A, com pé direito.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>A CERTO HOMEM PRESUMIDO; QUE AFFECTAVA FIDALGUIAS POR ENGANOSOS MEYOS</head>
+        <lg n="1">
+          <l n="1">Bote a sua casaca de veludo,</l>
+          <l n="2">E seja Capitão sequer dous dias,</l>
+          <l n="3">Converse à porta de Domingos Dias,</l>
+          <l n="4">Que pega fidalguia mais que tudo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Seja um magano, um pícaro abelhudo,</l>
+          <l n="2">Vá a palácio, e após das cortesias</l>
+          <l n="3">Perca quando ganhar nas mercancias,</l>
+          <l n="4">E em que perca o alheio, esteja mudo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sempre se ande na caça, e montaria,</l>
+          <l n="2">Dê nova locução, novo epiteto,</l>
+          <l n="3">E digo-o sem propósito à porfia;</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que em dizendo: "facção, pretexto, efecto"</l>
+          <l n="2">Será no entendimento da Bahia</l>
+          <l n="3">Mui fidalgo, mui rico, e mui discreto.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>AO MESMO SUGEYTO PELOS MESMOS ATREVIMENTOS.</head>
+        <lg n="1">
+          <l n="1">Faça mesuras de A com pé direito,</l>
+          <l n="2">Os beija-mãos de gafador de péla,</l>
+          <l n="3">Saiba a todo o cavalo a parentela,</l>
+          <l n="4">O criador, o dono, e o defeito.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se o não souber, e vir rocim de jeito,</l>
+          <l n="2">Chame o lacaio, e posto na janela,</l>
+          <l n="3">Mande, que lho passeie a mor cautela,</l>
+          <l n="4">Que inda que o não entenda, se há respeito.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Saia na armada, e sofra paparotes,</l>
+          <l n="2">Damas ouça tanger, não as fornique,</l>
+          <l n="3">Lembre-lhe sempre a quinta, o potro, o galgo:</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que com isto, e o favor de quatro asnotes</l>
+          <l n="2">De bom ouvir, e crer se porá a pique</l>
+          <l n="3">De um dia amanhecer um grão fidalgo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>AOS PRINCIPAIS DA BAHIA CHAMADOS OS CARAMURUS.</head>
+        <lg n="1">
+          <l n="1">Há cousa como ver um Paiaiá</l>
+          <l n="2">Mui prezado de ser Caramuru,</l>
+          <l n="3">Descendente de sangue de Tatu,</l>
+          <l n="4">Cujo torpe idioma é cobé pá.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A linha feminina é carimá</l>
+          <l n="2">Moqueca, pititinga caruru</l>
+          <l n="3">Mingau de puba, e vinho de caju</l>
+          <l n="4">Pisado num pilão de Piraguá.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A masculina é um Aricobé</l>
+          <l n="2">Cuja filha Cobé um branco Paí</l>
+          <l n="3">Dormiu no promontório de Passé.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">O Branco era um marau, que veio aqui,</l>
+          <l n="2">Ela era uma Índia de Maré</l>
+          <l n="3">Cobé pá, Aricobé, Cobé Paí.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>AO MESMO ASSUMPTO.</head>
+        <lg n="1">
+          <l n="1">Um calção de pindoba a meia zorra</l>
+          <l n="2">Camisa de Urucu, mantéu de Arara,</l>
+          <l n="3">Em lugar de cotó arco, e taquara,</l>
+          <l n="4">Penacho de Guarás em vez de gorra.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Furado o beiço, e sem temor que morra,</l>
+          <l n="2">O pai, que lho envazou cuma titara,</l>
+          <l n="3">Senão a Mãe, que a pedra lhe aplicara,</l>
+          <l n="4">A reprimir-lhe o sangue, que não corra.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Animal sem razão, bruto sem fé,</l>
+          <l n="2">Sem mais Leis, que as do gosto, quando erra,</l>
+          <l n="3">De Paiaiá virou-se em Abaeté.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não sei, once acabou, ou em que guerra,</l>
+          <l n="2">Só sei, que deste Adão de Massapé,</l>
+          <l n="3">Procedem os fidalgos desta terra.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>A COSME MOURA ROLIM INSIGNE MORDAZ CONTRA OS FILHOS DE PORTUGAL</head>
+        <lg n="1">
+          <l n="1">Um Rolim de Monai Bonzo Bramá</l>
+          <l n="2">Primaz da Greparia do Pegu,</l>
+          <l n="3">Que sem ser do Pequim, por ser do Açu,</l>
+          <l n="4">Quer ser filho do Sol nascendo cá.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Tenha embora um Avô nascido lá,</l>
+          <l n="2">Cá tem três pare as partes do Cairu,</l>
+          <l n="3">Chama-se o principal Paraguaçu</l>
+          <l n="4">Descendente este tal de um Guinamá.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que é fidalgo nos ossos, cremos nós</l>
+          <l n="2">Que nisto consistia o mor brasão</l>
+          <l n="3">Daqueles, que comiam seus avós.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E como isto lhe vem por geração,</l>
+          <l n="2">Tem tomado por timbre em seus teirós</l>
+          <l n="3">Morder, aos que provêm de outra Nação.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

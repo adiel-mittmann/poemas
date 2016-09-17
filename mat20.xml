@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36534"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">As damas de toda a cor</l>
+          <l n="2">Como tão pobre me vêem,</l>
+          <l n="3">as mais lástima me têm,</l>
+          <l n="4">as menos me têm amor</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E a ceia se acabou, jantar, e almoço</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>DIVERTIA-SE O POETA COM MARIA JOÃO, E PERSUADE AGORA A OUTRA</head>
+        <lg n="1">
+          <l n="1">Vossarcê senhora Quita,</l>
+          <l n="2">para quem ama, já tarda</l>
+          <l n="3">a uma dama galharda,</l>
+          <l n="4">que por você se esganita:</l>
+          <l n="5">e quem de saudades grita,</l>
+          <l n="6">e de tristeza emudece,</l>
+          <l n="7">sobre o pouco que merece,</l>
+          <l n="8">justifica o meu dizer,</l>
+          <l n="9">que você a quem bem lhe quer,</l>
+          <l n="10">foge, que desaparece.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Se não há lá uma canoa,</l>
+          <l n="2">poremos de cá uma prancha,</l>
+          <l n="3">e por falta irá a Lancha</l>
+          <l n="4">cos esteiros da camboa:</l>
+          <l n="5">Antonica venha à toa</l>
+          <l n="6">sobre um esteiro em castigo</l>
+          <l n="7">de ficar com seu amigo,</l>
+          <l n="8">e deixar de ver a Irmã,</l>
+          <l n="9">que da noite até a manhã</l>
+          <l n="10">te mói como o bom trigo.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>A MAY DE MARIA JOÃO CHAMADA IZABEL NÃO LEVAVA EM GOSTO AS AMIZADES DE SUA FILHA COM O POETA, OU SE TEMIA DE MARIQUITA, E OCCACIONANDO ENREDOS O POETA LHE CANTA A MOLIANA.</head>
+        <lg n="1">
+          <l n="1">Já que a puta Zabelona</l>
+          <l n="2">anda morta por me ouvir,</l>
+          <l n="3">eu lhe corto de vestir,</l>
+          <l n="4">que anda despida a putona:</l>
+          <l n="5">se eu disse, que a sua cona</l>
+          <l n="6">trazia a borda desfeita,</l>
+          <l n="7">já creio, que a tem perfeita,</l>
+          <l n="8">que estando dos eixos fora,</l>
+          <l n="9">quem nela bateu agora,</l>
+          <l n="10">agora lha pôs direita.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Em uma direita porta</l>
+          <l n="2">feita por bom capinteiro,</l>
+          <l n="3">quem nela bateu primeiro</l>
+          <l n="4">esse primeiro a entorta:</l>
+          <l n="5">mas depois de estar já torta,</l>
+          <l n="6">e depois que se entortou,</l>
+          <l n="7">o malho, que ali malhou,</l>
+          <l n="8">se malhar, e porfiar,</l>
+          <l n="9">ou a porta há de quebrar,</l>
+          <l n="10">ou o malho a endireitou.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Tudo isto à Zabel se ajeita:</l>
+          <l n="2">a borda ia desvairada,</l>
+          <l n="3">deram-lhe tanta pancada,</l>
+          <l n="4">que isso mesmo a pôs direita</l>
+          <l n="5">e a Filha é moça escorreita,</l>
+          <l n="6">e basta, que o dissesse eu,</l>
+          <l n="7">mas como o mesmo correu,</l>
+          <l n="8">e os mesmos passos andou,</l>
+          <l n="9">se transes a Mãe passou,</l>
+          <l n="10">o mesmo lhe sucedeu.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se falam de Bibiana,</l>
+          <l n="2">tudo Bibiana fora,</l>
+          <l n="3">a preta é muito Senhora,</l>
+          <l n="4">mas branca, amorosa, humana:</l>
+          <l n="5">Maria é mui desumana,</l>
+          <l n="6">sacudida, e pespegada,</l>
+          <l n="7">e esta cansada jornada,</l>
+          <l n="8">que faz ao rio das pedras,</l>
+          <l n="9">se faz pelas suas medras</l>
+          <l n="10">sei que me deixa por nada.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Por nada, e menos de nada,</l>
+          <l n="2">pois por um negro cueiro</l>
+          <l n="3">mui negro, e mni lamareiro</l>
+          <l n="4">se faz sua camarada:</l>
+          <l n="5">o Preto é porra tisnada</l>
+          <l n="6">mas sobre ser porra dura,</l>
+          <l n="7">é porra dura, que atura,</l>
+          <l n="8">o Branco mais lindo, e belo</l>
+          <l n="9">é porra de caramelo,</l>
+          <l n="10">desfaz-se na cozedura.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">O medo de vir à Ilha</l>
+          <l n="2">foi mui bem considerado,</l>
+          <l n="3">pretexto se dá ao pecado,</l>
+          <l n="4">da má Mãe nasce a má Filha:</l>
+          <l n="5">a mim, não me maravilha,</l>
+          <l n="6">que do Branco fuja a Preta;</l>
+          <l n="7">mas se a Mãe é tão discreta,</l>
+          <l n="8">como não lhe entra no peito,</l>
+          <l n="9">que aqui se me tem respeito,</l>
+          <l n="10">ou por branco, ou por poeta.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Quem olhos levantaria</l>
+          <l n="2">para Maria João,</l>
+          <l n="3">vendo, que no coração</l>
+          <l n="4">trago a João, e a Maria?</l>
+          <l n="5">escusas de cada dia</l>
+          <l n="6">são sempre, as que dá uma puta,</l>
+          <l n="7">e por dar fim à disputa,</l>
+          <l n="8">vão embora por seu pé</l>
+          <l n="9">aos montes de Gelboé,</l>
+          <l n="10">que cá não me falta fruta.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Siris nem moles, nem duros</l>
+          <l n="2">tocam a tão alta saia,</l>
+          <l n="3">que isto de ir servir à praia,</l>
+          <l n="4">são serviços de monturos:</l>
+          <l n="5">lavar serviços impuros,</l>
+          <l n="6">como é serviço do mar,</l>
+          <l n="7">isto mesmo é mariscar,</l>
+          <l n="8">e as negrinhas desta Ilha</l>
+          <l n="9">mariscam por maravilha</l>
+          <l n="10">só por nos maravilhar.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Se quis esses bons siris,</l>
+          <l n="2">que não lhes nego a bondade,</l>
+          <l n="3">bem sabe a minha vontade,</l>
+          <l n="4">que os há cá muito gentis:</l>
+          <l n="5">e se por lisonja o fiz,</l>
+          <l n="6">e os pedi por agradar,</l>
+          <l n="7">a quem tem gosto de os dar,</l>
+          <l n="8">agora me emendarei,</l>
+          <l n="9">e jamais os pedirei</l>
+          <l n="10">às Negras de mariscar.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Esta Maria João</l>
+          <l n="2">de conselhos bem guiada</l>
+          <l n="3">está bem aconselhada</l>
+          <l n="4">mas põe sempre a mão no chão:</l>
+          <l n="5">se os conselhos, que lhe dão,</l>
+          <l n="6">lhos dá, quem os há mister,</l>
+          <l n="7">triste da pobre mulher,</l>
+          <l n="8">que há de obrar pelo conselho</l>
+          <l n="9">do pobre cueiro velho,</l>
+          <l n="10">que não tem, o que há mister.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>RETIRA-SE O POETA E DESCREVE POR CONSOANTES FORÇADOS DE QUE MANEYRA.</head>
+        <lg n="1">
+          <l n="1">Depois de consoarmos um tramoço,</l>
+          <l n="2">A noite se passou jogando a polha,</l>
+          <l n="3">Arnanheceu, e pôs-se-nos a olha</l>
+          <l n="4">De que não sobejou caldo, nem osso.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Reinou, por não ficar-lhe nada, o Moço,</l>
+          <l n="2">De um berro, que lhe dei, fiz-lhe uma bolha,</l>
+          <l n="3">Rasguei-lhe uma camisa ainda em folha,</l>
+          <l n="4">E a ceia se acabou, jantar, e almoço.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O Moço tal se despediu por isso,</l>
+          <l n="2">E eu fiquei a beber vinho sem gesso</l>
+          <l n="3">Sobre ovos moles, que me pus um uço.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Neste tempo topei com amor e enguiço,</l>
+          <l n="2">Tive com Antonica o meu tropeço,</l>
+          <l n="3">E parti de carreira no meu ruço:</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36509"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Uma confusão das bocas</l>
+          <l n="2">uma batalha de veias,</l>
+          <l n="3">um reboliço de ancas,</l>
+          <l n="4">quem diz outra coisa, é besta</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>FOY ESTA DAMA VISTA DO POETA EM CERTA MANHÃ A SUA JANELLA, E ELLE LHE DÀ OS BONS DIAS COM ESTE GRACIOSSISSIMO ROMANCE.</head>
+        <lg n="1">
+          <l n="1">Ontem ao romper da Aurora,</l>
+          <l n="2">começando o amanhecer,</l>
+          <l n="3">vi desta parte do ocaso</l>
+          <l n="4">dois sóis, a quem quero bem.</l>
+          <l n="5">Que fazendo oposições</l>
+          <l n="6">com brilhantes rosicler,</l>
+          <l n="7">ao sol, que de envergonhado</l>
+          <l n="8">se começava a esconder.</l>
+          <l n="9">Eclipsados vi seus raios,</l>
+          <l n="10">mas quem suas luzes vê,</l>
+          <l n="11">nas admirações se pasma,</l>
+          <l n="12">nas invejas perde o pé.</l>
+          <l n="13">Que a beleza singular,</l>
+          <l n="14">que ostentam seus olhos, sei,</l>
+          <l n="15">que o sol não quer competi-la,</l>
+          <l n="16">porque a saiba engrandecer.</l>
+          <l n="17">Cegam os seus resplandores,</l>
+          <l n="18">e de tal sorte me tem,</l>
+          <l n="19">que não como ao sol me escondo,</l>
+          <l n="20">porém morro por te ver.</l>
+          <l n="21">Como cega barboleta</l>
+          <l n="22">ao fogo da minha fé</l>
+          <l n="23">se queima a desconfiança</l>
+          <l n="24">de nunca te merecer.</l>
+          <l n="25">Valha-te Deus por Betica,</l>
+          <l n="26">não sei dizer-te, meu bem,</l>
+          <l n="27">como vivo enamorado,</l>
+          <l n="28">como estou, não sei dizer.</l>
+          <l n="29">Porque entre o doce de amar-te,</l>
+          <l n="30">e o amargo de te não ver,</l>
+          <l n="31">hei de viver da esperança</l>
+          <l n="32">ou da saudade morrer.</l>
+          <l n="33">Tua rara formosura,</l>
+          <l n="34">eu a não sei comprender,</l>
+          <l n="35">porque um não és tens de humana,</l>
+          <l n="36">e um quase divina és.</l>
+          <l n="37">E já que nesta cegueira</l>
+          <l n="38">tua beleza me tem,</l>
+          <l n="39">ou me corresponde amante,</l>
+          <l n="40">ou me acaba de uma vez.</l>
+          <l n="41">Porque tão confuso vivo,</l>
+          <l n="42">tão triste me chego a ver,</l>
+          <l n="43">tão temeroso me atrevo,</l>
+          <l n="44">que é um abismo cruel.</l>
+          <l n="45">Tal abismo o peito sente:</l>
+          <l n="46">ora permite, meu bem,</l>
+          <l n="47">diminuir os incêndios,</l>
+          <l n="48">acabe-se o padecer.</l>
+          <l n="49">Toma o astuto Piloto</l>
+          <l n="50">o sol, só para saber,</l>
+          <l n="51">se se acha na boa altura,</l>
+          <l n="52">mas sem carta nada fez.</l>
+          <l n="53">E pois no mar de meus olhos</l>
+          <l n="54">perigos receia a fé,</l>
+          <l n="55">manda-me, por não perder-te,</l>
+          <l n="56">uma carta desta vez.</l>
+          <l n="57">Dá-me velas à esperança,</l>
+          <l n="58">com elas marearei,</l>
+          <l n="59">já que o fogo da vontade</l>
+          <l n="60">sempre está firme a teus pés.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>PASSOU O POETA PELA PORTA DESTA DAMA, ARRIBANDO DE FORA POR CAUSA DA CHUVA, COM HUM CASACÃO, E HUA CARAPUÇA. E ELLA LHE DICE, QUE SE FORA POETA, COMO ELLE, O HAVIA DE SATYRIZAR PELO DESCOCO: AO QUE ELLE FEZ ESTAS DÉCIMAS.</head>
+        <lg n="1">
+          <l n="1">Que não vos enganais, digo,</l>
+          <l n="2">Betica, e antes cuidai,</l>
+          <l n="3">que uma sátira a meu Pai</l>
+          <l n="4">farei, se bulir comigo:</l>
+          <l n="5">fá-la-ei ao mor amigo,</l>
+          <l n="6">quando aleivoso me toe,</l>
+          <l n="7">e porque melhor vos soe,</l>
+          <l n="8">se vos pus em tanta calma,</l>
+          <l n="9">sendo meu ídolo d'alma,</l>
+          <l n="10">a quem quereis, que perdoe?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E se mal vos pareceu,</l>
+          <l n="2">que eu fosse por esse posto</l>
+          <l n="3">tão despido, e descomposto,</l>
+          <l n="4">sem ter respeito a esse céu,</l>
+          <l n="5">bem sabeis vós, que choveu,</l>
+          <l n="6">e eu vinha de me embarcar:</l>
+          <l n="7">porém entoldou-se o ar,</l>
+          <l n="8">e para casa arribei,</l>
+          <l n="9">com que se desagradei,</l>
+          <l n="10">quero-me satirizar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Betica, eu sou um magano,</l>
+          <l n="2">um patife, um mariola,</l>
+          <l n="3">um sátiro, um salvajola,</l>
+          <l n="4">e mais doudo que um galhano:</l>
+          <l n="5">de pois de ser vosso mano,</l>
+          <l n="6">em tempo, que eu era honrado,</l>
+          <l n="7">fui muito desaforado</l>
+          <l n="8">em ir pela vossa rua</l>
+          <l n="9">com barrete de falua,</l>
+          <l n="10">e o pá de gato pingado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Sou um sujo, e um patola,</l>
+          <l n="2">de mau ser, má propensão,</l>
+          <l n="3">porque se gasto o tostão,</l>
+          <l n="4">é só com negras de Angola:</l>
+          <l n="5">um sátiro salvajola,</l>
+          <l n="6">a quem a universidade</l>
+          <l n="7">não melhorou qualidade,</l>
+          <l n="8">nem juízo melhorou,</l>
+          <l n="9">e se acaso lá estudou,</l>
+          <l n="10">foi loucura, e asnidade.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Sou um tonto, e um cabaça,</l>
+          <l n="2">pois fui qual bruto indigesto,</l>
+          <l n="3">onde os mais compõem o gesto</l>
+          <l n="4">por cair na vossa graça:</l>
+          <l n="5">e se então fugi da praça,</l>
+          <l n="6">onde estão homens de porte,</l>
+          <l n="7">bem é, que a praça me corte,</l>
+          <l n="8">pois atento à vossa fé</l>
+          <l n="9">devia de entender, que</l>
+          <l n="10">onde vós estais, é corte.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Se da sátira entenderes,</l>
+          <l n="2">que pouco pesada vai,</l>
+          <l n="3">vós, Betica, a acrescentai,</l>
+          <l n="4">chamando-me, o que quiseres:</l>
+          <l n="5">quantos nomes me puseres,</l>
+          <l n="6">todos me viram frisando,</l>
+          <l n="7">e se enfim acrescentando</l>
+          <l n="8">não vos parecer bastante,</l>
+          <l n="9">mudai-os de instante a instante,</l>
+          <l n="10">pondo-me uns, e outros tirando.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>INDO O POETA, E GONÇALLO RAVASCO A CASA DE BETICA E QUERENDO TRATAR COM ELLA LHE PEDIO HUA GALA DE ANTEMÃO.</head>
+        <lg n="1">
+          <l n="1">Fui, Betica, à vossa casa</l>
+          <l n="2">uma noite de luar</l>
+          <l n="3">entrei com Senhor Gonçalo,</l>
+          <l n="4">e saí com Barrabás.</l>
+          <l n="5">Propus-vos minha doença,</l>
+          <l n="6">comuniquei-vos meu mal,</l>
+          <l n="7">receitastes-me um veneno</l>
+          <l n="8">com matar-vos ofertar.</l>
+          <l n="9">Logo entendi o remoque,</l>
+          <l n="10">e que fiz, vos lembrará,</l>
+          <l n="11">cara, como de quem prova</l>
+          <l n="12">cousa, que lhe sabe mal.</l>
+          <l n="13">Contudo tive paciência,</l>
+          <l n="14">que, a quem saúde não há,</l>
+          <l n="15">morre às vezes do remédio,</l>
+          <l n="16">mais que do seu próprio mal.</l>
+          <l n="17">Assentei de obedecer-vos,</l>
+          <l n="18">e pus-me a considerar,</l>
+          <l n="19">onde uma gala acharia</l>
+          <l n="20">em tempo, que ovos não há.</l>
+          <l n="21">Fiei-me no mercador,</l>
+          <l n="22">que por fiar fiará</l>
+          <l n="23">as sedas, que heis de vestir,</l>
+          <l n="24">no roca de Portugal.</l>
+          <l n="25">Mas tornando ao vosso conto</l>
+          <l n="26">creio, que se há de notar,</l>
+          <l n="27">que por pedires diante</l>
+          <l n="28">vós quereis dar por detrás.</l>
+          <l n="29">Que diante a luz caminhe,</l>
+          <l n="30">diz o antigo rifão: mas</l>
+          <l n="31">como a posso levar eu,</l>
+          <l n="32">se o que quero, é tropeçar.</l>
+          <l n="33">O que eu quisera, Betica,</l>
+          <l n="34">é, convosco me encontrar,</l>
+          <l n="35">que assim no escuro caíra,</l>
+          <l n="36">quem com luz não cairá.</l>
+          <l n="37">Eu quero convosco amores,</l>
+          <l n="38">rinhas não, e claro está,</l>
+          <l n="39">que dar, e tomar são rinhas,</l>
+          <l n="40">de que Deus me há de livrar.</l>
+          <l n="41">Dizem, que sois trigueirinha,</l>
+          <l n="42">juro, o que posso jurar,</l>
+          <l n="43">que mente, quem tal afirma,</l>
+          <l n="44">porque vós bem clara estais.</l>
+          <l n="45">Contudo torno a dizer-vos</l>
+          <l n="46">que tenho de vos mandar</l>
+          <l n="47">tão grande luz adiante,</l>
+          <l n="48">que cegueis, e me caiais.</l>
+          <l n="49">Entretanto só vos peço,</l>
+          <l n="50">não queirais acrescentar</l>
+          <l n="51">barrete de quatro cornos</l>
+          <l n="52">com trezentos cornos mais.</l>
+          <l n="53">Porque vos quero já tanto,</l>
+          <l n="54">que a vida me há de custar,</l>
+          <l n="55">ver chupar outras abelhas</l>
+          <l n="56">flor, que sempre em flor está.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>TEVE O POETA NOTICIA, QUE SEBASTIÃO DA ROCHA PITTA SENDO RAPAZ, SE ESTRAGAVA COM BRITES.</head>
+        <lg n="1">
+          <l n="1">Brás pastor inda donzelo,</l>
+          <l n="2">querendo descabaçar-se,</l>
+          <l n="3">viu Betica a recrear-se</l>
+          <l n="4">vinda ao prado de amarelo:</l>
+          <l n="5">e tendo duro o pinguelo,</l>
+          <l n="6">foi lho metendo já nu,</l>
+          <l n="7">fossando como Tatu:</l>
+          <l n="8">gritou Brites, inda bem,</l>
+          <l n="9">que tudo sofre, quem tem</l>
+          <l n="10">rachadura junto ao cu.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>OFFENDIDO SEBASTIÃO DA ROCHA PITTA POR CAUSA DE HUNS CIUMES À QUIZ CASTIGAR: AO QUE ACODIO A MAY E LHE FEZ AS DESCOMPOSTURAS SEGUINTES.</head>
+        <lg n="1">
+          <l n="1">Um Sansão de caramelo</l>
+          <l n="2">quis a Dalila ofender,</l>
+          <l n="3">ela pelo enfraquecer</l>
+          <l n="4">lançou-lhe mão do cabelo:</l>
+          <l n="5">ele vendo-se sem pêlo</l>
+          <l n="6">franqueou a retirada;</l>
+          <l n="7">de um pulo tomou a escada,</l>
+          <l n="8">e por ser Sansão às tortas,</l>
+          <l n="9">em vez de levar as portas</l>
+          <l n="10">levou muita bofetada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O Filisteu, que lhas deu,</l>
+          <l n="2">(segundo ele significa)</l>
+          <l n="3">a Mãe era de Betica</l>
+          <l n="4">mulher como um filisteu:</l>
+          <l n="5">a bofetões o cozeu,</l>
+          <l n="6">e o pôs como um sal moído;</l>
+          <l n="7">mas ele está agradecido</l>
+          <l n="8">sair com olhos na cara,</l>
+          <l n="9">que ela diz, lhos não tirara,</l>
+          <l n="10">por já lhos haver comido.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Posto o meu Sansão na rua,</l>
+          <l n="2">por firmar-se na estacada</l>
+          <l n="3">tomou de um burro a queixada,</l>
+          <l n="4">outros dizem, que era sua:</l>
+          <l n="5">com ela o inimigo acua,</l>
+          <l n="6">mas não fez dano, nem mal,</l>
+          <l n="7">porque afirma cada qual</l>
+          <l n="8">entre alvoroço, e sussurro,</l>
+          <l n="9">quem livrou dos pés do burro,</l>
+          <l n="10">mal morrerá do queixal.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Enfim foi preso o Sansão</l>
+          <l n="2">pelas mãos da filistéia,</l>
+          <l n="3">não nos bofes da cadeia,</l>
+          <l n="4">nas tripas de um torreão:</l>
+          <l n="5">ali o cabelo lhe dão,</l>
+          <l n="6">que perdeu na suja guerra;</l>
+          <l n="7">jura Sansão, brama, e berra,</l>
+          <l n="8">que se torna a ver Betica,</l>
+          <l n="9">e as colunas se lhe aplica,</l>
+          <l n="10">que há de lançá-la por terra.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>POR UM ESCRAVO MANDOU O POETA À BETICA HUM FORMOSO CARÁ COM ESTE.</head>
+        <lg type="mote">
+          <l n="1">Dize a Betica que quando</l>
+          <l n="2">buscava, que lhe mandar,</l>
+          <l n="3">um só cará pude achar,</l>
+          <l n="4">que por ser cará lho mando.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Bernardo, há quase dous anos,</l>
+          <l n="2">que andais a ir, e a vir</l>
+          <l n="3">sem podermos conseguir</l>
+          <l n="4">de Betica, mais que enganos:</l>
+          <l n="5">se hás de dar fim a meus danos</l>
+          <l n="6">em vencê-la porfiando</l>
+          <l n="7">vai trazendo, e vai levando,</l>
+          <l n="8">e pois já chega a dizer</l>
+          <l n="9">que hei de lograr, e vencer,</l>
+          <l n="10">dize a Betica que quando?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pede-lhe o dia, e a hora,</l>
+          <l n="2">em que a hei de ver louçã</l>
+          <l n="3">porque é mui longe amanhã</l>
+          <l n="4">para uma alma, que a adora:</l>
+          <l n="5">e porquanto essa Senhora</l>
+          <l n="6">dá agora em desconfiar,</l>
+          <l n="7">dos que a não sabem comprar,</l>
+          <l n="8">dize-lhe, que isso entibia,</l>
+          <l n="9">a quem já por cortesia</l>
+          <l n="10">buscava, que lhe mandar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que há de ter em grande apreço</l>
+          <l n="2">os desejos da vontade,</l>
+          <l n="3">que valem na realidade</l>
+          <l n="4">mais que a dita do sucesso:</l>
+          <l n="5">e que se o dar não tem preço,</l>
+          <l n="6">também se deve estimar,</l>
+          <l n="7">quem tem desejos de dar,</l>
+          <l n="8">como eu, que com tanto afinco</l>
+          <l n="9">desejando achar um brinco,</l>
+          <l n="10">só um cará pude achar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pois se a sorte mais não quis</l>
+          <l n="2">conceder-me, e deparar-me,</l>
+          <l n="3">inda assim posso gabar-me,</l>
+          <l n="4">que lhe dei bem de raiz:</l>
+          <l n="5">que o que pude, agora fiz,</l>
+          <l n="6">ao depois de quando em quando</l>
+          <l n="7">lhe irei aos poucos mandando,</l>
+          <l n="8">sendo, que tão fora está</l>
+          <l n="9">de ser pouco esse cará,</l>
+          <l n="10">que por ser cará lho mando.</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>VINDO ESTA DAMA HUMA VEZ A CASA DO POETA LHE PEDIO CEM MIL REIS PARA HUM DESEMPENHO.</head>
+        <lg n="1">
+          <l n="1">Betica: a bom mato vens</l>
+          <l n="2">com teu dá cá, com teu toma,</l>
+          <l n="3">o diabo te enganou,</l>
+          <l n="4">não pode ser outra cousa.</l>
+          <l n="5">Viste-me acaso com jeito,</l>
+          <l n="6">de comissário da frota,</l>
+          <l n="7">que faz roupa de francês</l>
+          <l n="8">dos borcados de Lisboa?</l>
+          <l n="9">Sou eu acaso o Mazulo,</l>
+          <l n="10">que, do que tem de outras contas,</l>
+          <l n="11">dá sem conta cada um ano</l>
+          <l n="12">cem mil cruzados à Rola?</l>
+          <l n="13">Sou Mataxim por ventura,</l>
+          <l n="14">que vim onte ontem d'Angola,</l>
+          <l n="15">e dos escravos alheios</l>
+          <l n="16">faço mercancia própria?</l>
+          <l n="17">Menina, eu bato moeda?</l>
+          <l n="18">eu sou um pobre idiota,</l>
+          <l n="19">que para um tostão ganhar</l>
+          <l n="20">estudo uma noite toda.</l>
+          <l n="21">Cem mil-réis me vens pedir?</l>
+          <l n="22">a mim, cem mil-réis, demônia?</l>
+          <l n="23">se eu algum dia os vi juntos,</l>
+          <l n="24">Deus mos dê, e mos comei.</l>
+          <l n="25">Se eu nascera Genovês,</l>
+          <l n="26">ou fora visrei de Goa,</l>
+          <l n="27">vinte quatro de Sevilha,</l>
+          <l n="28">ou quarenta e oito de Roma:</l>
+          <l n="29">Dera-te, minha Betica,</l>
+          <l n="30">pela graça, com que tomas,</l>
+          <l n="31">mais ouro, que vinte minas,</l>
+          <l n="32">mais sedas, que trinta frotas.</l>
+          <l n="33">Mas um pobre estudantão,</l>
+          <l n="34">que vive à pura tramóia,</l>
+          <l n="35">e sendo leigo, se finge</l>
+          <l n="36">cleriguíssimo corona:</l>
+          <l n="37">Que pode, Betica, dar-te,</l>
+          <l n="38">se não qués versos, nem prosa?</l>
+          <l n="39">eu não dou senão conselhos,</l>
+          <l n="40">se mos paga, quem mos toma.</l>
+          <l n="41">Se me há de custar tão caro</l>
+          <l n="42">erguer-te uma vez as roupas,</l>
+          <l n="43">com outra antes de barrete,</l>
+          <l n="44">do que castigo de gorra.</l>
+          <l n="45">Para que sendo tão rica</l>
+          <l n="46">pedes como pobretona,</l>
+          <l n="47">se esses teus dentes de prata</l>
+          <l n="48">estorvem o dar-te esmolas!</l>
+          <l n="49">Que mais cabedal desejas,</l>
+          <l n="50">se és tão rica de parolas,</l>
+          <l n="51">que com vários chistes pedes</l>
+          <l n="52">todo um dia a mesma cousa?</l>
+          <l n="53">Tu pedindo, e eu negando,</l>
+          <l n="54">que cousa mais preciosa,</l>
+          <l n="55">que val mais, do que desejas,</l>
+          <l n="56">e a ti nada te consola.</l>
+          <l n="57">Cem mil-réis de uma só vez?</l>
+          <l n="58">pois, pobreta, à outra porta;</l>
+          <l n="59">Deus te favoreça Irmã,</l>
+          <l n="60">não há trocado; perdoa.</l>
+          <l n="61">Não há real em palácio,</l>
+          <l n="62">ando baldo, perdi a bolsa;</l>
+          <l n="63">que são os modos, com que</l>
+          <l n="64">se despede uma pidona.</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>TORNA ESTA DAMA A INVESTIR SEGUNDA VEZ AO POETA PEDINDOLHE HUMA GALA, E ELLE FAMOSAMENTE SE DESEMPULHA DESTE MODO.</head>
+        <lg n="1">
+          <l n="1">Culpa fora, Brites bela,</l>
+          <l n="2">não vos dar aquela gala,</l>
+          <l n="3">em que o vosso amor me fala</l>
+          <l n="4">tantas vezes com cautela:</l>
+          <l n="5">mas que gala será? Tela?</l>
+          <l n="6">Tela não, minha menina,</l>
+          <l n="7">porque como sois tão fina,</l>
+          <l n="8">e tão lindo serafim,</l>
+          <l n="9">para luzirdes assim</l>
+          <l n="10">vossa gala é serafina.</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>PICADA BETICA, DE QUE O POETA LHE NÃO DESSE A GALA, LHE APPARECEO EM CERTA OCCASIÃO COM HUMA SAYA DE SEDA AMARELLA, MAS O POETA SE DESPICA COM ESTAS DÉCIMAS.</head>
+        <lg n="1">
+          <l n="1">Toda a noite me desvelo</l>
+          <l n="2">por saber, com que conselho</l>
+          <l n="3">para meter de vermelho,</l>
+          <l n="4">vos vestistes de amarelo:</l>
+          <l n="5">não sabe o vosso Donzelo,</l>
+          <l n="6">qual amante, ou quais amores</l>
+          <l n="7">vos deu a gala de flores:</l>
+          <l n="8">porque assim como chamais</l>
+          <l n="9">para a cama oficiais,</l>
+          <l n="10">para a gala coadjutores.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Como se fora o deitá-la</l>
+          <l n="2">render um forte iminente,</l>
+          <l n="3">andais ajuntando gente,</l>
+          <l n="4">para deitar uma gala:</l>
+          <l n="5">noutra cousa se não fala,</l>
+          <l n="6">mais que a gente, que fazeis,</l>
+          <l n="7">porque quando os convoqueis,</l>
+          <l n="8">e eles vos forem galando,</l>
+          <l n="9">mil galas vos irão dando,</l>
+          <l n="10">com que mil galas tereis.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">De tanto amante sem conto</l>
+          <l n="2">a gala haveis recebido,</l>
+          <l n="3">que nos pontos do cosido,</l>
+          <l n="4">cabe a cada amante um ponto:</l>
+          <l n="5">não vos sinto outro desconto,</l>
+          <l n="6">sendo a vossa obrigação</l>
+          <l n="7">tanta quantos pontos são:</l>
+          <l n="8">senão, que um e outro se afoite,</l>
+          <l n="9">irem pagar-se de noite</l>
+          <l n="10">nos pontos, que se lhes dão.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Não tendes, que vos queixar</l>
+          <l n="2">destas minhas travessuras,</l>
+          <l n="3">porque eu vos bato as costuras,</l>
+          <l n="4">para o vestido assentar:</l>
+          <l n="5">se todos hão de pagar</l>
+          <l n="6">em chegando a vos dormir,</l>
+          <l n="7">deixai também repartir</l>
+          <l n="8">por mim esta obrigação,</l>
+          <l n="9">que os mais de vestir vos dão,</l>
+          <l n="10">e eu vos corto de vestir.</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>CERTO COMISSARIO DA PRAYA SEU AMAZIO, SABENDO, QUE ANTES DE ELLA IR À SUA CASA, COSTUMAVA PRIMEYRO TRATAR CO MANUEL RAMOS PARENTE, LHE PREPAROU UMA LAVAGEM DE PIMENTAS, DE QUE FICOU EM MISERAVEL ESTADO.</head>
+        <lg n="1">
+          <l n="1">Dá-me, Betica, cuidado,</l>
+          <l n="2">o desastre, que tivestes,</l>
+          <l n="3">quando gulosa comestes</l>
+          <l n="4">o paio salpimentado:</l>
+          <l n="5">não era inda divulgado</l>
+          <l n="6">vosso mal, vosso desmaio,</l>
+          <l n="7">quando eu soube como um raio</l>
+          <l n="8">de u'as agulhas ferrugentas,</l>
+          <l n="9">que comestes as pimentas,</l>
+          <l n="10">mas não gostastes do paio.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Em vinganças tão cruentas</l>
+          <l n="2">tenho por justas seqüelas,</l>
+          <l n="3">que, a quem dais dor de canelas,</l>
+          <l n="4">vos dê dores de pimentas:</l>
+          <l n="5">mais vezes do que duzentas</l>
+          <l n="6">vos mandou pôr atalaia</l>
+          <l n="7">o vosso amigo da praia,</l>
+          <l n="8">e vendo, que o outro malho</l>
+          <l n="9">vos punha de vinha-d'alho</l>
+          <l n="10">quis pôr-vos de jiquitaia.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Fez bem vosso barregão,</l>
+          <l n="2">pois que via com seu olho,</l>
+          <l n="3">que vínheis com tanto molho,</l>
+          <l n="4">de botar-lhe o pimentão:</l>
+          <l n="5">vós vínheis de outra ocasião</l>
+          <l n="6">que ele viu, e coligiu,</l>
+          <l n="7">e como tanto o sentiu</l>
+          <l n="8">(sendo vós sua manceba)</l>
+          <l n="9">que muito, que vos receba</l>
+          <l n="10">com puta que te pariu.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ele vos pôs justamente</l>
+          <l n="2">Betica, em tanto perigo,</l>
+          <l n="3">porque se tendes amigo,</l>
+          <l n="4">não tenhais outro parente:</l>
+          <l n="5">nem se sofre à boa mente</l>
+          <l n="6">(inda que sejam subornos</l>
+          <l n="7">a beleza, e os adornos)</l>
+          <l n="8">que uma Moça de reclamos</l>
+          <l n="9">se deite à sombra dos Ramos,</l>
+          <l n="10">se os Ramos produzem cornos.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">E pois vos vejo estalar</l>
+          <l n="2">tomara agora saber,</l>
+          <l n="3">em que vaso heis de cozer,</l>
+          <l n="4">o que haveis de manducar?</l>
+          <l n="5">eu não hei de lá chegar,</l>
+          <l n="6">bem que a estrela violenta</l>
+          <l n="7">me inclina, arrasta, e atenta,</l>
+          <l n="8">pois tendes vaso tão mau,</l>
+          <l n="9">que sobre ser bacalhau</l>
+          <l n="10">tem muchíssima pimenta.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Mas deixada esta matéria,</l>
+          <l n="2">a saber de vós me alhano,</l>
+          <l n="3">que é feito daquele abano,</l>
+          <l n="4">com que à noite da miséria</l>
+          <l n="5">a vossa negra Quitéria</l>
+          <l n="6">(sendo na gema do inverno)</l>
+          <l n="7">vos abanava o interno</l>
+          <l n="8">do vaso, que em viva chama</l>
+          <l n="9">vos ardia mais na cama,</l>
+          <l n="10">que o Avarento no Inferno.</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>AS DIFFERENÇAS QUE TINHÃO SEOS QUATRO AMANTES, SOBRE QUEM À HAVIA DE LEVAR.</head>
+        <lg n="1">
+          <l n="1">Betica: a vossa charola</l>
+          <l n="2">levam-na quatro galantes</l>
+          <l n="3">discretos, ricos, brilhantes</l>
+          <l n="4">peanhas da vossa sola:</l>
+          <l n="5">qualquer deles acrisola</l>
+          <l n="6">o vosso trono eminente;</l>
+          <l n="7">mas tem reparado a gente,</l>
+          <l n="8">que é muito para sentir,</l>
+          <l n="9">que um para o Norte quer ir,</l>
+          <l n="10">e que outro para o Poente.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Um por não perder o abrigo,</l>
+          <l n="2">vos quer levar para fora,</l>
+          <l n="3">outro por vos ver cad'hora,</l>
+          <l n="4">vos quer ter aqui consigo:</l>
+          <l n="5">este diz, "há de ir comigo":</l>
+          <l n="6">aquele: "aqui se há de estar":</l>
+          <l n="7">e é muito para chorar,</l>
+          <l n="8">que um andor tão buliçoso</l>
+          <l n="9">sempre o tenham duvidoso</l>
+          <l n="10">entre partir, e ficar.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">A mim me tem parecido,</l>
+          <l n="2">por fugir pesares artos,</l>
+          <l n="3">que um algoz vos faça em quartos,</l>
+          <l n="4">que o tendes bem merecido:</l>
+          <l n="5">e que cada qual Cupido,</l>
+          <l n="6">o que leva, e o que atraca,</l>
+          <l n="7">da vossa carne velhaca</l>
+          <l n="8">leve um quarto por partilha,</l>
+          <l n="9">e dos quartos a quadrilha</l>
+          <l n="10">como irmãmente da vaca.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Para repartir-vos bem</l>
+          <l n="2">entre os quatro quadrilheiros,</l>
+          <l n="3">tirem-se os quartos inteiros</l>
+          <l n="4">soã, coxão, alcatra, acém:</l>
+          <l n="5">e se entre eles houver quem</l>
+          <l n="6">vos dê mais prazer, e gosto,</l>
+          <l n="7">esse leve o entrecosto,</l>
+          <l n="8">a alcatra, quem bem vos quer,</l>
+          <l n="9">o acém, o que mais vos der,</l>
+          <l n="10">e o coxão a todo o posto.</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>A MESMA APPARECENDO NO DIA DAS VIRGENS VESTIDA DE LUTO.</head>
+        <lg n="1">
+          <l n="1">Betica: que dó é esse,</l>
+          <l n="2">de que por Virgens te vestes?</l>
+          <l n="3">acaso é, que dó tivestes,</l>
+          <l n="4">de que tal bem se perdesse?</l>
+          <l n="5">compre-te, quem te conhece,</l>
+          <l n="6">que eu vendo-te assim vestida</l>
+          <l n="7">com dó, te vejo saída,</l>
+          <l n="8">e creio, que já és tal,</l>
+          <l n="9">que cores te fazem mal,</l>
+          <l n="10">e honesto só te dá vida.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

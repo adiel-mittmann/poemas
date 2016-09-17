@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36532"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Ilustre e reverendo Frei Lourenço,</l>
+          <l n="2">Quem vos disse, que um burro tão imenso,</l>
+          <l n="3">Siso em agraz, miolos de pateta</l>
+          <l n="4">Pode meter-se em réstia de poeta?</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>ESTA SATYRA DIZEM QUE FEZ CERTA PESSOA DE AUCTORIDADE AO POETA, PELO TER SATYRIZADO, COMO FICA DITO, E A PUBLICOU EM NOME DO VIGARIO LOURENÇO RIBEYRO.</head>
+        <lg n="1">
+          <l n="1">Hoje a Musa me provoca,</l>
+          <l n="2">a que bem pelo miúdo</l>
+          <l n="3">nada cale, e diga tudo,</l>
+          <l n="4">quanto me vier à boca:</l>
+          <l n="5">como digo, hoje me toca</l>
+          <l n="6">meter minha colherada,</l>
+          <l n="7">que nem sempre ter calada</l>
+          <l n="8">a boca parece bem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Parece, que já começo</l>
+          <l n="2">a dizer alguma cousa,</l>
+          <l n="3">e para que o mundo me ouça,</l>
+          <l n="4">já mil atenções lhe peço:</l>
+          <l n="5">que não sou sábio, confesso,</l>
+          <l n="6">para falar elegante;</l>
+          <l n="7">porém digo, andando avante,</l>
+          <l n="8">que vejamos o desdém;</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Conheça toda a Bahia,</l>
+          <l n="2">quem é o sátiro magano,</l>
+          <l n="3">que lhe há feito tanto dano</l>
+          <l n="4">desonrando-a cada dia:</l>
+          <l n="5">pois sem ser de estrebaria,</l>
+          <l n="6">mais do que um burro esfaimado,</l>
+          <l n="7">se jacta de grão letrado,</l>
+          <l n="8">sendo asninho parlafrém:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ser a todos preferido</l>
+          <l n="2">no saber, é, o que pertende:</l>
+          <l n="3">porém quem se não entende,</l>
+          <l n="4">mal pode ser entendido:</l>
+          <l n="5">mas se é sábio, e advertido,</l>
+          <l n="6">como em vez de achar ventura</l>
+          <l n="7">foi topar na cornadura,</l>
+          <l n="8">que demasiada tem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Quis por ser em tudo novo,</l>
+          <l n="2">que é somente o que ele quer,</l>
+          <l n="3">ter consigo uma mulher,</l>
+          <l n="4">que é também de todo o povo:</l>
+          <l n="5">eu só nesta parte o louvo</l>
+          <l n="6">de discreto, e de entendido,</l>
+          <l n="7">pois que quis ser seu marido</l>
+          <l n="8">juntamente com mais cem;</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Como cão, que acha dinheiro,</l>
+          <l n="2">se contentou da consorte,</l>
+          <l n="3">que merecendo-lhe a morte,</l>
+          <l n="4">existe a puta em viveiro:</l>
+          <l n="5">imaginou ser primeiro,</l>
+          <l n="6">porém outros antes dele</l>
+          <l n="7">lhe tinham surrado a pele,</l>
+          <l n="8">que ele rói d'aquém d'além:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Por segundo caracol</l>
+          <l n="2">se deve já conhecer,</l>
+          <l n="3">porque lhe há posto a mulher</l>
+          <l n="4">os cornos, que deita ao sol:</l>
+          <l n="5">por tal o tenho em meu rol</l>
+          <l n="6">para o meter em dous fornos,</l>
+          <l n="7">porque lhe aqueçam os cornos,</l>
+          <l n="8">e se lhe contem também:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">De Vulcano sei, que herdou</l>
+          <l n="2">o saber mui bem malhar,</l>
+          <l n="3">não a Bártolo ensinar,</l>
+          <l n="4">como sei, que se gabou:</l>
+          <l n="5">se dissera; que o forjou</l>
+          <l n="6">seu Avô estando malhando,</l>
+          <l n="7">crédito lhe iria dando,</l>
+          <l n="8">segundo aqui se contém:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Nunca soube fazer veso,</l>
+          <l n="2">senão como tiririca,</l>
+          <l n="3">porque como ela é, que pica,</l>
+          <l n="4">e corta todo o universo:</l>
+          <l n="5">pica a todos por perverso;</l>
+          <l n="6">mas foi ele bem picado,</l>
+          <l n="7">conforme nos hão contado,</l>
+          <l n="8">os que de Lisboa vêm:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Com levar tantos vaivéns</l>
+          <l n="2">ficou com cara mui leda</l>
+          <l n="3">letrado de três a moeda,</l>
+          <l n="4">ou de três por dous vinténs:</l>
+          <l n="5">só lhe dão os parabéns</l>
+          <l n="6">outros asnos como ele,</l>
+          <l n="7">como se ele fosse alguém:</l>
+          <l n="8">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Que fora Juiz, se alista</l>
+          <l n="2">este burro, este asneirão,</l>
+          <l n="3">e com tal jurisdição</l>
+          <l n="4">nada teve de Jurista:</l>
+          <l n="5">e por mais que ser insista</l>
+          <l n="6">Juiz, como significa,</l>
+          <l n="7">então maior asno fica,</l>
+          <l n="8">dos que vão, e dos que vêm:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Mui contente, e muito ledo</l>
+          <l n="2">mostra, que não tem mais trato,</l>
+          <l n="3">do que arranhar como gato</l>
+          <l n="4">no Parnaso de Quevedo:</l>
+          <l n="5">traz o mundo em um enredo</l>
+          <l n="6">com sátiras tão malditas,</l>
+          <l n="7">que achando-as em livro escritas</l>
+          <l n="8">se admiram todos, que as vêem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Todas as tenho contadas</l>
+          <l n="2">neste Parnaso das Musas,</l>
+          <l n="3">que ficaram mui confusas,</l>
+          <l n="4">vendo, que as tinhas furtadas:</l>
+          <l n="5">ao português retratadas</l>
+          <l n="6">no castelhano as acharam,</l>
+          <l n="7">e como mudas ficaram</l>
+          <l n="8">posto que não vai, nem vem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="14">
+          <l n="1">A todos sátiras fez,</l>
+          <l n="2">sem ninguém excetuar,</l>
+          <l n="3">porém não lhe há de faltar,</l>
+          <l n="4">quem lhe faça desta vez:</l>
+          <l n="5">se eu estou bem nos meus três,</l>
+          <l n="6">agora fica talhado,</l>
+          <l n="7">pois o corte, que lhe hei dado,</l>
+          <l n="8">parece, que lhe está bem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="15">
+          <l n="1">Que fora Juiz de fora,</l>
+          <l n="2">diz, que passa na rivera,</l>
+          <l n="3">mas que fora de Juiz era,</l>
+          <l n="4">afirmarei eu agora:</l>
+          <l n="5">porque em seu peito não mora,</l>
+          <l n="6">nem justiça, nem razão,</l>
+          <l n="7">pois não está em sua mão</l>
+          <l n="8">jamais poder falar bem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Mui caro lhe tem custado</l>
+          <l n="2">o mais do que tem escrito,</l>
+          <l n="3">pois o não livrou seu dito,</l>
+          <l n="4">dos que lhe haviam jurado:</l>
+          <l n="5">o muito, que tem falado,</l>
+          <l n="6">(se acaso me não engano)</l>
+          <l n="7">me fez ouvir, que a Fulano</l>
+          <l n="8">mataram, e eu direi quem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Por debaixo de uma amarra</l>
+          <l n="2">na Nau, em que se embarcou,</l>
+          <l n="3">este magano escapou</l>
+          <l n="4">té sair fora da barra:</l>
+          <l n="5">e por ver já cousa charra,</l>
+          <l n="6">o não ter ele vergonha,</l>
+          <l n="7">é razão, que o descomponha</l>
+          <l n="8">de quanto à boca me vem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="18">
+          <l n="1">Boca, que males há feito,</l>
+          <l n="2">bem é, que males se faça,</l>
+          <l n="3">boca, que para mordaça</l>
+          <l n="4">só parece, que tem jeito:</l>
+          <l n="5">eu se isto tomar a peito,</l>
+          <l n="6">juro a Deus onipotente,</l>
+          <l n="7">não lhe deixar um só dente,</l>
+          <l n="8">pois que morde, e diz a quem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="19">
+          <l n="1">Já que a todos descompõe,</l>
+          <l n="2">quis agora por meu gosto,</l>
+          <l n="3">que ele fosse o descomposto,</l>
+          <l n="4">para ver se se compõe:</l>
+          <l n="5">mil males sobre si põe,</l>
+          <l n="6">quem de todos fala mal,</l>
+          <l n="7">e assim que já cada qual</l>
+          <l n="8">me pode dizer amém:</l>
+          <l n="9">mas não o sabia ninguém.</l>
+        </lg>
+        <lg n="20">
+          <l n="1">De Cristão não é, senão</l>
+          <l n="2">de herege, tudo, o que obra,</l>
+          <l n="3">pois nele a heresia sobra,</l>
+          <l n="4">e lhe falta o ser cristão:</l>
+          <l n="5">remetê-lo à Inquisição</l>
+          <l n="6">já uma vez se intentou,</l>
+          <l n="7">mas bem veis, quem atalhou,</l>
+          <l n="8">senhores, tão grande bem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="21">
+          <l n="1">Digo-te já de enfadado,</l>
+          <l n="2">que se fores atrevido,</l>
+          <l n="3">não só te há de ver perdido,</l>
+          <l n="4">mas sim de todo acabado:</l>
+          <l n="5">olha, que o que tens falado,</l>
+          <l n="6">é mui bastante motivo</l>
+          <l n="7">para te não deixar vivo,</l>
+          <l n="8">do teu falar mal te vem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+        <lg n="22">
+          <l n="1">Não cuides me hás de escapar</l>
+          <l n="2">por mais oculto que estejas,</l>
+          <l n="3">para que magano vejas,</l>
+          <l n="4">Há, quem te possa ensinar:</l>
+          <l n="5">emenda esse teu falar,</l>
+          <l n="6">corta essa língua mordaz,</l>
+          <l n="7">vê, que este aviso te faz,</l>
+          <l n="8">quem ela mordido tem:</l>
+          <l n="9">mas não o saiba ninguém.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>ESCANDALIZADO O POETA DA SATYRA ANTECEDENTE, E SER PUBLICADA EM NOME DO VIGARIO DE PASSÉ LOURENÇO RIBEYRO HOMEM PARDO, QUANDO ELLE ESTAVA INNOCCENTE NA FACTURA DELLA, E CALLAVA PORQUE ASSIM CONVINHA: LHE ASSENTA AGORA O POETA O CACHEYRO COM ESTA PETULANTE SÁTIRA.</head>
+        <lg n="1">
+          <l n="1">Um Branco muito encolhido,</l>
+          <l n="2">um Mulato muito ousado,</l>
+          <l n="3">um Branco todo coitado,</l>
+          <l n="4">um canaz todo atrevido:</l>
+          <l n="5">o saber muito abatido,</l>
+          <l n="6">a ignorância, e ignorante</l>
+          <l n="7">mui ufano, e mui farfante</l>
+          <l n="8">sem pena, ou contradição:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que um Cão revestido em Padre</l>
+          <l n="2">por culpa da Santa Sé</l>
+          <l n="3">seja tão ousado, que</l>
+          <l n="4">contra um Branco ousado ladre:</l>
+          <l n="5">e que esta ousadia quadre</l>
+          <l n="6">ao Bispo, ao Governador,</l>
+          <l n="7">ao Cortesão, ao Senhor,</l>
+          <l n="8">tendo naus no Maranhão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Se a este podengo asneiro</l>
+          <l n="2">o Pai o alvanece já,</l>
+          <l n="3">a Mãe lhe lembre, que está</l>
+          <l n="4">roendo em um tamoeiro:</l>
+          <l n="5">que importa um branco cueiro,</l>
+          <l n="6">se o cu é tão denegrido!</l>
+          <l n="7">mas se no misto sentido</l>
+          <l n="8">se lhe esconde a negridão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Prega o Perro frandulário,</l>
+          <l n="2">e como a licença o cega,</l>
+          <l n="3">cuida, que em púlpito prega,</l>
+          <l n="4">e ladra num campanário:</l>
+          <l n="5">vão ouvi-lo de ordinário</l>
+          <l n="6">Tios, e Tias do Congo,</l>
+          <l n="7">e se suando o mondongo</l>
+          <l n="8">eles só gabos lhe dão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Que há de pregar o cachorro,</l>
+          <l n="2">sendo uma vil criatura,</l>
+          <l n="3">se não sabe da escritura</l>
+          <l n="4">mais que aquela, que o pôs forro?</l>
+          <l n="5">quem lhe dá ajuda, e socorro,</l>
+          <l n="6">são quatro sermões antigos,</l>
+          <l n="7">que lhe vão dando os amigos,</l>
+          <l n="8">e se amigos tem um cão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Um cão é o timbre maior</l>
+          <l n="2">da Ordem predicatória,</l>
+          <l n="3">mas não acho em toda história,</l>
+          <l n="4">que o cão fosse pregador:</l>
+          <l n="5">se nunca falta um Senhor,</l>
+          <l n="6">que lhe alcance esta licença</l>
+          <l n="7">a Lourenço por Lourença,</l>
+          <l n="8">que as Pardas tudo farão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Já em versos quer dar penada,</l>
+          <l n="2">e porque o gênio desbrocha,</l>
+          <l n="3">como cão a troche-mocha</l>
+          <l n="4">mete unha e dá dentada:</l>
+          <l n="5">o Perro não sabe nada,</l>
+          <l n="6">e se com pouca vergonha</l>
+          <l n="7">tudo abate, é, porque sonha,</l>
+          <l n="8">que sabe alguma questão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Do Perro afirmam Doutores,</l>
+          <l n="2">que fez uma apologia</l>
+          <l n="3">ao Mestre da poesia,</l>
+          <l n="4">outra ao sol dos Pregadores:</l>
+          <l n="5">se da lua aos resplandores</l>
+          <l n="6">late um cão a noite inteira</l>
+          <l n="7">e ela seguindo a carreira</l>
+          <l n="8">luz sem mais ostentação:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Que vos direi do Mulato,</l>
+          <l n="2">que vos não tenha já dito,</l>
+          <l n="3">se será amanhã delito</l>
+          <l n="4">falar dele sem recato:</l>
+          <l n="5">não faltará um mentecapto,</l>
+          <l n="6">que como vilão de encerro</l>
+          <l n="7">sinta, que dêem no seu perro,</l>
+          <l n="8">e se porta como um cão:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Imaginais, que o insensato</l>
+          <l n="2">do canzarrão fala tanto,</l>
+          <l n="3">porque sabe tanto, ou quanto,</l>
+          <l n="4">não, senão porque é mulato:</l>
+          <l n="5">ter sangue de carrapato</l>
+          <l n="6">ter estoraque de congo</l>
+          <l n="7">cheirar-lhe a roupa a mondongo</l>
+          <l n="8">é cifra de perfeição:</l>
+          <l n="9">milagres do Brasil são.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>RESPOSTA DO VIGARIO LOURENÇO RIBEYRO ESCANDALIZADO DE QUE O POETA Ó SATYRIZASSE DO MODO QUE FICA DITO.</head>
+        <lg n="1">
+          <l n="1">Doutor Gregório Guaranha,</l>
+          <l n="2">pirata do verso alheio,</l>
+          <l n="3">caco, que o mundo tem cheio,</l>
+          <l n="4">do que de Quevedo apanha:</l>
+          <l n="5">já se conhece a maranha</l>
+          <l n="6">das poesias, que vendes</l>
+          <l n="7">por tuas, quando as emprendes</l>
+          <l n="8">traduzir do Castelhano;</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Cuida o mundo, que são tuas</l>
+          <l n="2">as sátiras, que acomodas,</l>
+          <l n="3">suponho que a essas todas</l>
+          <l n="4">pode chamar obras suas:</l>
+          <l n="5">os rapazes pelas ruas</l>
+          <l n="6">o andam publicando já,</l>
+          <l n="7">e o mundo vaia te dá,</l>
+          <l n="8">quando vê tal desengano</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O soneto, que mandaste</l>
+          <l n="2">ao Arcebispo elegante</l>
+          <l n="3">é do Gôngora ao Infante</l>
+          <l n="4">Cardeal, e o furtaste:</l>
+          <l n="5">logo mal te apelidaste</l>
+          <l n="6">o Mestre da poesia</l>
+          <l n="7">furtando mais em um dia,</l>
+          <l n="8">que mil ladrões em um ano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Cuidas, que os outros não sabem?</l>
+          <l n="2">O que sabes, é mui pouco,</l>
+          <l n="3">e assim te gabas de louco</l>
+          <l n="4">temendo, que te não gabem:</l>
+          <l n="5">só nos ignorantes cabem</l>
+          <l n="6">as asneiras, que em ti vemos,</l>
+          <l n="7">pelas quais te conhecemos</l>
+          <l n="8">seres das honras tirano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Não há no mundo soldado,</l>
+          <l n="2">cavalheiro, homem ciente,</l>
+          <l n="3">que tu logo maldizente</l>
+          <l n="4">não deixes vituperado:</l>
+          <l n="5">porém dizes mal do honrado</l>
+          <l n="6">ou por ódio, ou por inveja,</l>
+          <l n="7">ou porque o teu gênio seja</l>
+          <l n="8">fazer aos honrados dano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Dizes mal alguma vez,</l>
+          <l n="2">dos que não procedem bem;</l>
+          <l n="3">mas dirás, que não convém,</l>
+          <l n="4">por serem, como tu és:</l>
+          <l n="5">dize do Pai, que te fez,</l>
+          <l n="6">que bem tens, que dizer dele</l>
+          <l n="7">o mal, que há na tua pele,</l>
+          <l n="8">já que ninguém te acha humano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="7">
+          <l n="1">Se com sátiras tu só</l>
+          <l n="2">a todos desacreditas,</l>
+          <l n="3">trazendo sempre infinitas</l>
+          <l n="4">no forge de teu Avô:</l>
+          <l n="5">como não temes, que o pó</l>
+          <l n="6">te sacuda algum bordão:</l>
+          <l n="7">pois sabes, que a tua mão</l>
+          <l n="8">não pega obras de Vulcano!</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="8">
+          <l n="1">Sendo Neto de um Ferreiro</l>
+          <l n="2">trazes espada de pau,</l>
+          <l n="3">nisso fazes, berimbau,</l>
+          <l n="4">o adágio verdadeiro:</l>
+          <l n="5">porém se em nada és guerreiro,</l>
+          <l n="6">para que te chamas guerra,</l>
+          <l n="7">e a fazes a toda a terra</l>
+          <l n="8">co'a língua, que é maior dano?</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Tua Avó, de quem tomaste</l>
+          <l n="2">de Guerra o falso apelido</l>
+          <l n="3">a um, e a outro marido</l>
+          <l n="4">lhe fez de cornos engaste:</l>
+          <l n="5">se temes, que te não baste</l>
+          <l n="6">por agora, o que ela fez,</l>
+          <l n="7">na tua cabeça vês</l>
+          <l n="8">milhares deles cada ano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="10">
+          <l n="1">Sendo casado em Lisboa,</l>
+          <l n="2">achava logo qualquer</l>
+          <l n="3">remédio em tua mulher,</l>
+          <l n="4">e se provou, era boa:</l>
+          <l n="5">a fama desta outra soa</l>
+          <l n="6">não menos que na Bahia;</l>
+          <l n="7">sendo tua não podia</l>
+          <l n="8">deixar de ter gênio humano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Pois é cousa bem sabida,</l>
+          <l n="2">que o teu casamento sujo</l>
+          <l n="3">veio por um Araújo,</l>
+          <l n="4">que a tinha bem sacudida:</l>
+          <l n="5">casou contigo saída</l>
+          <l n="6">da casa dele, onde esteve</l>
+          <l n="7">por sua amiga, e não deve</l>
+          <l n="8">dizer alguém, que te engano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="12">
+          <l n="1">Fazes, o que fez teu Pai,</l>
+          <l n="2">porque a mesma fama cobres,</l>
+          <l n="3">que por fazer bem a pobres</l>
+          <l n="4">amou muito à tua Mãe:</l>
+          <l n="5">na tua progênie vai</l>
+          <l n="6">herdado como de ofício,</l>
+          <l n="7">pois toma por exercício</l>
+          <l n="8">dar carne ao gênero humano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="13">
+          <l n="1">Tuas Irmãs se casaram</l>
+          <l n="2">publicamente furtadas,</l>
+          <l n="3">e há, quem diga, que furadas</l>
+          <l n="4">d'outros, que se não declaram:</l>
+          <l n="5">oh se as paredes falaram!</l>
+          <l n="6">inda hoje bem poderias</l>
+          <l n="7">ouvir várias putarias</l>
+          <l n="8">de tanto caminho lhano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="14">
+          <l n="1">Teu Pai foi outro Gregório</l>
+          <l n="2">no pouco asseio, e limpeza,</l>
+          <l n="3">de cuja muita escareza,</l>
+          <l n="4">se lembra este território:</l>
+          <l n="5">que andou roto com notório</l>
+          <l n="6">escândalo, até fazer</l>
+          <l n="7">o luto, que quis trazer</l>
+          <l n="8">por certo Rei em tal ano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="15">
+          <l n="1">De teus Irmãos te asseguro,</l>
+          <l n="2">que têm sido na Bahia</l>
+          <l n="3">um labéu da companhia,</l>
+          <l n="4">outro sequaz do Epicuro:</l>
+          <l n="5">mas ambos juntos te juro,</l>
+          <l n="6">que em nenhum vício te igualam;</l>
+          <l n="7">oh que de causas se falam,</l>
+          <l n="8">e todas tanto em teu dano!</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="16">
+          <l n="1">Dizes, que dos Pregadores</l>
+          <l n="2">o sol é teu Irmão, quando</l>
+          <l n="3">Vieira está-se aclamando</l>
+          <l n="4">pelo melhor dos melhores?</l>
+          <l n="5">dizes, que aos esfregadores</l>
+          <l n="6">pode dar ele lições;</l>
+          <l n="7">não sabes quantos baldões</l>
+          <l n="8">tem sofrido pelo cano?</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="17">
+          <l n="1">Diga esse Frade maldito,</l>
+          <l n="2">se injuriado ficou,</l>
+          <l n="3">quando co'a negra se achou</l>
+          <l n="4">na mesma cama do Brito:</l>
+          <l n="5">sei, que se ria infinito,</l>
+          <l n="6">quando o Pintor lhe quis dar</l>
+          <l n="7">depois de o injuriar,</l>
+          <l n="8">vendo-o com a amiga ufano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="18">
+          <l n="1">O que se riu numa festa,</l>
+          <l n="2">dando ele satisfação</l>
+          <l n="3">d'alma daquele sermão</l>
+          <l n="4">publicou, que era mai besta:</l>
+          <l n="5">e se tudo isto não presta,</l>
+          <l n="6">para maior glória sua,</l>
+          <l n="7">veja-se amando a Perua</l>
+          <l n="8">que diz, que Eusébio é seu mano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="19">
+          <l n="1">Se teu Irmão este é,</l>
+          <l n="2">como é sol dos Pregadores?</l>
+          <l n="3">e se tens erros maiores,</l>
+          <l n="4">que nome é bem, que te dê?</l>
+          <l n="5">lembra-te o quanto na Sé</l>
+          <l n="6">escandalizou a todos</l>
+          <l n="7">o pícaro dos teus modos,</l>
+          <l n="8">arnando sempre o profano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="20">
+          <l n="1">Por não querer confessar-te,</l>
+          <l n="2">o Cura te declarou,</l>
+          <l n="3">e esta Quaresma tornou</l>
+          <l n="4">o Vigário a declarar-te:</l>
+          <l n="5">da Igreja o vi lançar-te</l>
+          <l n="6">em uma solene festa;</l>
+          <l n="7">mas tu de uma acção como esta</l>
+          <l n="8">não te corres, sendo humano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="21">
+          <l n="1">Tens mudado mais estados,</l>
+          <l n="2">que formas teve Proteu,</l>
+          <l n="3">não sei, que estado é o teu,</l>
+          <l n="4">depois de tantos mudados:</l>
+          <l n="5">sei, que estamos admirados</l>
+          <l n="6">de te vermos rejeitar</l>
+          <l n="7">a murça capitular,</l>
+          <l n="8">para casar como insano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="22">
+          <l n="1">A nenhum jurista vês</l>
+          <l n="2">que logo não vituperes,</l>
+          <l n="3">chamando-lhe néscio, e queres</l>
+          <l n="4">contradizer, quanto lês:</l>
+          <l n="5">eu sei, que mais de uma vez</l>
+          <l n="6">disseste já na Bahia,</l>
+          <l n="7">que Bártolo não sabia,</l>
+          <l n="8">e que era um asno Ulpiano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="23">
+          <l n="1">Arrezoando em um feito,</l>
+          <l n="2">por mofar do Julgador,</l>
+          <l n="3">fizeste do mal pior,</l>
+          <l n="4">fazendo torto o direito:</l>
+          <l n="5">porém se no teu conceito</l>
+          <l n="6">todos os mais sabem nada,</l>
+          <l n="7">tua ciência é palhada,</l>
+          <l n="8">se se vê com desengano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="24">
+          <l n="1">Lembra-te, quando o Prelado</l>
+          <l n="2">pelas tuas parvoíces</l>
+          <l n="3">decretou, que te despisses</l>
+          <l n="4">do hábito atonsurado:</l>
+          <l n="5">não ficaste envergonhado,</l>
+          <l n="6">porque não há, quem te ponha</l>
+          <l n="7">na cara alguma vergonha</l>
+          <l n="8">ante o Povo Baiano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="25">
+          <l n="1">Vieste de Portugal</l>
+          <l n="2">acutilado, e ferido,</l>
+          <l n="3">e do Burgo socorrido,</l>
+          <l n="4">a quem pagaste tão mal:</l>
+          <l n="5">essa sátira fatal</l>
+          <l n="6">te desterrou a esta terra,</l>
+          <l n="7">mas cutiladas em guerra</l>
+          <l n="8">sempre as de o valor humano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="26">
+          <l n="1">Admira excessivamente,</l>
+          <l n="2">que mandando-te apear</l>
+          <l n="3">certo homem para te dar</l>
+          <l n="4">disseste "não sou valente":</l>
+          <l n="5">mas se és galinha entre gente,</l>
+          <l n="6">assim havias fazer,</l>
+          <l n="7">cacarejar, e correr,</l>
+          <l n="8">que em ti é ofício lhano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="27">
+          <l n="1">Fala de ti, que bem tens,</l>
+          <l n="2">que falar de ti, Gregório,</l>
+          <l n="3">e a todo o mundo é notório,</l>
+          <l n="4">que tens males, e não bens:</l>
+          <l n="5">não queiras pôr-te aos iténs,</l>
+          <l n="6">com quem sobre castigar-te</l>
+          <l n="7">sei, que há de esbofetear-te,</l>
+          <l n="8">e com este desengano,</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+        <lg n="28">
+          <l n="1">Vê, que te quero cascar</l>
+          <l n="2">por outra sátira agora,</l>
+          <l n="3">pois nem a ver o sol fora,</l>
+          <l n="4">queres à porta chegar:</l>
+          <l n="5">pois sabe, que hás de apanhar</l>
+          <l n="6">mais de quatro bordoadas,</l>
+          <l n="7">e com maiores pancatas,</l>
+          <l n="8">que as do teu papel insano:</l>
+          <l n="9">não te envergonhas, magano?</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>A CERTO FRADE QUE SE METTEO A RESPONDER À HUMA SATYRA, QUE FEZ O POETA, ELLE AGORA LHE RETRUCA COM ESTOUTRA.</head>
+        <lg n="1">
+          <l n="1">Ilustre, e reverendo Frei Lourenço,</l>
+          <l n="2">Quem vos disse, que um burro tão imenso,</l>
+          <l n="3">Siso em agraz, miolos de pateta</l>
+          <l n="4">Pode meter-se em réstia de poeta?</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Quem vos disse, magano,</l>
+          <l n="2">Que fará verso bom um Franciscano?</l>
+          <l n="3">Cuidais, que um tonto revestido em saco</l>
+          <l n="4">O mesmo é ser poeta, que velhaco?</l>
+          <l n="5">Seres mestre vós na velhacaria</l>
+          <l n="6">Vos vem por reta via</l>
+          <l n="7">De trajar de burel essa libréia,</l>
+          <l n="8">E o ser poeta nasce de outra veia;</l>
+          <l n="9" met="inesc">Não entreis em Aganipe mais na barca,</l>
+          <l n="10">Porque nela co'a mesma vossa alparca</l>
+          <l n="11">Apolo tem mandado,</l>
+          <l n="12">Que vos espanquem por desaforado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Não sabeis, Reverendo Mariola,</l>
+          <l n="2">Remendado de frade em salvajola,</l>
+          <l n="3">Que cada gota, que o meu sangue pesa</l>
+          <l n="4">Vos poderá a quintais vender nobreza?</l>
+          <l n="5">Falais em qualidade,</l>
+          <l n="6">Tendo nessas artérias quantidade</l>
+          <l n="7">De sangue vil, humor meretricano,</l>
+          <l n="8">Pois nascestes de sêmen franciscano,</l>
+          <l n="9">E sobre vossa Mãe em tempos francos</l>
+          <l n="10">Caíram mil tamancos,</l>
+          <l n="11">De Sorte que não soube a sua pele,</l>
+          <l n="12">Se vos fundiu mais este, do que aquele:</l>
+          <l n="13">E nem vós, Frei Monturo, ou Frade Cisco,</l>
+          <l n="14">Sabeis se filho sois de São Francisco,</l>
+          <l n="15">Porque sois, vos prometo,</l>
+          <l n="16">Filho do Santo não, porém seu neto.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Quem vos meteu a vós, vilão de chapa</l>
+          <l n="2">A tomares as dores do meu mapa,</l>
+          <l n="3">Se no mapa, que fiz não se esquadrinha</l>
+          <l n="4">Linha tão má, como é a vossa linha?</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Mas como comeis alhos,</l>
+          <l n="2">Vos queimais, sem chegares aos burralhos;</l>
+          <l n="3">E se acaso vos toca a putaria,</l>
+          <l n="4">Que ali pintou a minha fantesia,</l>
+          <l n="5">Não vos canseis em defender as putas,</l>
+          <l n="6">Pois sendo dissolutas,</l>
+          <l n="7">Não vos querem soldado aventureiro,</l>
+          <l n="8">Querem, que lhe acudais com bem dinheiro;</l>
+          <l n="9">E querem pelo menos, Frei Bolório,</l>
+          <l n="10">Que os sobejos lhe deis do refectório,</l>
+          <l n="11">Que as dádivas de um Frade</l>
+          <l n="12">sobejos são da leiga caridade.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">E se acaso esforçastes a ousadia</l>
+          <l n="2">À vista de uma larga companhia,</l>
+          <l n="3">Ides, Frei Maganão, muito enganado,</l>
+          <l n="4">Que o capitão pretérito é passado:</l>
+          <l n="5">Não é cousa possível,</l>
+          <l n="6">Que vos livre de trago tão terrível;</l>
+          <l n="7">Tornai em vós, Frei Burro, ou Frei Cavalo,</l>
+          <l n="8">Que cair sobre vós pode o badalo</l>
+          <l n="9">De algum celeste signo, que vos abra,</l>
+          <l n="10">E sem dizer palavra</l>
+          <l n="11">Vos leve em corpo, e alma algum demônio</l>
+          <l n="12">Por mau imitador de Santo Antônio;</l>
+          <l n="13">Confessai vossas culpas, Frei Monturo,</l>
+          <l n="14">Que anda a morte de ronda pelo muro,</l>
+          <l n="15">E se na esfera vos topar a puta,</l>
+          <l n="16">Vos heis de achar no inferno a pata enxuta.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

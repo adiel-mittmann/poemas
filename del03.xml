@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Completa</title>
+        <author>Delminda Silveira</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=8854"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem" n="1">
+        
+        <head>Ecce Homo!</head>
+        <lg n="1">
+          <l n="1">Ei-lo, caminha, as longas ruas</l>
+          <l n="2">Do sacrossanto sangue regando;</l>
+          <l n="3">Ei-lo, caminha; que duras puas</l>
+          <l n="4">A fronte bela lhe vão rasgando!...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Que espinhos duros, meu Deus! que espinhos</l>
+          <l n="2">Lhe tecem a coroa das aflições!</l>
+          <l n="3">Ele — que dera tantos carinhos,</l>
+          <l n="4">Tão salutares consolações!...</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Que é dos amigos fiéis de outrora?...</l>
+          <l n="2">Respeito, afetos, amor, cuidados?...</l>
+          <l n="3">— Ai! — mil tormentos em cada hora,</l>
+          <l n="4">Ai! mil algozes desapiedados!...</l>
+        </lg>
+        <lg n="4">
+          <l n="1">A cruz que aos ombros débeis levava</l>
+          <l n="2">Com peso tanto, já lhos feriu;</l>
+          <l n="3">A luz dos olhos que a dor turbava,</l>
+          <l n="4">Falta um momento... Jesus caiu!</l>
+        </lg>
+        <lg n="5">
+          <l n="1">A turba louca, na fúria insana,</l>
+          <l n="2">Pragueja horrenda, os punhos cerra;</l>
+          <l n="3">Porém, quem sabe? — que graça emana</l>
+          <l n="4">Dos lábios d'Ele beijando a terra!...</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Ouve um gemido... Os olhos volve,</l>
+          <l n="2">A mãe aflita ali depara;</l>
+          <l n="3">Almas piedosas o olhar envolve...</l>
+          <l n="4">Consolo triste! Dor mais amara!</l>
+        </lg>
+        <lg n="7">
+          <l n="1">— "Oh! não choreis, terno, murmura,</l>
+          <l n="2">Assim, por mim; oh! não choreis,</l>
+          <l n="3">Que só por vós nesta amargura,</l>
+          <l n="4">Por vossos filhos chorar deveis." —</l>
+        </lg>
+        <lg n="8">
+          <l n="1">E além caminha, as longas ruas</l>
+          <l n="2">Do sacrossanto sangue regando;</l>
+          <l n="3">Que fundas mágoas, que duras puas</l>
+          <l n="4">O peito amante lhe vão rasgando!</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>I</head>
+        <head>No horto</head>
+        <lg n="1">
+          <l n="1">Do virente olival à sombra escura</l>
+          <l n="2">Jesus prostrou-se, e para o Céu formoso</l>
+          <l n="3">Erguendo o meigo olhar, triste, ansioso,</l>
+          <l n="4">Com doce voz a suspirar murmura:</l>
+        </lg>
+        <lg n="2">
+          <l n="1">"Fica minh'alma imersa na tristura</l>
+          <l n="2">Até que a Morte traga-me repouso;</l>
+          <l n="3">Meu Pai! Meu Pai! — Ó Deus tão poderoso,</l>
+          <l n="4">De mim passa este cálix de amargura!"</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas... Não! — que toda mágoa sofreria</l>
+          <l n="2">Teu filho por cumprir tua vontade</l>
+          <l n="3">Na terra, qual nos Céus a cumpriria!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E no ardor da divina Caridade</l>
+          <l n="2">Sorve o fel que enche a taça de agonia,</l>
+          <l n="3">Mártir do Amor à ingrata humanidade!</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>II</head>
+        <head>A traição</head>
+        <lg n="1">
+          <l n="1">— "Eu te saúdo, ó Mestre!" e na bendita</l>
+          <l n="2">Face divina, imaculada, bela,</l>
+          <l n="3">Judas traidor a vil infâmia sela</l>
+          <l n="4">Com a boca impura, sórdida, maldita!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Doce ósculo da Paz, — graça infinita</l>
+          <l n="2">Que vem de Deus, que d'Ele o amor revela,</l>
+          <l n="3">Quão torpemente simulou-te aquela</l>
+          <l n="4">Falsa ternura que o carinho imita!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Jesus, fitando-o, disse entristecido:</l>
+          <l n="2">— "Amigo! neste beijo fementido</l>
+          <l n="3">Vendeste o Amigo teu, o Filho do Homem."</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Foge o perverso ingrato horrorizado,</l>
+          <l n="2">E à forca dando o corpo condenado,</l>
+          <l n="3">A alma entrega às fúrias que a consomem.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>III</head>
+        <head>Ante os juízes</head>
+        <lg n="1">
+          <l n="1">Com duras cordas preso, manietado,</l>
+          <l n="2">Oh, Jesus! Oh! divino Redentor!</l>
+          <l n="3">Dos vis juízes ao feroz rigor</l>
+          <l n="4">Pelos soldados foste apresentado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Manso Cordeiro! Vítima do Amor</l>
+          <l n="2">Mais sublime, mais santo e imaculado!</l>
+          <l n="3">Puro, inocente, réu foste julgado,</l>
+          <l n="4">Réu de blasfêmias: — Tu! Oh, Salvador!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Começam afrontas, segue-se o tormento...</l>
+          <l n="2">Mas o Mártir de Amor, sem desalento,</l>
+          <l n="3">Dos homens sofre a negra ingratidão,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E ao Céu levantando o olhar magoado,</l>
+          <l n="2">No coração amante, angustiado,</l>
+          <l n="3">Ao Pai implora a graça do perdão!</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>IV</head>
+        <head>No pretório</head>
+        <lg n="1">
+          <l n="1">Agora, de Pilatos à presença</l>
+          <l n="2">Foi Jesus pelos guardas conduzido,</l>
+          <l n="3">Para ouvir a cruel, fatal sentença</l>
+          <l n="4">Que os juízes não tinham proferido.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mas o Pretor, não vendo em Cristo ofensa</l>
+          <l n="2">Às Leis e nem ao César, confundido,</l>
+          <l n="3">— Que por Herodes seja o preso ouvido,</l>
+          <l n="4">Imperioso ordena, sem detença.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ante Herodes, porém, silencioso</l>
+          <l n="2">Conserva-se Jesus; o povo iroso</l>
+          <l n="3">Do justo pede com delírio a Morte!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Volve a Pilatos que, sem condená-lo,</l>
+          <l n="2">Manda os cruéis soldados açoitá-lo,</l>
+          <l n="3">Do povo entregue ao infernal transporte!</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>V</head>
+        <head>A condenação</head>
+        <lg n="1">
+          <l n="1">De espinhos uma coroa, rubro manto</l>
+          <l n="2">Sobre os ombros, por cetro verde cana,</l>
+          <l n="3">Sofre os insultos de uma plebe insana</l>
+          <l n="4">Dos homens todos o mais puro e santo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Pilatos inocente o julga tanto,</l>
+          <l n="2">Que assim propõe à multidão tirana:</l>
+          <l n="3">— Soltar Jesus, e a morte desumana</l>
+          <l n="4">A Barrabás infame dar no entanto.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas o povo enfurece, ruge, brada,</l>
+          <l n="2">Que a uma graça tal, inesperada,</l>
+          <l n="3">Mais enlouquece, mais raivoso fica.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">— "Que farei de Jesus?" então lhes diz</l>
+          <l n="2">O fraco, pusilânime juiz;</l>
+          <l n="3">— "Crucifica-o!" repetem, "crucifica!"</l>
+        </lg>
+      </div>
+      <div type="poem" n="7">
+        <head>VI</head>
+        <head>A Verônica</head>
+        <lg n="1">
+          <l n="1">Humilde, manso toma a Cruz e ascende</l>
+          <l n="2">Do Calvário o aspérrimo caminho,</l>
+          <l n="3">O Mártir sem conforto, sem carinho</l>
+          <l n="4">Nessa amargura que sua alma rende.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A ímpia multidão que tanto o ofende,</l>
+          <l n="2">Impele-o pelo solo montezinho,</l>
+          <l n="3">Da fronte, ao penetrar de cada espinho,</l>
+          <l n="4">O rubro sangue em perlas se desprende.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Um coração piedoso ao fim encontra:</l>
+          <l n="2">Uma mulher que àquela dura afronta</l>
+          <l n="3">Bálsamo traz consolador e grato.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ela enxuga-lhe o rosto ensanguentado,</l>
+          <l n="2">E na toalha fica-lhe estampado</l>
+          <l n="3">Do bom Jesus o nítido retrato!</l>
+        </lg>
+      </div>
+      <div type="poem" n="8">
+        <head>VII</head>
+        <head>Jesus desfalece</head>
+        <lg n="1">
+          <l n="1">A Cruz de enorme peso que sustenta</l>
+          <l n="2">Sobre os feridos ombros, o tortura;</l>
+          <l n="3">E segue pela rua da amargura,</l>
+          <l n="4">Levando na alma a dor que o desalenta.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Dos algozes a fúria mais aumenta,</l>
+          <l n="2">Vendo-o, exausto, cair na terra dura,</l>
+          <l n="3">Pendida a fronte de ideal brancura,</l>
+          <l n="4">Turvos os olhos de onde a luz se ausenta.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Em blasfêmias irrompe a turba irada.</l>
+          <l n="2">Enquanto à terra vil, ensanguentada</l>
+          <l n="3">Do precioso Sangue redentor,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Jesus, unindo os lábios docemente,</l>
+          <l n="2">Da Caridade a divinal semente</l>
+          <l n="3">Deixa, num beijo de piedoso amor!</l>
+        </lg>
+      </div>
+      <div type="poem" n="9">
+        <head>VIII</head>
+        <head>O encontro</head>
+        <lg n="1">
+          <l n="1">Com violência bruta levantado</l>
+          <l n="2">O Mártir pela dor desfalecido,</l>
+          <l n="3">Nem uma queixa tem, nem um gemido</l>
+          <l n="4">Do coração em mágoas afogado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">A custo os olhos abre; um "ai" magoado</l>
+          <l n="2">Entre ameaças chega-lhe, dorido;</l>
+          <l n="3">Volve o olhar sereno, amortecido...</l>
+          <l n="4">A mãe divisa em pranto amargurado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Ela os braços lhe estende... O Filho, ao vê-la,</l>
+          <l n="2">Nos braços quer, embalde, recebê-la,</l>
+          <l n="3">Que mão cruel, sacrílega os separa!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Do seio maternal explode um grito:</l>
+          <l n="2">"Meu filho!"... e o eco morre no Infinito,</l>
+          <l n="3">Levando aos Céus aquela dor amara!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="10">
+        <head>IX</head>
+        <head>Jesus cai pela segunda vez</head>
+        <lg n="1">
+          <l n="1">Caminha o Mártir pelo agreste monte</l>
+          <l n="2">Os dolorosos passos da amargura,</l>
+          <l n="3">Opressa a alma de cruel tortura,</l>
+          <l n="4">De mil espinhos lacerada a fronte.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Nem mais um coração em que desponte</l>
+          <l n="2">Da piedade a flor bendita e pura;</l>
+          <l n="3">Nem mais a doce Mãe que ele procura,</l>
+          <l n="4">Como um sedento a milagrosa fonte!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E triste o meigo olhar ao Céu levanta,</l>
+          <l n="2">Quer prosseguir; porém a dor suplanta</l>
+          <l n="3">O sobre-humano esforço da vontade!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Pela segunda vez desfalecido,</l>
+          <l n="2">Jesus caiu!... no coração pungido,</l>
+          <l n="3">Inda perdoa a ímpia humanidade!</l>
+        </lg>
+      </div>
+      <div type="poem" n="11">
+        <head>X </head>
+        <head>As filhas de Jerusalém</head>
+        <lg n="1">
+          <l n="1">Um dos verdugos feros, praguejando,</l>
+          <l n="2">Inda outra vez o Mártir levantava,</l>
+          <l n="3">E com dobrada fúria o maltratava,</l>
+          <l n="4">A face pura (infame!) profanando!</l>
+        </lg>
+        <lg n="2">
+          <l n="1">As filhas de Sião, ternas, chorando,</l>
+          <l n="2">Pelas mágoas que o Justo suportava,</l>
+          <l n="3">O chão que o sacro Sangue purpurava,</l>
+          <l n="4">Iam com tristes lágrimas regando;</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vendo Jesus o dolorido pranto</l>
+          <l n="2">Daquele afeto imaculado e santo,</l>
+          <l n="3">Quis às pias mulheres consolar.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">"Oh! não choreis por mim!" lhes diz, piedoso,</l>
+          <l n="2">— "Que por vós, neste transe doloroso,</l>
+          <l n="3">Por vossos filhos só deveis chorar!"</l>
+        </lg>
+      </div>
+      <div type="poem" n="12">
+        <head>XI</head>
+        <head>Jesus cai pela terceira vez</head>
+        <lg n="1">
+          <l n="1">Do cimo da montanha se avizinha,</l>
+          <l n="2">Onde a Cruz deve ser de pronto erguida,</l>
+          <l n="3">O Mártir que na íngreme subida</l>
+          <l n="4">Sem forças já, com lentidão caminha.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Sua alma, pelas mágoas que continha,</l>
+          <l n="2">Terceira vez sentiu desfalecida;</l>
+          <l n="3">Sentiu que lhe faltava à débil vida</l>
+          <l n="4">O doce alento que do Céu lhe vinha.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Exausto quase, tomba, ao fim na terra:</l>
+          <l n="2">Um verdugo feroz os punhos cerra,</l>
+          <l n="3">Outro, o arrasta e fere sem piedade!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E Jesus, sem queixumes, padecia</l>
+          <l n="2">Os tormentos cruéis dessa agonia,</l>
+          <l n="3">Só por salvar a ingrata humanidade!...</l>
+        </lg>
+      </div>
+      <div type="poem" n="13">
+        <head>XII</head>
+        <head>Jesus ajudado pelo Cireneu</head>
+        <lg n="1">
+          <l n="1">Afim de que pudesse ser pregado</l>
+          <l n="2">Com vida, sobre a Cruz que carregava,</l>
+          <l n="3">Por Simão Cireneu que ali passava,</l>
+          <l n="4">Mandaram fosse Cristo auxiliado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Seguiu, então, Jesus acompanhado</l>
+          <l n="2">Pela turba feroz que motejava,</l>
+          <l n="3">E ao alto do Calvário já chegava,</l>
+          <l n="4">Onde devia ser crucificado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Aflita a Natureza emudecia</l>
+          <l n="2">Ante a doloríssima agonia</l>
+          <l n="3">Que o Redentor divino suportava!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">O sol perdera o brilho radioso,</l>
+          <l n="2">Um fúnebre cenário lutuoso,</l>
+          <l n="3">Entristecida a terra apresentava.</l>
+        </lg>
+      </div>
+      <div type="poem" n="14">
+        <head>XIII</head>
+        <head>Jesus é despojado dos seus vestidos</head>
+        <lg n="1">
+          <l n="1">Da túnica inconsútil que tecido</l>
+          <l n="2">Tinha-lhe a terna Mãe no lar amado,</l>
+          <l n="3">Foi Jesus brutalmente despojado,</l>
+          <l n="4">Novas afrontas tendo padecido.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E o singelo, cândido vestido</l>
+          <l n="2">Pelos soldados foi, então, jogado,</l>
+          <l n="3">Para que todo o horror profetizado</l>
+          <l n="4">Ao seu Martírio fosse ali cumprido.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Pasmam os anjos que, no Céu, chorando,</l>
+          <l n="2">Pela humanidade veem penando</l>
+          <l n="3">Jesus, com mágoas tais e tanto amor,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Enquanto os vis algozes procuravam</l>
+          <l n="2">Os mais agudos cravos que levavam,</l>
+          <l n="3">Para na Cruz pregar o Redentor!</l>
+        </lg>
+      </div>
+      <div type="poem" n="15">
+        <head>XIV</head>
+        <head>Sobre a Cruz</head>
+        <lg n="1">
+          <l n="1">Sobre a Cruz, com tamanha crueldade,</l>
+          <l n="2">Quis morrer o divino Redentor,</l>
+          <l n="3">Para ao mundo ensinar o santo Amor</l>
+          <l n="4">Da imortal, bendita Caridade.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">— "Tenho sede" — Ele disse, mas quem lhe há de</l>
+          <l n="2">O lenitivo dar consolador?...</l>
+          <l n="3">Só de vinagre o fel, o amargor</l>
+          <l n="4">Teve, naquela atroz ansiedade!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Enquanto os que passavam motejando,</l>
+          <l n="2">Iam do Mártir divinal zombando</l>
+          <l n="3">Com vis ápodos e insolente riso,</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Ele ao bandido que a seu lado estava,</l>
+          <l n="2">E contrito o perdão lhe suplicava,</l>
+          <l n="3">Prometia o eterno Paraíso.</l>
+        </lg>
+      </div>
+      <div type="poem" n="16">
+        <head>XV</head>
+        <head>Ao sopé da Cruz</head>
+        <lg n="1">
+          <l n="1">Pálido, branco lírio maltratado,</l>
+          <l n="2">Teu corpo vejo, oh, divinal Jesus!</l>
+          <l n="3">Vejo teus belos olhos já sem luz,</l>
+          <l n="4">E o nácar de teus lábios desbotado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">O coração materno angustiado,</l>
+          <l n="2">Que aí palpitas ao sopé da Cruz,</l>
+          <l n="3">Nesse Amor que a minh'alma não traduz,</l>
+          <l n="4">Aquece o Filho teu enregelado!</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Vem, Madalena, vem; o afeto santo</l>
+          <l n="2">Lavando-te a alma no crisol do pranto,</l>
+          <l n="3">Sócia te fez na Dor da Virgem pura.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E tu, discípulo amado, vem, com ela,</l>
+          <l n="2">Vem formar a trindade santa e bela</l>
+          <l n="3">Da mais sublime e ideal ternura!</l>
+        </lg>
+      </div>
+      <div type="poem" n="17">
+        <head>XVI</head>
+        <head>Último suspiro</head>
+        <lg n="1">
+          <l n="1">De negro crepe funeral cortina</l>
+          <l n="2">Cobre do azul a mística pureza;</l>
+          <l n="3">Do sol desmaia a lúcida beleza,</l>
+          <l n="4">Envolta em luto a face peregrina.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Lá no Calvário, a multidão felina</l>
+          <l n="2">De pavor um momento fica presa;</l>
+          <l n="3">Silêncio!... Trevas!... Pasma a Natureza...</l>
+          <l n="4">Jesus a fronte dolorida inclina.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">— "Meu Deus! Meu Deus! — por que me desamparas?..."</l>
+          <l n="2">Disse, e do fel as gotas mais amaras</l>
+          <l n="3">Molham-lhe a boca sequiosa, pura.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Então, volvendo os olhos ao Infinito:</l>
+          <l n="2">— "Pai, em tuas mãos entrego o meu espírito"</l>
+          <l n="3">Na dor final terníssimo murmura!</l>
+        </lg>
+      </div>
+      <div type="poem" n="18">
+        <head>XVII</head>
+        <head>Sétima dor</head>
+        <lg n="1">
+          <l n="1">Entre os braços da Cruz, o Corpo alanceado</l>
+          <l n="2">Do Mártir Redentor o Gólgota domina;</l>
+          <l n="3">Maria — a Dolorosa, a terna Mãe divina,</l>
+          <l n="4">Num êxtase de dor contempla o Filho amado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Eis que da turba vil um bárbaro soldado</l>
+          <l n="2">Destaca-se, e, brandindo a lança aguda e fina,</l>
+          <l n="3">— "Sou cego! — diz feroz; mas quem me aponta e ensina</l>
+          <l n="4">No peito de Jesus, do coração o lado?..."</l>
+        </lg>
+        <lg n="3">
+          <l n="1">E a lança penetrou, sangue e água jorrando;</l>
+          <l n="2">E os olhos sem luz a Luz do Céu banhando,</l>
+          <l n="3">Deu ao algoz cruel a graça da piedade.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">No entanto, a doce Mãe, na alma transpassada,</l>
+          <l n="2">Sentiu mais penetrante aquela dura espada,</l>
+          <l n="3">Que a vida lhe tornara, amarga soledade.</l>
+        </lg>
+      </div>
+      <div type="poem" n="19">
+        <head>XVIII</head>
+        <head>Na soledade</head>
+        <lg n="1">
+          <l n="1">Dos braços tinha a Virgem lacrimosa</l>
+          <l n="2">Pendido o corpo exânime, gelado</l>
+          <l n="3">Do Filho seu bendito, idolatrado,</l>
+          <l n="4">Sua Esperança divinal, formosa...</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Da Cruz com caridade piedosa,</l>
+          <l n="2">Tinham-no seus discípulos despregado,</l>
+          <l n="3">E ao virginal regaço transportado</l>
+          <l n="4">Da inconsolável Mater dolorosa.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">— "Ó vós que aqui passais, ela dizia,</l>
+          <l n="2">Parai e vede se há mais agonia,</l>
+          <l n="3">Se há outra dor igual à minha Dor!" —</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E os que passavam, cheios de piedade,</l>
+          <l n="2">Choravam, vendo a triste soledade</l>
+          <l n="3">Em que ficara o maternal Amor!</l>
+        </lg>
+      </div>
+      <div type="poem" n="20">
+        <head>XIX</head>
+        <head>Ressuscitou!</head>
+        <lg n="1">
+          <l n="1">Raiava o sol formoso, deslumbrante,</l>
+          <l n="2">Abrindo pelos campos as boninas,</l>
+          <l n="3">E já as Três Marias vão distante,</l>
+          <l n="4">Levando essências em caçoulas finas.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Além, sob arvoredo verdejante</l>
+          <l n="2">De um horto que se vê entre colinas,</l>
+          <l n="3">Era o sepulcro do Divino Amante,</l>
+          <l n="4">Aonde vão as santas peregrinas.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eis chegam; do jazigo a enorme lousa</l>
+          <l n="2">Que fecha o leito em que Jesus repousa,</l>
+          <l n="3">Alguém com mão sacrílega afastou!</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Do Mestre o corpo ali já não estava...</l>
+          <l n="2">Porém, à Madalena que chorava,</l>
+          <l n="3">Um anjo diz: “Jesus ressuscitou!”</l>
+        </lg>
+      </div>
+      <div type="poem" n="21">
+        <head>Cristo!</head>
+        <div type="section">
+          <head>A profecia</head>
+          <lg n="1">
+            <l n="1">Preciosas telas, verdes palmas, flores</l>
+            <l n="2">Cobrem a larga estrada de Sião:</l>
+            <l n="3">Jesus assoma: "Hosana!" a multidão</l>
+            <l n="4">Ergue festivos brados de louvores.</l>
+          </lg>
+          <lg n="2">
+            <l n="1">Em ira ardendo, os fariseus traidores</l>
+            <l n="2">Tremem de inveja, ouvindo a aclamação;</l>
+            <l n="3">E a Cristo dizem: — "Manda, e calarão</l>
+            <l n="4">Os teus discípulos, Mestre, esses clamores."</l>
+          </lg>
+          <lg n="3">
+            <l n="1">Mas o Senhor lhes torna com brandura:</l>
+            <l n="2">"— Se essas vozes calassem, subiria</l>
+            <l n="3">Das pedras mor clamor à excelsa Altura."</l>
+          </lg>
+          <lg n="4">
+            <l n="1">E à Cidade olhando, após, dizia,</l>
+            <l n="2">Banhado em triste pranto de amargura:</l>
+            <l n="3">Ah! quanta mágoa e dor terás num dia!...</l>
+          </lg>
+        </div>
+        <div type="section">
+          <head>Cristo!</head>
+          <lg n="5">
+            <l n="1">" — Rei dos judeus!" A multidão te aclama;</l>
+            <l n="2">Cinge-te a fronte aspérrima coroa;</l>
+            <l n="3">Chovem aplausos... mas, ao longe ecoa</l>
+            <l n="4">"Num ai!" dorido a voz que te proclama!</l>
+          </lg>
+          <lg n="6">
+            <l n="1">Que Amor piedoso o teu olhar derrama,</l>
+            <l n="2">Quando o tormento o corpo te aguilhoa,</l>
+            <l n="3">Oh! Cristo! — Amor sublime que perdoa,</l>
+            <l n="4">Divino Amor da Caridade chama!</l>
+          </lg>
+          <lg n="7">
+            <l n="1">Ah! quem pudesse, dentro de teu peito,</l>
+            <l n="2">No Santuário desse Amor perfeito,</l>
+            <l n="3">O lacerado coração guardar!...</l>
+          </lg>
+          <lg n="8">
+            <l n="1">Na noite da tristeza já teria</l>
+            <l n="2">Essa formosa estrela a alegria</l>
+            <l n="3">Que as almas tristes sabe consolar!</l>
+          </lg>
+        </div>
+        <div type="section">
+          <head>O Lava-Pés</head>
+          <lg n="9">
+            <l n="1">Oh, portentoso exemplo da humildade,</l>
+            <l n="2">Lição sublime de profundo ensino!...</l>
+            <l n="3">Não pode o ser humano, ó ser divino,</l>
+            <l n="4">Mistérios perscrutar da Divindade!...</l>
+          </lg>
+          <lg n="10">
+            <l n="1">— Jesus: — se a tua excelsa Humanidade</l>
+            <l n="2">Quis, ao do homem, ter igual destino,</l>
+            <l n="3">Foi para que de um Deus Uno e Trino</l>
+            <l n="4">O Filho fosse o Verbo, Amor, Piedade!</l>
+          </lg>
+          <lg n="11">
+            <l n="1">Em meio dos discípulos, curvado,</l>
+            <l n="2">— Ele, — o Divino Mestre, ajoelhado,</l>
+            <l n="3">Os pés lhes banha com piedosa unção.</l>
+          </lg>
+          <lg n="12">
+            <l n="1">Pasmam nos Céus os anjos! O Universo</l>
+            <l n="2">Sente-se aniquilar... sente-se opresso</l>
+            <l n="3">Confuso, o homem, de admiração.</l>
+          </lg>
+        </div>
+        <div type="section">
+          <head>Eucaristia</head>
+          <lg n="13">
+            <l n="1">Prosterna-te, minh'alma! O Santuário esplende...</l>
+            <l n="2">Que Mistério dos Céus aí se rememora?...</l>
+            <l n="3">A pura luz da Fé, a luz consoladora,</l>
+            <l n="4">A chama divinal, o coração acende!</l>
+          </lg>
+          <lg n="14">
+            <l n="1">Bendito seja o grão da farta espiga loura,</l>
+            <l n="2">O fruto salutar que da videira pende;</l>
+            <l n="3">Que sobre o vinho e o Pão Jesus as mãos estende,</l>
+            <l n="4">E a bênção de Jesus é graça redentora!</l>
+          </lg>
+          <lg n="15">
+            <l n="1">Salve, Hóstia imortal, Penhor de paz e vida,</l>
+            <l n="2">Excelsa Maravilha, augusta, indefinida,</l>
+            <l n="3">Que não pode explicar humana inteligência!</l>
+          </lg>
+          <lg n="16">
+            <l n="1">Diante do Sacrário, o Anjo da Poesia</l>
+            <l n="2">A lira vai depor; nem ela saberia</l>
+            <l n="3">Prodígios salmear da Eterna Onipotência.</l>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Margens de Ouro e de Esmeralda</title>
+        <author>Alberto de Oliveira</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Obra impressa.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem" n="1">
+        <head>MARGENS DE OURO E ESMERALDA</head>
+        <head>(Lenda do Rio-Verde</head>
+        <lg n="1">
+          <l n="1">Esta água pouca e triste que ali passa</l>
+          <l n="2">E vai carpindo, o esfarrapado manto,</l>
+          <l n="3">Sujo do barro de esbeiçadas ribas,</l>
+          <l n="4">A rastos por pedrouços e atoleiros,</l>
+          <l n="5">Foi há cem anos caudaloso rio.</l>
+          <l n="6">Da serra onde nascia, em tanta cópia</l>
+          <l n="7">Os cabedais rolava que, remada</l>
+          <l n="8">Pelos mais destros braços, nunca vira</l>
+          <l n="9">Canoa alguma atravessar-lhe o curso;</l>
+          <l n="10">E não vadeado nunca, não sulcado</l>
+          <l n="11">Profanamento por afoitos remos,</l>
+          <l n="12">Levava ao mar as ondas, e com as ondas</l>
+          <l n="13">Áureas folhetas, minerais preciosos,</l>
+          <l n="14">Como a buscar, fugindo aos que violavam</l>
+          <l n="15">Seus veeiros recônditos, longínquo</l>
+          <l n="16">Abrigo e paz na profundez do oceano.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Às margens dele, de uma e de outra banda,</l>
+          <l n="2">Pela primeira vez aí cultivados,</l>
+          <l n="3">Viçavam férteis, enleando a vista,</l>
+          <l n="4">À destra milheirais de espigas de ouro,</l>
+          <l n="5">À sestra canaviais, brandindo ao vento</l>
+          <l n="6">Trêmulas espadanas de esmeralda.</l>
+          <l n="7">E o reflexo dourado de uma parte,</l>
+          <l n="8">Da outra parte o reflexo verde, ao longo</l>
+          <l n="9">Serpenteavam das águas, que listadas</l>
+          <l n="10">Das duas cores, semelhavam solta</l>
+          <l n="11">Franzida fita ao sol tremeluzindo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Sobre a tarde, com a fresca, ou no silêncio</l>
+          <l n="2">Dos luares do ermo, vulto leve e claro,</l>
+          <l n="3">Esbelto como uma palmeira nova,</l>
+          <l n="4">Vulto de mulher moça, muitas vezes,</l>
+          <l n="5">Olhos voados para além do rio,</l>
+          <l n="6">Aos ais falava para a margem de ouro:</l>
+          <l n="7">— “Ouves-me acaso?  saberás que te amo?</l>
+          <l n="8">Pudesses tu romper a nada as águas</l>
+          <l n="9">E apertar-me nos braços, que sou tua!</l>
+          <l n="10">Falem por minha voz quantos suspiros</l>
+          <l n="11">Sôfrega espalho, nestes ares voam!</l>
+          <l n="12">Ó meu amor, eu te imagino de ouro</l>
+          <l n="13">Cabelos e olhos teus, como as espigas</l>
+          <l n="14">De teus milheirais de ouro.  Hás de ser belo</l>
+          <l n="15">Ardido e forte, para que algum dia</l>
+          <l n="16">Oponhas o teu peito à correnteza</l>
+          <l n="17">E alfim te eu possa receber nos braços!</l>
+          <l next="espero-esmeralda" n="18">Vem, eu te espero!”</l>
+          <l xml:id="espero-esmeralda" n="19">E para a de esmeralda,</l>
+          <l n="20">No mesmo tom, da oposta margem de ouro,</l>
+          <l n="21">Respondia a voz: — “Ouves-me acaso?</l>
+          <l n="22">Pois sabe que te quero, e te amo, e adoro!</l>
+          <l n="23">Por tua causa fabriquei das árvores</l>
+          <l n="24">Apeando em terra os troncos mais robustos,</l>
+          <l n="25">Esguias, velocíssimas canoas;</l>
+          <l n="26">Nenhuma pôde atravessar o rio,</l>
+          <l n="27">Tal a tensão elástica das águas.</l>
+          <l n="28">Peito, braços, então, lhe opus cem vezes,</l>
+          <l n="29">E cem vezes vencido me devolvo</l>
+          <l n="30">Entrajado de espuma à flórea riba.</l>
+          <l n="31">Oh!  eu te amo!  nos sonhos me apareces</l>
+          <l n="32">Alva de lírios, com as madeixas verdes,</l>
+          <l n="33">Como, ao que ouvi contar, quando inda infante,</l>
+          <l n="34">As sereias as têm no fundo oceano;</l>
+          <l n="35">Verdes, como à distância verdejando</l>
+          <l n="36">É de teus canaviais a visão verde.</l>
+          <l n="37">Serás minha algum dia, aguardo-o, e quando</l>
+          <l n="38">A hora feliz chegar, irei colher-te,</l>
+          <l n="39">Mole açucena casta, que me esperas</l>
+          <l n="40">Nessa afastada margem de esmeralda!”</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Amavam-se, talvez, como se amavam</l>
+          <l n="2">Pendões herbáceos, hásteas sussurrantes,</l>
+          <l n="3">Doces colmos de mel e áureas espigas;</l>
+          <l n="4">Mas entre os dois amantes, extremando-os,</l>
+          <l n="5">Sequer lhes permitindo, embora rápido,</l>
+          <l n="6">Um aperto de mãos — como entre aquelas</l>
+          <l n="7">Duas lavouras, não lhes consentindo</l>
+          <l n="8">O breve gozo do enlaçar das folhas —</l>
+          <l n="9">Turgido, aos roncos, rescumava o rio.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">— “Se crescêssemos nós — de si consigo</l>
+          <l n="2">Cochichavam as plantas — mas de modo</l>
+          <l n="3">Que as hásteas se encruzassem sobre o espelho</l>
+          <l n="4">Do rio, como braços que se apertam!”</l>
+          <l n="5">— “Se este rio secasse — por seu turno</l>
+          <l n="6">Anelavam, cismando, os dois amantes —</l>
+          <l n="7">Se este rio secasse, mas de forma</l>
+          <l n="8">Que se lhe descobrisse enxuto o fundo</l>
+          <l n="9">De abismadas areias, e em seu leito</l>
+          <l n="10">Nossos lábios uníssemos num beijo!</l>
+          <l n="11">Vinde, soprai o vento das queimadas,</l>
+          <l n="12">Secas de março!  sol de março, esplende,</l>
+          <l n="13">Corusca, exaure a vida a toda fonte,</l>
+          <l n="14">Mananciais que as vertentes suam, bebe!”</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Desejavam-se assim, assim na febre</l>
+          <l n="2">De insofridos desejos, imprecavam</l>
+          <l n="3">Remédio ao mal de permeado estorvo;</l>
+          <l n="4">Mas alternadamente e como surdo</l>
+          <l n="5">À aspiração de corações e plantas,</l>
+          <l n="6">Agora limpo o céu, chuvoso agora</l>
+          <l n="7">Se mostrava, ao calor de um dia ardente</l>
+          <l n="8">Noite orvalhosa sucedendo e amiga;</l>
+          <l n="9">Nem temporais que encharcam, nem soalheiras</l>
+          <l n="10">Que tudo crestam, senão só, constante,</l>
+          <l n="11">Azul, sereno, temperado clima.</l>
+        </lg>
+        <lg n="7">
+          <l n="1">E toda a tarde, um sopro de volúpia</l>
+          <l n="2">Morno e acariciador, aquelas vozes,</l>
+          <l n="3">A voz dele e a voz dela entremesclava</l>
+          <l n="4">Num só desejo, — qual também nas margens</l>
+          <l n="5">De ouro e esmeralda, remexendo as moitas,</l>
+          <l n="6">Misturava num só rumor de amores</l>
+          <l n="7">Estalidos e frêmitos — secreto</l>
+          <l n="8">Obscuro idioma que as folhagens falam.</l>
+          <l n="9">Vinham-se as noites — e era tudo um cântico,</l>
+          <l n="10">E mais alto e maior se aos voos no éter</l>
+          <l n="11">Nudez alva de lua aclara os ermos.</l>
+          <l n="12">Estremecia pelas chãs palustres</l>
+          <l n="13">O ar cortado de trilos, de queixumes,</l>
+          <l n="14">De cioso rezumbir e estalos de asas;</l>
+          <l n="15">Luzia a mata com o bulir dos fogos</l>
+          <l n="16">Pálidos da aluvião de de pirilampos;</l>
+          <l n="17">Deitada grama, arbusto, árvore, amavam-se,</l>
+          <l n="18">Amavam-se água e riba, e espuma e sombra,</l>
+          <l n="19">Vasa e limo, ervançais, recantos mudos,</l>
+          <l n="20">Encruzilhadas, descampados mortos,</l>
+          <l n="21">Cinzentas serras, píncaros altíssimos,</l>
+          <l n="22">Tudo!  que do alto céu, da láctea mancha</l>
+          <l n="23">Da via sideral baixava a tudo</l>
+          <l n="24">— Obre de eterno amor — não sei que influxo</l>
+          <l n="25">De intenso gozo e de volúpia imensa.</l>
+        </lg>
+        <lg n="8">
+          <l n="1">E fluía o tempo no açodado curso,</l>
+          <l n="2">Como o do rio, as horas afogando,</l>
+          <l n="3">Dias e meses e ilusões de envolta,</l>
+          <l n="4">E sonhos, e suspiros, e ais e queixas,</l>
+          <l n="5">Tudo o que passa... menos a Esperança,</l>
+          <l n="6">— Náufraga eterna eternamente escapa</l>
+          <l n="7">De sinistros, quaisquer que nesta vida</l>
+          <l next="águas-esperavam" n="8">Sejam as águas.</l>
+          <l xml:id="águas-esperavam" n="9">Esperavam ambos.</l>
+        </lg>
+        <lg n="9">
+          <l n="1">Eis que entre luas de um dezembro adusto,</l>
+          <l n="2">Bramado de trovões e ventanias,</l>
+          <l n="3">Lá por desoras de chuvosa noite</l>
+          <l n="4">Soa um baque, retroa estrondo horrendo.</l>
+          <l n="5">Que foi?  Veio a manhã, souberam todos.</l>
+          <l n="6">Por sobre o rio, numa e noutra margem,</l>
+          <l n="7">A de ouro e a verde, a se apoiar estava</l>
+          <l n="8">Estendida uma ponte, qual tão bela</l>
+          <l n="9">Não lavoraram nem tão firme os homens.</l>
+          <l n="10">Era inteiriço tronco centenário,</l>
+          <l n="11">Harto jequitibá daqueles sítios,</l>
+          <l n="12">Atalaia do rio, em cujo espelho</l>
+          <l n="13">Se revia e por sobre o qual trevosa</l>
+          <l n="14">E vasta, no alto, abobadava a copa</l>
+          <l n="15">Esvoaçada de corvos e de nuvens,</l>
+          <l n="16">Que ruíra de rondão, mal suportando</l>
+          <l n="17">O rijo embate a acelerados ventos,</l>
+          <l next="secular-intacto" n="18">E carga secular.</l>
+          <l xml:id="secular-intacto" n="19">Intacto e válido.</l>
+          <l n="20">Deixaram-no a dormir seu grande sono;</l>
+          <l n="21">Intacto, que era o tronco áspero e grosso</l>
+          <l n="22">Desses a quem, dentando-se ao feri-los,</l>
+          <l n="23">Nem foices lascam, nem machados toram.</l>
+        </lg>
+        <lg n="10">
+          <l n="1">E por seu peito agora, à flor do rio,</l>
+          <l n="2">Vêm-se cruzar em trânsito contínuo</l>
+          <l n="3">Os habitantes de uma e de outra margem.</l>
+        </lg>
+        <lg n="11">
+          <l n="1">Sobre a tarde — cursando errante e cálido</l>
+          <l n="2">O mesmo sopro, a rebolir nas moitas,</l>
+          <l n="3">Pejava os corações de um vago anseio —</l>
+          <l n="4">Pela primeira vez sobre a corrente,</l>
+          <l n="5">Na ponte feita do madeiro morto,</l>
+          <l n="6">Se apertam duas mãos, se unem dois lábios.</l>
+          <l n="7">Eram juntos, enfim, os dois amantes!</l>
+          <l n="8">E pela vez primeira, em frente um do outro,</l>
+          <l n="9">Ele exclamou, vendo que os olhos dela</l>
+          <l n="10">— Glaucos abismos! eram verdes, verdes,</l>
+          <l n="11">Verdes do verde da florida margem</l>
+          <l n="12">Dos verdes canaviais: — “Tens olhos verdes?”</l>
+          <l n="13">— “E os teus — disse ela — que são de ouro! de ouro!”</l>
+          <l n="14">Eram do ouro mais puro os olhos dele,</l>
+          <l n="15">Do ouro dos milheirais da margem de ouro.</l>
+          <l n="16">E ouro e esmeralda, os olhos se fundiram</l>
+          <l n="17">De ambos num só olhar — risonhas núpcias</l>
+          <l n="18">De uma cor e outra cor, de uma alma e outra!</l>
+          <l n="19">Ouro e esmeralda — cores diferentes,</l>
+          <l n="20">Mas que se querem, mas que se procuram,</l>
+          <l n="21">E folgam de se achar unidas, como</l>
+          <l n="22">Na laranjeira e nos seus doces frutos,</l>
+          <l n="23">No cacho da palmeira e nos seus leques</l>
+          <l n="24">Na asa do beija-flor e da jandaia,</l>
+          <l n="25">No lampiro e na folha em que abre o facho,</l>
+          <l n="26">Na luz do sol e na floresta virgem.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

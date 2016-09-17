@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36521"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Minha rica Mulatinha</l>
+          <l n="2">desvelo, e cuidado meu,</l>
+          <l n="3">eu já fora todo teu,</l>
+          <l n="4">e tu foras toda minha</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>CONTINUA EM GALANTEAR AQUELLA MARIQUITA FILHA DA ZABELONA, QUE JA ADIANTE DICEMOS.</head>
+        <lg n="1">
+          <l n="1">Quita, São Pedro me leve,</l>
+          <l n="2">se eu me não morro por vós,</l>
+          <l n="3">e por ser da vossa boca</l>
+          <l n="4">um perpétuo Pica-flor.</l>
+          <l n="5">Por isso me escandalizam</l>
+          <l n="6">respostadas tão sem som,</l>
+          <l n="7">pois aquilo, que mais quero,</l>
+          <l n="8">nunca o acho a meu favor.</l>
+          <l n="9">Mal me vai co'a vossa boca,</l>
+          <l n="10">cos dentes inda pior,</l>
+          <l n="11">pois dos dentes para dentro</l>
+          <l n="12">nunca este amor vos entrou.</l>
+          <l n="13">Servi-vos, Senhora Quita,</l>
+          <l n="14">de ter-me um pouco de amor,</l>
+          <l n="15">ao menos de consentir,</l>
+          <l n="16">que eu vos tenha amor a vós.</l>
+          <l n="17">Já me contento com pouco,</l>
+          <l n="18">só quero, Quita, de vós,</l>
+          <l n="19">que passemos a Catala,</l>
+          <l n="20">e seja isto quando for.</l>
+          <l n="21">Que quem esperou cinco anos</l>
+          <l n="22">por um pequeno favor,</l>
+          <l n="23">esperará por chegar-vos</l>
+          <l n="24">mais, do que esperou Jacó.</l>
+          <l n="25">Porém falai-me verdade,</l>
+          <l n="26">que a uma mulher de primor</l>
+          <l n="27">costumo pagar co'a vida</l>
+          <l n="28">um carinho, um favor só.</l>
+          <l n="29">Zombai vós da Zabelinha,</l>
+          <l n="30">que me tem mortal rancor,</l>
+          <l n="31">e odiosa a Portugal</l>
+          <l n="32">só de Castela gostou.</l>
+          <l n="33">Zombai vós de todo o mundo,</l>
+          <l n="34">que o mundo nunca falou</l>
+          <l n="35">verdade, e eu vo-la trato</l>
+          <l n="36">nesta confissão de amor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>À MESMA MULATA MANDANDO AO POETA UM PASSARINHO.</head>
+        <lg n="1">
+          <l n="1">Este favor, que é valia,</l>
+          <l n="2">diz Amor, porque se afoite,</l>
+          <l n="3">que, o que me destes de noite</l>
+          <l n="4">quisestes mandar de dia:</l>
+          <l n="5">foi favor por simpatia,</l>
+          <l n="6">porém, que seja, me espanta</l>
+          <l n="7">esse pássaro, que encanta,</l>
+          <l n="8">quando de músico aposta,</l>
+          <l n="9">de noite uma ave, que gosta,</l>
+          <l n="10">de dia uma ave, que canta.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Certo, que amor presumiu,</l>
+          <l n="2">quando o pássaro apalpei,</l>
+          <l n="3">que, o que de noite vos dei,</l>
+          <l n="4">pela manhã vos fugiu:</l>
+          <l n="5">mas se este efeito vos viu,</l>
+          <l n="6">meus amores, certifico,</l>
+          <l n="7">que o tal passarinho rico</l>
+          <l n="8">foi por singular razão</l>
+          <l n="9">de noite a buscar o grão,</l>
+          <l n="10">de dia a molhar o bico.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">És galharda Mariquita</l>
+          <l n="2">desvelo dos meus sentidos,</l>
+          <l n="3">pois em continos gemidos</l>
+          <l n="4">vivo por lograr tal dita:</l>
+          <l n="5">meu coração me palpita.</l>
+          <l n="6">quando te vejo passar</l>
+          <l n="7">com tal garbo, e com tal ar,</l>
+          <l n="8">que deixas-me alma perdida,</l>
+          <l n="9">e se me pode dar vida,</l>
+          <l n="10">porque me queres matar?</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Minha rica Mulatinha</l>
+          <l n="2">desvelo, e cuidado meu,</l>
+          <l n="3">eu já fora todo teu,</l>
+          <l n="4">e tu foras toda minha:</l>
+          <l n="5">juro-te, minha vidinha,</l>
+          <l n="6">se acaso minha qués ser,</l>
+          <l n="7">que todo me hei de acender</l>
+          <l n="8">em ser teu amante fino</l>
+          <l n="9">pois por ti já perco o tino,</l>
+          <l n="10">e ando para morrer.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>RETIRA-SE DESDENHOSA DO POETA PARA HUM SOLDADO DE CUPIDO A TEMPO, QUE ELLE FAZIA O MESMO COM ANNICA.</head>
+        <lg n="1">
+          <l n="1">Quita, como vos achais</l>
+          <l n="2">com esta troca tão rica?</l>
+          <l n="3">eu vos troco por Anica,</l>
+          <l n="4">vós por Nico me deixais:</l>
+          <l n="5">vos de mim não vos queixais,</l>
+          <l n="6">eu, Quita, de vós me queixo,</l>
+          <l n="7">e pondo a cousa em seu eixo,</l>
+          <l n="8">a mim com razão me tem,</l>
+          <l n="9">pois me deixais por ninguém,</l>
+          <l n="10">e eu por Anica vos deixo.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vós por um Dom Patarata</l>
+          <l n="2">trocais um Doutor em Leis,</l>
+          <l n="3">e eu troco, como sabeis,</l>
+          <l n="4">uma por outra Mulata:</l>
+          <l n="5">vós fostes comigo ingrata</l>
+          <l n="6">com a grosseira ingratidão,</l>
+          <l n="7">eu não fui ingrato não,</l>
+          <l n="8">e quem troca odre por odre.</l>
+          <l n="9">um deles há de ser podre,</l>
+          <l n="10">e eu sou na troca odre são.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Eu com Anica querida</l>
+          <l n="2">me remexo como posso,</l>
+          <l n="3">vós co Patarata vosso</l>
+          <l n="4">estareis bem remexida:</l>
+          <l n="5">nesta desigual partida</l>
+          <l n="6">leve o diabo o enganado,</l>
+          <l n="7">porque eu acho no trocado,</l>
+          <l n="8">que me vim a melhorar</l>
+          <l n="9">mais na Moça por soldar,</l>
+          <l n="10">que vós no Moço soldado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Se bem vos não vai na troca</l>
+          <l n="2">pela antiga benquerença,</l>
+          <l n="3">eu sou de tão boa avença,</l>
+          <l n="4">que farei logo a destroca:</l>
+          <l n="5">porém se Amor vos provoca</l>
+          <l n="6">a dar-me outros novos zelos,</l>
+          <l n="7">hemos de lançar os pêlos</l>
+          <l n="8">ao ar por seguridade,</l>
+          <l n="9">e eu sei, que a vossa amizade</l>
+          <l n="10">há de custar-me os cabelos.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>TERCEYRA VEZ ACOMETTE AQUELLA EMPREZA QUEYXANDO-SE CONTRA MARIQUITA POR SE FINGIR DOENTE.</head>
+        <lg n="1">
+          <l n="1">Vim ao sítio num lanchão,</l>
+          <l n="2">Quita, e tudo achei trocado,</l>
+          <l n="3">vós com peito atraiçoado,</l>
+          <l n="4">e eu vendido por traição:</l>
+          <l n="5">vós, Quita, nesta ocasião</l>
+          <l n="6">fingistes-vos doentinha:</l>
+          <l n="7">pálida estava a carinha,</l>
+          <l n="8">mas tudo embustes de moça,</l>
+          <l n="9">com que fizestes a vossa,</l>
+          <l n="10">e eu, Quita, não fiz a minha.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Toda a casa vi inclinada</l>
+          <l n="2">aos três vizinhos Cupidos,</l>
+          <l n="3">são sóis de novo nascidos,</l>
+          <l n="4">e eu sou lua já minguada:</l>
+          <l n="5">não pude então fazer nada,</l>
+          <l n="6">porque estáveis vós então</l>
+          <l n="7">com tanta declinação</l>
+          <l n="8">de carnes, e de saúde,</l>
+          <l n="9">que nunca convosco pude</l>
+          <l n="10">fazer minha obrigação.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">De achar-vos esquiva, e dura</l>
+          <l n="2">pudera eu escarmentar,</l>
+          <l n="3">e contudo hei de tornar</l>
+          <l n="4">ao Sítio provar ventura:</l>
+          <l n="5">sempre alcança, quem atura,</l>
+          <l n="6">quem não sofre, nada alcança,</l>
+          <l n="7">hei de ir ver se acho bonança</l>
+          <l n="8">no vosso mar alterado,</l>
+          <l n="9">e perderei o esperado,</l>
+          <l n="10">mas não perco a esperança.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Que vou as festas lograr</l>
+          <l n="2">crerá todo o Sítio inteiro,</l>
+          <l n="3">e eu vou ao vosso poleiro,</l>
+          <l n="4">não mais que por vos galar:</l>
+          <l n="5">se outra vez vos vir queixar</l>
+          <l n="6">com fingimento traidor,</l>
+          <l n="7">que vos aperta uma dor,</l>
+          <l n="8">hei de vos dar um conselho,</l>
+          <l n="9">é que metais de vermelho,</l>
+          <l n="10">e logo tomareis cor.</l>
+        </lg>
+        <lg n="5">
+          <l n="1">Quita, entendidos estamos,</l>
+          <l n="2">e a doença está distinta,</l>
+          <l n="3">vós andais muito faminta</l>
+          <l n="4">disto, que cópia chamamos:</l>
+          <l n="5">e pois ambos lazaramos</l>
+          <l n="6">deste mal pestilencial,</l>
+          <l n="7">ambos curemos o mal,</l>
+          <l n="8">tomai por curar a fome</l>
+          <l n="9">o caldo dos grãos de home,</l>
+          <l n="10">que é muito substancial.</l>
+        </lg>
+        <lg n="6">
+          <l n="1">Para ter contentamento</l>
+          <l n="2">os rins tendes de escorrer,</l>
+          <l n="3">aliás haveis de morrer,</l>
+          <l n="4">Quita, de sêmen retento:</l>
+          <l n="5">eu faço um protestamento,</l>
+          <l n="6">de que não morreis por mim,</l>
+          <l n="7">porquanto assim, ou assim</l>
+          <l n="8">tronco velho, ou pau mociço</l>
+          <l n="9">estou ao vosso serviço</l>
+          <l n="10">com armas, e com rocim.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>BUSCANDO POR OUTRA PARTE O REMEDIO PARA SEU MAL, SE DESCULPARAM OUTRAS COM O MESMO ACHAQUE.</head>
+        <lg n="1">
+          <l n="1">Que febre têm tão tirana</l>
+          <l n="2">as Moças deste lugar,</l>
+          <l n="3">que se estão sempre a sangrar</l>
+          <l n="4">na veia d'arca conana?</l>
+          <l n="5">A doença é tão insana,</l>
+          <l n="6">frenética, e aluada,</l>
+          <l n="7">que a cada lua passada</l>
+          <l n="8">torna logo o sangue a vir</l>
+          <l n="9">sem a veia se ferir,</l>
+          <l n="10">porque está sempre aventada.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Eu nunca pude alcançar,</l>
+          <l n="2">como elas ficam sangradas,</l>
+          <l n="3">sem levarem lancetadas,</l>
+          <l n="4">antes fogem de as levar:</l>
+          <l n="5">cada mês as vem sangrar</l>
+          <l n="6">com seus dous cornos a Lua,</l>
+          <l n="7">e sem lanceta, nem pua</l>
+          <l n="8">o sangue por si se escorre,</l>
+          <l n="9">sua, e parece, que corre,</l>
+          <l n="10">corre, e parece, que sua.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">O sangue em bom português</l>
+          <l n="2">com letras bem rubricadas</l>
+          <l n="3">depois de muitas penadas</l>
+          <l n="4">põe na fralda "aqui foi mês":</l>
+          <l n="5">chega um galante cortês</l>
+          <l n="6">ao tempo do Amor então</l>
+          <l n="7">a fazer adoração</l>
+          <l n="8">e qual sacristão maior</l>
+          <l n="9">descobre o painel de Amor</l>
+          <l n="10">e acha uma degolação.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Isto sem tirar, nem pôr</l>
+          <l n="2">me sucedeu sempre a mim</l>
+          <l n="3">no grande Pernamerim,</l>
+          <l n="4">onde está o templo de Amor:</l>
+          <l n="5">e entrando no interior</l>
+          <l n="6">do templo, que eu fabriquei,</l>
+          <l n="7">um rio de sangue achei,</l>
+          <l n="8">pus-me então a esperar,</l>
+          <l n="9">que vaze para o passar,</l>
+          <l n="10">não vazou, nunca o passei.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>QUEYXA-SE FINALMENTE DE ACHAR TODAS AS DAMAS MENSTRUADAS.</head>
+        <lg n="1">
+          <l n="1">Que têm os menstros comigo?</l>
+          <l n="2">ordinários que me querem,</l>
+          <l n="3">que de ordinário me matam,</l>
+          <l n="4">e cada hora me perseguem?</l>
+          <l n="5">Estive os dias passados</l>
+          <l n="6">esperando por um frete,</l>
+          <l n="7">tardou, não veio, enganou-me,</l>
+          <l n="8">costume de más mulheres.</l>
+          <l n="9">Fui logo saber a causa,</l>
+          <l n="10">e no caminho lembrei-me</l>
+          <l n="11">de fazer este discurso,</l>
+          <l n="12">que é cousa, em que lido sempre.</l>
+          <l n="13">Esta mulher me faltou;</l>
+          <l n="14">aposto, que há de dizer-me</l>
+          <l n="15">que está um disciplinante</l>
+          <l n="16">desde o joelho té o ventre?</l>
+          <l n="17">Meu dito, meu feito: fui,</l>
+          <l n="18">entrei, e ao ver-me presente</l>
+          <l n="19">me disse logo a velhaca</l>
+          <l n="20">carinhosamente alegre:</l>
+          <l n="21">Ai, meu Senhor da minha alma</l>
+          <l n="22">nada pode hoje fazer-se</l>
+          <l n="23">dei palavra ontem de tarde,</l>
+          <l n="24">e à noite me veio ele.</l>
+          <l n="25">Quem é ele? perguntei;</l>
+          <l n="26">faz você, que não me entende?</l>
+          <l n="27">disse ela; quem há de ser?</l>
+          <l n="28">O hóspede impertinente.</l>
+          <l n="29">Um hóspede, que nas luas</l>
+          <l n="30">me visita, e me acomete</l>
+          <l n="31">com tal fúria, que me põe</l>
+          <l n="32">de sangue um rio corrente.</l>
+          <l n="33">Estou-me esvaindo já,</l>
+          <l n="34">em borbotões tão perenes;</l>
+          <l n="35">que pelas pernas descendo,</l>
+          <l n="36">ambos os talões me enche.</l>
+          <l n="37">Botei pela porta fora,</l>
+          <l n="38">e no primeiro casebre</l>
+          <l n="39">me colhi de uma putaina</l>
+          <l n="40">mais negra do que um pivete.</l>
+          <l n="41">Entrei pela porta dentro,</l>
+          <l n="42">fui para a cama, e deitei-me,</l>
+          <l n="43">que as negras também têm cama,</l>
+          <l n="44">se são putas macatrefes.</l>
+          <l n="45">Chamei-a, acudiu-me logo,</l>
+          <l n="46">e me disse cortesmente,</l>
+          <l n="47">não estou para deitar-me,</l>
+          <l n="48">bastará, que me atravesse.</l>
+          <l n="49">Atravessou-se-me aos pés,</l>
+          <l n="50">e ficou como uma serpe,</l>
+          <l n="51">coxim para os meus coturnos</l>
+          <l n="52">para o meu corpo alicerce.</l>
+          <l n="53">Olhei para a negra então,</l>
+          <l n="54">e disse comigo os meses</l>
+          <l n="55">contra mim se deram de olho,</l>
+          <l n="56">pois tão juntos me perseguem.</l>
+          <l n="57">Não era o discurso feito</l>
+          <l n="58" met="inesc">quando me disse "ecce"</l>
+          <l n="59">mostrou-me a fralda com sangue</l>
+          <l n="60">mais negro do que uma peste.</l>
+          <l n="61">Pus-me logo no pedrado,</l>
+          <l n="62">e comecei a benzer-me</l>
+          <l n="63">do diabo, que em figura</l>
+          <l n="64">de Ordinário me persegue.</l>
+          <l n="65">Fui-me para a minha casa,</l>
+          <l n="66">e no dia subseqüente</l>
+          <l n="67">me escreveu certa Senhora</l>
+          <l n="68">que uma palavra lhe desse.</l>
+          <l n="69">Como era minha Senhora,</l>
+          <l n="70">fui eu logo obedecer-lhe,</l>
+          <l n="71">fiz-lhe a visita na sala</l>
+          <l n="72">e fomos para o retrete.</l>
+          <l n="73">Vi ali a sua cama,</l>
+          <l n="74">vinha cansado, deitei-me,</l>
+          <l n="75">e deitou-se ela comigo,</l>
+          <l n="76">de que fiquei mui contente.</l>
+          <l n="77">Mas na mão que lhe corria</l>
+          <l n="78">junto já do sarambeque,</l>
+          <l n="79">me agarrou ela, e me disse</l>
+          <l n="80">tá, que estou porca doente.</l>
+          <l n="81">Valha-me a Virgem Maria,</l>
+          <l n="82">que achaque pode ser este?</l>
+          <l n="83">Aluada estou, (disse ela)</l>
+          <l n="84">mas em meu juízo sempre.</l>
+          <l n="85">Fiquei tão desesperado</l>
+          <l n="86">que se ela me não promete</l>
+          <l n="87">de estar boa ao outro dia,</l>
+          <l n="88">não chegara a outros meses.</l>
+          <l n="89">Que têm os menstros comigo?</l>
+          <l n="90">Que casta de achaque é este</l>
+          <l n="91">que nunca a ninguém matou</l>
+          <l n="92">quando de contino fere?</l>
+          <l n="93">A quem sucede no mundo</l>
+          <l n="94">isto, que a mim me sucede?</l>
+          <l n="95">pois três meses me passaram</l>
+          <l n="96">dentro em dois dias somente?</l>
+          <l n="97">Que contrato fez a lua</l>
+          <l n="98">de arrendamento às mulheres,</l>
+          <l n="99">para lhe estarem pagando</l>
+          <l n="100">a pensão todos os meses?</l>
+          <l n="101">Tornei lá no outro dia,</l>
+          <l n="102">e achei a pobre doente</l>
+          <l n="103">mui seca para a visita,</l>
+          <l n="104">mui úmida para o frete.</l>
+          <l n="105">Vim, e fui terceira vez,</l>
+          <l n="106">e se fora três mil vezes,</l>
+          <l n="107">co'a mesma sangria a achara,</l>
+          <l n="108">e cos mesmos acidentes.</l>
+          <l n="109">Despedi-me da mulher</l>
+          <l n="110">daqui para todo o sempre,</l>
+          <l n="111">e vendo-a passada entonces</l>
+          <l n="112">lhe disse os males presentes.</l>
+          <l n="113">Vicência, discreta sois,</l>
+          <l n="114">mas não sei, se me entendestes,</l>
+          <l n="115">para uma vida tão curta</l>
+          <l n="116">duram muito os vossos meses.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

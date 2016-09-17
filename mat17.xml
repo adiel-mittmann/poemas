@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36531"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Dai-me licença, Antonica</l>
+          <l n="2">para eu ir à vossa casa</l>
+          <l n="3">para beijar-vos as mãos</l>
+          <l n="4">e para: não digo nada.</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>MULATA LIVRE E TRAVESSA POR CUJA ESPERTEZA LHE CHAMAVAM MARIBONDA. MORAVA NA RUA DA POYEIRA NAQUELLE TEMPO QUASI DESERTA E SE ACHAVA DE PRESENTE EM CASA DE HUMA AMIGA NO CAMPO DA PALMA, ONDE O POETA HIA DIVERTIR-SE: E ALI EMBARAÇOU COM ELLA. COMO DIZ A METHAFORA.</head>
+        <lg n="1">
+          <l n="1">Fui hoje ao campo da Palma,</l>
+          <l n="2">onde com súbito estrondo</l>
+          <l n="3">me investiu um maribondo,</l>
+          <l n="4">que me picou dentro n'alma:</l>
+          <l n="5">era já passada a calma,</l>
+          <l n="6">e eu me sentia encalmado,</l>
+          <l n="7">sentido, e injuriado,</l>
+          <l n="8">porque sendo obrigação</l>
+          <l n="9">meter-lhe eu o meu ferrão,</l>
+          <l n="10">eu fui, o que vim picado.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Fiz por fechá-lo na mão,</l>
+          <l n="2">mas o Maribondo azedo</l>
+          <l n="3">me picava em qualquer dedo,</l>
+          <l n="4">e escapava por então:</l>
+          <l n="5">desesperada função</l>
+          <l n="6">foi esta, pois me foi pondo</l>
+          <l n="7">tão abolhado em redondo</l>
+          <l n="8">por cara, peitos, vazios,</l>
+          <l n="9">que estou em febres, e frios</l>
+          <l n="10">morrendo do Maribondo.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Dizem, que a vingança está</l>
+          <l n="2">em lhe saber eu da casa,</l>
+          <l n="3">porque deixando-lhe em brasa,</l>
+          <l n="4">o fogo mitigará:</l>
+          <l n="5">temo que não arderá</l>
+          <l n="6">por mais que toda uma mata</l>
+          <l n="7">lhe aplique com mão ingrata,</l>
+          <l n="8">porque eu, o que lhe hei de pôr</l>
+          <l n="9">há de ser fogo de amor,</l>
+          <l n="10">que inda que abrasa não mata.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Nesta aflição tão penosa</l>
+          <l n="2">donde me virá socorro?</l>
+          <l n="3">morrerei, que o por que morro,</l>
+          <l n="4">faz uma morte formosa:</l>
+          <l n="5">esta dor tão temerosa</l>
+          <l n="6">me livrará de maneira,</l>
+          <l n="7">que ou ela queira, ou não queira,</l>
+          <l n="8">em chegando à sua rua,</l>
+          <l n="9">se acaso se mostrar crua,</l>
+          <l n="10">tudo irá numa poeira.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>NEGOU-SE TOTALMENTE ANTONICA DE MEDO, QUE À TODAS FAZIA A SOLTURA DO POETA, E ELLE A PERTENDE REDUZIR COM ESTA REGALLADA POEZIA.</head>
+        <lg n="1">
+          <l n="1">Agora que sobre a cama</l>
+          <l n="2">Antonica me inquieta,</l>
+          <l n="3">muito mais estando ausente,</l>
+          <l n="4">que se na cama estivera:</l>
+          <l n="5">Agora que o meu cuidado</l>
+          <l n="6">dentro dalma me desvela,</l>
+          <l n="7">e o verdugo da memória</l>
+          <l n="8">em saudades me atormenta:</l>
+          <l n="9">Agora que o brando leito,</l>
+          <l n="10">qual duro potro me espera,</l>
+          <l n="11">porque o cordel da lembrança</l>
+          <l n="12">execute as leis da ausência:</l>
+          <l n="13">Agora que a muda noite</l>
+          <l n="14">no silêncio, que professa,</l>
+          <l n="15">como quem soube os meus gostos,</l>
+          <l n="16">mos representa na idéia:</l>
+          <l n="17">Entre o passado e presente</l>
+          <l n="18">não distingue a paciência,</l>
+          <l n="19">se é mais ativa a fortuna,</l>
+          <l n="20">nos logros ou se nas perdas:</l>
+          <l n="21">Quero queixar-me, Antonica,</l>
+          <l n="22">de vós, da vossa beleza,</l>
+          <l n="23">rigores, desatenções,</l>
+          <l n="24">esquivanças, e inclemências.</l>
+          <l n="25">Quero queixar-me de mim</l>
+          <l n="26">sobre padecer a ofensa,</l>
+          <l n="27">pois que não soube agradar-vos</l>
+          <l n="28">para forrar estas queixas.</l>
+          <l n="29">Acaso vos vi uma tarde</l>
+          <l n="30">debaixo de uma urupema</l>
+          <l n="31">por meu mal, porque entre nuvens</l>
+          <l n="32">o sol mais ativo queima.</l>
+          <l n="33">Indo ao campo buscar fresco</l>
+          <l n="34">topei, sendo pela fresca,</l>
+          <l n="35">muito calor, que me abrasa</l>
+          <l n="36">de raios da vossa esfera.</l>
+          <l n="37">Vi-vos, e rendi-me logo,</l>
+          <l n="38">e em duas ações diversas</l>
+          <l n="39">de ver-vos, e de render-me</l>
+          <l n="40">eu não sei, qual foi primeira.</l>
+          <l n="41">Permitiu minha ventura</l>
+          <l n="42">(desgraça quero eu, que seja)</l>
+          <l n="43">que não cegasse com ver-vos,</l>
+          <l n="44">para padecer mais penas.</l>
+          <l n="45">Que sempre em ódio de um triste</l>
+          <l n="46">faz mudança a natureza,</l>
+          <l n="47">pois cheguei a ver um sol,</l>
+          <l n="48">não tendo de águia as potências.</l>
+          <l n="49">Movido da mão de Amor,</l>
+          <l n="50">que as liberdades sujeita,</l>
+          <l n="51">Fênix dei a meus cuidados</l>
+          <l n="52">berço em amante fogueira.</l>
+          <l n="53">Tornei outra vez a ver-vos,</l>
+          <l n="54">e a segunda diligência,</l>
+          <l n="55">claro está, que era nascida</l>
+          <l n="56">dos acasos da primeira.</l>
+          <l n="57">De novo não me rendi,</l>
+          <l n="58">que era encontrada fineza</l>
+          <l n="59">ter ainda, que render-vos,</l>
+          <l n="60">quem a sua alma vos dera.</l>
+          <l n="61">Mas por dobrar rendimentos,</l>
+          <l n="62">e igualar correspondências,</l>
+          <l n="63">as almas multipliquei</l>
+          <l n="64">por sentidos, e potências:</l>
+          <l n="65">Tantas almas era justo,</l>
+          <l n="66">que a tantas prendas rendera,</l>
+          <l n="67">por não ficar sem triunfo</l>
+          <l n="68">a menor das vossas prendas.</l>
+          <l n="69">Favorecestes-me então,</l>
+          <l n="70">e a memória o representa,</l>
+          <l n="71">por me tirar com pesar,</l>
+          <l n="72">o que com gosto me dera.</l>
+          <l n="73">Logo vos arrependestes</l>
+          <l n="74">de uma culpa tão pequena,</l>
+          <l n="75">como é pagar com favores</l>
+          <l n="76">amantes correspondências.</l>
+          <l n="77">Estes são os meus pesares,</l>
+          <l n="78">estas, digo, as minhas queixas,</l>
+          <l n="79">que por serem de um mofino</l>
+          <l n="80">temo que soem a ofensas.</l>
+          <l n="81">E pois molesta por força</l>
+          <l n="82">estar escutando queixas,</l>
+          <l n="83">de quem finezas enfadam,</l>
+          <l n="84">já Amor nos queixumes cessa.</l>
+          <l n="85">De vós mesma me dai novas;</l>
+          <l n="86">dai-mas de vossas durezas,</l>
+          <l n="87">pois quanto mais me acrisolam,</l>
+          <l n="88">tanto mais o amor as preza.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>TARDAVA ANTONICA COM A RESOLUÇÃO, E O POETA EXORTA SUA NEUTRALIDADE.</head>
+        <lg n="1">
+          <l n="1">Mando buscar a resposta</l>
+          <l n="2">Antonica à vossa casa,</l>
+          <l n="3">e queira Deus não se torne</l>
+          <l n="4">a resposta em respostada.</l>
+          <l n="5">Com temor a solicito,</l>
+          <l n="6">bem que a desejo com ânsia,</l>
+          <l n="7">que uma cousa é meu amor,</l>
+          <l n="8">e outra a minha pouca graça.</l>
+          <l n="9">Vós sois esquiva e cruel,</l>
+          <l n="10">tão dura e desapegada,</l>
+          <l n="11">que tirais de ser querida</l>
+          <l n="12">as razões de ser ingrata.</l>
+          <l n="13">Que vos rende a ingratidão,</l>
+          <l n="14">que assim vos tem inclinada?</l>
+          <l n="15">acaso vos faz mais linda,</l>
+          <l n="16">mais Senhora, ou mais bizarra?</l>
+          <l n="17">A ingratidão é delito</l>
+          <l n="18">tal, que se se castigara,</l>
+          <l n="19">não se pagara co'a vida,</l>
+          <l n="20">por isso nunca se paga.</l>
+          <l n="21">Ser benévola que custa?</l>
+          <l n="22">que gasto é de uma palavra?</l>
+          <l n="23">dai-me um sim, que custa pouco,</l>
+          <l n="24">e muitas finezas ganha.</l>
+          <l n="25">Sede mercador de amor,</l>
+          <l n="26">onde um favor, que se gasta,</l>
+          <l n="27">rende quinhentos por cento</l>
+          <l n="28">em finezas de ouro, e prata.</l>
+          <l n="29">Fazei comigo negócio:</l>
+          <l n="30">e se heis medo, à minha barca,</l>
+          <l n="31">quem não se arrisca não perde</l>
+          <l n="32">mas no risco está a ganância.</l>
+          <l n="33">E mais vós, que sabeis, que</l>
+          <l n="34">comigo ninguém naufraga,</l>
+          <l n="35">porque sou nesta cidade</l>
+          <l n="36">um dos berrantes de fama.</l>
+          <l n="37">Quem pode matar de linda,</l>
+          <l n="38">de esquiva para quem mata?</l>
+          <l n="39">morra da vossa beleza,</l>
+          <l n="40">mas não da vossa esquivância.</l>
+          <l n="41">Deixar as armas de bela,</l>
+          <l n="42">e usar de tirana as armas,</l>
+          <l n="43">é suspender a beleza</l>
+          <l n="44">o ofício, que tem na cara.</l>
+          <l n="45">Entre o piço, e o feitiço</l>
+          <l n="46">vai muita grande distância,</l>
+          <l n="47">o esquivo pica as vontades,</l>
+          <l n="48">o belo enfeitiça as almas.</l>
+          <l n="49">Dai-me licença, Antonica,</l>
+          <l n="50">para eu ir à vossa casa,</l>
+          <l n="51">para beijar-vos as mãos,</l>
+          <l n="52">e para: não digo nada.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>QUEYXA-SE DE QUE LHE NÃO VALESSEM FINEZAS PARA QUE ANTONIA O ADMITISSE.</head>
+        <lg type="mote">
+          <l n="1">Fui por amante ferido,</l>
+          <l n="2">por firme fui maltratado,</l>
+          <l n="3">por constante desprezado,</l>
+          <l n="4">e por leal ofendido.</l>
+        </lg>
+        <lg n="1">
+          <l n="1">Quando esperava gozar</l>
+          <l n="2">favores de uma tirana,</l>
+          <l n="3">o tempo me desengana,</l>
+          <l n="4">para dela me queixar:</l>
+          <l n="5">portanto não quero amar</l>
+          <l n="6">porque já tenho entendido,</l>
+          <l n="7">que amar é tempo perdido:</l>
+          <l n="8">bem o tenho exprimentado,</l>
+          <l n="9">pois em vez de ser amado,</l>
+          <l n="10">Fui por amante ferido.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Mostrei-lhe minha firmeza,</l>
+          <l n="2">de mostrá-la resultou,</l>
+          <l n="3">que logo também mostrou</l>
+          <l n="4">de seu amor a dureza:</l>
+          <l n="5">se bem disto me não pesa,</l>
+          <l n="6">nem me sinto magoado,</l>
+          <l n="7">mas fico bem emendado,</l>
+          <l n="8">para mostrar-lhe com fé</l>
+          <l n="9">minha firmeza, porque</l>
+          <l n="10">Por firme fui maltratado.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Além de mostrar-me amante,</l>
+          <l n="2">em constâncias lhe mostrei,</l>
+          <l n="3">mas bem conheço, que errei,</l>
+          <l n="4">em mostrar-me tão constante:</l>
+          <l n="5">não serei mais ignorante,</l>
+          <l n="6">que o Amor me tem mostrado</l>
+          <l n="7">os males, que me há causado:</l>
+          <l n="8">nem constância quero ter,</l>
+          <l n="9">para que não venha a ser</l>
+          <l n="10">Por constante desprezado.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Lealdade sem respeito</l>
+          <l n="2">nunca teve bom lugar,</l>
+          <l n="3">porque não soube guardar</l>
+          <l n="4">a lealdade defeito:</l>
+          <l n="5">eu me dou por satisfeito,</l>
+          <l n="6">e aceito por bom partido</l>
+          <l n="7">ser por amante ferido,</l>
+          <l n="8">por firme ser maltratado,</l>
+          <l n="9">por amante desprezado,</l>
+          <l n="10">E por leal ofendido.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>CHEGANDO ALI O POETA COM THOMAZ PINTO BRANDÃO CONTA, O QUE PASSOU COM ANTONICA HUMA DESHONESTA MERETRIZ.</head>
+        <lg n="1">
+          <l n="1">Chegando à Cajaíba, vi Antonica,</l>
+          <l n="2">e indo-lhe apolegar, disse-me caca,</l>
+          <l n="3">gritou Tomás em tono de matraca</l>
+          <l n="4">Bu bu pela mulher, que foge à pica.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Eu, disse ela, não sou mulher de crica,</l>
+          <l n="2">que assomo como rato na buraca,</l>
+          <l n="3">quem me lograr há de ter boa ataca,</l>
+          <l n="4">que corresponda ao vaso, que fornica.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Nunca me fez mister dizer,quem merca,</l>
+          <l n="2">porque a minha beleza é mar que surca</l>
+          <l n="3">alto baixel, que traz cutelo, e forca.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">E pois você tem feito, com que perca,</l>
+          <l n="2">diga essas confianças à sua urca,</l>
+          <l n="3">que eu sei, que em cima de urca é puta porca.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

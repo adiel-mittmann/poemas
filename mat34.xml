@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Obra Poética</title>
+        <author>Gregório de Matos</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Adaptado por Adiel Mittmann.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><link target="http://www.literaturabrasileira.ufsc.br/documentos/?action=download&amp;id=36515"/></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg n="1">
+          <l n="1">Dá-me Amor a escolher</l>
+          <l n="2">de duas uma demônia</l>
+          <l n="3">ou Inácia, ou Apolônia</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Branca em mulata retinta</l>
+        </lg>
+      </div>
+      <div type="poem" n="1">
+        <head>PERTENDE O POETA INTRODUZIR-SE, COM A PRIMEYRA, OU SEGUNDA.</head>
+        <lg n="1">
+          <l n="1">Dá-me Amor a escolher</l>
+          <l n="2">de duas uma demônia,</l>
+          <l n="3">ou Inácia, ou Apolônia,</l>
+          <l n="4">e eu me não sei resolver:</l>
+          <l n="5">a ambas hei de querer,</l>
+          <l n="6">porque depois de as lograr</l>
+          <l n="7">mais fácil será acertar,</l>
+          <l n="8">que nos riscos da eleição</l>
+          <l n="9">o seguro é lançar mão</l>
+          <l n="10">de tudo por não errar.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Assim será: mas que monta</l>
+          <l n="2">isto que fazer pertendo,</l>
+          <l n="3">se dirão, que estou fazendo</l>
+          <l n="4">sem a hóspeda esta conta:</l>
+          <l n="5">qual delas será tão tonta,</l>
+          <l n="6">que se acomode aos desares</l>
+          <l n="7">de partir com seus pesares</l>
+          <l n="8">amor, assistência, e tratos,</l>
+          <l n="9">se as Damas não são sapatos,</l>
+          <l n="10">que se hajam de ter aos pares.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Mas se debaixo da Luz</l>
+          <l n="2">não val mais esta, que estoutra</l>
+          <l n="3">eu não deixo, uma por outra,</l>
+          <l n="4">nem escolho outra por uma,</l>
+          <l n="5">não há dúvida nenhuma,</l>
+          <l n="6">que ambas são moças de porte,</l>
+          <l n="7">e se não mo estorva a morte,</l>
+          <l n="8">ambas me hão de vir à mão,</l>
+          <l n="9">Inácia por eleição,</l>
+          <l n="10">e Apolônia pela sorte.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Isto que remédio tem,</l>
+          <l n="2">sejam entre si tão manas,</l>
+          <l n="3">que repartindo as semanas,</l>
+          <l n="4">vá uma, quando outra vem;</l>
+          <l n="5">que eu repartirei também</l>
+          <l n="6">jimbo, carinho, e favor,</l>
+          <l n="7">porque advirta algum Doutor,</l>
+          <l n="8">que sendo à lógica oposto,</l>
+          <l n="9">na aritmética do gosto</l>
+          <l n="10">pode repartir-se o amor.</l>
+        </lg>
+      </div>
+      <div type="poem" n="2">
+        <head>DEYXARAM ESTAS DAMAS DE IR A FESTA DA CRUZ POR FALTA DE REDE E O POETA SE MOSTRA SENTIDO DE O NÃO SABER.</head>
+        <lg n="1">
+          <l n="1">Quis ir à festa da Cruz</l>
+          <l n="2">Inácia, e faltou-lhe a rede,</l>
+          <l n="3">com que foi força ficar</l>
+          <l n="4">Paredes sobre paredes.</l>
+          <l n="5">Outros dizem, que uma amiga</l>
+          <l n="6">lhe pedira o manto adrede</l>
+          <l n="7">pela ter emparedada</l>
+          <l n="8">todo o dia, em que lhe pese.</l>
+          <l n="9">Não sei a verdade disto,</l>
+          <l n="10">sei, que eu paguei a patente,</l>
+          <l n="11">tendo um dia de trabalho,</l>
+          <l n="12">porque de festa lho desse.</l>
+          <l n="13">A saber, que estava em casa,</l>
+          <l n="14">visitara-a como sempre,</l>
+          <l n="15">e fizera, o que costumam</l>
+          <l n="16">casados <choice><orig>in facie eclesiae</orig><seg type="apo">in fácie eclêsie</seg></choice>.</l>
+          <l n="17">Fora-me pôr à janela,</l>
+          <l n="18">porque o calor me refresque,</l>
+          <l n="19">falara cos Guapas sujas,</l>
+          <l n="20">que são limpas guapamente.</l>
+          <l n="21">Mariana se agastara,</l>
+          <l n="22">que tudo escuta, e atende,</l>
+          <l n="23">por isso diz o adágio</l>
+          <l n="24">"manso, que ouvem as paredes."</l>
+          <l n="25">Sabendo deste ciúme</l>
+          <l n="26">foram os Guapas contentes</l>
+          <l n="27">que inda que mulheres feias,</l>
+          <l n="28">são feias, porém mulheres.</l>
+          <l n="29">Inácia se sossegava,</l>
+          <l n="30">que é moça mansa, e alegre,</l>
+          <l n="31">e com dous dedos se põem</l>
+          <l n="32">sendo Inácia, uma clemente.</l>
+          <l n="33">Da sua amiga me queixo,</l>
+          <l n="34">que cão d'horta me parece,</l>
+          <l n="35">pois em todo o dia não</l>
+          <l n="36">comeu, nem deixou comer-me.</l>
+          <l n="37">Com Inácia já não quero</l>
+          <l n="38">lançar mais barro à parede,</l>
+          <l n="39">que de mui seca receio,</l>
+          <l n="40">que ali meu barro não pegue.</l>
+          <l n="41">Uma Mãe com duas Filhas</l>
+          <l n="42">na verdade é pouca gente,</l>
+          <l n="43">para que eu possa cantar</l>
+          <l n="44">preso entre quatro paredes.</l>
+          <l n="45">Três só não fazem prisão,</l>
+          <l n="46">porque um triângulo breve,</l>
+          <l n="47">que um signo salmão figura,</l>
+          <l n="48">mais enfeitiça, que prende.</l>
+          <l n="49">Mas a parede de Inácia</l>
+          <l n="50">com ser uma tão-somente</l>
+          <l n="51">como é tão forte, e tão rija,</l>
+          <l n="52">bastou só para prender-me.</l>
+          <l n="53">Perdi o ganho esta tarde,</l>
+          <l n="54">e cuido, que para sempre;</l>
+          <l n="55">quem ma pegou uma vez,</l>
+          <l n="56">não quero, que outra me pegue.</l>
+          <l n="57">Da Santa Cruz era a festa,</l>
+          <l n="58">e a maldita da Paredes</l>
+          <l n="59">com cruz, e sem cruz receio</l>
+          <l n="60">me faça calvários sempre.</l>
+          <l n="61">Eu perdi Moça, que agrada,</l>
+          <l n="62">ela velho, que aconselhe,</l>
+          <l n="63">ambos ficamos perdidos,</l>
+          <l n="64">quem o vê o remedeie.</l>
+        </lg>
+      </div>
+      <div type="poem" n="3">
+        <head>INSISTE O POETA A QUERER SER AMADO DE IGNACIA.</head>
+        <lg n="1">
+          <l n="1">Inácia, vós que me vedes</l>
+          <l n="2">em tal desesperação</l>
+          <l n="3">remediai-o senão</l>
+          <l n="4">dareis por essas paredes:</l>
+          <l n="5">na malha das vossas redes</l>
+          <l n="6">quis eu minha alma enredar</l>
+          <l n="7">por vos servir, e adorar:</l>
+          <l n="8">mas vós, sem que Amor me valha,</l>
+          <l n="9">mesmo me rompeis a malha,</l>
+          <l n="10">a fim de me não pescar.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Não vos rende o meu carinho,</l>
+          <l n="2">porque em vossa estimação</l>
+          <l n="3">sou já peixe sabichão,</l>
+          <l n="4">e vós me quereis peixinho:</l>
+          <l n="5">se com todo o meu alinho</l>
+          <l n="6">vos não mereço o favor,</l>
+          <l n="7">que importa o vosso rigor,</l>
+          <l n="8">se se sabe, e vós o vedes,</l>
+          <l n="9">que quero nessas Paredes</l>
+          <l n="10">fundar um templo de Amor.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Quando as paredes juntemos</l>
+          <l n="2">a vossa, que é frontal,</l>
+          <l n="3">co'a minha de pedra e cal,</l>
+          <l n="4">uma grande obra faremos:</l>
+          <l n="5">a Amor a dedicaremos,</l>
+          <l n="6">porque guarde as vossas redes,</l>
+          <l n="7">que eu creio, e vós bem o vedes,</l>
+          <l n="8">que tudo irá em rigor</l>
+          <l n="9">ver as paredes de Amor,</l>
+          <l n="10">só por amor das Paredes.</l>
+        </lg>
+      </div>
+      <div type="poem" n="4">
+        <head>COMO A NÃO PÔDE O POETA RENDER ENTRA A PICA-LA COM LOUVAR A APOLLONIA, E HE DE ADVERTIR, QUE ESTAS TRATAVÃO COM HUNS MUSICOS FULANOS JARDINS, QUE MORAVAM NAS HORTAS.</head>
+        <lg n="1">
+          <l n="1">A ser bela a formosura,</l>
+          <l n="2">a beleza a ser formosa</l>
+          <l n="3">mudamente as ensinava</l>
+          <l n="4">a boquinha de Polônia.</l>
+          <l n="5">Ensinava de cadeira</l>
+          <l n="6">na academia, ou escola,</l>
+          <l n="7">onde era lente de prima,</l>
+          <l n="8">sendo a terceira das Moças.</l>
+          <l n="9">A Açucena repreendia</l>
+          <l n="10">com duas faces formosas,</l>
+          <l n="11">por que unisse ao carmim,</l>
+          <l n="12">para alento pouca boca.</l>
+          <l n="13">E como o cravo é jurado</l>
+          <l n="14">Príncipe em cortes de Flora,</l>
+          <l n="15">se fez conselho de estado</l>
+          <l n="16">sobre casar-se co'a rosa.</l>
+          <l n="17">Respondeu ela, que sim,</l>
+          <l n="18">e incendida de vergonha</l>
+          <l n="19">ficou-lhe a boca mais cravo,</l>
+          <l n="20">do que era o cravo na boca.</l>
+          <l n="21">Assistir ao desposório</l>
+          <l n="22">correu a nobreza toda,</l>
+          <l n="23">com galas de várias cores,</l>
+          <l n="24">porque de campo era a boda.</l>
+          <l n="25">A nobreza dos Jardins,</l>
+          <l n="26">que tem seu solar nas Hortas,</l>
+          <l n="27">cortando galas de novo</l>
+          <l n="28">veio com elas em folha.</l>
+          <l n="29">Desposou-se Rosa, e Cravo,</l>
+          <l n="30">mas eu creio, que da boda,</l>
+          <l n="31">onde folgou toda a casa,</l>
+          <l n="32">vi as Paredes queixosas.</l>
+        </lg>
+      </div>
+      <div type="poem" n="5">
+        <head>IGNACIA IRRITADA DESTA SATYRA DESCOMPOZ DE PALAVRAS AO POETA E ELLE SE DESPICA COM ESTAS DÉCIMAS.</head>
+        <lg n="1">
+          <l n="1">Branca em mulata retinta,</l>
+          <l n="2">quem vos meteu no caqueiro,</l>
+          <l n="3">que uma pinga do tinteiro</l>
+          <l n="4">não suja a mais branca tinta!</l>
+          <l n="5">mas se sois branca distinta,</l>
+          <l n="6">se sois sem mistura branca,</l>
+          <l n="7">que importa, se a porta franca</l>
+          <l n="8">tendes a todo o pismão,</l>
+          <l n="9">aos Brancos pelo tostão,</l>
+          <l n="10">aos Mulatos pela franca.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">Vós sois mulata tão mula,</l>
+          <l n="2">que amais fanada mulata</l>
+          <l n="3">é negra engastada em prata,</l>
+          <l n="4">e vós sois mulata fula:</l>
+          <l n="5">se quem lá vai, vos adula,</l>
+          <l n="6">e de sangue vos melhora,</l>
+          <l n="7">porque lho deis cada hora,</l>
+          <l n="8">dai-lo cada vez, que vá,</l>
+          <l n="9">que na catinga verá</l>
+          <l n="10">que sois branca como amora.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">As putas do toque-emboque</l>
+          <l n="2">são putas esfarrapadas,</l>
+          <l n="3">são paredes arruinadas</l>
+          <l n="4">com seu branco por reboque:</l>
+          <l n="5">eu não meto o meu estoque</l>
+          <l n="6">em burquéis esfuracados</l>
+          <l n="7">porque vasos tão usados</l>
+          <l n="8">de estoques, ou membros vivos</l>
+          <l n="9">não são vasos, são uns crivos,</l>
+          <l n="10">de que os membros saem relados.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Viveis no jogo da bola,</l>
+          <l n="2">só por teres sempre à vista</l>
+          <l n="3">o Monge, que vos conquista,</l>
+          <l n="4">o Frade, que vos consola;</l>
+          <l n="5">e quando vos falta a esmola</l>
+          <l n="6">aos soldados vos tornais,</l>
+          <l n="7">e como ali não achais</l>
+          <l n="8">a cura, que pertendeis,</l>
+          <l n="9">cos Frades vos corrompeis,</l>
+          <l n="10">e assim nunca vos soldais.</l>
+        </lg>
+      </div>
+      <div type="poem" n="6">
+        <head>DESCONFIADO O POETA DOS DESPREZOS QUE LHE FAZIA IGNACIA ENTRA A DESCOMPO-LA POR HUM ARRISCADO PARTO QUE TEVE.</head>
+        <lg n="1">
+          <l n="1">Pariu numa madrugada</l>
+          <l n="2">Inácia, como já vedes,</l>
+          <l n="3">e caindo-lhe as paredes</l>
+          <l n="4">ficou desemparedada:</l>
+          <l n="5">temo, que não valha nada,</l>
+          <l n="6">pois tendo o vaso partido,</l>
+          <l n="7">qual pardieiro caído,</l>
+          <l n="8">recolherá todo o gado,</l>
+          <l n="9">ou das chuvas acossado,</l>
+          <l n="10">ou das calmas retraído.</l>
+        </lg>
+        <lg n="2">
+          <l n="1">E vendo, que ali se apóia</l>
+          <l n="2">o gado no pardieiro,</l>
+          <l n="3">dirá todo o passageiro</l>
+          <l n="4">tristemente "aqui foi Tróia":</l>
+          <l n="5">por aquela clarabóia</l>
+          <l n="6">despedaçada em caqueiros</l>
+          <l n="7">entrar eu vi cavaleiros,</l>
+          <l n="8">que quando Tróia reinava,</l>
+          <l n="9">apenas um a um entrava,</l>
+          <l n="10">mas agora entram carreiros.</l>
+        </lg>
+        <lg n="3">
+          <l n="1">Não me espanto dos adornos</l>
+          <l n="2">de uma Dama singular,</l>
+          <l n="3">que em cornos venham parar,</l>
+          <l n="4">porque ela parirá cornos:</l>
+          <l n="5">mas que tantos caldos mornos</l>
+          <l n="6">de estíticas qualidades</l>
+          <l n="7">em tantas calamidades</l>
+          <l n="8">não valham, são desenganos</l>
+          <l n="9">da resolução dos anos,</l>
+          <l n="10">da carreira das idades.</l>
+        </lg>
+        <lg n="4">
+          <l n="1">Deixai pois o artifício,</l>
+          <l n="2">Inácia, porque bem vedes,</l>
+          <l n="3">que ao baque de umas paredes</l>
+          <l n="4">espirra todo o artifício:</l>
+          <l n="5">deixai a vida do vício,</l>
+          <l n="6">as que o seu vício eternizam,</l>
+          <l n="7">e se a vós vos finalizam,</l>
+          <l n="8">alerta, que as pedras falam,</l>
+          <l n="9">que as paredes vos estalam,</l>
+          <l n="10">que os estalos vos avisam.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
